@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: your-username/your-repo-name
-  branch: your-main-branch
+  repo: c4tandl/ctl
+  branch: main
 media_folder: static/assets
 public_folder: /assets
 collections:
