@@ -3,7 +3,6 @@ backend:
   repo: c4tandl/ctl
   branch: main
 media_folder: static/assets
-public_folder: /assets
 collections:
   - name: blog
     label: Blog
