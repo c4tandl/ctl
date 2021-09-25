@@ -4,12 +4,45 @@ backend:
   branch: main
 media_folder: static/assets
 collections:
-  - name: blog
-    label: Blog
-    folder: src/blog
-    create: true
+  - name: "About"
+    label: About
+    folder: "src/about"
+    create: false
+    editor:
+      preview: true
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+      - widget: markdown
+        label: "Body"
+        name: "body"
+        editor_components: ["image"]
+  - name: "Our Method"
+    label: Method
+    folder: "src/our-method"
+    create: false
+    editor:
+      preview: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - widget: markdown
+        label: "Body"
+        name: "body"
+        editor_components: ["image"]
+  - name: "Book Blog"
+    label: Blog
+    folder: src/blog
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - widget: markdown
+        label: "Body"
+        name: "body"
+        editor_components: ["image"]
