@@ -12,11 +12,28 @@ const Nav = styled.ul`
 `;
 const MenuOption = styled.li`
   background-color: white;
+  color: grey;
+  a {
+    text-decoration: none;
+    color: grey;
+  }
+  &:hover {
+    background-color: grey;
+    a {
+      color: white;
+    }
+  }
 `;
 
-const MenuHeader = styled.li`
+const MenuContainer = styled.li`
   margin-left: 5px;
   margin-right: 5px;
+`;
+const MenuHeader = styled.div`
+  a {
+    text-decoration: none;
+    color: white;
+  }
 `;
 
 const MenuBody = styled.div`
@@ -29,13 +46,16 @@ const MenuBody = styled.div`
 const Menu = (props) => {
   const [isOpen, setIsOpen] = useState("none");
   return (
-    <MenuHeader
+    <MenuContainer
       onMouseEnter={() => setIsOpen("block")}
       onMouseLeave={() => setIsOpen("none")}
+      onClick={() => setIsOpen("none")}
     >
-      <Link to={props.link}>{props.title}</Link>
+      <MenuHeader>
+        <Link to={props.link}>{props.title}</Link>
+      </MenuHeader>
       <MenuBody display={isOpen}>{props.children}</MenuBody>
-    </MenuHeader>
+    </MenuContainer>
   );
 };
 
