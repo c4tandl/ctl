@@ -47,7 +47,7 @@ const Navigation = () => {
           <Link to="/about">At a Glance</Link>
         </MenuOption>
         <MenuOption>
-          <Link to="/about/history">About</Link>
+          <Link to="/about/history">History of CTL</Link>
         </MenuOption>
         <MenuOption>
           <Link to="/about/welcome">Welcome from Head of School</Link>
