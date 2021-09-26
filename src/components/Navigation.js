@@ -62,7 +62,7 @@ const Navigation = () => {
           <Link to="/who/board-of-directors">Board of Directors</Link>
         </MenuOption>
         <MenuOption>
-          <Link to="/ethics">
+          <Link to="/justice-equity-diversity-and-inclusion">
             Justice, Equity, Diversity and Inclusion at CTL
           </Link>
         </MenuOption>
