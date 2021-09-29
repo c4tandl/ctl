@@ -1,7 +1,7 @@
 ---
-path: /about/who/faculty
+path: /about/faculty
 date: 2021-10-26T12:35:38.975Z
-title: faculty
+title: Faculty
 sort: 4
 nav: about
 ---
