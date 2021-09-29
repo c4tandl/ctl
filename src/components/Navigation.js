@@ -63,7 +63,7 @@ const Menu = (props) => {
 const Navigation = () => {
   return (
     <Nav>
-      <Menu title="About" link="/about">
+      <Menu title="About" link="/about/about">
         <StaticQuery
           query={aboutQuery}
           render={({ allMarkdownRemark: { edges } }) => (
@@ -72,6 +72,7 @@ const Navigation = () => {
                 return (
                   <>
                     {parseInt(frontmatter.sort) === 9 && (
+                      // Inject Head of School Blog directory into Nav menu
                       <MenuOption>
                         <Link to="/head-of-school-blog">
                           Head of School Blog
