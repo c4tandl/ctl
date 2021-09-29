@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "gatsby";
+import { Link, StaticQuery, graphql } from "gatsby";
 import styled from "styled-components";
 
 const Nav = styled.ul`
@@ -36,8 +36,9 @@ const MenuHeader = styled.div`
   }
 `;
 
-const MenuBody = styled.div`
+const MenuBody = styled.ul`
   display: ${(props) => props.display};
+  display: block;
   position: absolute;
   width: fit-content;
   padding-top: 1em;
@@ -63,44 +64,52 @@ const Navigation = () => {
   return (
     <Nav>
       <Menu title="About" link="/about">
-        <MenuOption>
-          <Link to="/about">At a Glance</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/about/history">History of CTL</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/about/welcome">Welcome from Head of School</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/who/faculty">Faculty</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/who/administration">Administration</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/who/board-of-directors">Board of Directors</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/justice-equity-diversity-and-inclusion">
-            Justice, Equity, Diversity and Inclusion at CTL
-          </Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/employment">Employment</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/head-of-school-blog">Head of School Blog</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/press">CTL in the News</Link>
-        </MenuOption>
-        <MenuOption>
-          <Link to="/strategy">Strategic Plan</Link>
-        </MenuOption>
+        <StaticQuery
+          query={aboutQuery}
+          render={({ allMarkdownRemark: { edges } }) => (
+            <>
+              {edges.map(({ node: { frontmatter } }) => {
+                return (
+                  <>
+                    {parseInt(frontmatter.sort) === 9 && (
+                      <MenuOption>
+                        <Link to="/head-of-school-blog">
+                          Head of School Blog
+                        </Link>
+                      </MenuOption>
+                    )}
+                    <MenuOption>
+                      <Link to={frontmatter.path}>{frontmatter.title}</Link>
+                    </MenuOption>
+                  </>
+                );
+              })}
+            </>
+          )}
+        />
       </Menu>
     </Nav>
   );
 };
+
+export const aboutQuery = graphql`
+  query {
+    allMarkdownRemark(
+      sort: { order: ASC, fields: [frontmatter___sort] }
+      filter: { frontmatter: { nav: { eq: "about" } } }
+      limit: 1000
+    ) {
+      edges {
+        node {
+          frontmatter {
+            path
+            title
+            sort
+          }
+        }
+      }
+    }
+  }
+`;
 
 export default Navigation;
