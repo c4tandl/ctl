@@ -5,6 +5,9 @@ import styled from "styled-components";
 import AboutMenu from "./menus/AboutMenu";
 import HwtalMenu from "./menus/HwtalMenu";
 import AdmissionsMenu from "./menus/AdmissionsMenu";
+import ReadingResourcesMenu from "./menus/ReadingResourcesMenu";
+import InternshipsMenu from "./menus/InternshipsMenu";
+import DonateMenu from "./menus/DonateMenu";
 
 const Nav = styled.ul`
   width: 100vw;
@@ -30,6 +33,14 @@ export const MenuOption = styled.li`
   }
 `;
 
+const MenuLink = styled.li`
+  background-color: grey;
+  a {
+    text-decoration: none;
+    color: white;
+  }
+`;
+
 const MenuContainer = styled.li`
   margin-left: 5px;
   margin-right: 5px;
@@ -43,7 +54,7 @@ const MenuHeader = styled.div`
 
 const MenuBody = styled.ul`
   display: ${(props) => props.display};
-  display: block;
+  /* display: block; */
   position: absolute;
   width: fit-content;
   padding-top: 1em;
@@ -71,136 +82,15 @@ const Navigation = () => {
       <AboutMenu />
       <HwtalMenu />
       <AdmissionsMenu />
-      {/* <Menu title="About" link="/about/about">
-        <StaticQuery
-          query={aboutQuery}
-          render={({ allMarkdownRemark: { edges } }) => (
-            <>
-              {edges.map(({ node: { frontmatter } }) => {
-                return (
-                  <>
-                    {parseInt(frontmatter.sort) === 9 && (
-                      // Inject Head of School Blog directory into Nav menu
-                      <MenuOption>
-                        <Link to="/head-of-school-blog">
-                          Head of School Blog
-                        </Link>
-                      </MenuOption>
-                    )}
-                    <MenuOption>
-                      <Link to={frontmatter.path}>{frontmatter.title}</Link>
-                    </MenuOption>
-                  </>
-                );
-              })}
-            </>
-          )}
-        />
-      </Menu>
-      <Menu title="About" link="/about/about">
-        <StaticQuery
-          query={aboutQuery}
-          render={({ allMarkdownRemark: { edges } }) => (
-            <>
-              {edges.map(({ node: { frontmatter } }) => {
-                return (
-                  <>
-                    {parseInt(frontmatter.sort) === 9 && (
-                      // Inject Head of School Blog directory into Nav menu
-                      <MenuOption>
-                        <Link to="/head-of-school-blog">
-                          Head of School Blog
-                        </Link>
-                      </MenuOption>
-                    )}
-                    <MenuOption>
-                      <Link to={frontmatter.path}>{frontmatter.title}</Link>
-                    </MenuOption>
-                  </>
-                );
-              })}
-            </>
-          )}
-        />
-      </Menu>
-      <Menu title="About" link="/about/about">
-        <StaticQuery
-          query={aboutQuery}
-          render={({ allMarkdownRemark: { edges } }) => (
-            <>
-              {edges.map(({ node: { frontmatter } }) => {
-                return (
-                  <>
-                    {parseInt(frontmatter.sort) === 9 && (
-                      // Inject Head of School Blog directory into Nav menu
-                      <MenuOption>
-                        <Link to="/head-of-school-blog">
-                          Head of School Blog
-                        </Link>
-                      </MenuOption>
-                    )}
-                    <MenuOption>
-                      <Link to={frontmatter.path}>{frontmatter.title}</Link>
-                    </MenuOption>
-                  </>
-                );
-              })}
-            </>
-          )}
-        />
-      </Menu>
-      <Menu title="About" link="/about/about">
-        <StaticQuery
-          query={aboutQuery}
-          render={({ allMarkdownRemark: { edges } }) => (
-            <>
-              {edges.map(({ node: { frontmatter } }) => {
-                return (
-                  <>
-                    {parseInt(frontmatter.sort) === 9 && (
-                      // Inject Head of School Blog directory into Nav menu
-                      <MenuOption>
-                        <Link to="/head-of-school-blog">
-                          Head of School Blog
-                        </Link>
-                      </MenuOption>
-                    )}
-                    <MenuOption>
-                      <Link to={frontmatter.path}>{frontmatter.title}</Link>
-                    </MenuOption>
-                  </>
-                );
-              })}
-            </>
-          )}
-        />
-      </Menu>
-      <Menu title="About" link="/about/about">
-        <StaticQuery
-          query={aboutQuery}
-          render={({ allMarkdownRemark: { edges } }) => (
-            <>
-              {edges.map(({ node: { frontmatter } }) => {
-                return (
-                  <>
-                    {parseInt(frontmatter.sort) === 9 && (
-                      // Inject Head of School Blog directory into Nav menu
-                      <MenuOption>
-                        <Link to="/head-of-school-blog">
-                          Head of School Blog
-                        </Link>
-                      </MenuOption>
-                    )}
-                    <MenuOption>
-                      <Link to={frontmatter.path}>{frontmatter.title}</Link>
-                    </MenuOption>
-                  </>
-                );
-              })}
-            </>
-          )}
-        />
-      </Menu> */}
+      <ReadingResourcesMenu />
+      <InternshipsMenu />
+      <DonateMenu />
+      <MenuLink>
+        <Link to="/calendar">Calendar</Link>
+      </MenuLink>
+      <MenuLink>
+        <Link to="/contact">Contact Us</Link>
+      </MenuLink>
     </Nav>
   );
 };
