@@ -10,20 +10,26 @@ import InternshipsMenu from "./menus/InternshipsMenu";
 import DonateMenu from "./menus/DonateMenu";
 
 const Nav = styled.ul`
+  font-family: "Saira Semi Condensed";
+  text-transform: uppercase;
   width: 100vw;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  background-color: grey;
   padding: 0.65em;
 `;
 
 export const MenuOption = styled.li`
+  padding: 2px 5px;
+  border: 1px solid black;
+  border-bottom: 0;
   background-color: white;
-  color: grey;
+  &:last-child {
+    border-bottom: 1px solid black;
+  }
   a {
     text-decoration: none;
-    color: grey;
+    color: black;
   }
   &:hover {
     background-color: grey;
@@ -34,10 +40,9 @@ export const MenuOption = styled.li`
 `;
 
 const MenuLink = styled.li`
-  background-color: grey;
   a {
     text-decoration: none;
-    color: white;
+    color: black;
   }
 `;
 
@@ -48,7 +53,7 @@ const MenuContainer = styled.li`
 const MenuHeader = styled.div`
   a {
     text-decoration: none;
-    color: white;
+    color: black;
   }
 `;
 
