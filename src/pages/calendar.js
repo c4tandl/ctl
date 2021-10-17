@@ -8,13 +8,16 @@ const CalendarContainer = styled.div`
 `;
 
 const Calendar = () => {
+  const windowGlobal = typeof window !== "undefined" && window;
   return (
     <CalendarContainer>
       <iframe
         src="https://calendar.google.com/calendar/embed?src=4evhcu4bn7ir5sc996hkvq7m54%40group.calendar.google.com&ctz=America%2FNew_York"
         style={{ border: "none" }}
-        width={1111 > window.innerWidth ? window.innerWidth - 311 : 1111}
-        height={window.innerHeight - 111}
+        width={
+          1111 > windowGlobal.innerWidth ? windowGlobal.innerWidth - 311 : 1111
+        }
+        height={windowGlobal.innerHeight - 111}
         frameborder="0"
         scrolling="no"
       ></iframe>
