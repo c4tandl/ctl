@@ -9,7 +9,7 @@ export default function Template({
   return (
     <div>
       <div>
-        <Link to="/head-of-school-blog">All Posts</Link>
+        <Link to={`/${frontmatter.blog}`}>All Posts</Link>
       </div>
       <div>
         <h1>{frontmatter.title}</h1>
@@ -28,6 +28,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        blog
       }
     }
   }
