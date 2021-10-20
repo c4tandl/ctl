@@ -1,8 +1,3 @@
-import CMS from "netlify-cms-app";
-import cloudinary from "netlify-cms-media-library-cloudinary";
-
-CMS.registerMediaLibrary(cloudinary);
-
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
@@ -45,6 +40,14 @@ module.exports = {
       options: {
         name: `markdown-pages`,
         path: `${__dirname}/src/markdown/`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-netlify-cms",
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+        stylesPath: `${__dirname}/src/cms/admin.css`,
+        enableIdentityWidget: true,
       },
     },
     `gatsby-transformer-remark`,
