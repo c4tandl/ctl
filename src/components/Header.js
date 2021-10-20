@@ -23,7 +23,9 @@ const Tree = styled.span`
 const Header = () => {
   return (
     <Title>
-      <Tree>🌳</Tree>
+      <a href="/">
+        <Tree>🌳</Tree>
+      </a>
       <h1>Center for Teaching & Learning</h1>
     </Title>
   );
