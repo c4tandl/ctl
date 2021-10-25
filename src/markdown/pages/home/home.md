@@ -10,20 +10,16 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088620/200114_untitledshoot_DSC_3838_sbrwp1.jpg
 ---
-
 Super wild!
 
 Things are afoot for sure.
 
 I can almost see it now - coming together like
 
-- feeling
-
+* feeling
 * thinking
-
-```
-pontification
-```
+* something
+* dumpling
 
 ![Flower with a bee](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1634688967/sample.jpg "Flower with a bee")
 
