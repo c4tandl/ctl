@@ -1,5 +1,5 @@
 ---
-date: 2021-09-25T12:35:38.975Z
+date: 2021-10-25T15:10:00.037Z
 title: Home
 carousel:
   images:
