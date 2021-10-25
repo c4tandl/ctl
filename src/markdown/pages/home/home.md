@@ -13,6 +13,18 @@ carousel:
 
 Super wild!
 
+Things are afoot for sure.
+
+I can almost see it now - coming together like
+
+- feeling
+
+* thinking
+
+```
+pontification
+```
+
 ![Flower with a bee](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1634688967/sample.jpg "Flower with a bee")
 
 And super cool!

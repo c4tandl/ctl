@@ -1,7 +1,25 @@
 import React from "react";
 import { graphql } from "gatsby";
 
+import { Helmet } from "react-helmet";
+import styled from "styled-components";
+
 import Carousel from "../components/Carousel";
+
+const Page = styled.div`
+  display: flex;
+  flex-direction: column;
+  min-height: 68vh;
+`;
+
+const Updated = styled.div`
+  position: fixed;
+  bottom: 0;
+  left: 1em;
+  margin: 5px;
+  cursor: default;
+  color: grey;
+`;
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -14,14 +32,13 @@ export default function Template({
     carousel: { images },
   } = frontmatter;
   return (
-    <div>
-      <div>
-        <h1>{title}</h1>
-        <h2>{date}</h2>
-        {images ? <Carousel images={images} /> : null}
-        <div dangerouslySetInnerHTML={{ __html: html }} />
-      </div>
-    </div>
+    <Page>
+      <Helmet>
+        <title>{title}</title>
+      </Helmet>
+      {images ? <Carousel body={html} images={images} /> : null}
+      <Updated title={`Last updated - ${date}`}>&Delta;</Updated>
+    </Page>
   );
 }
 

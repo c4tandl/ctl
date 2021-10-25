@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import styled from "styled-components";
 
 const SlideTrack = styled.div`
@@ -11,28 +11,59 @@ const SlideTrack = styled.div`
 `;
 
 const ButtonRow = styled.div`
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
+  position: absolute;
+  left: 32px;
+  right: 32px;
+  top: 50%;
+  padding: 0 15px;
+  display: grid;
+  color: white;
+  font-size: 35px;
+  grid-template-columns: 15px 1fr 15px;
+  grid-template-areas: "back . forth";
+  z-index: 2;
+`;
+
+const Button = styled.div`
+  &:hover {
+    cursor: pointer;
+    color: lightgrey;
+  }
 `;
 
 const Slide = styled.img`
   height: 45vh;
   width: auto;
+  transition: 1s;
 `;
 
-const Nothing = styled.div`
+const Body = styled.div`
   grid-area: two;
+  img {
+    width: 100%;
+    object-fit: cover;
+  }
 `;
 
 const Carousel = (props) => {
-  const { images } = props;
-  const [currentSlides, setCurrentSlides] = useState([]);
+  const { images, body } = props;
+  const [imageOne, imageTwo, imageThree, imageFour] = images;
+  const [currentSlides, setCurrentSlides] = useState([
+    imageOne,
+    imageTwo,
+    imageThree,
+    imageFour,
+  ]);
+  const intervalRef = useRef(null);
 
   useEffect(() => {
-    const [imageOne, imageTwo, imageThree, imageFour] = images;
-    setCurrentSlides([imageOne, imageTwo, imageThree, imageFour]);
-  }, [images]);
+    intervalRef.current = window.setInterval(() => {
+      handleGoAhead();
+    }, 7000);
+    return () => {
+      if (intervalRef.current) window.clearInterval(intervalRef.current);
+    };
+  }, [currentSlides]);
 
   const handleGoBack = () => {
     const startSlide = images.indexOf(currentSlides[0]);
@@ -67,8 +98,12 @@ const Carousel = (props) => {
   return (
     <>
       <ButtonRow>
-        <button onClick={handleGoBack}>{"<--"}</button>
-        <button onClick={handleGoAhead}>{"-->"}</button>
+        <Button style={{ gridArea: "back" }} onClick={handleGoBack}>
+          {"<"}
+        </Button>
+        <Button style={{ gridArea: "forth" }} onClick={handleGoAhead}>
+          {">"}
+        </Button>
       </ButtonRow>
       <SlideTrack>
         <Slide
@@ -76,11 +111,11 @@ const Carousel = (props) => {
             gridArea: "one",
             width: "100%",
             objectFit: "cover",
-            objectPosition: "100% 0",
+            objectPosition: "0 100%",
           }}
           src={currentSlides[0]}
         />
-        <Nothing />
+        <Body dangerouslySetInnerHTML={{ __html: body }} />
         <Slide style={{ gridArea: "three" }} src={currentSlides[1]} />
         <Slide style={{ gridArea: "four" }} src={currentSlides[2]} />
         <Slide style={{ gridArea: "five" }} src={currentSlides[3]} />
