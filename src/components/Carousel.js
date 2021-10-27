@@ -10,7 +10,7 @@ const SlideTrack = styled.div`
   width: 100%;
   display: grid;
   overflow: hidden;
-  grid-column-gap: 20px;
+  grid-gap: 20px;
   grid-template-areas: "one two three four five";
   grid-template-columns: 250px 450px 1fr 1fr 1fr;
   @media screen and (max-width: 960px) {
