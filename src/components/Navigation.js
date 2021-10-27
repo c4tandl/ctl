@@ -9,11 +9,17 @@ import ReadingResourcesMenu from "./menus/ReadingResourcesMenu";
 import InternshipsMenu from "./menus/InternshipsMenu";
 import DonateMenu from "./menus/DonateMenu";
 
+const NavRail = styled.div`
+  width: 100%;
+  display: flex;
+  justify-content: center;
+`;
+
 const Nav = styled.ul`
   font-family: "Saira Semi Condensed";
   font-size: 1rem;
   text-transform: uppercase;
-  width: 100vw;
+  width: 95vw;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -46,7 +52,14 @@ const MenuContainer = styled.li`
   margin-right: 5px;
 `;
 const MenuHeader = styled.div`
-  padding: 10px 5px;
+  border: 1px solid transparent;
+  border: ${(props) => props.border};
+  width: fit-content;
+  padding: 0px 30px;
+  margin: 10px 0;
+  &:hover {
+    border: 1px solid black;
+  }
   a {
     text-decoration: none;
     color: black;
@@ -61,12 +74,12 @@ const MenuBody = styled.ul`
 `;
 
 export const Menu = (props) => {
-  const [isOpen, setIsOpen] = useState("none");
+  const [isOpen, setIsOpen] = useState(false);
   const handleEnterMenu = () => {
-    setIsOpen("block");
+    setIsOpen(true);
   };
   const handleLeaveMenu = () => {
-    setIsOpen("none");
+    setIsOpen(false);
   };
   return (
     <MenuContainer
@@ -74,30 +87,32 @@ export const Menu = (props) => {
       onMouseLeave={handleLeaveMenu}
       onClick={handleLeaveMenu}
     >
-      <MenuHeader>
+      <MenuHeader border={isOpen ? "1px solid black" : "1px solid transparent"}>
         <Link to={props.link}>{props.title}</Link>
       </MenuHeader>
-      <MenuBody display={isOpen}>{props.children}</MenuBody>
+      <MenuBody display={isOpen ? "block" : "none"}>{props.children}</MenuBody>
     </MenuContainer>
   );
 };
 
 const Navigation = () => {
   return (
-    <Nav>
-      <AboutMenu />
-      <HwtalMenu />
-      <AdmissionsMenu />
-      <ReadingResourcesMenu />
-      <InternshipsMenu />
-      <DonateMenu />
-      <MenuHeader>
-        <Link to="/calendar">Calendar</Link>
-      </MenuHeader>
-      <MenuHeader>
-        <Link to="/contact">Contact Us</Link>
-      </MenuHeader>
-    </Nav>
+    <NavRail>
+      <Nav>
+        <AboutMenu />
+        <HwtalMenu />
+        <AdmissionsMenu />
+        <ReadingResourcesMenu />
+        <InternshipsMenu />
+        <DonateMenu />
+        <MenuHeader>
+          <Link to="/calendar">Calendar</Link>
+        </MenuHeader>
+        <MenuHeader>
+          <Link to="/contact">Contact Us</Link>
+        </MenuHeader>
+      </Nav>
+    </NavRail>
   );
 };
 

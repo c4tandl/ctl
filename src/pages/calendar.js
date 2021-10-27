@@ -19,6 +19,7 @@ const Calendar = () => {
         }
         height={windowGlobal.innerHeight - 111}
         frameborder="0"
+        title="CTL Calendar"
         scrolling="no"
       ></iframe>
     </CalendarContainer>

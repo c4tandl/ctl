@@ -5,9 +5,16 @@ const SlideTrack = styled.div`
   width: 100%;
   display: grid;
   overflow: hidden;
-  grid-gap: 0 20px;
+  grid-column-gap: 20px;
   grid-template-areas: "one two three four five";
-  grid-template-columns: 250px 30vw 1fr 1fr 1fr;
+  grid-template-columns: 250px 450px 1fr 1fr 1fr;
+  @media screen and (max-width: 960px) {
+    grid-template-areas:
+      "one three four five"
+      "two two   two  two ";
+    grid-template-columns: 250px 1fr 1fr 1fr;
+    grid-template-rows: fit-content 1fr;
+  }
 `;
 
 const ButtonRow = styled.div`
@@ -39,8 +46,10 @@ const Slide = styled.img`
 
 const Body = styled.div`
   grid-area: two;
+  margin: 25px 0;
   img {
     width: 100%;
+    max-width: 600px;
     object-fit: cover;
   }
 `;
