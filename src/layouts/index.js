@@ -8,8 +8,8 @@ import "../assets/reset.css";
 const PageStyles = styled.div`
   @import url("https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&family=Saira+Semi+Condensed:wght@200&display=swap");
   color: #232129;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
 `;
 const BodyStyles = styled.div`
   margin: 2em;

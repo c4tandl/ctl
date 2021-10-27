@@ -17,12 +17,12 @@ const NavRail = styled.div`
 
 const Nav = styled.ul`
   font-family: "Saira Semi Condensed";
-  font-size: 1rem;
+  font-size: 0.9rem;
   text-transform: uppercase;
   width: 95vw;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-wrap: wrap;
   padding: 0.65em;
 `;
@@ -55,7 +55,7 @@ const MenuHeader = styled.div`
   border: 1px solid transparent;
   border: ${(props) => props.border};
   width: fit-content;
-  padding: 0px 30px;
+  padding: 0px 5px;
   margin: 10px 0;
   &:hover {
     border: 1px solid black;

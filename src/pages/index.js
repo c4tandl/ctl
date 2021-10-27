@@ -9,7 +9,6 @@ import Carousel from "../components/Carousel";
 const Page = styled.div`
   display: flex;
   flex-direction: column;
-  min-height: 68vh;
 `;
 
 const Updated = styled.div`

@@ -1,6 +1,11 @@
 import React, { useEffect, useState, useRef } from "react";
 import styled from "styled-components";
 
+const FullRow = styled.div`
+  display: flex;
+  align-items: center;
+`;
+
 const SlideTrack = styled.div`
   width: 100%;
   display: grid;
@@ -17,21 +22,10 @@ const SlideTrack = styled.div`
   }
 `;
 
-const ButtonRow = styled.div`
-  position: absolute;
-  left: 32px;
-  right: 32px;
-  top: 50%;
-  padding: 0 15px;
-  display: grid;
-  color: white;
-  font-size: 35px;
-  grid-template-columns: 15px 1fr 15px;
-  grid-template-areas: "back . forth";
-  z-index: 2;
-`;
-
 const Button = styled.div`
+  z-index: 2;
+  font-size: 30pt;
+  color: white;
   &:hover {
     cursor: pointer;
     color: lightgrey;
@@ -46,7 +40,7 @@ const Slide = styled.img`
 
 const Body = styled.div`
   grid-area: two;
-  margin: 25px 0;
+  margin: 0;
   img {
     width: 100%;
     max-width: 600px;
@@ -105,15 +99,13 @@ const Carousel = (props) => {
     setCurrentSlides(newFour);
   };
   return (
-    <>
-      <ButtonRow>
-        <Button style={{ gridArea: "back" }} onClick={handleGoBack}>
-          {"<"}
-        </Button>
-        <Button style={{ gridArea: "forth" }} onClick={handleGoAhead}>
-          {">"}
-        </Button>
-      </ButtonRow>
+    <FullRow>
+      <Button
+        style={{ gridArea: "back", marginRight: "-30px" }}
+        onClick={handleGoBack}
+      >
+        {"<"}
+      </Button>
       <SlideTrack>
         <Slide
           style={{
@@ -129,7 +121,13 @@ const Carousel = (props) => {
         <Slide style={{ gridArea: "four" }} src={currentSlides[2]} />
         <Slide style={{ gridArea: "five" }} src={currentSlides[3]} />
       </SlideTrack>
-    </>
+      <Button
+        style={{ gridArea: "forth", marginLeft: "-30px" }}
+        onClick={handleGoAhead}
+      >
+        {">"}
+      </Button>
+    </FullRow>
   );
 };
 
