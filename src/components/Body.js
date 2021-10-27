@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const BodyDiv = styled.div`
+  width: 100%;
   h1 {
     font-size: 25pt;
   }

@@ -1,11 +1,11 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState, useRef, useCallback } from "react";
 import styled from "styled-components";
 
 import Body from "./Body";
 
 const FullRow = styled.div`
   display: flex;
-  align-items: center;
+  align-items: flex-start;
 `;
 
 const SlideTrack = styled.div`
@@ -17,20 +17,28 @@ const SlideTrack = styled.div`
   grid-template-columns: 250px 450px 1fr 1fr 1fr;
   @media screen and (max-width: 960px) {
     grid-template-areas:
-      "one three four five"
-      "two two   two  two ";
+      "one   three four  five"
+      "floor floor floor floor";
     grid-template-columns: 250px 1fr 1fr 1fr;
-    grid-template-rows: fit-content 1fr;
+    grid-auto-rows: mimmax(fit-content, auto);
   }
 `;
 
 const Button = styled.div`
   z-index: 2;
+  margin-top: 19vh;
   font-size: 30pt;
   color: white;
   &:hover {
     cursor: pointer;
     color: lightgrey;
+  }
+`;
+
+const BodyHolder = styled.div`
+  grid-area: two;
+  @media screen and (max-width: 960px) {
+    grid-area: floor;
   }
 `;
 
@@ -51,15 +59,6 @@ const Carousel = (props) => {
   ]);
   const intervalRef = useRef(null);
 
-  useEffect(() => {
-    intervalRef.current = window.setInterval(() => {
-      handleGoAhead();
-    }, 7000);
-    return () => {
-      if (intervalRef.current) window.clearInterval(intervalRef.current);
-    };
-  }, [currentSlides]);
-
   const handleGoBack = () => {
     const startSlide = images.indexOf(currentSlides[0]);
     const newFour = [];
@@ -77,7 +76,7 @@ const Carousel = (props) => {
     setCurrentSlides(newFour);
   };
 
-  const handleGoAhead = () => {
+  const handleGoAhead = useCallback(() => {
     const startSlide = images.indexOf(currentSlides[0]);
     const newFour = [];
     for (let i = startSlide + 1; i < startSlide + 5; i++) {
@@ -89,7 +88,17 @@ const Carousel = (props) => {
       }
     }
     setCurrentSlides(newFour);
-  };
+  }, [currentSlides, images]);
+
+  useEffect(() => {
+    intervalRef.current = window.setInterval(() => {
+      handleGoAhead();
+    }, 7000);
+    return () => {
+      if (intervalRef.current) window.clearInterval(intervalRef.current);
+    };
+  }, [currentSlides, handleGoAhead]);
+
   return (
     <FullRow>
       <Button
@@ -108,7 +117,11 @@ const Carousel = (props) => {
           }}
           src={currentSlides[0]}
         />
-        <Body style={{ gridArea: "two" }} body={body} />
+
+        <BodyHolder>
+          <Body style={{ gridArea: "two" }} body={body} />
+        </BodyHolder>
+
         <Slide style={{ gridArea: "three" }} src={currentSlides[1]} />
         <Slide style={{ gridArea: "four" }} src={currentSlides[2]} />
         <Slide style={{ gridArea: "five" }} src={currentSlides[3]} />
