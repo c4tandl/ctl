@@ -11,11 +11,13 @@ import DonateMenu from "./menus/DonateMenu";
 
 const Nav = styled.ul`
   font-family: "Saira Semi Condensed";
+  font-size: 1rem;
   text-transform: uppercase;
   width: 100vw;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  flex-wrap: wrap;
   padding: 0.65em;
 `;
 
@@ -39,18 +41,12 @@ export const MenuOption = styled.li`
   }
 `;
 
-const MenuLink = styled.li`
-  a {
-    text-decoration: none;
-    color: black;
-  }
-`;
-
 const MenuContainer = styled.li`
   margin-left: 5px;
   margin-right: 5px;
 `;
 const MenuHeader = styled.div`
+  padding: 10px 5px;
   a {
     text-decoration: none;
     color: black;
@@ -59,7 +55,6 @@ const MenuHeader = styled.div`
 
 const MenuBody = styled.ul`
   display: ${(props) => props.display};
-  /* display: block; */
   position: absolute;
   width: fit-content;
   padding-top: 1em;
@@ -67,11 +62,17 @@ const MenuBody = styled.ul`
 
 export const Menu = (props) => {
   const [isOpen, setIsOpen] = useState("none");
+  const handleEnterMenu = () => {
+    setIsOpen("block");
+  };
+  const handleLeaveMenu = () => {
+    setIsOpen("none");
+  };
   return (
     <MenuContainer
-      onMouseEnter={() => setIsOpen("block")}
-      onMouseLeave={() => setIsOpen("none")}
-      onClick={() => setIsOpen("none")}
+      onMouseEnter={handleEnterMenu}
+      onMouseLeave={handleLeaveMenu}
+      onClick={handleLeaveMenu}
     >
       <MenuHeader>
         <Link to={props.link}>{props.title}</Link>
@@ -90,12 +91,12 @@ const Navigation = () => {
       <ReadingResourcesMenu />
       <InternshipsMenu />
       <DonateMenu />
-      <MenuLink>
+      <MenuHeader>
         <Link to="/calendar">Calendar</Link>
-      </MenuLink>
-      <MenuLink>
+      </MenuHeader>
+      <MenuHeader>
         <Link to="/contact">Contact Us</Link>
-      </MenuLink>
+      </MenuHeader>
     </Nav>
   );
 };
