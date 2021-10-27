@@ -1,6 +1,8 @@
 import React, { useEffect, useState, useRef } from "react";
 import styled from "styled-components";
 
+import Body from "./Body";
+
 const FullRow = styled.div`
   display: flex;
   align-items: center;
@@ -36,16 +38,6 @@ const Slide = styled.img`
   height: 45vh;
   width: auto;
   transition: 1s;
-`;
-
-const Body = styled.div`
-  grid-area: two;
-  margin: 0;
-  img {
-    width: 100%;
-    max-width: 600px;
-    object-fit: cover;
-  }
 `;
 
 const Carousel = (props) => {
@@ -116,7 +108,7 @@ const Carousel = (props) => {
           }}
           src={currentSlides[0]}
         />
-        <Body dangerouslySetInnerHTML={{ __html: body }} />
+        <Body style={{ gridArea: "two" }} body={body} />
         <Slide style={{ gridArea: "three" }} src={currentSlides[1]} />
         <Slide style={{ gridArea: "four" }} src={currentSlides[2]} />
         <Slide style={{ gridArea: "five" }} src={currentSlides[3]} />
