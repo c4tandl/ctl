@@ -10,7 +10,8 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088620/200114_untitledshoot_DSC_3838_sbrwp1.jpg
 ---
-
 # Our Mission
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![Teacher and Students](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg "Students around the table")
