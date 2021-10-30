@@ -28,6 +28,11 @@ const Underground = styled.div`
 
 const Text = styled.div`
   color: darkgrey;
+  @media screen and (max-width: 558px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 `;
 
 const Phone = styled.span`
@@ -50,7 +55,7 @@ const Footer = () => {
       <Field>{makeGrass()}</Field>
       <Underground>
         <Text>
-          119 Cross Point Road | Edgecomb, ME 04556 |{" "}
+          <span>119 Cross Point Road | Edgecomb, ME 04556 | </span>
           <Phone>(207) 882-9706</Phone>
         </Text>
       </Underground>

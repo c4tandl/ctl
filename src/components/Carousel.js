@@ -6,6 +6,7 @@ import Body from "./Body";
 const FullRow = styled.div`
   display: flex;
   align-items: flex-start;
+  justify-content: center;
 `;
 
 const SlideTrack = styled.div`
@@ -20,7 +21,7 @@ const SlideTrack = styled.div`
       "one   three four  five  six"
       "floor floor floor floor floor";
     grid-template-columns: 250px 1fr 1fr 1fr 1fr;
-    grid-auto-rows: mimmax(fit-content, auto);
+    grid-auto-rows: minmax(fit-content, auto);
   }
 `;
 

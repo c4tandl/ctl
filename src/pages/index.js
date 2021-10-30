@@ -24,21 +24,35 @@ const Updated = styled.div`
 `;
 
 const IllustrationContainer = styled.div`
+  margin-top: -15em;
   width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 6em fit-content;
+  grid-template-columns: 1fr 1fr fit-content fit-content 1fr;
+  grid-template-rows: fit-content fit-content;
+  grid-template-areas:
+    ". . .    acorn ."
+    ". . girl .     .";
+  @media screen and (max-width: 1060px) {
+    margin-top: 1.5em;
+  }
+  @media screen and (max-width: 550px) {
+    display: flex;
+    flex-direction: column;
+  }
 `;
 
 const Girl = styled.span`
-  grid-row-start: 2;
-  grid-column-start: 3;
-  margin-bottom: -7em;
+  grid-area: girl;
+  margin-bottom: -8em;
 `;
 
 const Acorn = styled.span`
-  grid-row-start: 1;
-  grid-column-start: 4;
+  grid-area: acorn;
+  display: flex;
+  justify-content: flex-end;
+  @media screen and (min-width: 1500px) {
+    justify-content: flex-start;
+  }
 `;
 
 export default function Template({
@@ -56,13 +70,13 @@ export default function Template({
       <Helmet>
         <title>{title}</title>
       </Helmet>
-      {images ? <Carousel body={html} images={images} /> : null}
+      <Carousel body={html} images={images} />
       <IllustrationContainer>
         <Acorn>
-          <AcornSun style={{ width: "190px" }} />
+          <AcornSun style={{ width: "250px" }} />
         </Acorn>
         <Girl>
-          <GirlWaving style={{ width: "210px" }} />
+          <GirlWaving style={{ width: "250px" }} />
         </Girl>
       </IllustrationContainer>
       <Updated title={`Last updated - ${date}`}>&Delta;</Updated>

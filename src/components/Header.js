@@ -9,6 +9,9 @@ const Title = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  h1 {
+    text-align: center;
+  }
 `;
 
 const Tree = styled.a`
