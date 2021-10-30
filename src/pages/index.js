@@ -6,6 +6,9 @@ import styled from "styled-components";
 
 import Carousel from "../components/Carousel";
 
+import GirlWaving from "../assets/drawings/girl_waving.svg";
+import AcornSun from "../assets/drawings/acorn_sun.svg";
+
 const Page = styled.div`
   display: flex;
   flex-direction: column;
@@ -18,6 +21,24 @@ const Updated = styled.div`
   margin: 5px;
   cursor: default;
   color: grey;
+`;
+
+const IllustrationContainer = styled.div`
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 6em fit-content;
+`;
+
+const Girl = styled.span`
+  grid-row-start: 2;
+  grid-column-start: 3;
+  margin-bottom: -7em;
+`;
+
+const Acorn = styled.span`
+  grid-row-start: 1;
+  grid-column-start: 4;
 `;
 
 export default function Template({
@@ -36,6 +57,14 @@ export default function Template({
         <title>{title}</title>
       </Helmet>
       {images ? <Carousel body={html} images={images} /> : null}
+      <IllustrationContainer>
+        <Acorn>
+          <AcornSun style={{ width: "190px" }} />
+        </Acorn>
+        <Girl>
+          <GirlWaving style={{ width: "210px" }} />
+        </Girl>
+      </IllustrationContainer>
       <Updated title={`Last updated - ${date}`}>&Delta;</Updated>
     </Page>
   );
