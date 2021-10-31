@@ -17,6 +17,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Morning Meeting
 
-Amet nisl suscipit adipiscing bibendum est ultricies integer. Egestas sed sed risus pretium. Purus semper eget duis at tellus. Orci a scelerisque purus semper eget duis. Orci eu lobortis elementum nibh tellus. Ipsum dolor sit amet consectetur adipiscing elit.
+Amet nisl suscipit adipiscing bibendum est ultricies integer. Egestas sed sed risus pretium. Purus semper eget duis at tellus. Orci a scelerisque purus semper eget duis. Orci eu lobortis elementum nibh tellus. Ipsum dolor sit amet consectetur adipiscing elit. Volutpat sed cras ornare arcu dui vivamus arcu felis. Et malesuada fames ac turpis. Et malesuada fames ac turpis egestas sed. Ullamcorper malesuada proin libero nunc consequat interdum.
 
 ![Teacher and Students](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg "Students around the table")

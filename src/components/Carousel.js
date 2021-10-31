@@ -3,6 +3,9 @@ import styled from "styled-components";
 
 import Body from "./Body";
 
+import ArrowLeft from "../assets/icons/arrow-left.svg";
+import ArrowRight from "../assets/icons/arrow-right.svg";
+
 const FullRow = styled.div`
   display: flex;
   align-items: flex-start;
@@ -27,7 +30,7 @@ const SlideTrack = styled.div`
 
 const Button = styled.div`
   z-index: 2;
-  margin-top: 19vh;
+  margin-top: 14vh;
   font-size: 30pt;
   color: white;
   &:hover {
@@ -38,7 +41,10 @@ const Button = styled.div`
 
 const BodyHolder = styled.div`
   grid-area: two;
+  max-height: 600px;
+  overflow: auto;
   @media screen and (max-width: 960px) {
+    max-height: inherit;
     grid-area: floor;
   }
 `;
@@ -107,7 +113,7 @@ const Carousel = (props) => {
         style={{ gridArea: "back", marginRight: "-30px" }}
         onClick={handleGoBack}
       >
-        {"<"}
+        <ArrowLeft />
       </Button>
       <SlideTrack>
         <Slide
@@ -133,7 +139,7 @@ const Carousel = (props) => {
         style={{ gridArea: "forth", marginLeft: "-30px" }}
         onClick={handleGoAhead}
       >
-        {">"}
+        <ArrowRight />
       </Button>
     </FullRow>
   );
