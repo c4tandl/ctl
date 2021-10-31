@@ -30,12 +30,12 @@ const SlideTrack = styled.div`
 
 const Button = styled.div`
   z-index: 2;
-  margin-top: 14vh;
+  margin-top: 14.5vh;
   font-size: 30pt;
-  color: white;
+  color: lightgrey;
   &:hover {
     cursor: pointer;
-    color: lightgrey;
+    color: whitesmoke;
   }
 `;
 
