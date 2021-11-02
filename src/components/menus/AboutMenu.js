@@ -13,11 +13,11 @@ const AboutMenu = () => (
               <>
                 {parseInt(frontmatter.sort) === 9 && (
                   // Inject Head of School Blog directory into Nav menu
-                  <MenuOption>
+                  <MenuOption key="/head-of-school-blog">
                     <Link to="/head-of-school-blog">Head of School Blog</Link>
                   </MenuOption>
                 )}
-                <MenuOption>
+                <MenuOption key={frontmatter.path}>
                   <Link to={frontmatter.path}>{frontmatter.title}</Link>
                 </MenuOption>
               </>

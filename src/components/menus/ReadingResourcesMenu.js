@@ -16,13 +16,13 @@ const ReadingResources = () => (
               <>
                 {parseInt(frontmatter.sort) === 2 && (
                   // Inject Middle School Book Blog directory into Nav menu
-                  <MenuOption>
+                  <MenuOption key="/middle-school-book-blog">
                     <Link to="/middle-school-book-blog">
                       Middle School Book Blog
                     </Link>
                   </MenuOption>
                 )}
-                <MenuOption>
+                <MenuOption key={frontmatter.path}>
                   <Link to={frontmatter.path}>{frontmatter.title}</Link>
                 </MenuOption>
               </>

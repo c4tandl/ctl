@@ -10,7 +10,7 @@ const DonateMenu = () => (
         <>
           {edges.map(({ node: { frontmatter } }) => {
             return (
-              <MenuOption>
+              <MenuOption key={frontmatter.path}>
                 <Link to={frontmatter.path}>{frontmatter.title}</Link>
               </MenuOption>
             );
