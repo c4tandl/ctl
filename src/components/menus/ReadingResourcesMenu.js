@@ -13,7 +13,7 @@ const ReadingResources = () => (
         <>
           {edges.map(({ node: { frontmatter } }) => {
             return (
-              <>
+              <span key={frontmatter.path}>
                 {parseInt(frontmatter.sort) === 2 && (
                   // Inject Middle School Book Blog directory into Nav menu
                   <MenuOption key="/middle-school-book-blog">
@@ -22,10 +22,10 @@ const ReadingResources = () => (
                     </Link>
                   </MenuOption>
                 )}
-                <MenuOption key={frontmatter.path}>
+                <MenuOption>
                   <Link to={frontmatter.path}>{frontmatter.title}</Link>
                 </MenuOption>
-              </>
+              </span>
             );
           })}
         </>

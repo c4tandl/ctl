@@ -10,17 +10,17 @@ const AboutMenu = () => (
         <>
           {edges.map(({ node: { frontmatter } }) => {
             return (
-              <>
+              <span key={frontmatter.path}>
                 {parseInt(frontmatter.sort) === 9 && (
                   // Inject Head of School Blog directory into Nav menu
                   <MenuOption key="/head-of-school-blog">
                     <Link to="/head-of-school-blog">Head of School Blog</Link>
                   </MenuOption>
                 )}
-                <MenuOption key={frontmatter.path}>
+                <MenuOption>
                   <Link to={frontmatter.path}>{frontmatter.title}</Link>
                 </MenuOption>
-              </>
+              </span>
             );
           })}
         </>

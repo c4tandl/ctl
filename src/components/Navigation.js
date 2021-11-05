@@ -17,7 +17,7 @@ const NavRail = styled.div`
 
 const Nav = styled.ul`
   font-family: "Saira Semi Condensed";
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   width: 95vw;
   display: flex;
@@ -32,9 +32,6 @@ export const MenuOption = styled.li`
   border: 1px solid black;
   border-bottom: 0;
   background-color: white;
-  &:last-child {
-    border-bottom: 1px solid black;
-  }
   a {
     text-decoration: none;
     color: black;
@@ -51,6 +48,7 @@ const MenuContainer = styled.li`
   margin-left: 5px;
   margin-right: 5px;
 `;
+
 const MenuHeader = styled.div`
   border: 1px solid transparent;
   border: ${(props) => props.border};
@@ -71,6 +69,7 @@ const MenuBody = styled.ul`
   position: absolute;
   width: fit-content;
   padding-top: 1em;
+  border-bottom: 1px solid black;
 `;
 
 export const Menu = (props) => {
