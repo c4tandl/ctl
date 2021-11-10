@@ -44,8 +44,8 @@ const Footer = () => {
   const makeGrass = () => {
     return (
       <>
-        {Array.apply(null, Array(10)).map(() => (
-          <Grass style={{ minWidth: "300px" }} />
+        {Array.apply(null, Array(10)).map((section) => (
+          <Grass key={section} style={{ minWidth: "300px" }} />
         ))}
       </>
     );
