@@ -68,7 +68,7 @@ export default function Template({
   return (
     <Page>
       <Helmet>
-        <title>{title}</title>
+        <title>CTL - {title}</title>
       </Helmet>
       <Carousel body={html} images={images} />
       <IllustrationContainer>

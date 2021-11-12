@@ -42,13 +42,11 @@ const Phone = styled.span`
 
 const Footer = () => {
   const makeGrass = () => {
-    return (
-      <>
-        {Array.apply(null, Array(10)).map((section) => (
-          <Grass key={section} style={{ minWidth: "300px" }} />
-        ))}
-      </>
-    );
+    return Array.from(Array(10).keys()).map((section) => (
+      <span key={section}>
+        <Grass style={{ minWidth: "300px" }} />
+      </span>
+    ));
   };
   return (
     <Foot>

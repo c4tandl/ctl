@@ -1,18 +1,29 @@
 import React from "react";
 import { graphql } from "gatsby";
+import { Helmet } from "react-helmet";
+
+import Carousel from "../components/Carousel";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data; // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark;
+
+  const images = frontmatter.carousel?.images || [];
+
   return (
     <div>
-      <div>
-        <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
-        <div dangerouslySetInnerHTML={{ __html: html }} />
-      </div>
+      <Helmet>
+        <title>CTL - {frontmatter.title}</title>
+      </Helmet>
+      {images.length ? (
+        <Carousel body={html} images={images} />
+      ) : (
+        <div>
+          <div dangerouslySetInnerHTML={{ __html: html }} />
+        </div>
+      )}
     </div>
   );
 }
@@ -25,6 +36,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        carousel {
+          images
+        }
       }
     }
   }
