@@ -37,7 +37,7 @@ def upload_image(cloud, image):
             if chunk:
                 file.write(chunk)
     # Upload the image
-    response = cloud.uploader.upload(filename, public_id = filename)
+    response = cloud.uploader.upload(filename, public_id = filename, width = 300, crop = 'scale' )
     pq(image).attr('src', response.get('secure_url'))
     # Delete the file
     os.remove(filename)
@@ -93,6 +93,8 @@ def main():
 
     posts = [p for p in posts if p['post_type'] == 'post' and p['content'] is not None and p['title'] is not None]
 
+    import random
+    random.shuffle(posts)
     # Iterate over the posts
     for post in posts[:5]:
         normalized_post = {
