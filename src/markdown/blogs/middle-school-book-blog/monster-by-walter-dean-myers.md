@@ -5,7 +5,7 @@ title: Monster, by Walter Dean Myers
 blog: middle-school-book-blog
 ---
 
-<img class="alignleft size-full wp-image-224" title="monster" src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637506445/monster.jpg.jpg" alt="monster" width="140" height="199"/>The main character of <em>Monster</em>, sixteen-year-old Steve Harmon, is convicted in a murder and robbery case.   This novel is about his trials and court appearances, with a few flashbacks to before the whole mess started.   It takes the form of a movie script that Steve writes.   At the end of each chapter, Myers inserts a journal entry from Steve.   These are some of the most important parts of the book.  They describe Steve’s thoughts and feelings, so the reader can get inside his head.  The whole story is really sensory, and the dialogue is really realistic.
+<div style="white-space: pre-wrap"><img class="alignleft size-full wp-image-224" title="monster" src="http://c-t-l.org/wp-content/uploads/2009/05/monster.jpg" alt="monster" width="140" height="199" />The main character of <em>Monster</em>, sixteen-year-old Steve Harmon, is convicted in a murder and robbery case.   This novel is about his trials and court appearances, with a few flashbacks to before the whole mess started.   It takes the form of a movie script that Steve writes.   At the end of each chapter, Myers inserts a journal entry from Steve.   These are some of the most important parts of the book.  They describe Steve’s thoughts and feelings, so the reader can get inside his head.  The whole story is really sensory, and the dialogue is really realistic.
 
 <em>Monster</em> is a pretty fast read. The 281 pages seem a lot fewer because once a reader gets into it, he or she doesn’t want to stop.   You’ll want to to find out what happens to Steve in the end.
 
@@ -17,4 +17,4 @@ Moving back to<em> Monster</em>, the conclusion is very satisfying, and I think 
 
 Cody
 
-Publisher:  Amistad, 281 pages
+Publisher:  Amistad, 281 pages</div>

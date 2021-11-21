@@ -5,7 +5,7 @@ title: House of the Scorpion, by Nancy Farmer
 blog: middle-school-book-blog
 ---
 
-<img class="alignleft size-full wp-image-97" title="housescorpion" src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637506535/housescorpion.jpg.jpg" alt="housescorpion" width="100" height="150"/>The book starts out with Matt, the main character, living in a small shack in the middle of a large field. A group of kids find him; he breaks out of the shack and joins them. When he cuts his foot, the kids take him to a mansion owned by an important man named El Patron. We soon find out that Matt is actually a clone of El Patron, then follow him on his adventures toward the truth.
+<div style="white-space: pre-wrap"><img class="alignleft size-full wp-image-97" title="housescorpion" src="http://c-t-l.org/wp-content/uploads/2009/05/housescorpion.jpg" alt="housescorpion" width="100" height="150" />The book starts out with Matt, the main character, living in a small shack in the middle of a large field. A group of kids find him; he breaks out of the shack and joins them. When he cuts his foot, the kids take him to a mansion owned by an important man named El Patron. We soon find out that Matt is actually a clone of El Patron, then follow him on his adventures toward the truth.
 
 The setting is far in the future, when chips can be implanted in people and animals to make them obey any command given, cloning happens frequently, and the border between the U.S. and Mexico is opium-growing land.
 
@@ -23,4 +23,4 @@ Daniel
 
 Publisher:  Atheneum Books, 380 pages
 
-<a href="http://www.amazon.com/gp/product/0689852231">Read more about this title on Amazon.com</a>
+<a href="http://www.amazon.com/gp/product/0689852231">Read more about this title on Amazon.com</a></div>

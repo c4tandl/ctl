@@ -5,7 +5,7 @@ title: Lord of the Flies, by William Golding
 blog: middle-school-book-blog
 ---
 
-<img class="alignleft size-full wp-image-110" title="lordflies" src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637506536/lordflies.jpg.jpg" alt="lordflies" width="84" height="150"/>A plane full of prep school boys crashes onto an uncharted island. The pilot dies. At the realization that there are no adults anywhere on the island, the normally orderly society begins to disintegrate, as the hope of being rescued dwindles.
+<div style="white-space: pre-wrap"><img class="alignleft size-full wp-image-110" title="lordflies" src="http://c-t-l.org/wp-content/uploads/2009/05/lordflies.jpg" alt="lordflies" width="84" height="150" />A plane full of prep school boys crashes onto an uncharted island. The pilot dies. At the realization that there are no adults anywhere on the island, the normally orderly society begins to disintegrate, as the hope of being rescued dwindles.
 
 <em>Lord of the Flies </em>is dense with sensory descriptions of the tropical island, and the main characters, Ralph and Piggy. This is one of my favorite books ever because it captures the themes of friendship, leadership, and the connections—and disconnections—between society’s norms and basic human nature. Narrating in third person, Golding depicts Ralph’s original feeling of power, and, as civilization begins to crumble, his anger at Jack, another boy, for breaking off from their clan to start a wild pig-hunting tribe on the other side of the island.
 
@@ -23,4 +23,4 @@ Publisher:  Penguin Group, 202 pages
 
 <a href="http://www.amazon.com/gp/product/B0017HSKU2">Read more about this title on Amazon.com</a>
 
-
+</div>

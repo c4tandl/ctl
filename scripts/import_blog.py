@@ -54,12 +54,12 @@ def create_markdown_file(cloud, post):
     md_file = join(os.getcwd(), '_posts', f'{post["slug"]}.md')
 
     # pq is pyquery (jquery like html parsing)
-    if post["content"]and "http://c-t-l.org/wp-content/uploads/" in post["content"]:
-        doc = pq(post["content"])
+    if post['content']and 'http://c-t-l.org/wp-content/uploads/' in post['content']:
+        doc = pq(post['content'])
         # doc('img').each(lambda i, e: upload_image(cloud, e))
         for image in doc('img'):
             upload_image(cloud, image)
-        post["content"] = doc.html()
+        post['content'] = f'<div style="white-space: pre-wrap">{post["content"]}</div>'
     
     # Create the file like:
     # ---
