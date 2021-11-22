@@ -1,4 +1,5 @@
 import os
+import asyncio
 from os.path import join, dirname
 import requests
 from datetime import datetime
@@ -23,12 +24,15 @@ cloud.config(
     secure = True
 )
 
-def upload_image(cloud, image):
+async def upload_image(cloud, image):
     """
     Upload the image to Cloudinary
     """
+    response = {}
     # Download the image
     image_url = image.get('src')
+    if not image_url:
+        image_url = image.get('href')
     filename = image_url.split("/")[-1]
     r = requests.get(image_url, stream = True)
     r.raw.decode_content = True
@@ -37,13 +41,16 @@ def upload_image(cloud, image):
             if chunk:
                 file.write(chunk)
     # Upload the image
-    response = cloud.uploader.upload(filename, public_id = filename, width = 300, crop = 'scale' )
-    pq(image).attr('src', response.get('secure_url'))
+    try:
+        response = cloud.uploader.upload(filename, public_id = filename, width = 300, crop = 'scale' )
+    except Exception as e:
+        print(e)
+
     # Delete the file
     os.remove(filename)
+    return response.get('secure_url')
 
-
-def create_markdown_file(cloud, post):
+async def create_markdown_file(cloud, post):
     """
     Create the Markdown file
     """
@@ -58,8 +65,18 @@ def create_markdown_file(cloud, post):
         doc = pq(post['content'])
         # doc('img').each(lambda i, e: upload_image(cloud, e))
         for image in doc('img'):
-            upload_image(cloud, image)
-        post['content'] = f'<div style="white-space: pre-wrap">{post["content"]}</div>'
+            newsrc = await upload_image(cloud, image)
+            if newsrc:
+                pq(image).attr('src', newsrc)
+            else:
+                pq(image).remove()
+        for anchor in doc('a'):
+            newhref = await upload_image(cloud, anchor)
+            if newhref:
+                pq(anchor).attr('href', newhref)
+            else:
+                pq(anchor).remove()
+        post['content'] = doc.html().replace('\n\n', '<br />')
     
     # Create the file like:
     # ---
@@ -75,12 +92,18 @@ def create_markdown_file(cloud, post):
         file.write(f'date: {post["date"]}\n')
         file.write(f'title: {post["title"]}\n')
         file.write(f'blog: middle-school-book-blog\n')
+        # categories
+        file.write(f'categories: {post["categories"]}\n')
+        # comments
+        file.write(f'comments: {post["comments"]}\n')
+        # creator
+        file.write(f'creator: {post["creator"]}\n')
         file.write(f'---\n\n')
         # Write the content
         file.write(f'{post["content"]}\n')
 
 
-def main():
+async def main():
     """
     Main function to import blog posts from XML file to Markdown files,
     with images uploaded to Cloudinary
@@ -96,7 +119,7 @@ def main():
     import random
     random.shuffle(posts)
     # Iterate over the posts
-    for post in posts[:5]:
+    for post in posts[:25]:
         normalized_post = {
             'title': post.get('title'),
             'content': post.get('content'),
@@ -108,9 +131,10 @@ def main():
             'tags': post.get('tags')
         }
         # Create the Markdown file
-        create_markdown_file(cloud, normalized_post)
+        await create_markdown_file(cloud, normalized_post)
 
 
 
 if __name__ == "__main__":
-    main()
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(main())
