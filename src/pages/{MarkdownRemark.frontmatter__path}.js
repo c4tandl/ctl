@@ -2,7 +2,7 @@ import React from "react";
 import { graphql } from "gatsby";
 import { Helmet } from "react-helmet";
 
-import Carousel from "../components/Carousel";
+import Carausel from "../components/Carausel";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -18,7 +18,7 @@ export default function Template({
         <title>CTL - {frontmatter.title}</title>
       </Helmet>
       {images.length ? (
-        <Carousel body={html} images={images} />
+        <Carausel body={html} images={images} />
       ) : (
         <div>
           <div dangerouslySetInnerHTML={{ __html: html }} />

@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Title = styled.div`
   font-family: "Goudy Bookletter 1911";
   font-size: 38pt;
-  width: 100%;
+  width: 100vw;
   margin-bottom: 20px;
   display: flex;
   flex-direction: column;

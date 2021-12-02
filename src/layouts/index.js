@@ -16,6 +16,7 @@ const PageStyles = styled.div`
 `;
 const BodyStyles = styled.div`
   margin: 0 2em;
+  margin-top: 16em;
   height: fit-content;
 `;
 const Footpad = styled.div`
@@ -23,12 +24,19 @@ const Footpad = styled.div`
   padding-top: 1.5em;
   margin-bottom: 1.5em;
 `;
+const HeaderLand = styled.div`
+  position: fixed;
+  background-color: #fdfdfd;
+  z-index: 1;
+`;
 
 const Layout = ({ children }) => {
   return (
     <PageStyles>
-      <Header />
-      <Navigation />
+      <HeaderLand>
+        <Header />
+        <Navigation />
+      </HeaderLand>
       <BodyStyles>{children}</BodyStyles>
       <Footpad>
         <Footer></Footer>

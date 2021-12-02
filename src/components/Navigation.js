@@ -10,21 +10,18 @@ import InternshipsMenu from "./menus/InternshipsMenu";
 import DonateMenu from "./menus/DonateMenu";
 
 const NavRail = styled.div`
-  width: 100%;
   display: flex;
   justify-content: center;
 `;
 
 const Nav = styled.ul`
   font-family: "Saira Semi Condensed";
-  font-size: 0.8rem;
+  font-size: 1rem;
   text-transform: uppercase;
-  width: 95vw;
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 0.65em;
 `;
 
 export const MenuOption = styled.li`
@@ -45,6 +42,7 @@ export const MenuOption = styled.li`
 `;
 
 const MenuContainer = styled.li`
+  z-index: 6;
   margin-left: 5px;
   margin-right: 5px;
 `;
@@ -65,6 +63,7 @@ const MenuHeader = styled.div`
 `;
 
 const MenuBody = styled.ul`
+  z-index: 16;
   display: ${(props) => props.display};
   position: absolute;
   width: fit-content;

@@ -1,24 +1,23 @@
 import React, { useEffect, useState, useRef, useCallback } from "react";
 import styled from "styled-components";
 
-import Body from "./Body";
-
 import ArrowLeft from "../assets/icons/arrow-left.svg";
 import ArrowRight from "../assets/icons/arrow-right.svg";
 
 const FullRow = styled.div`
   display: flex;
+  width: 96vw;
+  position: fixed;
   align-items: flex-start;
   justify-content: center;
 `;
 
 const SlideTrack = styled.div`
-  width: 100%;
   display: grid;
   overflow: hidden;
   grid-gap: 20px;
   grid-template-areas: "one two three four five six";
-  grid-template-columns: 250px 400px 1fr 1fr 1fr 1fr;
+  grid-template-columns: 250px 600px 1fr 1fr 1fr 1fr;
   @media screen and (max-width: 960px) {
     grid-template-areas:
       "one   three four  five  six"
@@ -29,13 +28,13 @@ const SlideTrack = styled.div`
 `;
 
 const Button = styled.div`
-  z-index: 2;
+  z-index: 3;
   margin-top: 14.5vh;
   font-size: 30pt;
   color: lightgrey;
   &:hover {
     cursor: pointer;
-    color: whitesmoke;
+    color: white;
   }
 `;
 
@@ -51,12 +50,10 @@ const BodyHolder = styled.div`
 
 const Slide = styled.img`
   height: 35vh;
-  width: auto;
-  transition: 1s;
 `;
 
-const Carousel = (props) => {
-  const { images, body } = props;
+const StandardPageBody = (props) => {
+  const { images } = props;
   const [imageOne, imageTwo, imageThree, imageFour, imageFive] = images;
   const [currentSlides, setCurrentSlides] = useState([
     imageOne,
@@ -109,10 +106,7 @@ const Carousel = (props) => {
 
   return (
     <FullRow>
-      <Button
-        style={{ gridArea: "back", marginRight: "-30px" }}
-        onClick={handleGoBack}
-      >
+      <Button style={{ marginRight: "-30px" }} onClick={handleGoBack}>
         <ArrowLeft />
       </Button>
       <SlideTrack>
@@ -126,23 +120,18 @@ const Carousel = (props) => {
           src={currentSlides[0]}
         />
 
-        <BodyHolder>
-          <Body style={{ gridArea: "two" }} body={body} />
-        </BodyHolder>
+        <BodyHolder style={{ gridArea: "two" }}></BodyHolder>
 
         <Slide style={{ gridArea: "three" }} src={currentSlides[1]} />
         <Slide style={{ gridArea: "four" }} src={currentSlides[2]} />
         <Slide style={{ gridArea: "five" }} src={currentSlides[3]} />
         <Slide style={{ gridArea: "six" }} src={currentSlides[4]} />
       </SlideTrack>
-      <Button
-        style={{ gridArea: "forth", marginLeft: "-30px" }}
-        onClick={handleGoAhead}
-      >
+      <Button style={{ marginLeft: "-30px" }} onClick={handleGoAhead}>
         <ArrowRight />
       </Button>
     </FullRow>
   );
 };
 
-export default Carousel;
+export default StandardPageBody;
