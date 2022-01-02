@@ -1,5 +1,5 @@
 ---
-path: /about/administration
+path: administration
 date: 2021-10-26T12:35:38.975Z
 title: Administration
 sort: 5

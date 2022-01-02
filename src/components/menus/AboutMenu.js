@@ -18,7 +18,9 @@ const AboutMenu = () => (
                   </MenuOption>
                 )}
                 <MenuOption>
-                  <Link to={frontmatter.path}>{frontmatter.title}</Link>
+                  <Link to={`/about/${frontmatter.path}`}>
+                    {frontmatter.title}
+                  </Link>
                 </MenuOption>
               </span>
             );
