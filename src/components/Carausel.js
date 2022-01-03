@@ -7,7 +7,7 @@ import ArrowRight from "../assets/icons/arrow-right.svg";
 const FullRow = styled.div`
   display: flex;
   width: 96vw;
-  position: fixed;
+  position: absolute;
   align-items: flex-start;
   justify-content: center;
 `;

@@ -7,9 +7,6 @@ import styled from "styled-components";
 import Carausel from "../../components/Carausel";
 import Body from "../../components/Body";
 
-import GirlWaving from "../../assets/drawings/girl_waving.svg";
-import AcornSun from "../../assets/drawings/acorn_sun.svg";
-
 const Page = styled.div`
   display: flex;
   flex-direction: column;
@@ -24,48 +21,17 @@ const Updated = styled.div`
   color: grey;
 `;
 
-const IllustrationContainer = styled.div`
-  width: 100vw;
-  margin-top: 35vh;
-  display: grid;
-  grid-template-columns: 1fr 1fr fit-content fit-content 1fr;
-  grid-template-rows: fit-content fit-content;
-  grid-template-areas:
-    ".    . . acorn ."
-    "girl . . .     .";
-  @media screen and (max-width: 1060px) {
-    margin-top: 1.5em;
-  }
-  @media screen and (max-width: 550px) {
-    display: flex;
-    flex-direction: column;
-  }
+const BodyHolder = styled.div`
+  grid-column: middle;
 `;
 
-const BodyHolder = styled.div`
+const BodyArea = styled.div`
   display: grid;
   grid-gap: 20px;
   grid-template-areas: ". middle .";
   grid-template-columns: 250px 600px 1fr;
-  grid-template-rows: 1fr;
-`;
-
-const BodyText = styled.div`
-  grid-area: middle;
-`;
-
-const Girl = styled.span`
-  grid-area: girl;
-  margin-bottom: -140px;
-`;
-
-const Acorn = styled.span`
-  grid-area: acorn;
-  display: flex;
-  justify-content: flex-end;
-  @media screen and (min-width: 1500px) {
-    justify-content: flex-start;
-  }
+  max-height: 86vh;
+  overflow: auto;
 `;
 
 export default function Template({
@@ -92,28 +58,18 @@ export default function Template({
         <title>CTL - About</title>
       </Helmet>
       {images.length && <Carausel images={images}></Carausel>}
-      {edges &&
-        edges.map(({ node: frontmatter }) => (
-          <>
+      <BodyArea>
+        {edges &&
+          edges.map(({ node: { frontmatter, html } }) => (
             <BodyHolder>
               <h2>{frontmatter.title}</h2>
-              <BodyText>
-                <Body body={frontmatter.html} />
-              </BodyText>
-              <br />
-              <br />
-              <br />
+              <div>
+                <Body body={html} />
+              </div>
+              <div style={{ height: "300px" }}></div>
             </BodyHolder>
-          </>
-        ))}
-      <IllustrationContainer>
-        <Acorn>
-          <AcornSun style={{ width: "250px" }} />
-        </Acorn>
-        <Girl>
-          <GirlWaving style={{ width: "250px" }} />
-        </Girl>
-      </IllustrationContainer>
+          ))}
+      </BodyArea>
       <Updated title={`Last updated - ${latestDate}`}>&Delta;</Updated>
     </Page>
   );
