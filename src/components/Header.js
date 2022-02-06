@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import CTL_Logo from "../assets/CTL_Logo.png";
+import CTL_Logo from "../assets/CTL_logo.png";
 
 const Title = styled.div`
   font-family: "Bookmania-Regular";
