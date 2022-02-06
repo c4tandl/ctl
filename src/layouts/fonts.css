@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Bookmania-Black";
+  src: url("../fonts/Bookmania-Black.woff") format("woff");
+}
+@font-face {
+  font-family: "Bookmania-Light";
+  src: url("../fonts/Bookmania-Light.woff") format("woff");
+}
+@font-face {
+  font-family: "Bookmania-Regular";
+  src: url("../fonts/Bookmania-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "URWDIN-Medium";
+  src: url("../fonts/URWDIN-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "URWDIN-Regular";
+  src: url("../fonts/URWDIN-Regular.woff") format("woff");
+}

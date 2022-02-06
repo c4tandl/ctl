@@ -7,8 +7,8 @@ import styled from "styled-components";
 import Carausel from "../components/Carausel";
 import Body from "../components/Body";
 
-import GirlWaving from "../assets/drawings/girl_waving.svg";
-import AcornSun from "../assets/drawings/acorn_sun.svg";
+import GirlWaving from "../assets/svgs/drawings/girl_waving.svg";
+import AcornSun from "../assets/svgs/drawings/acorn_sun.svg";
 
 const Page = styled.div`
   display: flex;

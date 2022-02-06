@@ -1,11 +1,11 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { graphql } from "gatsby";
 
 import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
 import Carausel from "../../components/Carausel";
-import Body from "../../components/Body";
+import FoldingBody from "../../components/FoldingBody";
 
 const Page = styled.div`
   display: flex;
@@ -21,22 +21,45 @@ const Updated = styled.div`
   color: grey;
 `;
 
-const BodyHolder = styled.div`
-  grid-column: middle;
-`;
-
 const BodyArea = styled.div`
-  display: grid;
-  grid-gap: 20px;
-  grid-template-areas: ". middle .";
-  grid-template-columns: 250px 600px 1fr;
+  margin-left: 265px;
+  width: 700px;
   max-height: 86vh;
   overflow: auto;
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  h1 {
+    font-size: 25pt;
+  }
+  h2 {
+    font-size: 18pt;
+  }
+  h3 {
+    font-size: 16pt;
+  }
 `;
+
+const useReactPath = () => {
+  const [path, setPath] = useState(window.location.pathname);
+  const listenToPopstate = () => {
+    const winPath = window.location.pathname;
+    setPath(winPath);
+  };
+  useEffect(() => {
+    window.addEventListener("popstate", listenToPopstate);
+    return () => {
+      window.removeEventListener("popstate", listenToPopstate);
+    };
+  }, []);
+  return path;
+};
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
+  const [sectionMap, setSectionMap] = useState({});
+  const path = useReactPath();
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { edges } = allMarkdownRemark;
   let latestDate = 0;
@@ -52,6 +75,15 @@ export default function Template({
     return acc;
   }, []);
 
+  const handleToggleSection = (section) => {
+    setSectionMap({ ...sectionMap, [section]: !sectionMap[section] });
+  };
+
+  useEffect(() => {
+    // set the current route to open
+    setSectionMap({ [path.split("/")[2]]: true });
+  }, [path]);
+
   return (
     <Page>
       <Helmet>
@@ -61,13 +93,13 @@ export default function Template({
       <BodyArea>
         {edges &&
           edges.map(({ node: { frontmatter, html } }) => (
-            <BodyHolder>
-              <h2>{frontmatter.title}</h2>
-              <div>
-                <Body body={html} />
-              </div>
-              <div style={{ height: "300px" }}></div>
-            </BodyHolder>
+            <FoldingBody
+              isOpen={sectionMap[frontmatter.path]}
+              handleToggle={() => handleToggleSection(frontmatter.path)}
+              key={frontmatter.path}
+              title={frontmatter.title}
+              html={html}
+            />
           ))}
       </BodyArea>
       <Updated title={`Last updated - ${latestDate}`}>&Delta;</Updated>

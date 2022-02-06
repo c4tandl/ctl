@@ -1,8 +1,8 @@
 import React, { useEffect, useState, useRef, useCallback } from "react";
 import styled from "styled-components";
 
-import ArrowLeft from "../assets/icons/arrow-left.svg";
-import ArrowRight from "../assets/icons/arrow-right.svg";
+import ArrowLeft from "../assets/svgs/icons/arrow-left.svg";
+import ArrowRight from "../assets/svgs/icons/arrow-right.svg";
 
 const FullRow = styled.div`
   display: flex;
@@ -17,7 +17,7 @@ const SlideTrack = styled.div`
   overflow: hidden;
   grid-gap: 20px;
   grid-template-areas: "one two three four five six";
-  grid-template-columns: 250px 600px 1fr 1fr 1fr 1fr;
+  grid-template-columns: 250px 700px 1fr 1fr 1fr 1fr;
   @media screen and (max-width: 960px) {
     grid-template-areas:
       "one   three four  five  six"

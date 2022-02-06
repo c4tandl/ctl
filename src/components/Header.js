@@ -1,8 +1,13 @@
 import React from "react";
 import styled from "styled-components";
 
+import CTL_Logo from "../assets/pngs/CTL_Logo.png";
+
 const Title = styled.div`
-  font-family: "Goudy Bookletter 1911";
+  font-family: "Bookmania-Regular";
+  font-style: normal;
+  font-weight: normal !important;
+  text-rendering: optimizeLegibility;
   font-size: 38pt;
   width: 100vw;
   margin-bottom: 20px;
@@ -14,20 +19,14 @@ const Title = styled.div`
   }
 `;
 
-const Tree = styled.a`
-  border: 1px solid black;
-  text-decoration: none;
-  margin: 20px 0;
-  padding: 0 10px;
-  font-size: 60pt;
-  border-radius: 50%;
-  transform: scaleX(2);
+const TreeLogo = styled.img`
+  width: 160px;
 `;
 
 const Header = () => {
   return (
     <Title>
-      <Tree href="/">🌳</Tree>
+      <TreeLogo src={CTL_Logo} />
       <h1>Center for Teaching & Learning</h1>
     </Title>
   );

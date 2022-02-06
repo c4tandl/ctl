@@ -15,7 +15,7 @@ const NavRail = styled.div`
 `;
 
 const Nav = styled.ul`
-  font-family: "Saira Semi Condensed";
+  font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1rem;
   text-transform: uppercase;
   display: flex;

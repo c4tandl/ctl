@@ -2,12 +2,11 @@ import * as React from "react";
 import Navigation from "../components/Navigation";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import "./layout.css";
 import styled from "styled-components";
-import "../assets/reset.css";
 
 // styles
 const PageStyles = styled.div`
-  @import url("https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&family=Saira+Semi+Condensed:wght@200&display=swap");
   color: #232129;
   width: 100%;
   min-height: 100vh;

@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import Grass from "../assets/drawings/grass.svg";
+import Grass from "../assets/svgs/drawings/grass.svg";
 
 const Foot = styled.div`
   width: 100%;

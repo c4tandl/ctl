@@ -3,8 +3,10 @@ import styled from "styled-components";
 
 const BodyDiv = styled.div`
   width: 100%;
-  h1 {
-    font-size: 25pt;
+  position: relative;
+  margin-top: 10px;
+  h2 {
+    margin-bottom: 10px;
   }
   p {
     margin: 10px 0;
@@ -13,6 +15,10 @@ const BodyDiv = styled.div`
     width: 100%;
     max-width: 600px;
     object-fit: cover;
+  }
+  ul {
+    list-style-type: disc;
+    padding: 0 2.5em;
   }
 `;
 
