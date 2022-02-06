@@ -41,7 +41,7 @@ const BodyArea = styled.div`
 `;
 
 const useReactPath = () => {
-  const [path, setPath] = useState(window.location.pathname);
+  const [path, setPath] = useState(window?.location.pathname);
   const listenToPopstate = () => {
     const winPath = window.location.pathname;
     setPath(winPath);
