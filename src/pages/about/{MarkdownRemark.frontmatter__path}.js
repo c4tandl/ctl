@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { graphql } from "gatsby";
 
+import { useLocation } from "@reach/router";
 import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
@@ -40,26 +41,11 @@ const BodyArea = styled.div`
   }
 `;
 
-const useReactPath = () => {
-  const [path, setPath] = useState(window?.location.pathname);
-  const listenToPopstate = () => {
-    const winPath = window.location.pathname;
-    setPath(winPath);
-  };
-  useEffect(() => {
-    window.addEventListener("popstate", listenToPopstate);
-    return () => {
-      window.removeEventListener("popstate", listenToPopstate);
-    };
-  }, []);
-  return path;
-};
-
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const [sectionMap, setSectionMap] = useState({});
-  const path = useReactPath();
+  const path = useLocation();
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { edges } = allMarkdownRemark;
   let latestDate = 0;
@@ -81,7 +67,7 @@ export default function Template({
 
   useEffect(() => {
     // set the current route to open
-    setSectionMap({ [path.split("/")[2]]: true });
+    setSectionMap({ [path.pathname.split("/")[2]]: true });
   }, [path]);
 
   return (
