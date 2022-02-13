@@ -5,10 +5,7 @@ import CTL_Logo from "../assets/CTL_logo.png";
 
 const Title = styled.div`
   font-family: "Bookmania-Regular";
-  font-style: normal;
-  font-weight: normal !important;
-  text-rendering: optimizeLegibility;
-  font-size: 38pt;
+  font-size: 55pt;
   width: 100vw;
   margin-bottom: 20px;
   display: flex;

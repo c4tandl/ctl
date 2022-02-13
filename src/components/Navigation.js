@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { useLocation } from "@reach/router";
 import { Link } from "gatsby";
 import styled from "styled-components";
 
@@ -15,7 +16,8 @@ const NavRail = styled.div`
 `;
 
 const Nav = styled.ul`
-  font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-stretch: extra-condensed;
   font-size: 1rem;
   text-transform: uppercase;
   display: flex;
@@ -25,7 +27,7 @@ const Nav = styled.ul`
 `;
 
 export const MenuOption = styled.li`
-  padding: 4px 4px 0px 4px;
+  padding: 5px 4px 0px 4px;
   border: 1px solid black;
   border-bottom: 0;
   background-color: white;
@@ -34,9 +36,8 @@ export const MenuOption = styled.li`
     color: black;
   }
   &:hover {
-    background-color: grey;
     a {
-      color: white;
+      color: forestgreen;
     }
   }
 `;
@@ -48,20 +49,19 @@ const MenuContainer = styled.li`
 `;
 
 const MenuHeader = styled.div`
-  border: 1px solid transparent;
-  border: ${(props) => props.border};
   width: fit-content;
   height: 15px;
   margin: 10px 0;
-  padding: 4px 4px 0 4px;
+  padding: 8px 4px 0px 4px;
   display: flex;
   align-items: center;
   &:hover {
-    border: 1px solid black;
+    color: forestgreen;
   }
   a {
     text-decoration: none;
     color: black;
+    color: ${(props) => props.color};
   }
 `;
 
@@ -76,19 +76,22 @@ const MenuBody = styled.ul`
 
 export const Menu = (props) => {
   const [isOpen, setIsOpen] = useState(false);
+  const path = useLocation();
   const handleEnterMenu = () => {
     setIsOpen(true);
   };
   const handleLeaveMenu = () => {
     setIsOpen(false);
   };
+  const isCurrentSection =
+    path.pathname.split("/")[1] === props.link.split("/")[1];
   return (
     <MenuContainer
       onMouseEnter={handleEnterMenu}
       onMouseLeave={handleLeaveMenu}
       onClick={handleLeaveMenu}
     >
-      <MenuHeader border={isOpen ? "1px solid black" : "1px solid transparent"}>
+      <MenuHeader color={isOpen || isCurrentSection ? "forestgreen" : "black"}>
         <Link to={props.link}>{props.title}</Link>
       </MenuHeader>
       <MenuBody display={isOpen ? "block" : "none"}>{props.children}</MenuBody>
