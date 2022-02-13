@@ -25,7 +25,7 @@ const Nav = styled.ul`
 `;
 
 export const MenuOption = styled.li`
-  padding: 2px 5px;
+  padding: 4px 4px 0px 4px;
   border: 1px solid black;
   border-bottom: 0;
   background-color: white;
@@ -51,8 +51,11 @@ const MenuHeader = styled.div`
   border: 1px solid transparent;
   border: ${(props) => props.border};
   width: fit-content;
-  padding: 0px 5px;
+  height: 15px;
   margin: 10px 0;
+  padding: 4px 4px 0 4px;
+  display: flex;
+  align-items: center;
   &:hover {
     border: 1px solid black;
   }
