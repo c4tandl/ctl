@@ -17,8 +17,7 @@ const NavRail = styled.div`
 
 const Nav = styled.ul`
   font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-stretch: extra-condensed;
-  font-size: 1rem;
+  font-size: 1.15rem;
   text-transform: uppercase;
   display: flex;
   flex-direction: row;
@@ -26,8 +25,19 @@ const Nav = styled.ul`
   flex-wrap: wrap;
 `;
 
+const MenuBody = styled.ul`
+  font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.15rem;
+  z-index: 3;
+  display: ${(props) => props.display};
+  position: absolute;
+  width: fit-content;
+  padding-top: 1em;
+  border-bottom: 1px solid black;
+`;
+
 export const MenuOption = styled.li`
-  padding: 5px 4px 0px 4px;
+  padding: 16px 2em 11px 2em;
   border: 1px solid black;
   border-bottom: 0;
   background-color: white;
@@ -43,7 +53,6 @@ export const MenuOption = styled.li`
 `;
 
 const MenuContainer = styled.li`
-  z-index: 6;
   margin-left: 5px;
   margin-right: 5px;
 `;
@@ -63,15 +72,6 @@ const MenuHeader = styled.div`
     color: black;
     color: ${(props) => props.color};
   }
-`;
-
-const MenuBody = styled.ul`
-  z-index: 16;
-  display: ${(props) => props.display};
-  position: absolute;
-  width: fit-content;
-  padding-top: 1em;
-  border-bottom: 1px solid black;
 `;
 
 export const Menu = (props) => {

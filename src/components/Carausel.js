@@ -28,7 +28,7 @@ const SlideTrack = styled.div`
 `;
 
 const Button = styled.div`
-  z-index: 3;
+  z-index: 0;
   margin-top: 14.5vh;
   font-size: 30pt;
   color: lightgrey;
