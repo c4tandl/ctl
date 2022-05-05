@@ -7,6 +7,13 @@ const BodyDiv = styled.div`
   margin-top: 10px;
   h2 {
     margin-bottom: 10px;
+    font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
+      sans-serif;
+    text-transform: uppercase;
+    font-size: 20pt;
+    /* Make the font narrower */
+    transform: scaleX(0.75);
+    transform-origin: 0 100%;
   }
   p {
     margin: 10px 0;

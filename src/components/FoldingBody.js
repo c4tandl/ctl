@@ -6,6 +6,10 @@ const BodyHolder = styled.div`
   grid-column: middle;
   position: relative;
   margin-bottom: 20px;
+  h2 {
+    font-size: 2rem;
+    padding: 0.5rem 0;
+  }
 `;
 const Toggler = styled.div`
   cursor: pointer;
