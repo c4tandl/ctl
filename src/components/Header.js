@@ -23,7 +23,9 @@ const TreeLogo = styled.img`
 const Header = () => {
   return (
     <Title>
-      <TreeLogo src={CTL_Logo} />
+      <a href="/">
+        <TreeLogo src={CTL_Logo} />
+      </a>
       <h1>Center for Teaching & Learning</h1>
     </Title>
   );

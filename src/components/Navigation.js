@@ -12,17 +12,20 @@ import DonateMenu from "./menus/DonateMenu";
 
 const NavRail = styled.div`
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 `;
 
-const Nav = styled.ul`
+const Nav = styled.div`
   font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.15rem;
   text-transform: uppercase;
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  margin: 0 25px;
 `;
 
 const MenuBody = styled.ul`
@@ -52,7 +55,7 @@ export const MenuOption = styled.li`
   }
 `;
 
-const MenuContainer = styled.li`
+const MenuContainer = styled.div`
   margin-left: 5px;
   margin-right: 5px;
 `;
