@@ -22,10 +22,19 @@ const Updated = styled.div`
   color: grey;
 `;
 
+const FullPage = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+`;
+
 const BodyArea = styled.div`
-  margin-left: 265px;
-  width: 700px;
+  background-color: #fff;
+  z-index: 0;
+  width: 900px;
   max-height: 86vh;
+  padding: 0 20px;
   overflow: auto;
   ::-webkit-scrollbar {
     display: none;
@@ -76,18 +85,20 @@ export default function Template({
         <title>CTL - About</title>
       </Helmet>
       {images.length && <Carausel images={images}></Carausel>}
-      <BodyArea>
-        {edges &&
-          edges.map(({ node: { frontmatter, html } }) => (
-            <FoldingBody
-              isOpen={sectionMap[frontmatter.path]}
-              handleToggle={() => handleToggleSection(frontmatter.path)}
-              key={frontmatter.path}
-              title={frontmatter.title}
-              html={html}
-            />
-          ))}
-      </BodyArea>
+      <FullPage>
+        <BodyArea>
+          {edges &&
+            edges.map(({ node: { frontmatter, html } }) => (
+              <FoldingBody
+                isOpen={sectionMap[frontmatter.path]}
+                handleToggle={() => handleToggleSection(frontmatter.path)}
+                key={frontmatter.path}
+                title={frontmatter.title}
+                html={html}
+              />
+            ))}
+        </BodyArea>
+      </FullPage>
       <Updated title={`Last updated - ${latestDate}`}>&Delta;</Updated>
     </Page>
   );
