@@ -3,7 +3,6 @@ import styled from "styled-components";
 import Body from "./Body";
 
 const BodyHolder = styled.div`
-  grid-column: middle;
   position: relative;
   margin-bottom: 20px;
   h2 {

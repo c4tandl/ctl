@@ -5,8 +5,9 @@ const BodyDiv = styled.div`
   width: 100%;
   position: relative;
   margin-top: 10px;
-  h2 {
-    margin-bottom: 10px;
+  h2,
+  h1 {
+    margin-top: 25px;
     font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
       sans-serif;
     text-transform: uppercase;

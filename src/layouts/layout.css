@@ -5,9 +5,9 @@ p,
 ul {
   font-size: 1.2em;
   line-height: 1.5em;
+  font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 ul {
-  font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   /* Make the font narrower */
   transform: scaleX(0.85);
   transform-origin: 0 100%;
