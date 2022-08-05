@@ -1,5 +1,5 @@
 ---
-slug: /middle-school-book-blog/None
+slug: /middle-school-book-blog/girl-in-the-blue-coat
 date: 2022-01-13T11:46:23Z
 title: Girl in the Blue Coat by Monica Hesse
 blog: middle-school-book-blog
