@@ -132,10 +132,11 @@ async def main():
 
     posts = [p for p in posts if p['post_type'] == 'post' and p['content'] is not None and p['title'] is not None]
 
-    import random
-    random.shuffle(posts)
+    # import random
+    # random.shuffle(posts)
     # Iterate over the posts
-    for post in posts[:25]:
+    # for post in posts[:25]:
+    for post in posts:
         normalized_post = {
             'title': post.get('title'),
             'content': post.get('content'),
