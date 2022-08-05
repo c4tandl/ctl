@@ -60,22 +60,21 @@ async def create_markdown_file(cloud, post):
     # Create new markdown file
     md_file = join(os.getcwd(), '_posts', f'{post["slug"]}.md')
 
+    images = []
+
     # pq is pyquery (jquery like html parsing)
-    if post['content']and 'http://c-t-l.org/wp-content/uploads/' in post['content']:
+    if post['content'] and '/c-t-l.org/wp-content/uploads/' in post['content']:
         doc = pq(post['content'])
-        # doc('img').each(lambda i, e: upload_image(cloud, e))
         for image in doc('img'):
             newsrc = await upload_image(cloud, image)
             if newsrc:
-                pq(image).attr('src', newsrc)
-            else:
-                pq(image).remove()
-        for anchor in doc('a'):
-            newhref = await upload_image(cloud, anchor)
-            if newhref:
-                pq(anchor).attr('href', newhref)
-            else:
-                pq(anchor).remove()
+                images.append(newsrc)
+            pq(image).remove()
+        for image in doc('a'):
+            newsrc = await upload_image(cloud, image)
+            if newsrc:
+                images.append(newsrc)
+            pq(image).remove()
         post['content'] = doc.html().replace('\n\n', '<br />')
     
     # Create the file like:
@@ -84,7 +83,21 @@ async def create_markdown_file(cloud, post):
     # date: 2021-09-25T14:20:29.338Z
     # title: Is this about something?
     # blog: middle-school-book-blog
+    # categories: 
+    #   - Autobiography
+    #   - Memoir
+    #   - Contemporary Realistic Fiction
+    # authors:
+    #   - Swarthy McMarty
+    #   - Rugburn Lemonsnaps
+    # images: 
+    #   - https://res.cloudinary.com/dzqbzqjqw/image/upload/v1599098981/middle-school-book-blog/is-this-about-something/is-this-about-something-1.jpg
+    # comments:
+    #   - comment numero 1
+    #   - comment numero 2
+    # creator: Somekid Inschool
     # ---
+    # ... html or md content ...
     with open(md_file, 'w') as file:
         file.write(f'---\n')
         file.write(f'slug: /middle-school-book-blog/{post["slug"]}\n')
@@ -93,9 +106,12 @@ async def create_markdown_file(cloud, post):
         file.write(f'title: {post["title"]}\n')
         file.write(f'blog: middle-school-book-blog\n')
         # categories
-        file.write(f'categories: {post["categories"]}\n')
+        file.write(f'categories:{len(post["categories"]) and f"{chr(10)}  - " or ""}{f"{chr(10)}  - ".join(post["categories"])}\n')
+        # authors
+        file.write(f'authors:{len(post["tags"]) and f"{chr(10)}  - " or ""}{f"{chr(10)}  - ".join(post["tags"]) + chr(10)}')
         # comments
-        file.write(f'comments: {post["comments"]}\n')
+        file.write(f'images:{len(images) and f"{chr(10)}  - " or ""}{f"{chr(10)}  - ".join(images)}\n')
+        file.write(f'comments:{len(post["comments"]) and f"{chr(10)}  - " or ""}{f"{chr(10)}  - ".join(post["comments"]) + chr(10)}')
         # creator
         file.write(f'creator: {post["creator"]}\n')
         file.write(f'---\n\n')
