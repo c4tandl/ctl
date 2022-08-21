@@ -27,6 +27,9 @@ const Button = styled.div`
     cursor: pointer;
     color: white;
   }
+  &:last-child {
+    margin-right: 15px;
+  }
 `;
 
 const Slide = styled.img`
