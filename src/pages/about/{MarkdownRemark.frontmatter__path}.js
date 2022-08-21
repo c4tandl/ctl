@@ -35,7 +35,8 @@ const BodyArea = styled.div`
   width: 900px;
   max-height: 86vh;
   padding: 0 20px;
-  overflow: auto;
+  margin-top: 335px;
+  overflow-y: scroll;
   ::-webkit-scrollbar {
     display: none;
   }
@@ -58,6 +59,7 @@ export default function Template({
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { edges } = allMarkdownRemark;
   let latestDate = 0;
+  let lastScrollTop = 0;
   const images = edges.reduce((acc, curr) => {
     const { frontmatter } = curr.node;
     if (new Date(frontmatter.date) > Date(latestDate)) {
