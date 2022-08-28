@@ -28,21 +28,34 @@ const Nav = styled.div`
   margin: 0 25px;
 `;
 
-const MenuBody = styled.ul`
+const MenuBody = styled.div`
   font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.15rem;
   z-index: 3;
   display: ${(props) => props.display};
   position: absolute;
-  width: fit-content;
   padding-top: 1em;
+`;
+const MenuUl = styled.ul`
+  width: fit-content;
+  overflow-y: auto;
+  border-top: 1px solid black;
   border-bottom: 1px solid black;
+  li {
+    border: 1px solid black;
+    border-top: 0;
+  }
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  max-height: 60vh;
+  @media screen and (max-height: 900px) {
+    max-height: 50vh;
+  }
 `;
 
 export const MenuOption = styled.li`
   padding: 16px 2em 11px 2em;
-  border: 1px solid black;
-  border-bottom: 0;
   background-color: white;
   a {
     text-decoration: none;
@@ -97,7 +110,9 @@ export const Menu = (props) => {
       <MenuHeader color={isOpen || isCurrentSection ? "forestgreen" : "black"}>
         <Link to={props.link}>{props.title}</Link>
       </MenuHeader>
-      <MenuBody display={isOpen ? "block" : "none"}>{props.children}</MenuBody>
+      <MenuBody display={isOpen ? "block" : "none"}>
+        <MenuUl>{props.children}</MenuUl>
+      </MenuBody>
     </MenuContainer>
   );
 };

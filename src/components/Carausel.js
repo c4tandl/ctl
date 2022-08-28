@@ -40,6 +40,7 @@ const Slide = styled.img`
 
 const StandardPageBody = (props) => {
   const { images } = props;
+  // start with first five but there can always be more
   const [imageOne, imageTwo, imageThree, imageFour, imageFive] = images;
   const [currentSlides, setCurrentSlides] = useState([
     imageOne,

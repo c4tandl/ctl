@@ -17,7 +17,12 @@ const AboutMenu = () => (
                     <Link to="/head-of-school-blog">Head of School Blog</Link>
                   </MenuOption>
                 )}
-                <MenuOption>
+                <MenuOption
+                  style={{
+                    borderBottom:
+                      frontmatter.sort === 10 ? "0" : "1px solid black",
+                  }}
+                >
                   <Link to={`/about/${frontmatter.path}`}>
                     {frontmatter.title}
                   </Link>
