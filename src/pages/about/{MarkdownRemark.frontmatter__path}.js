@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { graphql } from "gatsby";
 
 import { useLocation } from "@reach/router";
@@ -58,6 +58,7 @@ export default function Template({
   const [sectionMap, setSectionMap] = useState({});
   const [coverSlideshow, setCoverSlideshow] = useState(false);
   const [covered, setCovered] = useState(false);
+  const bodyRef = useRef(null);
   const path = useLocation();
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { edges } = allMarkdownRemark;
@@ -100,6 +101,16 @@ export default function Template({
   useEffect(() => {
     // set the current route to open
     setSectionMap({ [path.pathname.split("/")[2]]: true });
+    setCoverSlideshow(true);
+    const timer = setTimeout(() => {
+      setTimeout(() => {
+        setCovered(true);
+        if (bodyRef.current) {
+          bodyRef.current.scrollTop = 1;
+        }
+      }, 300);
+    }, 500);
+    return () => clearTimeout(timer);
   }, [path]);
 
   return (
@@ -109,7 +120,11 @@ export default function Template({
       </Helmet>
       {images.length && <Carausel images={images}></Carausel>}
       <FullPage>
-        <BodyArea onScroll={scrollBody} coverSlideshow={coverSlideshow}>
+        <BodyArea
+          ref={bodyRef}
+          onScroll={scrollBody}
+          coverSlideshow={coverSlideshow}
+        >
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody
