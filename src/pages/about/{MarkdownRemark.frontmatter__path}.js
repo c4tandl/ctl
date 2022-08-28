@@ -33,7 +33,7 @@ const BodyArea = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
-  max-height: 86vh;
+  max-height: 55vh;
   padding: 0 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "335px")};
   transition: 0.3s;
