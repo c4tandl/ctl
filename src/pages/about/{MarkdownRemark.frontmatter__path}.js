@@ -35,7 +35,8 @@ const BodyArea = styled.div`
   width: 900px;
   max-height: 86vh;
   padding: 0 20px;
-  margin-top: 335px;
+  margin-top: ${(props) => (props.coverSlideshow ? "0" : "335px")};
+  transition: 0.3s;
   overflow-y: scroll;
   ::-webkit-scrollbar {
     display: none;
@@ -55,11 +56,12 @@ export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const [sectionMap, setSectionMap] = useState({});
+  const [coverSlideshow, setCoverSlideshow] = useState(false);
+  const [covered, setCovered] = useState(false);
   const path = useLocation();
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { edges } = allMarkdownRemark;
   let latestDate = 0;
-  let lastScrollTop = 0;
   const images = edges.reduce((acc, curr) => {
     const { frontmatter } = curr.node;
     if (new Date(frontmatter.date) > Date(latestDate)) {
@@ -76,6 +78,25 @@ export default function Template({
     setSectionMap({ ...sectionMap, [section]: !sectionMap[section] });
   };
 
+  const scrollBody = (e) => {
+    if (!covered) {
+      setCoverSlideshow(true);
+      setTimeout(() => {
+        setCovered(true);
+        e.target.scrollTop = 1;
+      }, 300);
+      e.target.scrollTop = 0;
+    } else {
+      if (e.target.scrollTop <= 0) {
+        setCoverSlideshow(false);
+        setTimeout(() => {
+          setCovered(false);
+        }, 300);
+        e.target.scrollTop = 0;
+      }
+    }
+  };
+
   useEffect(() => {
     // set the current route to open
     setSectionMap({ [path.pathname.split("/")[2]]: true });
@@ -88,7 +109,7 @@ export default function Template({
       </Helmet>
       {images.length && <Carausel images={images}></Carausel>}
       <FullPage>
-        <BodyArea>
+        <BodyArea onScroll={scrollBody} coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody
