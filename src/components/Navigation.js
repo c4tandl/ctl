@@ -57,6 +57,9 @@ const MenuUl = styled.ul`
 export const MenuOption = styled.li`
   padding: 16px 2em 11px 2em;
   background-color: white;
+  &.final {
+    border-bottom: 0;
+  }
   a {
     text-decoration: none;
     color: black;

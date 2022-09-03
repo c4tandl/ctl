@@ -8,7 +8,7 @@ const AboutMenu = () => (
       query={aboutQuery}
       render={({ allMarkdownRemark: { edges } }) => (
         <>
-          {edges.map(({ node: { frontmatter } }) => {
+          {edges.map(({ node: { frontmatter } }, index) => {
             return (
               <span key={frontmatter.path}>
                 {parseInt(frontmatter.sort) === 9 && (
@@ -18,10 +18,7 @@ const AboutMenu = () => (
                   </MenuOption>
                 )}
                 <MenuOption
-                  style={{
-                    borderBottom:
-                      frontmatter.sort === 10 ? "0" : "1px solid black",
-                  }}
+                  className={index === edges.length - 1 ? "final" : null}
                 >
                   <Link to={`/about/${frontmatter.path}`}>
                     {frontmatter.title}

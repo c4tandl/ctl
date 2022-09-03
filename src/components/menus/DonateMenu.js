@@ -8,9 +8,12 @@ const DonateMenu = () => (
       query={donateQuery}
       render={({ allMarkdownRemark: { edges } }) => (
         <>
-          {edges.map(({ node: { frontmatter } }) => {
+          {edges.map(({ node: { frontmatter } }, index) => {
             return (
-              <MenuOption key={frontmatter.path}>
+              <MenuOption
+                key={frontmatter.path}
+                className={index === edges.length - 1 ? "final" : null}
+              >
                 <Link to={frontmatter.path}>{frontmatter.title}</Link>
               </MenuOption>
             );

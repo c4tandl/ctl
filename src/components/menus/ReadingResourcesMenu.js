@@ -11,7 +11,7 @@ const ReadingResources = () => (
       query={readingResourcesQuery}
       render={({ allMarkdownRemark: { edges } }) => (
         <>
-          {edges.map(({ node: { frontmatter } }) => {
+          {edges.map(({ node: { frontmatter } }, index) => {
             return (
               <span key={frontmatter.path}>
                 {parseInt(frontmatter.sort) === 2 && (
@@ -22,7 +22,9 @@ const ReadingResources = () => (
                     </Link>
                   </MenuOption>
                 )}
-                <MenuOption>
+                <MenuOption
+                  className={index === edges.length - 1 ? "final" : null}
+                >
                   <Link to={frontmatter.path}>{frontmatter.title}</Link>
                 </MenuOption>
               </span>
