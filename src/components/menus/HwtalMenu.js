@@ -17,7 +17,9 @@ const HwtalMenu = () => (
                 key={frontmatter.path}
                 className={index === edges.length - 1 ? "final" : null}
               >
-                <Link to={frontmatter.path}>{frontmatter.title}</Link>
+                <Link to={`/how-we-teach-and-learn/${frontmatter.path}`}>
+                  {frontmatter.title}
+                </Link>
               </MenuOption>
             );
           })}
