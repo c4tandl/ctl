@@ -1,7 +1,7 @@
 ---
 slug: /middle-school-book-blog/monument-14-sky-on-fire-by-emmy-laybourne
 date: 2014-02-04T11:56:07Z
-title: Monument 14: Sky on Fire, by Emmy Laybourne
+title: "Monument 14: Sky on Fire, by Emmy Laybourne"
 blog: middle-school-book-blog
 categories:
   - adv

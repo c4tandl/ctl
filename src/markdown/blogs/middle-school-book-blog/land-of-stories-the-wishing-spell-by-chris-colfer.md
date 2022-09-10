@@ -1,7 +1,7 @@
 ---
 slug: /middle-school-book-blog/land-of-stories-the-wishing-spell-by-chris-colfer
 date: 2021-02-03T16:30:58Z
-title: Land of Stories: The Wishing Spell by Chris Colfer
+title: "Land of Stories: The Wishing Spell by Chris Colfer"
 blog: middle-school-book-blog
 categories:
   - adv
