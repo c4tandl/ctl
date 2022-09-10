@@ -8,7 +8,7 @@ categories:
 authors:
   - walter-dean-myers
 images:
-  - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700418/monster.jpg.jpg
+  - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1662814371/monster.jpg.jpg
 comments:
 creator: Krista
 ---

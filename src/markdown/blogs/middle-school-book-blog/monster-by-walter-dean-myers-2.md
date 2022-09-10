@@ -9,7 +9,7 @@ categories:
   - yaserious
 authors:
 images:
-  - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700621/monster.jpg.jpg
+  - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1662814562/monster.jpg.jpg
 comments:
 creator: Anne
 ---
