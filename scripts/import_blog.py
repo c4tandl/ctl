@@ -13,7 +13,7 @@ import cloudinary.api
 from pprint import pprint
 
 
-dotenv_path = join(dirname(__file__), '../', '.env')
+dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
 cloud = cloudinary

@@ -24,7 +24,7 @@ init({
       name: "cloudinary",
       config: {
         cloud_name: "center-for-teaching-learning",
-        api_key: process.env.CLOUDINARY_API_KEY,
+        api_key: process.env.GATSBY_CLOUDINARY_API_KEY,
       },
     },
     collections: [
