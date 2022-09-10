@@ -63,19 +63,20 @@ async def create_markdown_file(cloud, post):
     images = []
 
     # pq is pyquery (jquery like html parsing)
-    if post['content'] and '/c-t-l.org/wp-content/uploads/' in post['content']:
+    if post['content']:
         doc = pq(post['content'])
-        for image in doc('img'):
-            newsrc = await upload_image(cloud, image)
-            if newsrc:
-                images.append(newsrc)
-            pq(image).remove()
-        for image in doc('a'):
-            newsrc = await upload_image(cloud, image)
-            if newsrc:
-                images.append(newsrc)
-            pq(image).remove()
-        post['content'] = doc.html().replace('\n\n', '<br />')
+        if '/c-t-l.org/wp-content/uploads/' in post['content']:
+            for image in doc('img'):
+                newsrc = await upload_image(cloud, image)
+                if newsrc:
+                    images.append(newsrc)
+                pq(image).remove()
+            for image in doc('a'):
+                newsrc = await upload_image(cloud, image)
+                if newsrc:
+                    images.append(newsrc)
+                pq(image).remove()
+        post['content'] = doc.html().replace('\n\n', '<br />').replace('http:', 'https')
     
     # Create the file like:
     # ---
