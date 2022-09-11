@@ -52,10 +52,25 @@ const Post = ({ post }) => (
 );
 
 const BlogList = (props) => {
+  const about = props.posts.find(
+    (edge) =>
+      edge.node.frontmatter.slug ===
+      "/middle-school-book-blog/about/welcome-to-the-ctl-book-blog"
+  );
   const Posts = props.posts
-    .filter((edge) => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
+    .filter(
+      (edge) =>
+        !!edge.node.frontmatter.date &&
+        edge.node.frontmatter.slug !==
+          "/middle-school-book-blog/about/welcome-to-the-ctl-book-blog"
+    ) // You can filter your posts based on some criteria
     .map((edge) => <Post key={edge.node.id} post={edge.node} />);
-  return <div>{Posts}</div>;
+  return (
+    <div>
+      <Post post={about.node} />
+      {Posts}
+    </div>
+  );
 };
 
 export default BlogList;

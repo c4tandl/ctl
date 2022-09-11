@@ -1,5 +1,5 @@
 ---
-slug: /middle-school-book-blog/welcome-to-the-ctl-book-blog
+slug: /middle-school-book-blog/about/welcome-to-the-ctl-book-blog
 date: 2021-02-10T13:53:21Z
 title: Welcome to the CTL Book Blog
 ---
