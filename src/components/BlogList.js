@@ -52,22 +52,19 @@ const Post = ({ post }) => (
 );
 
 const BlogList = (props) => {
-  const about = props.posts.find(
-    (edge) =>
-      edge.node.frontmatter.slug ===
-      "/middle-school-book-blog/about/welcome-to-the-ctl-book-blog"
+  const about = props.posts.find((edge) =>
+    edge.node.frontmatter.slug.includes("/about/")
   );
   const Posts = props.posts
     .filter(
       (edge) =>
         !!edge.node.frontmatter.date &&
-        edge.node.frontmatter.slug !==
-          "/middle-school-book-blog/about/welcome-to-the-ctl-book-blog"
+        !edge.node.frontmatter.slug.includes("/about/")
     ) // You can filter your posts based on some criteria
     .map((edge) => <Post key={edge.node.id} post={edge.node} />);
   return (
     <div>
-      <Post post={about.node} />
+      {about ? <Post post={about.node} /> : null}
       {Posts}
     </div>
   );
