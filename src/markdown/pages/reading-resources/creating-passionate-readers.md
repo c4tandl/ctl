@@ -41,4 +41,4 @@ If you are interested in learning more about how we teach reading at CTL, I have
 
 With all best wishes,
 
-Nancie Atwell
+*Nancie Atwell*
