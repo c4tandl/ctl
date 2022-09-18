@@ -22,10 +22,10 @@ For the academic school year of 2022-23, the admissions deadline of February 15 
 
 If you are ready to move forward with an application and join CTL’s waitlist, please apply using the [TADS enrollment system](https://mytads.com/a/ctl). Contact the office with any questions.
 
-Tuition — $11,600 in 2022-23, grades K-8. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance based on income for the previous year. Payment plans are available, with single pay, two payment, and nine payment options. 
+**Tuition — $11,600 in 2022-23, grades K-8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance based on income for the previous year. Payment plans are available, with single pay, two payment, and nine payment options. 
 
-Kindergarten — Each year we accept up to nine children in our kindergarten class. Parents can attend an Open House or schedule a tour to learn more about the school. Once a decision is made to apply, kindergarten applicants will come for a visit from 8:30-12:45, joining the current kindergarten class. Caroline Bond, CTL’s kindergarten teacher, will observe and informally assess the applicant’s readiness. 
+**Kindergarten** — Each year we accept up to nine children in our kindergarten class. Parents can attend an Open House or schedule a tour to learn more about the school. Once a decision is made to apply, kindergarten applicants will come for a visit from 8:30-12:45, joining the current kindergarten class. Caroline Bond, CTL’s kindergarten teacher, will observe and informally assess the applicant’s readiness. 
 
-Grades 1 through 7 — Although CTL is currently full for this academic year, we always anticipate openings in the subsequent academic year. Interested families should submit an inquiry for next year using the inquiry link above to learn more. 
+**Grades 1 through 7** — Although CTL is currently full for this academic year, we always anticipate openings in the subsequent academic year. Interested families should submit an inquiry for next year using the inquiry link above to learn more. 
 
 This year, CTL will hold open houses in October and April. Fill out an inquiry to learn more. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
