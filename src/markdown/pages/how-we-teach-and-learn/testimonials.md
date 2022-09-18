@@ -5,7 +5,6 @@ title: Testimonials
 sort: 7
 nav: how-we-teach-and-learn
 ---
-
 ## Why CTL?
 
 “It’s like a cozy fabric, almost like a hammock, that, when we’re in it as a family, it just holds us. That’s how I feel about this school.” – CTL parent
