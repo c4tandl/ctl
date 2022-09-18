@@ -25,7 +25,9 @@ const ReadingResources = () => (
                 <MenuOption
                   className={index === edges.length - 1 ? "final" : null}
                 >
-                  <Link to={frontmatter.path}>{frontmatter.title}</Link>
+                  <Link to={`/reading-resources/${frontmatter.path}`}>
+                    {frontmatter.title}
+                  </Link>
                 </MenuOption>
               </span>
             );

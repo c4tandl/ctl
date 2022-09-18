@@ -1,15 +1,16 @@
 ---
-path: /internships/overview-and-testimonials
+path: overview-and-testimonials
 date: 2021-10-06T12:35:38.975Z
 title: Overview & Testimonials
 sort: 1
 nav: internships
 ---
+
 # Internships
 
 Interested educators: Apply today using the attached internship application.
 
-You may scan and email to internship@c-t-l.org or mail to Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556 USA. 
+You may scan and email to internship@c-t-l.org or mail to Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556 USA.
 
 The Center for Teaching and Learning opened its doors in 1990 as a non-profit demonstration school funded through foundation grants, tuitions, donations, and revenues raised through seminars and a program for teacher-visitors. Our student population includes up to eighty children of mixed abilities in classes of combined grades, K-8. The tuition is set purposely low—one-third that of other independent schools in the area. We work hard to raise sufficient tuition assistance so that our student population closely resembles that of a typical Maine public elementary school.
 

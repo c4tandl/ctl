@@ -5,9 +5,8 @@ title: High School Readers
 sort: 3
 nav: reading-resources
 ---
+
 CTL graduates become voracious readers: that’s a fact. But after 8th grade-and without booktalks and classroom libraries-it can be hard to find books for pleasure reading. Nancie created these lists of recommended titles for high school students looking for the next level of great books to read independently. If you’re a CTL alum who’s found a great book that’s not on the list, would you give Louise a call? We’d love to add your beloved new titles and spread the word.
-
-
 
 ## Pleasure Reading for CTL Graduates
 
@@ -21,15 +20,15 @@ Allende, Isabel    The House of the Spirits, Ines of My Soul and Island Beneat
 
 Anderson, Laurie Halse    Speak
 
-Anderson, M.T.    The Astonishing Life of Octavian Nothing: The Pox Party 
+Anderson, M.T.    The Astonishing Life of Octavian Nothing: The Pox Party
 
-  and The Astonishing Life of Octavian Nothing: The Kingdom on the Waves 
+and The Astonishing Life of Octavian Nothing: The Kingdom on the Waves
 
 Atkinson, Kate    Behind the Scenes at the Museum
 
 Atwood, Margaret    Alias Grace, The Blind Assassin, Cat’s Eye,
 
-     The Handmaid’s Tale, Moral Disorder, and Surfacing
+The Handmaid’s Tale, Moral Disorder, and Surfacing
 
 Austen, Jane    Emma, Pride and Prejudice, and Mansfield Park
 
@@ -57,7 +56,7 @@ Bronte, Charlotte    Jane Eyre
 
 Bryson, Bill    A Short History of Nearly Everything, The Thunderbolt Kid, and
 
-     A Walk in the Woods
+A Walk in the Woods
 
 Bowden, Mark    Blackhawk Down
 
@@ -69,7 +68,7 @@ Carroll, Jim    The Basketball Diaries
 
 Chabon, Michael    The Amazing Adventures of Kavalier and Clay, The Yiddish
 
-    Policeman’s Union, Wonder Boys and Manhood for Amateurs
+Policeman’s Union, Wonder Boys and Manhood for Amateurs
 
 Chang, Jung    Wild Swans
 
@@ -101,9 +100,9 @@ DuMaurier, Daphne    Rebecca
 
 Edwards, Kim    The Memory Keeper’s Daughter
 
-Eggers, Dave    A Heartbreaking Work of Staggering Genius, What Is 
+Eggers, Dave    A Heartbreaking Work of Staggering Genius, What Is
 
-  the What, and Zeitoun
+the What, and Zeitoun
 
 Ellison, Ralph    The Invisible Man
 
@@ -183,7 +182,7 @@ Huxley, Aldous    Brave New World
 
 Irving, John    The Ciderhouse Rules, Hotel New Hampshire,
 
-     A Prayer for Owen Meany, and The World According to Garp
+A Prayer for Owen Meany, and The World According to Garp
 
 Ishiguro, Kazuo    Never Let Me Go and The Remains of the Day
 
@@ -211,7 +210,7 @@ King, Stephen    The Shining
 
 Kingsolver, Barbara    Animal Dreams, The Bean Trees
 
-     The Lacuna, and The Poisonwood Bible
+The Lacuna, and The Poisonwood Bible
 
 Kneale, Matthew    When We Were Romans
 
@@ -257,7 +256,7 @@ Mailer, Norman    The Naked and the Dead
 
 Marquez, Gabriel Garcia    Love in the Time of Cholera
 
-     and One Hundred Years of Solitude
+and One Hundred Years of Solitude
 
 Martel, Yann    Life of Pi
 
@@ -279,19 +278,19 @@ Moehringer, J.R.    The Tender Bar
 
 Moody, Rick    The Ice Storm
 
-Moore, Lorrie    Birds of America, A Gate at the Stairs, and Who Will 
+Moore, Lorrie    Birds of America, A Gate at the Stairs, and Who Will
 
-    Run the Frog Hospital?
+Run the Frog Hospital?
 
 Morrison, Toni    Beloved, The Bluest Eye, and A Mercy
 
 Mosley, Walter    47
 
-Munro, Alice    Dance of the Happy Shades, Friend of My Youth 
+Munro, Alice    Dance of the Happy Shades, Friend of My Youth
 
-     Lives of Girls and Women, The Love of a Good Woman, Runaway
+Lives of Girls and Women, The Love of a Good Woman, Runaway
 
-     and Something I’ve Been Meaning to Tell You
+and Something I’ve Been Meaning to Tell You
 
 Nabukov, Vladimir    Lolita and Pale Fire
 
@@ -309,7 +308,7 @@ O’Brien, Patrick    The Master and Commander series
 
 O’Brien, Tim    The Things They Carried, If I Die in a Combat Zone
 
-  and Going After Cacciato
+and Going After Cacciato
 
 Ondaatje, Michael    The English Patient
 
@@ -365,7 +364,7 @@ Schiff, David    Beautiful Boy
 
 Sedaris, David    Dress Your Family in Corduroy and Denim, Naked,
 
-     and Me Talk Pretty One Day
+and Me Talk Pretty One Day
 
 Sharra, Michael    The Killer Angels
 
@@ -417,15 +416,15 @@ Trillin, Calvin    About Alice, Remembering Denny, and others
 
 Trumbo, Dalton    Johnny Got His Gun
 
-Updike, John    The Centaur, Couples, The Witches of Eastwick, and 
+Updike, John    The Centaur, Couples, The Witches of Eastwick, and
 
-and the Rabbit trilogy 
+and the Rabbit trilogy
 
 Vizzini, Ned    Be More Chill and It’s Kind of a Funny Story
 
 Vonnegut, Kurt    Welcome to the Monkey House, Armageddon in Retrospect,
 
-    Slapstick, and Slaughterhouse-Five
+Slapstick, and Slaughterhouse-Five
 
 Walbert, Kate    A Short History of Women
 
@@ -439,9 +438,9 @@ Whitehead, Colson    Sag Harbor
 
 Wiesel, Elie    Night
 
-Wolff, Tobias    In Pharaoh’s Army, Our Story Begins, Old School, 
+Wolff, Tobias    In Pharaoh’s Army, Our Story Begins, Old School,
 
-    and This Boy’s Life
+and This Boy’s Life
 
 Woolf, Virginia    To the Lighthouse and A Room of One’s Own
 

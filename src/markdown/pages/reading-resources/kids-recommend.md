@@ -5,6 +5,7 @@ title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
 ---
+
 ## Kindergarten
 
 Ahlberg, Allan  Each Peach, Pear, Plum
@@ -1001,7 +1002,7 @@ Albertalli, Becky and Adam Silvera    What If It’s Us
 
 Alexander, Kwame   Crossover and Booked
 
-Alexie, Sherman    The Absolutely True Diary of a Part-Time Indian 
+Alexie, Sherman    The Absolutely True Diary of a Part-Time Indian
 
 Alifirenka, Caitlin and Martin Ganda   I Will Always Write Back
 
