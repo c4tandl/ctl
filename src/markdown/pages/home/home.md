@@ -12,13 +12,9 @@ carousel:
 ---
 # Our Mission
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Center for Teaching and Learning is a K-8 demonstration school dedicated to the development and dissemination of authentic, joyful methods for teaching across the curriculum.  
 
-# Morning Meeting
-
-Amet nisl suscipit adipiscing bibendum est ultricies integer. Egestas sed sed risus pretium. Purus semper eget duis at tellus. Orci a scelerisque purus semper eget duis. Orci eu lobortis elementum nibh tellus. Ipsum dolor sit amet consectetur adipiscing elit. Volutpat sed cras ornare arcu dui vivamus arcu felis. Et malesuada fames ac turpis. Et malesuada fames ac turpis egestas sed. Ullamcorper malesuada proin libero nunc consequat interdum.
-
-
+We seek to teach and influence both a cross-section of children of mid-coastal Maine and, through our intern program, speeches, and publications, classroom teachers throughout the U.S.
 
 
 
