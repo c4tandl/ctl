@@ -5,5 +5,4 @@ title: Employment
 sort: 8
 nav: about
 ---
-
-Employment!
+CTL is always accepting applications for substitute teachers. Please contact Louise Monroe at [louise@c-t-l.org ](louise@c-t-l.org)or 207-882-9706 for more information.
