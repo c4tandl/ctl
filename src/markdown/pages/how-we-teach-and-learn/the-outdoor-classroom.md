@@ -5,5 +5,16 @@ title: The Outdoor Classroom
 sort: 4
 nav: how-we-teach-and-learn
 ---
+CTL’s Outdoor Classroom is both a place and a program. 
 
-The Outdoor Classroom!
+The structure is a timber-framed classroom in the woods to further support the hands-on science curriculum, where students collect data for current scientific studies, partnering with scientists at the University of Maine, the Department of Marine Resources, Bigelow Labs, and other ongoing professional research. 
+
+The learning that happens at the Outdoor Classroom follows CTL’s workshop approach, where student choice and voice remain at the center of the learning. CTL believes that raising young people to be deeply connected to the natural world will be crucial to the choices that we make about how to take care of our world. CTL’s outdoor classroom is a study station, an observation room, a place to huddle up and be together when it rains, and a home base for engaged and curious kids. It’s a visual and physical reminder of how much the community values connection to nature and how time outdoors feed us all. 
+
+Over the past three years, Annie Nixon has developed and implemented a hands-on field science curriculum for grades K-2, who each spend a day each and every week on Forest Field Science, in rain, shine, snow, or any other iteration of Maine weather. Students deeply value their experience in the Outdoor Classroom and, in self-reflections, frequently cite it as a crucial part of their learning for the year. 
+
+Students in grade 3-8 access the Outdoor Classroom as appropriate to their curricular projects, traveling down the hill to do research on Maine mammals, weather, and water, and sometimes even to write nature-inspired poetry.
+
+The History
+
+In 2017, using grant funds from the Davis Family Foundation and Jane’s Trust, a donation by Roger Gies in honor of Barbara Balmos Gies, and other funds, CTL built a timber frame classroom at the bottom of the school’s hilly eight acre campus. The effort was a deep collaboration. Current parents, alumni, alumni parents and previous school interns donated to an Annual Appeal in 2017. Westport resident and alumni parent Lydia Kittfield donated the funds to get the project started and connected the school to Edgecomb timber framer Travis Chapman. Current parent and Boothbay carpenter Ross Branch filled in the frame and gave the building the warm and welcoming feel it has today. Jane’s Trust and the Davis Family Foundation provided CTL with grants to fund curriculum, instruction for students, the structure itself, and also the creation of educational fieldwork resource kits, which are available for Maine teachers to borrow and use in their own classrooms.
