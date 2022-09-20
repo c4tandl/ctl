@@ -25,7 +25,7 @@ const Nav = styled.div`
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 0 25px;
+  margin: 0 25px 10px 25px;
 `;
 
 const MenuBody = styled.div`
