@@ -15,7 +15,7 @@ const PageStyles = styled.div`
 `;
 const BodyStyles = styled.div`
   margin: 0 2em;
-  margin-top: 16em;
+  margin-top: ${(props) => props.headerHeight}px;
   height: fit-content;
 `;
 const Footpad = styled.div`
@@ -30,13 +30,27 @@ const HeaderLand = styled.div`
 `;
 
 const Layout = ({ children }) => {
+  const [headerHeight, setHeaderHeight] = React.useState(275);
+  const headerRef = React.useRef(null);
+
+  const resizeWindow = () => {
+    if (headerRef.current?.clientHeight + 7 !== headerHeight) {
+      setHeaderHeight(headerRef.current?.clientHeight + 7);
+    }
+  };
+
+  React.useEffect(() => {
+    window.addEventListener("resize", resizeWindow);
+    return () => window.removeEventListener("resize", resizeWindow);
+  }, []);
+
   return (
     <PageStyles>
-      <HeaderLand>
+      <HeaderLand ref={headerRef}>
         <Header />
         <Navigation />
       </HeaderLand>
-      <BodyStyles>{children}</BodyStyles>
+      <BodyStyles headerHeight={headerHeight}>{children}</BodyStyles>
       <Footpad>
         <Footer></Footer>
       </Footpad>
