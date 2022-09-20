@@ -34,7 +34,7 @@ const Button = styled.div`
 
 const Slide = styled.img`
   justify-self: flex-start;
-  height: 35vh;
+  height: 335px;
   margin: 0 15px;
 `;
 

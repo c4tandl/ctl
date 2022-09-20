@@ -5,7 +5,7 @@ import { useLocation } from "@reach/router";
 import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
-import Carausel from "../../components/Carausel";
+import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 
 const Page = styled.div`
@@ -118,7 +118,7 @@ export default function Template({
       <Helmet>
         <title>CTL - About</title>
       </Helmet>
-      {images.length && <Carausel images={images}></Carausel>}
+      {images.length && <Carousel images={images}></Carousel>}
       <FullPage>
         <BodyArea
           ref={bodyRef}

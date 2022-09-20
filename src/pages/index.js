@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
-import Carausel from "../components/Carausel";
+import Carousel from "../components/Carousel";
 import Body from "../components/Body";
 
 const Page = styled.div`
@@ -88,7 +88,7 @@ export default function Template({
       <Helmet>
         <title>CTL - {title}</title>
       </Helmet>
-      <Carausel images={images}></Carausel>
+      <Carousel images={images}></Carousel>
       <FullPage>
         <BodyHolder onScroll={scrollBody} coverSlideshow={coverSlideshow}>
           <BodyText>
