@@ -6,7 +6,7 @@ title: Contact
 119 Cross Point Road\
 Edgecomb, Maine 04556
 
-<﻿br/>
+<br/>
 
 Phone: 207-882-9706\
 Fax: 207-882-6413
