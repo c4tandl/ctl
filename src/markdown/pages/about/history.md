@@ -5,29 +5,16 @@ title: History of CTL
 sort: 2
 nav: about
 ---
-The Center for Teaching and Learning is a K-8 independent demonstration school. Founded in 1990 by educator and Global Teacher Prize winner Nancie Atwell and certified by the New England Association of Schools and Colleges, CTL has 501(c)(3) non-profit status, serves a population of approximately 80 students, and draws from nearly twenty towns and villages to create a loving, close-knit community of families who are committed to excellence in education. Students attend CTL from the communities of Alna, Arrowsic, Bath, Boothbay, Boothbay Harbor, Brunswick, Damariscotta, Dresden, Edgecomb, Georgetown, Newcastle, Richmond, Southport, Waldoboro, Westport Island, Whitefield, Wiscasset, and Woolwich.
-The school is known locally and nationally for its award-winning teaching, research-based methods, outreach to teachers across the United States, relationships of trust between faculty and parents, respect for children, and program that engages students, challenges them, and prepares them for life beyond CTL.
-Our graduates include nine high school valedictorians and salutatorians. They excel at Lincoln Academy and other local secondary schools, as well as Cheverus, the Maine School of Science and Mathematics, Middlesex, North Yarmouth Academy, Phillips Andover, Phillips Exeter, Putney, St. George’s, Walnut Hill, and Waynflete. CTL alums have matriculated to colleges and universities, including Amherst, Bates, Bard, Bowdoin, Carleton, Colby, Cornell, Dartmouth, George Washington University, Hamilton, Harvard, Haverford, Kenyon, McGill, Middlebury, Mount Holyoke, Pomona, RPI, Stanford, Tufts, University of Chicago, and UMO’s Honors Program.
+The Center for Teaching and Learning, a K-8 independent school, was founded by Nancie Atwell in 1990. CTL is accredited by the New England Association of Schools and Colleges, licensed by the Maine Department of Education, and has state and federal tax-exempt status as a non-profit, 501(c)(3) corporation. It draws students from more than twenty communities in Maine’s midcoast region.
 
-## Why are CTL Graduates So Successful?
+CTL is a demonstration school: the faculty conducts research and draws on credible studies; develops practices that reflect our knowledge and theories; and helps other educators understand what is possible for their classrooms and schools. 
 
-### Academics
+Royalties from the first edition of Nancie Atwell’s book *In the Middle* underwrote the initial construction of CTL. Additional income is raised through an annual fundraising campaign, a biennial silent auction, grants, royalties from Nancie Atwell’s publications, an intern program for visiting teachers, and Nancie’s donation to CTL of the million-dollar award she received from the Varkey Foundation when she was named recipient of the Global Teacher Prize in 2015.
 
-* a library in every room, tens of thousands of books for students to choose among, time to read them every day, and smart, individualized instruction that results in both high proficiency and a passion for books and reading
-* a research-based math program that gives CTL graduates a head start in high school, plus an award-winning Mathcounts team
-* a five-year spiral curriculum in science and history in which all students, grades K-8, engage together as researchers of paired concepts: ancient civilizations (Egypt, Greece, Rome, medieval Europe, and the Renaissance) and systems (weather, human biology, and astronomy); making a nation and water; 19th century America and geology/paleontology; immigration and the first half of the 20th century and energy and invention; and who we are today and woods and wildlife
-* a science lab and hands-on learning in science and history: field trips, guest experts, experiments, project-based research, collaborations with regional environmental agencies and institutions, participation in the Maine Model United Nations Program, and explorations in the arts
-* daily writing workshops in which students develop their own topics, write in many genres, confer with their teachers about drafts in progress, communicate their ideas to others, and achieve recognition for writing excellence
+It is a continuing challenge to enroll the range of students who allow us to characterize CTL as a demonstration school. We seek children of many levels of ability and socioeconomic background, and we work hard to keep tuition rates low and to raise money to provide tuition assistance, so the school can attract all kinds of kids and families and provide a credible lab school for other teachers.
 
-### Enrichment
+We enjoy a physical plant that is designed for children, learning, teaching, and collegiality. Our students’ sense of initiative, enthusiasm for school, competence, and curiosity take our breaths away. Our students know stuff and want to know more. They understand how work is done, and they want to work. We have a curriculum of breadth and depth that creates writers, readers, mathematicians, scientists, historians, painters, debaters, singers, reporters, musicians, actors, poets, sculptors, critics, political activists, diplomats, humanitarians, and citizens. We enjoy relationships of trust and congeniality with parents—friendships that are long-term and based on love and a sense of responsibility for a community of children. And we have a faculty of outstanding teachers who bring intelligence, knowledge of effective methods, high expectations, common sense, a cooperative spirit, and an awesome willingness to work hard for other people’s children.
 
-* an exemplary art program taught by Fletcher Boote with frequently-changing displays of children’s work
-* weekly music classes in grades K-4 taught by musician Kaity Newell; drama in grades 5-8 directed by Katy Inman; and student-led performances and productions
-* twice-weekly physical education on the field and in the gym
-* a school literary magazine
-* daily, whole-school morning meetings that create a community as children and teachers chat about current events and natural phenomena, celebrate birthdays, sing, read poems, and laugh together
-* multicultural studies and celebrations throughout the school year that recognize the diversity within CTL’s student body—and of the U.S. as a whole
-* a commitment to community service
-* kid-friendly traditions and rituals that create a love of school and a sense of belonging
-* daily recess, a well-equipped playground, and woods with a nature trail
-* outdoor classroom
+Through our intern program for visiting teachers, we also have a strong sense of how our instructional model translates into diverse settings. For the past thirty years, interning educators have returned to their schools after a week at CTL to create changes that are good for their students, too.
+
+The Center for Teaching and Learning is a school where individual children are respected, accepted, and known for who they are and what they can do. Every decision made by any teacher is based on intimate knowledge of a student’s strengths and goals and the teacher’s best assessment of what a child needs in order to become a humane, productive grown-up.
