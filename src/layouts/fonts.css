@@ -18,3 +18,7 @@
   font-family: "URWDIN-Regular";
   src: url("./fonts/URWDIN-Regular.woff") format("woff");
 }
+@font-face {
+  font-family: "URWDIN-Italic";
+  src: url("./fonts/URWDIN-Italic.woff") format("woff");
+}

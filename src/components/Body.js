@@ -28,6 +28,9 @@ const BodyDiv = styled.div`
     list-style-type: disc;
     padding: 0 2.5em;
   }
+  strong {
+    font-family: "URWDIN-Medium", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  }
 `;
 
 const Body = (props) => {
