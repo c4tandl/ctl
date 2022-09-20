@@ -5,9 +5,15 @@ title: Faculty
 sort: 4
 nav: about
 ---
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Caroline_3_upiugk.png)
+
 **Caroline Bond** is CTL’s kindergarten teacher. She has a B.S. in elementary education from the University of Maine at Farmington and has worked with students of all ages for more than thirty years: as a volunteer at Pine Hill Preschool in Jefferson, a teacher of third and fourth grades at Chelsea and Waldoboro elementary schools, a science teacher of fifth and sixth grade students at Kieve Science Camp for Girls, a seventh and eighth grade math and science teacher at CTL, and a helping and kindergarten teacher at CTL.
 
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Jenn_3_sdbm31.png)
+
 **Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jenn stepped into a new role as the Grade 1-2 teacher. Jenn has always enjoyed teaching the reading and writing programs in grades K-4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Jill_2_ft3qda.png)
 
 **Jill Cotta**, CTL’s teacher of grades 3 and 4 since 2002, is a 1997 graduate of Middlebury College. She earned a Master of Arts in Teaching from the University of Maine at Orono in 2000; prior to obtaining her Masters, she team-taught a combined third and fourth grade class for two years at Weybridge Elementary School in Vermont. She also taught third grade at the Great Salt Bay School in Damariscotta. Jill has conducted teacher workshops about writing and reading in the intermediate grades at seminars across the U.S.
 
@@ -15,11 +21,17 @@ nav: about
 
 **Alyssa Mitchell** is CTL‘s grades 5-8 science teacher and an assistant teacher in 5-8 math. Alyssa is pictured here with her baby, Holden! She lives with her partner, Fergus, and Holden (who is 6 months old) in Boothbay Harbor. Alyssa has taught in Chicago, Nepal, and, most recently, in Lewiston. She is certified in math and science for middle grades and in physical and biological sciences for grades 9-12. Alyssa has a BS in Biology and Psychology from Virginia Commonwealth University and an MEd from National Louis University in Chicago. Alyssa has volunteered with the BRLT as a water quality monitor since moving to Boothbay several years ago and she believes in community partnerships and the importance of citizen science for student learning. Alyssa sees “each day \[as] a new opportunity to learn and foster positive change.” Trust in relationships is crucial to her style of teaching. 
 
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Katie_2_yzlvfx.png)
+
 **Katie Rittershaus** has been CTL’s teacher of middle-school (grades 5-8) mathematics since 2004; before that she was a familiar presence at the school as a long-term substitute, helping teacher, and advocate for children. A passionate mathematician, Katie also holds a B.A. from the University of Southern Maine in women’s studies and took several years of pre-med courses at Regis College and Colorado State University. Her students are stand-outs at Mathcounts competitions and in their high school mathematics courses
 
 **Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 14 years of experience in the classroom. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. At CTL, she works as a part-time administrator in addition to her classroom roles. 
 
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
+
 **Kaity Newell** is CTL’s music teacher for grades K-4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Annie_3_kwomi2.png)
 
 **Annie Nixon** is the physical education teacher for grades K-8, leads our Forest Field Science outdoor education program for K-2, and shares her music in Morning Meeting each day.  Her B.S. degree from Penn State University is in Recreation Park Management with a minor in art. She has led sailing, canoeing, hiking and cross-country skiing experiences for children and adults. Annie is a certified Waldorf Teacher and has been a class teacher at Ashwood Waldorf, Chewonki and a music teacher at the Juniper Hill School. She has a wide range of experience working with students in every grade from pre-K to eighth. Annie sees physical education experiences as an important aspect in overall health and is committed to fostering student’s growing understanding of what lifelong physical health means. Annie currently holds a USCG 100 ton Masters Captain’s License
 
