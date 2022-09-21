@@ -5,8 +5,6 @@ const BodyDiv = styled.div`
   width: 100%;
   position: relative;
   margin-top: 10px;
-  display: flex;
-  flex-direction: column;
   h2,
   h1 {
     margin-top: 25px;
@@ -20,11 +18,6 @@ const BodyDiv = styled.div`
   }
   p {
     margin: 10px 0;
-    display: flex;
-    flex-direction: column;
-    img {
-      align-self: center;
-    }
   }
   img {
     max-width: 400px;
