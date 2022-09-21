@@ -7,7 +7,7 @@ import styled from "styled-components";
 import Carousel from "../components/Carousel";
 import Body from "../components/Body";
 
-const Page = styled.div`
+export const Page = styled.div`
   display: flex;
   flex-direction: column;
 `;
@@ -21,14 +21,14 @@ const Updated = styled.div`
   color: grey;
 `;
 
-const FullPage = styled.div`
+export const FullPage = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100vw;
 `;
 
-const BodyHolder = styled.div`
+export const BodyHolder = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
@@ -50,8 +50,6 @@ const BodyHolder = styled.div`
     font-size: 16pt;
   }
 `;
-
-const BodyText = styled.div``;
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -91,9 +89,7 @@ export default function Template({
       <Carousel images={images}></Carousel>
       <FullPage>
         <BodyHolder onScroll={scrollBody} coverSlideshow={coverSlideshow}>
-          <BodyText>
-            <Body body={html} />
-          </BodyText>
+          <Body body={html} />
         </BodyHolder>
       </FullPage>
       <Updated title={`Last updated - ${date}`}>&Delta;</Updated>

@@ -50,6 +50,16 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
+  span.profiles {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    img {
+      height: 400px;
+      width: auto;
+    }
+  }
 `;
 
 export default function Template({
@@ -132,7 +142,13 @@ export default function Template({
                 handleToggle={() => handleToggleSection(frontmatter.path)}
                 key={frontmatter.path}
                 title={frontmatter.title}
-                html={html}
+                html={
+                  ["faculty", "administration", "board-of-directors"].includes(
+                    frontmatter.path
+                  )
+                    ? `<span class='profiles'>${html}</span>`
+                    : html
+                }
               />
             ))}
         </BodyArea>
