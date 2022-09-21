@@ -24,6 +24,9 @@ export const middleSchoolBookBlogQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             slug
             title
+            authors
+            creator
+            images
           }
         }
       }
