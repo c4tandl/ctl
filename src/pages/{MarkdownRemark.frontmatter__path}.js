@@ -22,7 +22,7 @@ const BodyHolder = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
-  padding: 0 20px;
+  padding: 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "335px")};
   transition: 0.3s;
   h1 {
@@ -49,9 +49,9 @@ export default function Template({
       <Helmet>
         <title>CTL - {frontmatter.title}</title>
       </Helmet>
-      {images.length && <Carousel images={images} />}
+      {images.length ? <Carousel images={images} /> : null}
       <FullPage>
-        <BodyHolder>
+        <BodyHolder coverSlideshow={!images.length}>
           <Body body={html} />
         </BodyHolder>
       </FullPage>

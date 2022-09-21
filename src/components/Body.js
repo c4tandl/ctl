@@ -28,6 +28,13 @@ const BodyDiv = styled.div`
     list-style-type: disc;
     padding: 0 2.5em;
   }
+  ol {
+    list-style-type: lower-roman;
+    padding: 2em;
+    li {
+      padding: 0.35em 0;
+    }
+  }
   strong {
     font-family: "URWDIN-Medium", "Helvetica Neue", Arial, Helvetica, sans-serif;
   }

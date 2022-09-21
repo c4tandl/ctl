@@ -2,13 +2,15 @@
 @import "./reset.css";
 
 p,
-ul {
+ul,
+ol {
   font-size: 1.2em;
   line-height: 1.5em;
   font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-ul {
+ul,
+ol {
   /* Make the font narrower */
-  transform: scaleX(0.85);
+  transform: scaleX(0.87);
   transform-origin: 0 100%;
 }
