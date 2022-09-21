@@ -7,7 +7,7 @@ import styled from "styled-components";
 import Carousel from "../components/Carousel";
 import Body from "../components/Body";
 
-export const Page = styled.div`
+const Page = styled.div`
   display: flex;
   flex-direction: column;
 `;
@@ -21,14 +21,14 @@ const Updated = styled.div`
   color: grey;
 `;
 
-export const FullPage = styled.div`
+const FullPage = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100vw;
 `;
 
-export const BodyHolder = styled.div`
+const BodyHolder = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
