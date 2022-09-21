@@ -20,7 +20,7 @@ const BodyDiv = styled.div`
     margin: 10px 0;
   }
   img {
-    max-width: 400px;
+    max-width: 600px;
     height: auto;
     object-fit: cover;
   }
