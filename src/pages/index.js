@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import { graphql } from "gatsby";
 
 import { Helmet } from "react-helmet";
@@ -32,14 +32,9 @@ const BodyHolder = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
-  max-height: 55vh;
   padding: 0 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "335px")};
   transition: 0.3s;
-  overflow-y: scroll;
-  ::-webkit-scrollbar {
-    display: none;
-  }
   h1 {
     font-size: 25pt;
   }
@@ -54,8 +49,6 @@ const BodyHolder = styled.div`
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
-  const [coverSlideshow, setCoverSlideshow] = useState(false);
-  const [covered, setCovered] = useState(false);
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { frontmatter, html } = allMarkdownRemark.edges[0].node;
   const {
@@ -63,24 +56,7 @@ export default function Template({
     date,
     carousel: { images },
   } = frontmatter;
-  const scrollBody = (e) => {
-    if (!covered) {
-      setCoverSlideshow(true);
-      setTimeout(() => {
-        setCovered(true);
-        e.target.scrollTop = 1;
-      }, 300);
-      e.target.scrollTop = 0;
-    } else {
-      if (e.target.scrollTop <= 0) {
-        setCoverSlideshow(false);
-        setTimeout(() => {
-          setCovered(false);
-        }, 300);
-        e.target.scrollTop = 0;
-      }
-    }
-  };
+
   return (
     <Page>
       <Helmet>
@@ -88,7 +64,7 @@ export default function Template({
       </Helmet>
       <Carousel images={images}></Carousel>
       <FullPage>
-        <BodyHolder onScroll={scrollBody} coverSlideshow={coverSlideshow}>
+        <BodyHolder>
           <Body body={html} />
         </BodyHolder>
       </FullPage>

@@ -4,6 +4,14 @@ date: 2021-10-06T12:35:38.975Z
 title: Creating Passionate Readers - a piece by Nancy Atwell
 sort: 1
 nav: reading-resources
+carousel:
+  images:
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667663/200114_untitledshoot_DSC_4012_m0ildc.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667659/200114_untitledshoot_DSC_3932_jabk4y.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667655/200114_untitledshoot_DSC_3799_fihvaf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088626/200114_untitledshoot_DSC_3566_ykf1la.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088620/200114_untitledshoot_DSC_3838_sbrwp1.jpg
 ---
 
 The annual average number of books read by seventh and eighth grade readers at CTL is at least forty titles. In the lower grades, the numbers are similarly high. My K-6 colleagues and I make time every day for our students to curl up with good books and engage in the single activity that consistently correlates with high levels of performance on standardized tests of reading ability. That is _frequent, voluminous, self-selected reading_. A child sitting in a quiet room with a good book isn’t a flashy or marketable teaching method. It just happens to be the only way anyone ever became a reader.

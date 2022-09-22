@@ -35,7 +35,7 @@ const BodyArea = styled.div`
   width: 900px;
   padding: 0 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "335px")};
-  transition: 0.3s;
+  transition: 0.5s;
   h1 {
     font-size: 25pt;
   }
@@ -62,8 +62,6 @@ export default function Template({
 }) {
   const [sectionMap, setSectionMap] = useState({});
   const [coverSlideshow, setCoverSlideshow] = useState(false);
-  const [covered, setCovered] = useState(false);
-  const bodyRef = useRef(null);
   const path = useLocation();
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { edges } = allMarkdownRemark;
@@ -84,38 +82,10 @@ export default function Template({
     setSectionMap({ ...sectionMap, [section]: !sectionMap[section] });
   };
 
-  const scrollBody = (e) => {
-    if (!covered) {
-      setCoverSlideshow(true);
-      setTimeout(() => {
-        setCovered(true);
-        e.target.scrollTop = 1;
-      }, 300);
-      e.target.scrollTop = 0;
-    } else {
-      if (e.target.scrollTop <= 0) {
-        setCoverSlideshow(false);
-        setTimeout(() => {
-          setCovered(false);
-        }, 300);
-        e.target.scrollTop = 0;
-      }
-    }
-  };
-
   useEffect(() => {
     // set the current route to open
     setSectionMap({ [path.pathname.split("/")[2]]: true });
     setCoverSlideshow(true);
-    const timer = setTimeout(() => {
-      setTimeout(() => {
-        setCovered(true);
-        if (bodyRef.current) {
-          bodyRef.current.scrollTop = 1;
-        }
-      }, 300);
-    }, 500);
-    return () => clearTimeout(timer);
   }, [path]);
 
   return (
@@ -125,11 +95,7 @@ export default function Template({
       </Helmet>
       {images.length && <Carousel images={images}></Carousel>}
       <FullPage>
-        <BodyArea
-          ref={bodyRef}
-          onScroll={scrollBody}
-          coverSlideshow={coverSlideshow}
-        >
+        <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody
