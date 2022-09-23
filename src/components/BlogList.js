@@ -77,7 +77,7 @@ const Post = ({ post }) => (
       <div>{post.frontmatter.date}</div>
     </Title>
     <div>
-      {post.frontmatter.images.length
+      {post.frontmatter.images?.length
         ? post.frontmatter.images.map((image) => {
             return <BlogImage src={image}></BlogImage>;
           })
