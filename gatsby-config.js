@@ -7,7 +7,6 @@ module.exports = {
     title: "Center for Teaching and Learning",
   },
   plugins: [
-    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-styled-components",
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
