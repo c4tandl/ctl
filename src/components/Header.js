@@ -18,6 +18,27 @@ const Title = styled.div`
 
 const TreeLogo = styled.img`
   width: 160px;
+  @media only screen and (max-width: 1200px) {
+    width: 150px;
+  }
+  @media only screen and (max-width: 777px) {
+    width: 130px;
+  }
+  @media only screen and (max-width: 558px) {
+    width: 90px;
+  }
+`;
+
+const TitleText = styled.h1`
+  @media only screen and (max-width: 1200px) {
+    font-size: 30pt;
+  }
+  @media only screen and (max-width: 777px) {
+    font-size: 20pt;
+  }
+  @media only screen and (max-width: 558px) {
+    font-size: 15pt;
+  }
 `;
 
 const Header = () => {
@@ -26,7 +47,7 @@ const Header = () => {
       <a href="/">
         <TreeLogo src={CTL_Logo} />
       </a>
-      <h1>Center for Teaching & Learning</h1>
+      <TitleText>Center for Teaching & Learning</TitleText>
     </Title>
   );
 };

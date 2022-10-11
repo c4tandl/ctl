@@ -9,6 +9,7 @@ import styled from "styled-components";
 const PageStyles = styled.div`
   color: #232129;
   width: 100%;
+  max-width: 100vw;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

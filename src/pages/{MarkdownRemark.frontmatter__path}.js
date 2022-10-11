@@ -34,6 +34,18 @@ const BodyHolder = styled.div`
   h3 {
     font-size: 16pt;
   }
+  @media only screen and (max-width: 900px) {
+    span.profiles {
+      img {
+        height: 60vh;
+      }
+    }
+    width: 70vw;
+    padding: 0;
+    img {
+      max-width: 60vw;
+    }
+  }
 `;
 
 export default function Template({

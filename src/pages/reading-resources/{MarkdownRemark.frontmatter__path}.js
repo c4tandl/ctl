@@ -45,6 +45,13 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
+  @media only screen and (max-width: 900px) {
+    width: 70vw;
+    padding: 0;
+    img {
+      max-width: 60vw;
+    }
+  }
 `;
 
 export default function Template({

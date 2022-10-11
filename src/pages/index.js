@@ -44,6 +44,12 @@ const BodyHolder = styled.div`
   h3 {
     font-size: 16pt;
   }
+  @media only screen and (max-width: 900px) {
+    width: 80vw;
+    img {
+      max-width: 70vw;
+    }
+  }
 `;
 
 export default function Template({

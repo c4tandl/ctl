@@ -11,6 +11,7 @@ const FullRow = styled.div`
   width: 100vw;
   align-items: flex-start;
   justify-content: center;
+  overflow: hidden;
 `;
 
 const SlideTrack = styled.div`
