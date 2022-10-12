@@ -26,6 +26,9 @@ const Nav = styled.div`
   justify-content: center;
   flex-wrap: wrap;
   margin: 0 25px 10px 25px;
+  @media only screen and (max-width: 900px) {
+    font-size: 1rem;
+  }
 `;
 
 const MenuBody = styled.div`

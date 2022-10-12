@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import CTL_Logo from "../assets/CTL_logo.png";
+import Menu from "../assets/svgs/icons/menu.svg";
 
 const Title = styled.div`
   font-family: "Bookmania-Regular";
@@ -37,17 +38,34 @@ const TitleText = styled.h1`
     font-size: 20pt;
   }
   @media only screen and (max-width: 558px) {
-    font-size: 15pt;
+    display: none;
   }
 `;
 
-const Header = () => {
+const Header = ({ showNav, setShowNav }) => {
+  const [showToggler, setShowToggler] = React.useState(false);
+  const titleRef = React.useRef(null);
+
+  const resizeWindow = (e) => {
+    if (e.target.innerWidth < 900) {
+      setShowToggler(true);
+    } else {
+      setShowToggler(false);
+    }
+  };
+
+  React.useEffect(() => {
+    window.addEventListener("resize", resizeWindow);
+    return () => window.removeEventListener("resize", resizeWindow);
+  }, [titleRef]);
+
   return (
-    <Title>
+    <Title ref={titleRef}>
       <a href="/">
         <TreeLogo src={CTL_Logo} />
       </a>
       <TitleText>Center for Teaching & Learning</TitleText>
+      {showToggler ? <Menu onClick={() => setShowNav(!showNav)} /> : null}
     </Title>
   );
 };

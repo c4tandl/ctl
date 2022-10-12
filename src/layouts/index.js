@@ -32,24 +32,30 @@ const HeaderLand = styled.div`
 
 const Layout = ({ children }) => {
   const [headerHeight, setHeaderHeight] = React.useState(275);
+  const [showNav, setShowNav] = React.useState(true);
   const headerRef = React.useRef(null);
 
-  const resizeWindow = () => {
-    if (headerRef.current?.clientHeight + 7 !== headerHeight) {
-      setHeaderHeight(headerRef.current?.clientHeight + 7);
-    }
-  };
-
   React.useEffect(() => {
+    const resizeWindow = (wind) => {
+      if (headerRef.current?.clientHeight + 7 !== headerHeight) {
+        setHeaderHeight(headerRef.current?.clientHeight + 7);
+      }
+      if (wind.target.innerWidth < 900) {
+        setShowNav(false);
+      } else {
+        setShowNav(true);
+      }
+    };
     window.addEventListener("resize", resizeWindow);
+    window.dispatchEvent(new Event("resize"));
     return () => window.removeEventListener("resize", resizeWindow);
-  }, []);
+  }, [headerHeight]);
 
   return (
     <PageStyles>
       <HeaderLand ref={headerRef}>
-        <Header />
-        <Navigation />
+        <Header showNav={showNav} setShowNav={setShowNav} />
+        {showNav ? <Navigation /> : null}
       </HeaderLand>
       <BodyStyles headerHeight={headerHeight}>{children}</BodyStyles>
       <Footpad>
