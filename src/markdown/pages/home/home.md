@@ -9,6 +9,9 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665589303/unnamed-87_docwbw.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665590052/unnamed-127_gk0kjs.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665590009/unnamed-124_esrrlx.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665589993/unnamed-121_cdzfiq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665590188/unnamed-20_spbsui.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665589349/unnamed-98_akedny.jpg
 ---
 # Our Mission
 
