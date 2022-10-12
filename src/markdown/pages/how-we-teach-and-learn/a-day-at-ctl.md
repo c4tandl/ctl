@@ -6,12 +6,12 @@ sort: 3
 nav: how-we-teach-and-learn
 carousel:
   images:
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667663/200114_untitledshoot_DSC_4012_m0ildc.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667659/200114_untitledshoot_DSC_3932_jabk4y.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667655/200114_untitledshoot_DSC_3799_fihvaf.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088626/200114_untitledshoot_DSC_3566_ykf1la.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088620/200114_untitledshoot_DSC_3838_sbrwp1.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665590174/unnamed-27_zwgtje.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665590068/unnamed-129_ilvn8s.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665589229/unnamed-50_rs0yig.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665589163/unnamed-25_elp57q.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665590256/unnamed-5_cksxhe.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665589368/unnamed-107_qofhim.jpg
 ---
 
 # Visit a Morning Meeting
