@@ -55,6 +55,9 @@ const MenuUl = styled.ul`
   @media screen and (max-height: 900px) {
     max-height: 50vh;
   }
+  @media only screen and (max-width: 900px) {
+    font-size: 1rem;
+  }
 `;
 
 export const MenuOption = styled.li`

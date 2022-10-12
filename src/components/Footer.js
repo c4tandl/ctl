@@ -5,7 +5,7 @@ import Grass from "../assets/svgs/drawings/grass.svg";
 
 const Foot = styled.div`
   width: 100%;
-  height: 6em;
+  height: 4em;
 `;
 
 const Field = styled.div`

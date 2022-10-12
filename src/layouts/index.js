@@ -21,8 +21,8 @@ const BodyStyles = styled.div`
 `;
 const Footpad = styled.div`
   margin-top: auto;
-  padding-top: 1.5em;
-  margin-bottom: 1.5em;
+  padding-top: 1.2em;
+  margin-bottom: 1.2em;
 `;
 const HeaderLand = styled.div`
   position: fixed;

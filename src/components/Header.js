@@ -42,6 +42,13 @@ const TitleText = styled.h1`
   }
 `;
 
+const MenuRow = styled.div`
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  padding-left: 2rem;
+`;
+
 const Header = ({ showNav, setShowNav }) => {
   const [showToggler, setShowToggler] = React.useState(false);
   const titleRef = React.useRef(null);
@@ -65,7 +72,11 @@ const Header = ({ showNav, setShowNav }) => {
         <TreeLogo src={CTL_Logo} />
       </a>
       <TitleText>Center for Teaching & Learning</TitleText>
-      {showToggler ? <Menu onClick={() => setShowNav(!showNav)} /> : null}
+      {showToggler ? (
+        <MenuRow>
+          <Menu onClick={() => setShowNav(!showNav)} />
+        </MenuRow>
+      ) : null}
     </Title>
   );
 };

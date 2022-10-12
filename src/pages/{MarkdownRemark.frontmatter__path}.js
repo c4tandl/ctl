@@ -40,8 +40,10 @@ const BodyHolder = styled.div`
         height: 60vh;
       }
     }
-    width: 70vw;
-    padding: 0;
+    position: absolute;
+    left: 0;
+    width: 100vw;
+    padding: 0 15px;
     img {
       max-width: 60vw;
     }
