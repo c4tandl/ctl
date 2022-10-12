@@ -15,7 +15,9 @@ const Calendar = () => {
         src="https://calendar.google.com/calendar/embed?src=ctlkto8%40gmail.com&ctz=America%2FNew_York"
         style={{ border: "none" }}
         width={
-          1111 > windowGlobal.innerWidth ? windowGlobal.innerWidth - 311 : 1111
+          windowGlobal.innerWidth - 111 > 1111
+            ? 1111
+            : windowGlobal.innerWidth - 111
         }
         height={windowGlobal.innerHeight - 111}
         frameborder="0"
