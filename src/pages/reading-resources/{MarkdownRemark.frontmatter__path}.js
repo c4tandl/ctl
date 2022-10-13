@@ -26,7 +26,6 @@ const FullPage = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100vw;
 `;
 
 const BodyArea = styled.div`
@@ -46,8 +45,8 @@ const BodyArea = styled.div`
     font-size: 16pt;
   }
   @media only screen and (max-width: 900px) {
-    max-width: calc(100vw - 2rem);
-    padding: 1rem;
+    width: auto;
+    padding: 2rem;
     img {
       max-width: 60vw;
     }

@@ -2,12 +2,12 @@ import React from "react";
 import styled from "styled-components";
 
 import CTL_Logo from "../assets/CTL_logo.png";
-import Menu from "../assets/svgs/icons/menu.svg";
+import MenuIcon from "../assets/svgs/icons/menu.svg";
 
 const Title = styled.div`
   font-family: "Bookmania-Regular";
   font-size: 55pt;
-  width: 100vw;
+  width: 100%;
   margin-bottom: 20px;
   display: flex;
   flex-direction: column;
@@ -43,10 +43,9 @@ const TitleText = styled.h1`
 `;
 
 const MenuRow = styled.div`
-  display: flex;
   width: 100%;
+  display: flex;
   justify-content: flex-start;
-  padding-left: 2rem;
 `;
 
 const Header = ({ showNav, setShowNav }) => {
@@ -74,7 +73,10 @@ const Header = ({ showNav, setShowNav }) => {
       <TitleText>Center for Teaching & Learning</TitleText>
       {showToggler ? (
         <MenuRow>
-          <Menu onClick={() => setShowNav(!showNav)} />
+          <MenuIcon
+            style={{ paddingLeft: "2rem" }}
+            onClick={() => setShowNav(!showNav)}
+          />
         </MenuRow>
       ) : null}
     </Title>

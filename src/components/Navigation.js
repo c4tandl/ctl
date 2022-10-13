@@ -20,12 +20,11 @@ const Nav = styled.div`
   font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.15rem;
   text-transform: uppercase;
-  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 0 25px 10px 25px;
+  padding: 0 4rem;
   @media only screen and (max-width: 900px) {
     font-size: 1rem;
   }
@@ -77,11 +76,6 @@ export const MenuOption = styled.li`
   }
 `;
 
-const MenuContainer = styled.div`
-  margin-left: 5px;
-  margin-right: 5px;
-`;
-
 const MenuHeader = styled.div`
   width: fit-content;
   height: 15px;
@@ -111,10 +105,13 @@ export const Menu = (props) => {
   const isCurrentSection =
     path.pathname.split("/")[1] === props.link.split("/")[1];
   return (
-    <MenuContainer
+    <div
       onMouseEnter={handleEnterMenu}
       onMouseLeave={handleLeaveMenu}
+      onKeyPress={null}
       onClick={handleLeaveMenu}
+      tabIndex="0"
+      role="menu"
     >
       <MenuHeader color={isOpen || isCurrentSection ? "forestgreen" : "black"}>
         <Link to={props.link}>{props.title}</Link>
@@ -122,7 +119,7 @@ export const Menu = (props) => {
       <MenuBody display={isOpen ? "block" : "none"}>
         <MenuUl>{props.children}</MenuUl>
       </MenuBody>
-    </MenuContainer>
+    </div>
   );
 };
 

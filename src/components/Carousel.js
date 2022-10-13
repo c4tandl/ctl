@@ -8,7 +8,7 @@ const FullRow = styled.div`
   position: absolute;
   left: 0;
   display: flex;
-  width: 100vw;
+  width: 100%;
   align-items: flex-start;
   justify-content: center;
   overflow: hidden;
@@ -30,9 +30,6 @@ const Button = styled.div`
   &:hover {
     cursor: pointer;
     color: white;
-  }
-  &:last-child {
-    margin-right: 15px;
   }
 `;
 

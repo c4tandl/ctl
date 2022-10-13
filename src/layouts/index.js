@@ -9,7 +9,6 @@ import styled from "styled-components";
 const PageStyles = styled.div`
   color: #232129;
   width: 100%;
-  max-width: 100vw;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -18,7 +17,7 @@ const BodyStyles = styled.div`
   margin: 0 2em;
   margin-top: ${(props) => props.headerHeight}px;
   height: fit-content;
-  @media only screen and (max-width: 558px) {
+  @media only screen and (max-width: 900px) {
     margin: 0;
   }
 `;
@@ -56,7 +55,7 @@ const Layout = ({ children }) => {
     window.addEventListener("resize", resizeWindow);
     window.dispatchEvent(new Event("resize"));
     return () => window.removeEventListener("resize", resizeWindow);
-  }, [headerHeight, showNav, headerRef]);
+  }, [headerHeight, headerRef]);
 
   return (
     <PageStyles>

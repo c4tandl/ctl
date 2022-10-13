@@ -26,7 +26,6 @@ const FullPage = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100vw;
 `;
 
 const BodyArea = styled.div`
@@ -61,7 +60,7 @@ const BodyArea = styled.div`
         height: 70vh;
       }
     }
-    max-width: calc(100vw - 2rem);
+    width: auto;
     padding: 1rem;
     img {
       max-width: 60vw;
