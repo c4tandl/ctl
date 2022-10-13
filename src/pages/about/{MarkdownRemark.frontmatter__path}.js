@@ -61,10 +61,8 @@ const BodyArea = styled.div`
         height: 70vh;
       }
     }
-    position: absolute;
-    left: 0;
-    width: 100vw;
-    padding: 0 15px;
+    max-width: calc(100vw - 2rem);
+    padding: 1rem;
     img {
       max-width: 60vw;
     }

@@ -12,6 +12,9 @@ const FullRow = styled.div`
   align-items: flex-start;
   justify-content: center;
   overflow: hidden;
+  @media only screen and (max-width: 900px) {
+    position: relative;
+  }
 `;
 
 const SlideTrack = styled.div`

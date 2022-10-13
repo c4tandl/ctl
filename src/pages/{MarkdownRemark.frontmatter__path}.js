@@ -35,15 +35,8 @@ const BodyHolder = styled.div`
     font-size: 16pt;
   }
   @media only screen and (max-width: 900px) {
-    span.profiles {
-      img {
-        height: 60vh;
-      }
-    }
-    position: absolute;
-    left: 0;
-    width: 100vw;
-    padding: 0 15px;
+    max-width: calc(100vw - 2rem);
+    padding: 1rem;
     img {
       max-width: 60vw;
     }

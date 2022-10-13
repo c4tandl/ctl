@@ -18,6 +18,9 @@ const BodyStyles = styled.div`
   margin: 0 2em;
   margin-top: ${(props) => props.headerHeight}px;
   height: fit-content;
+  @media only screen and (max-width: 558px) {
+    margin: 0;
+  }
 `;
 const Footpad = styled.div`
   margin-top: auto;
@@ -28,28 +31,32 @@ const HeaderLand = styled.div`
   position: fixed;
   background-color: #fdfdfd;
   z-index: 1;
+  @media screen and (max-width: 900px) {
+    position: relative;
+  }
 `;
 
 const Layout = ({ children }) => {
-  const [headerHeight, setHeaderHeight] = React.useState(275);
+  const [headerHeight, setHeaderHeight] = React.useState(0);
   const [showNav, setShowNav] = React.useState(true);
   const headerRef = React.useRef(null);
 
   React.useEffect(() => {
     const resizeWindow = (wind) => {
-      if (headerRef.current?.clientHeight + 7 !== headerHeight) {
-        setHeaderHeight(headerRef.current?.clientHeight + 7);
-      }
       if (wind.target.innerWidth < 900) {
         setShowNav(false);
+        setHeaderHeight(0);
       } else {
+        if (headerRef.current?.clientHeight + 20 !== headerHeight) {
+          setHeaderHeight(headerRef.current?.clientHeight + 20);
+        }
         setShowNav(true);
       }
     };
     window.addEventListener("resize", resizeWindow);
     window.dispatchEvent(new Event("resize"));
     return () => window.removeEventListener("resize", resizeWindow);
-  }, [headerHeight]);
+  }, [headerHeight, showNav, headerRef]);
 
   return (
     <PageStyles>
