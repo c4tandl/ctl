@@ -30,7 +30,7 @@ const HeaderLand = styled.div`
   position: fixed;
   background-color: #fdfdfd;
   z-index: 1;
-  width: 100vw;
+  width: 100%;
   @media screen and (max-width: 900px) {
     position: relative;
   }
