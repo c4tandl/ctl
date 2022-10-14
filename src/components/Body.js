@@ -54,7 +54,10 @@ const BodyDiv = styled.div`
 `;
 
 const Body = (props) => {
-  const newBody = enwrapImgTagsInAnotherDivWithClass(props.body, "body-img");
+  const newBody =
+    typeof window !== `undefined`
+      ? enwrapImgTagsInAnotherDivWithClass(props.body, "body-img")
+      : props.body;
   return <BodyDiv dangerouslySetInnerHTML={{ __html: newBody }} />;
 };
 
