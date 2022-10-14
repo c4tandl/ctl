@@ -1,6 +1,9 @@
 import React from "react";
 import styled from "styled-components";
 
+// utils
+import { enwrapImgTagsInAnotherDivWithClass } from "../utils";
+
 const BodyDiv = styled.div`
   width: 100%;
   position: relative;
@@ -41,7 +44,8 @@ const BodyDiv = styled.div`
 `;
 
 const Body = (props) => {
-  return <BodyDiv dangerouslySetInnerHTML={{ __html: props.body }} />;
+  const newBody = enwrapImgTagsInAnotherDivWithClass(props.body, "body-img");
+  return <BodyDiv dangerouslySetInnerHTML={{ __html: newBody }} />;
 };
 
 export default Body;

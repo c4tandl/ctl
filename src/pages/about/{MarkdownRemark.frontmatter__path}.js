@@ -44,6 +44,12 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
+  .body-img {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
   span.profiles {
     display: flex;
     flex-direction: column;
