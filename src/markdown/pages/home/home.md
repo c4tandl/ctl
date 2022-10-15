@@ -3,15 +3,18 @@ date: 2021-10-25T15:10:00.037Z
 title: Home
 carousel:
   images:
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750442/unnamed-108_ogadji.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750440/unnamed-7_vencxu.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750441/unnamed-19_wywnsp.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750441/unnamed-87_rvnslk.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750442/unnamed-127_l42wg6.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750441/unnamed-124_qrblhz.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750441/unnamed-121_dblfgi.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750440/unnamed-20_ulsoyg.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750441/unnamed-98_psiubw.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.36_l9ricn.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.33_ozbuim.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.31_nzfsxk.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867862/Home%20page%20photos/school.1080.42_x05usr.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867859/Home%20page%20photos/art.1080.4_o4cgju.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/art.1080.6_tdg3ju.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867859/Home%20page%20photos/art.1080.8_ptwuuo.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.24_lbxyss.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867859/Home%20page%20photos/school.1080.25_pzcqbs.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.22_gmsyl1.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867857/Home%20page%20photos/school.1080.21_swm1fz.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.9_jqpbzd.jpg
 ---
 # Our Mission
 
