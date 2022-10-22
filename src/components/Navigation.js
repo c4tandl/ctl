@@ -78,13 +78,13 @@ const MenuHeader = styled.div`
   padding: 8px 4px 0px 4px;
   display: flex;
   align-items: center;
-  &:hover {
-    color: forestgreen;
-  }
   a {
     text-decoration: none;
     color: black;
     color: ${(props) => props.color};
+    &:hover {
+      color: forestgreen;
+    }
   }
 `;
 
