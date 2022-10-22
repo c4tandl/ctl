@@ -17,9 +17,7 @@ const AboutMenu = () => (
                     <Link to="/head-of-school-blog">Head of School Blog</Link>
                   </MenuOption>
                 )}
-                <MenuOption
-                  className={index === edges.length - 1 ? "final" : null}
-                >
+                <MenuOption className={index === 0 ? "first" : null}>
                   <Link to={`/about/${frontmatter.path}`}>
                     {frontmatter.title}
                   </Link>

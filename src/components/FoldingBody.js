@@ -5,24 +5,25 @@ import Body from "./Body";
 const BodyHolder = styled.div`
   position: relative;
   margin-bottom: 20px;
-  h2 {
-    font-size: 2rem;
-    padding: 0.5rem 0;
-  }
 `;
 const Toggler = styled.div`
   cursor: pointer;
+  h2 {
+    font-family: "Bookmania-Semibold";
+    font-size: 1.7rem !important;
+    padding: 0.5rem 0;
+  }
 `;
 
 const FoldingBody = (props) => {
   return (
     <BodyHolder>
       <div>
-        <h2>
-          <Toggler role="button" onClick={props.handleToggle}>
+        <Toggler role="button" onClick={props.handleToggle}>
+          <h2>
             {props.title} {props.isOpen ? "-" : "+"}
-          </Toggler>
-        </h2>
+          </h2>
+        </Toggler>
         {props.isOpen && <Body body={props.html} />}
       </div>
     </BodyHolder>

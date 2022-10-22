@@ -12,7 +12,7 @@ const DonateMenu = () => (
             return (
               <MenuOption
                 key={frontmatter.path}
-                className={index === edges.length - 1 ? "final" : null}
+                className={index === 0 ? "first" : null}
               >
                 <Link to={frontmatter.path}>{frontmatter.title}</Link>
               </MenuOption>

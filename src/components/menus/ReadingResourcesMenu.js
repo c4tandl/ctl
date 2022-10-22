@@ -22,9 +22,7 @@ const ReadingResources = () => (
                     </Link>
                   </MenuOption>
                 )}
-                <MenuOption
-                  className={index === edges.length - 1 ? "final" : null}
-                >
+                <MenuOption className={index === 0 ? "first" : null}>
                   <Link to={`/reading-resources/${frontmatter.path}`}>
                     {frontmatter.title}
                   </Link>

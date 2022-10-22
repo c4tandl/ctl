@@ -28,7 +28,7 @@ const Footpad = styled.div`
 `;
 const HeaderLand = styled.div`
   position: fixed;
-  background-color: #fdfdfd;
+  background-color: white;
   z-index: 1;
   width: 100%;
   @media screen and (max-width: 900px) {
@@ -47,8 +47,8 @@ const Layout = ({ children }) => {
         setShowNav(false);
         setHeaderHeight(0);
       } else {
-        if (headerRef.current?.clientHeight + 20 !== headerHeight) {
-          setHeaderHeight(headerRef.current?.clientHeight + 20);
+        if (headerRef.current?.clientHeight + 7 !== headerHeight) {
+          setHeaderHeight(headerRef.current?.clientHeight + 7);
         }
         setShowNav(true);
       }

@@ -11,6 +11,10 @@
   src: url("./fonts/Bookmania-Regular.woff") format("woff");
 }
 @font-face {
+  font-family: "Bookmania-Semibold";
+  src: url("./fonts/Bookmania-Semibold.woff") format("woff");
+}
+@font-face {
   font-family: "URWDIN-Medium";
   src: url("./fonts/URWDIN-Medium.woff") format("woff");
 }

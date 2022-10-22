@@ -115,7 +115,8 @@ const SearchPosts = ({ posts, onFilter }) => {
       onFilter(results);
     }, 300);
     return () => window.clearTimeout(timeout);
-  }, [input]);
+  }, [input, onFilter, posts]);
+
   return (
     <Row>
       <span>
@@ -146,7 +147,7 @@ const BlogList = (props) => {
 
   useEffect(() => {
     setFilteredPosts(allPosts);
-  }, []);
+  }, [allPosts]);
 
   useEffect(() => {
     const newPosts = filteredPosts

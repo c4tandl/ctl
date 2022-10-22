@@ -18,32 +18,30 @@ const NavRail = styled.div`
 
 const Nav = styled.div`
   font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.15rem;
+  /* Make the font narrower */
+  transform: scaleX(0.8);
+  font-size: 10pt !important;
+  font-weight: bold;
   text-transform: uppercase;
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
   padding: 0 4rem;
-  @media only screen and (max-width: 900px) {
-    font-size: 1rem;
-  }
+  margin-bottom: 2rem;
 `;
 
 const MenuBody = styled.div`
-  font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.15rem;
   z-index: 3;
   display: ${(props) => props.display};
   position: absolute;
   padding-top: 1em;
 `;
-const MenuUl = styled.ul`
+const MenuUl = styled.div`
   width: fit-content;
   overflow-y: auto;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
   li {
+    list-style: none;
     border: 1px solid black;
     border-top: 0;
   }
@@ -54,16 +52,13 @@ const MenuUl = styled.ul`
   @media screen and (max-height: 900px) {
     max-height: 50vh;
   }
-  @media only screen and (max-width: 900px) {
-    font-size: 1rem;
-  }
 `;
 
 export const MenuOption = styled.li`
-  padding: 16px 2em 11px 2em;
+  padding: 2em 2em 1.6em 2em;
   background-color: white;
-  &.final {
-    border-bottom: 0;
+  &.first {
+    border-top: 1px solid black;
   }
   a {
     text-decoration: none;
@@ -79,7 +74,7 @@ export const MenuOption = styled.li`
 const MenuHeader = styled.div`
   width: fit-content;
   height: 15px;
-  margin: 10px 0;
+  margin: 20px;
   padding: 8px 4px 0px 4px;
   display: flex;
   align-items: center;
