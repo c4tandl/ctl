@@ -1,10 +1,11 @@
 import React from "react";
 import styled from "styled-components";
+import { navigate } from "@reach/router";
 
 import CTL_Logo from "../assets/CTL_logo.png";
 import MenuIcon from "../assets/svgs/icons/menu.svg";
 
-const Title = styled.div`
+const HeadSpace = styled.div`
   font-family: "Bookmania-Regular";
   font-size: 55pt;
   width: 100%;
@@ -30,7 +31,12 @@ const TreeLogo = styled.img`
   }
 `;
 
+const ClickTree = styled.div`
+  cursor: pointer;
+`;
+
 const TitleText = styled.h1`
+  cursor: pointer;
   @media only screen and (max-width: 1200px) {
     font-size: 30pt;
   }
@@ -60,17 +66,19 @@ const Header = ({ showNav, setShowNav }) => {
     }
   };
 
+  const goHome = () => navigate("/");
+
   React.useEffect(() => {
     window.addEventListener("resize", resizeWindow);
     return () => window.removeEventListener("resize", resizeWindow);
   }, [titleRef]);
 
   return (
-    <Title ref={titleRef}>
-      <a href="/">
+    <HeadSpace ref={titleRef}>
+      <ClickTree onClick={goHome}>
         <TreeLogo src={CTL_Logo} />
-      </a>
-      <TitleText>Center for Teaching & Learning</TitleText>
+      </ClickTree>
+      <TitleText onClick={goHome}>Center for Teaching & Learning</TitleText>
       {showToggler ? (
         <MenuRow>
           <MenuIcon
@@ -79,7 +87,7 @@ const Header = ({ showNav, setShowNav }) => {
           />
         </MenuRow>
       ) : null}
-    </Title>
+    </HeadSpace>
   );
 };
 
