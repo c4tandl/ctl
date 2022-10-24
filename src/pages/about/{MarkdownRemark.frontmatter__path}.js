@@ -99,6 +99,10 @@ export default function Template({
     setSectionMap({ ...sectionMap, [section]: !sectionMap[section] });
   };
 
+  const handleToggleShowSlideshow = () => {
+    setCoverSlideshow(!coverSlideshow);
+  };
+
   useEffect(() => {
     // set the current route to open
     setSectionMap({ [path.pathname.split("/")[2]]: true });
@@ -110,7 +114,13 @@ export default function Template({
       <Helmet>
         <title>CTL - About</title>
       </Helmet>
-      {images.length && <Carousel images={images}></Carousel>}
+      {images.length && (
+        <Carousel
+          handleToggle={handleToggleShowSlideshow}
+          coverSlideshow={coverSlideshow}
+          images={images}
+        ></Carousel>
+      )}
       <FullPage>
         <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&

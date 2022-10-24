@@ -3,6 +3,8 @@ import styled from "styled-components";
 
 import ArrowLeft from "../assets/svgs/icons/arrow-left.svg";
 import ArrowRight from "../assets/svgs/icons/arrow-right.svg";
+import ChevronDown from "../assets/svgs/icons/chevron-down.svg";
+import ChevronUp from "../assets/svgs/icons/chevron-up.svg";
 
 const FullRow = styled.div`
   position: absolute;
@@ -24,12 +26,25 @@ const SlideTrack = styled.div`
 
 const Button = styled.div`
   z-index: 0;
-  margin-top: 14.5vh;
+  margin-top: 1rem;
   font-size: 30pt;
-  color: whitesmoke;
+  line-height: 30pt;
+  color: black;
+  border-radius: 50%;
+  background-color: #f5f5f599;
+  width: 2rem;
+  height: 2rem;
+  display: grid;
+  place-items: center;
+  &.bottom {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    margin-top: 0;
+  }
   &:hover {
+    background-color: #f5f5f5;
     cursor: pointer;
-    color: white;
   }
 `;
 
@@ -39,16 +54,18 @@ const Slide = styled.img`
   margin: 0 15px;
 `;
 
-const StandardPageBody = (props) => {
-  const { images } = props;
+const Carousel = (props) => {
+  const { images, handleToggle, coverSlideshow } = props;
   // start with first five but there can always be more
-  const [imageOne, imageTwo, imageThree, imageFour, imageFive] = images;
+  const [imageOne, imageTwo, imageThree, imageFour, imageFive, imageSix] =
+    images;
   const [currentSlides, setCurrentSlides] = useState([
     imageOne,
     imageTwo,
     imageThree,
     imageFour,
     imageFive,
+    imageSix,
   ]);
   const intervalRef = useRef(null);
   const slideOneRef = useRef(null);
@@ -111,6 +128,11 @@ const StandardPageBody = (props) => {
         <Slide ref={slideFiveRef} src={currentSlides[4]} />
         <Slide ref={slideSixRef} src={currentSlides[5]} />
       </SlideTrack>
+      {handleToggle ? (
+        <Button className="bottom" onClick={handleToggle}>
+          {coverSlideshow ? <ChevronDown /> : <ChevronUp />}
+        </Button>
+      ) : null}
       <Button onClick={handleGoAhead}>
         <ArrowRight />
       </Button>
@@ -118,4 +140,4 @@ const StandardPageBody = (props) => {
   );
 };
 
-export default StandardPageBody;
+export default Carousel;
