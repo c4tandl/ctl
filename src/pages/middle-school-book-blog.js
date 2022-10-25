@@ -7,7 +7,7 @@ const MiddleSchoolBookBlog = ({
     allMarkdownRemark: { edges },
   },
 }) => {
-  return <BlogList posts={edges} />;
+  return <BlogList allowSearch={true} posts={edges} />;
 };
 
 export const middleSchoolBookBlogQuery = graphql`

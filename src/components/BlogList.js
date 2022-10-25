@@ -177,7 +177,9 @@ const BlogList = (props) => {
           Next Page
         </PageButton>
       </Row>
-      <SearchPosts posts={allPosts} onFilter={onFilter}></SearchPosts>
+      {props.allowSearch ? (
+        <SearchPosts posts={allPosts} onFilter={onFilter}></SearchPosts>
+      ) : null}
       {posts}
     </div>
   );
