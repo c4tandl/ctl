@@ -14,7 +14,7 @@ const FullRow = styled.div`
   align-items: flex-start;
   justify-content: center;
   overflow: hidden;
-  @media only screen and (max-width: 900px) {
+  @media only screen and (max-width: 1111px) {
     position: relative;
   }
 `;
@@ -41,6 +41,10 @@ const Button = styled.div`
     bottom: 1rem;
     right: 1rem;
     margin-top: 0;
+    @media only screen and (max-width: 1111px) {
+      display: none;
+      position: relative;
+    }
   }
   &:hover {
     background-color: #f5f5f5;
