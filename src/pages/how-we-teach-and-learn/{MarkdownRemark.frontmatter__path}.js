@@ -78,7 +78,11 @@ export default function Template({
   }, []);
 
   const handleToggleSection = (section) => {
-    setSectionMap({ ...sectionMap, [section]: !sectionMap[section] });
+    const everythingShut = Object.keys(sectionMap).reduce((acc, cur) => {
+      acc[cur] = false;
+      return acc;
+    }, {});
+    setSectionMap({ ...everythingShut, [section]: !sectionMap[section] });
   };
 
   const handleToggleShowSlideshow = () => {
@@ -88,7 +92,6 @@ export default function Template({
   useEffect(() => {
     // set the current route to open
     setSectionMap({ [path.pathname.split("/")[2]]: true });
-    setCoverSlideshow(true);
   }, [path]);
 
   return (
