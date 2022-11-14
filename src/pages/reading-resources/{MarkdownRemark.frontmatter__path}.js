@@ -44,6 +44,20 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
+  #kids-recommend {
+    details {
+      font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
+        sans-serif;
+      font-size: 12pt;
+      margin: 1rem 0;
+    }
+    summary {
+      font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
+        sans-serif;
+      text-transform: uppercase;
+      font-size: 20pt;
+    }
+  }
   @media only screen and (max-width: 1111px) {
     margin-top: 0;
   }
@@ -115,7 +129,13 @@ export default function Template({
                 handleToggle={() => handleToggleSection(frontmatter.path)}
                 key={frontmatter.path}
                 title={frontmatter.title}
-                html={html}
+                html={
+                  ["kids-recommend"].includes(frontmatter.path)
+                    ? `
+                      <span id='kids-recommend'>${html}</span>
+                    `
+                    : html
+                }
               />
             ))}
         </BodyArea>

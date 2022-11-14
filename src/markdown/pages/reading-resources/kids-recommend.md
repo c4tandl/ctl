@@ -6,7 +6,10 @@ sort: 2
 nav: reading-resources
 ---
 
-## Kindergarten
+<details open>
+<summary>
+    Kindergarten
+</summary>
 
 Ahlberg, Allan  Each Peach, Pear, Plum
 
@@ -234,7 +237,12 @@ Yolen, Jane  Owl Moon and How Do Dinosaurs Go to School?
 
 Yum, Hyewon  Mom! It’s My 1st Day of Kindergarten
 
-## Gr. 1-2
+</details>
+
+<details open>
+<summary>
+Gr. 1-2
+</summary>
 
 Abbott, Tony    The Secrets of Droon books
 
@@ -428,7 +436,12 @@ and the Three Dinosaurs
 
 Wilson, Karma    Bear Snores On and the rest of the Bear books
 
-## Gr. 3-4 
+</details>
+
+<details open>
+<summary>
+Gr. 3-4 
+</summary>
 
 Appelt, Kathi    The True Blue Scouts of Sugar Man Swamp
 
@@ -590,7 +603,12 @@ West, Jacqueline    The Books of Elsewhere series
 
 Wilder, Laura Ingalls The Little House series
 
-## Gr. 5-6 
+<details>
+
+<details open>
+<summary>
+Gr. 5-6 
+</summary>
 
 Abel-Fattah, Randa    Does My Head Look Big In This?
 
@@ -984,7 +1002,13 @@ Zevin, Gabrielle    Elsewhere
 
 Zusak, Markus    The Book Thief
 
-## Gr. 7-8 
+</details>
+
+<details open>
+
+<summary>
+Gr. 7-8 
+</summary>
 
 Acevedo, Elizabeth    The Poet X, Clap When You Land and With the Fire on High
 
@@ -1568,4 +1592,6 @@ Zevin, Gabrielle    Memoirs of a Teenage Amnesiac, All These Things I’ve Don
 
 Zoboi, Ibi    American Street and Pride
 
-**Zusak, Markus    The Book Thief and I Am the Messenger [(review)](/middle-school-book-blog/i-am-the-messenger-by-markus-zusak)**
+Zusak, Markus    The Book Thief and I Am the Messenger [(review)](/middle-school-book-blog/i-am-the-messenger-by-markus-zusak)
+
+</details>
