@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { Link } from "gatsby";
 import styled from "styled-components";
 
@@ -79,7 +79,12 @@ const Post = ({ post }) => (
     <div>
       {post.frontmatter.images?.length
         ? post.frontmatter.images.map((image) => {
-            return <BlogImage src={image}></BlogImage>;
+            return (
+              <BlogImage
+                key={Array.from(image).reverse().join()}
+                src={image}
+              ></BlogImage>
+            );
           })
         : null}
       <BlogPost dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -89,6 +94,7 @@ const Post = ({ post }) => (
 
 const SearchPosts = ({ posts, onFilter }) => {
   const [input, setInput] = useState("");
+  const [latestInput, setLatestInput] = useState(null);
   const handleInputChange = (e) => {
     setInput(e.target.value);
   };
@@ -109,13 +115,23 @@ const SearchPosts = ({ posts, onFilter }) => {
     );
   };
 
-  useEffect(() => {
-    const timeout = window.setTimeout(() => {
-      const results = performSearch(posts, input);
+  const filterResults = useCallback(
+    (results) => {
       onFilter(results);
-    }, 300);
-    return () => window.clearTimeout(timeout);
-  }, [input, onFilter, posts]);
+    },
+    [onFilter]
+  );
+
+  useEffect(() => {
+    if (posts?.length && input !== latestInput) {
+      const timeout = window.setTimeout(() => {
+        const results = performSearch(posts, input);
+        filterResults(results);
+        setLatestInput(input);
+      }, 300);
+      return () => window.clearTimeout(timeout);
+    }
+  }, [input, posts, filterResults, latestInput]);
 
   return (
     <Row>
@@ -137,17 +153,12 @@ const BlogList = (props) => {
       !edge.node.frontmatter.slug.includes("/about/")
   );
   const [posts, setPosts] = useState([]);
-  const [filteredPosts, setFilteredPosts] = useState([]);
+  const [filteredPosts, setFilteredPosts] = useState(allPosts);
   const [pageNum, setPageNum] = useState(0);
 
   const onFilter = (newPosts) => {
-    console.log("onFilter");
     setFilteredPosts(newPosts);
   };
-
-  useEffect(() => {
-    setFilteredPosts(allPosts);
-  }, [allPosts]);
 
   useEffect(() => {
     const newPosts = filteredPosts

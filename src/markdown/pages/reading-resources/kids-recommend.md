@@ -1568,4 +1568,4 @@ Zevin, Gabrielle    Memoirs of a Teenage Amnesiac, All These Things I’ve Don
 
 Zoboi, Ibi    American Street and Pride
 
-**Zusak, Markus    The Book Thief and I Am the Messenger [(review)](http://c-t-l.org/bookblog/?p=382)**
+**Zusak, Markus    The Book Thief and I Am the Messenger [(review)](/middle-school-book-blog/i-am-the-messenger-by-markus-zusak)**
