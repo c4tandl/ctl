@@ -35,11 +35,6 @@ init({
         create: false,
         fields: [
           {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
-          },
-          {
             name: "title",
             label: "Title",
           },
@@ -80,11 +75,6 @@ init({
           {
             name: "path",
             widget: "hidden",
-          },
-          {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
           },
           {
             name: "title",
@@ -129,11 +119,6 @@ init({
             widget: "hidden",
           },
           {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
-          },
-          {
             name: "title",
             label: "Title",
           },
@@ -174,11 +159,6 @@ init({
           {
             name: "path",
             widget: "hidden",
-          },
-          {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
           },
           {
             name: "title",
@@ -223,11 +203,6 @@ init({
             widget: "hidden",
           },
           {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
-          },
-          {
             name: "title",
             label: "Title",
           },
@@ -248,11 +223,6 @@ init({
           {
             name: "path",
             widget: "hidden",
-          },
-          {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
           },
           {
             name: "title",
@@ -277,11 +247,6 @@ init({
             widget: "hidden",
           },
           {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
-          },
-          {
             name: "title",
             label: "Title",
           },
@@ -299,11 +264,6 @@ init({
         folder: "src/markdown/pages/contact",
         create: false,
         fields: [
-          {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
-          },
           {
             name: "title",
             label: "Title",
@@ -335,11 +295,6 @@ init({
             default: "head-of-school-blog",
           },
           {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
-          },
-          {
             name: "title",
             label: "Title",
           },
@@ -368,11 +323,6 @@ init({
             name: "blog",
             type: "hidden",
             default: "middle-school-book-blog",
-          },
-          {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
           },
           {
             name: "title",
@@ -422,11 +372,6 @@ init({
         create: true,
         fields: [
           {
-            name: "date",
-            label: "Date",
-            widget: "datetime",
-          },
-          {
             name: "title",
             label: "Title",
           },
@@ -439,6 +384,13 @@ init({
         ],
       },
     ],
+  },
+});
+
+CMS.registerEventListener({
+  name: "preSave",
+  handler: ({ entry }) => {
+    return entry.get("data").set("date", new Date());
   },
 });
 

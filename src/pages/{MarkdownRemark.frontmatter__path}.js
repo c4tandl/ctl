@@ -17,6 +17,15 @@ const FullPage = styled.div`
   align-items: center;
 `;
 
+const Updated = styled.div`
+  position: fixed;
+  bottom: 0;
+  left: 1em;
+  margin: 5px;
+  cursor: default;
+  color: grey;
+`;
+
 const BodyHolder = styled.div`
   background-color: #fff;
   z-index: 0;
@@ -64,6 +73,7 @@ export default function Template({
           <Body body={html} />
         </BodyHolder>
       </FullPage>
+      <Updated title={`Last updated - ${frontmatter.date}`}>&Delta;</Updated>
     </Page>
   );
 }

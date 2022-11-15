@@ -81,7 +81,7 @@ export default function Template({
   let latestDate = 0;
   const images = edges.reduce((acc, curr) => {
     const { frontmatter } = curr.node;
-    if (new Date(frontmatter.date) > Date(latestDate)) {
+    if (new Date(frontmatter.date) > new Date(latestDate)) {
       latestDate = frontmatter.date;
     }
     const { carousel } = frontmatter;
