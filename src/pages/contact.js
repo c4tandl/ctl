@@ -82,7 +82,7 @@ export default function Template({
 
 export const pageQuery = graphql`
   query {
-    markdownRemark(frontmatter: { path: { eq: "/" } }) {
+    markdownRemark(frontmatter: { path: { eq: "/contact" } }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")

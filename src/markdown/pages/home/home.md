@@ -1,4 +1,5 @@
 ---
+path: /
 date: 2022-11-15T21:54:03.323Z
 title: Home
 carousel:
