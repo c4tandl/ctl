@@ -17,7 +17,7 @@ const enwrapImgTagsInAnotherDivWithClass = (htmlToEnwrap, className) => {
 const BodyDiv = styled.div`
   width: 100%;
   position: relative;
-  margin-top: 10px;
+  margin-top: 1rem;
   h2,
   h1 {
     margin-top: 25px;

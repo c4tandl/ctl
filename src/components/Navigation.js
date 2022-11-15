@@ -20,15 +20,14 @@ const Nav = styled.div`
   font-family: "URWDIN-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
   /* Make the font narrower */
   transform: scaleX(0.8);
-  font-size: 10pt !important;
+  font-size: 11pt !important;
   font-weight: bold;
   text-transform: uppercase;
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 0 4rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 `;
 
 const MenuBody = styled.div`

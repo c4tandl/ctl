@@ -6,10 +6,8 @@ import CTL_Logo from "../assets/CTL_logo.png";
 import MenuIcon from "../assets/svgs/icons/menu.svg";
 
 const HeadSpace = styled.div`
-  font-family: "Bookmania-Regular";
-  font-size: 55pt;
   width: 100%;
-  margin-bottom: 20px;
+  margin: 1rem 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,12 +17,12 @@ const HeadSpace = styled.div`
 `;
 
 const TreeLogo = styled.img`
-  width: 160px;
+  width: 130px;
   @media only screen and (max-width: 1200px) {
-    width: 150px;
+    width: 110px;
   }
   @media only screen and (max-width: 777px) {
-    width: 130px;
+    width: 100px;
   }
   @media only screen and (max-width: 558px) {
     width: 90px;
@@ -37,8 +35,11 @@ const ClickTree = styled.div`
 
 const TitleText = styled.h1`
   cursor: pointer;
+  font-family: "Bookmania-Bold";
+  font-size: 33pt;
+  padding: 0 2rem;
   @media only screen and (max-width: 1200px) {
-    font-size: 30pt;
+    font-size: 27pt;
   }
   @media only screen and (max-width: 777px) {
     font-size: 20pt;
@@ -52,6 +53,11 @@ const MenuRow = styled.div`
   width: 100%;
   display: flex;
   justify-content: flex-start;
+`;
+
+const TitleRow = styled.div`
+  display: flex;
+  align-items: center;
 `;
 
 const Header = ({ showNav, setShowNav }) => {
@@ -75,10 +81,12 @@ const Header = ({ showNav, setShowNav }) => {
 
   return (
     <HeadSpace ref={titleRef}>
-      <ClickTree onClick={goHome}>
-        <TreeLogo src={CTL_Logo} />
-      </ClickTree>
-      <TitleText onClick={goHome}>Center for Teaching & Learning</TitleText>
+      <TitleRow>
+        <ClickTree onClick={goHome}>
+          <TreeLogo src={CTL_Logo} />
+        </ClickTree>
+        <TitleText onClick={goHome}>Center for Teaching & Learning</TitleText>
+      </TitleRow>
       {showToggler ? (
         <MenuRow>
           <MenuIcon

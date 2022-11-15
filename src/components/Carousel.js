@@ -54,15 +54,31 @@ const Button = styled.div`
 
 const Slide = styled.img`
   justify-self: flex-start;
-  height: 335px;
-  margin: 0 15px;
+  height: 230px;
+  margin: 0 0.5rem;
+  border: 1px solid #999;
 `;
 
 const Carousel = (props) => {
   const { images, handleToggle, coverSlideshow } = props;
-  // start with first five but there can always be more
-  const [imageOne, imageTwo, imageThree, imageFour, imageFive, imageSix] =
-    images;
+  // start with first but there can always be more
+  const eightImages = [0, 1, 2, 3, 4, 5, 6, 7].map((inx) => {
+    if (images[inx]) {
+      return images[inx];
+    } else {
+      return images[inx - images.length];
+    }
+  });
+  const [
+    imageOne,
+    imageTwo,
+    imageThree,
+    imageFour,
+    imageFive,
+    imageSix,
+    imageSeven,
+    imageEight,
+  ] = eightImages;
   const [currentSlides, setCurrentSlides] = useState([
     imageOne,
     imageTwo,
@@ -70,6 +86,8 @@ const Carousel = (props) => {
     imageFour,
     imageFive,
     imageSix,
+    imageSeven,
+    imageEight,
   ]);
   const intervalRef = useRef(null);
   const slideOneRef = useRef(null);
@@ -78,16 +96,21 @@ const Carousel = (props) => {
   const slideFourRef = useRef(null);
   const slideFiveRef = useRef(null);
   const slideSixRef = useRef(null);
+  const slideSevenRef = useRef(null);
+  const slideEightRef = useRef(null);
 
   const handleGoBack = () => {
     const startSlide = images.indexOf(currentSlides[0]);
     const newFour = [];
-    for (let i = startSlide - 1; i < startSlide + 4; i++) {
+    for (let i = startSlide - 1; i < startSlide + 7; i++) {
       if (i < 0) {
         const trueIndex = images.length - 1;
         newFour.push(images[trueIndex]);
       } else if (i >= images.length) {
-        const trueIndex = i - images.length;
+        const trueIndex =
+          i - images.length > images.length
+            ? i - images.length - images.length
+            : i - images.length;
         newFour.push(images[trueIndex]);
       } else {
         newFour.push(images[i]);
@@ -98,16 +121,19 @@ const Carousel = (props) => {
 
   const handleGoAhead = useCallback(() => {
     const startSlide = images.indexOf(currentSlides[0]);
-    const newFour = [];
-    for (let i = startSlide + 1; i < startSlide + 6; i++) {
+    const newEight = [];
+    for (let i = startSlide + 1; i < startSlide + 10; i++) {
       if (i >= images.length) {
-        const trueIndex = i - images.length;
-        newFour.push(images[trueIndex]);
+        const trueIndex =
+          i - images.length > images.length
+            ? i - images.length - images.length
+            : i - images.length;
+        newEight.push(images[trueIndex]);
       } else {
-        newFour.push(images[i]);
+        newEight.push(images[i]);
       }
     }
-    setCurrentSlides(newFour);
+    setCurrentSlides(newEight);
   }, [currentSlides, images]);
 
   useEffect(() => {
@@ -131,6 +157,8 @@ const Carousel = (props) => {
         <Slide ref={slideFourRef} src={currentSlides[3]} />
         <Slide ref={slideFiveRef} src={currentSlides[4]} />
         <Slide ref={slideSixRef} src={currentSlides[5]} />
+        <Slide ref={slideSevenRef} src={currentSlides[6]} />
+        <Slide ref={slideEightRef} src={currentSlides[7]} />
       </SlideTrack>
       {handleToggle ? (
         <Button className="bottom" onClick={handleToggle}>

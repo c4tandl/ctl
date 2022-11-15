@@ -22,7 +22,7 @@ const BodyHolder = styled.div`
   z-index: 0;
   width: 900px;
   padding: 20px;
-  margin-top: ${(props) => (props.coverSlideshow ? "0" : "335px")};
+  margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
   transition: 0.3s;
   h1 {
     font-size: 25pt;
