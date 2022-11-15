@@ -1,6 +1,6 @@
 ---
-date: 2021-10-25T15:10:00.037Z
-title: Home
+date: 2022-11-15T21:53:04.005Z
+title: Welcome
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.36_l9ricn.jpg
