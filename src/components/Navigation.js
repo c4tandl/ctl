@@ -47,10 +47,7 @@ const MenuUl = styled.div`
   &::-webkit-scrollbar {
     display: none;
   }
-  max-height: 60vh;
-  @media screen and (max-height: 900px) {
-    max-height: 50vh;
-  }
+  max-height: calc(100vh - 200px);
 `;
 
 export const MenuOption = styled.li`
