@@ -163,7 +163,12 @@ export default function Template({
         <BodyHolder>
           <Body body={html} />
           <Form id="inquiry-form">
-            <form ref={formRef} onSubmit={handleSubmit} name="contact" netlify>
+            <form
+              ref={formRef}
+              onSubmit={handleSubmit}
+              name="contact"
+              data-netlify="true"
+            >
               <p class="double">
                 <label>
                   First Name{" "}
