@@ -169,6 +169,7 @@ export default function Template({
               name="contact"
               data-netlify="true"
             >
+              <input type="hidden" name="form-name" value="contact" />
               <p class="double">
                 <label>
                   First Name{" "}
