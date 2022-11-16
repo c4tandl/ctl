@@ -1,19 +1,19 @@
 ---
 path: about
-date: 2021-09-19T12:35:38.975Z
+date: 2022-11-16T18:38:44.559Z
 title: At a Glance
 sort: 1
 nav: about
 carousel:
   images:
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667649/200114_untitledshoot_DSC_3675_rf39rr.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667649/200114_untitledshoot_DSC_3587_izktuj.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667653/200114_untitledshoot_DSC_3721_g397ql.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667652/200114_untitledshoot_DSC_3696_ctnuqm.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667651/200114_untitledshoot_DSC_3707_uwh6ot.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667661/200114_untitledshoot_DSC_3943_x8pr21.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667671/200114_untitledshoot_DSC_4127_lgvdik.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667669/200114_untitledshoot_DSC_4118_ejiuod.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.37_rq7fgb.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867862/Home%20page%20photos/school.1080.7_r3fkdb.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867864/Home%20page%20photos/school.1080.16_lkhcjm.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.2_r0zw2k.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.22_gmsyl1.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.6_hgmmqf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.5_twrpvd.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.38_vqfsuj.jpg
 ---
 ## The Basics
 
