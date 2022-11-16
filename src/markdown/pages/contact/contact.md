@@ -1,7 +1,7 @@
 ---
-path: /contact
 date: 2021-09-25T12:35:38.975Z
 title: Contact
+contactpage: true
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667663/200114_untitledshoot_DSC_4012_m0ildc.jpg

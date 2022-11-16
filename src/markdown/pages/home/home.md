@@ -1,7 +1,7 @@
 ---
-path: /
 date: 2022-11-15T21:54:03.323Z
 title: Home
+homepage: true
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.36_l9ricn.jpg
