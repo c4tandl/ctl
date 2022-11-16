@@ -87,6 +87,9 @@ const Form = styled.div`
       }
       label {
         line-height: 2rem;
+        span.required {
+          color: red;
+        }
       }
       input {
         height: 2rem;
@@ -141,7 +144,8 @@ export default function Template({
               </p>
               <p>
                 <label>
-                  Email{" "}
+                  <span title="Email required">Email </span>
+                  <span class="required">*</span>
                   <input type="email" name="email" required title="Email" />
                 </label>
               </p>
