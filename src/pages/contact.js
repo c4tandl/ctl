@@ -184,7 +184,9 @@ export default function Template({
                 </label>
               </p>
               <p class="submit">
-                <button type="submit">Send</button>
+                <button title="Submit inquiry" type="submit">
+                  Send
+                </button>
               </p>
             </form>
           </Form>
