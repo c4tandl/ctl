@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import { graphql } from "gatsby";
 
 import { Helmet } from "react-helmet";
@@ -71,6 +71,10 @@ const Form = styled.div`
       &.submit {
         width: 100%;
         display: flex;
+        div.success-message {
+          color: green;
+          position: absolute;
+        }
         button {
           width: 120px;
           height: 2rem;
@@ -120,6 +124,34 @@ export default function Template({
     date,
     carousel: { images },
   } = frontmatter;
+  const messageRef = useRef(null);
+  const formRef = useRef(null);
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    const form = event.target;
+    const formData = new FormData(form);
+
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams(formData).toString(),
+    })
+      .then(() => {
+        displaySuccessMessage();
+        form.reset();
+      })
+      .catch((error) => alert(error));
+  };
+
+  const displaySuccessMessage = () => {
+    if (messageRef.current) {
+      messageRef.current.innerText = "Form Submitted!";
+    }
+    setTimeout(() => {
+      messageRef.current.innerText = "";
+    }, 5000);
+  };
 
   return (
     <Page>
@@ -131,7 +163,7 @@ export default function Template({
         <BodyHolder>
           <Body body={html} />
           <Form id="inquiry-form">
-            <form name="contact" netlify>
+            <form ref={formRef} onSubmit={handleSubmit} name="contact" netlify>
               <p class="double">
                 <label>
                   First Name{" "}
@@ -187,6 +219,7 @@ export default function Template({
                 <button title="Submit inquiry" type="submit">
                   Send
                 </button>
+                <div class="success-message" ref={messageRef}></div>
               </p>
             </form>
           </Form>
