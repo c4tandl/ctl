@@ -86,15 +86,15 @@ const Footer = () => {
             onClick={() => {
               visitLink("https://www.instagram.com/ctlkto8/");
             }}
-            height="20px"
-            width="20px"
+            height="16px"
+            width="16px"
           />{" "}
           <Facebook
             onClick={() => {
               visitLink("https://www.facebook.com/CTLKto8");
             }}
-            height="20px"
-            width="20px"
+            height="16px"
+            width="16px"
           />
         </Social>
       </Underground>
