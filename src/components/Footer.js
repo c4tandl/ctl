@@ -2,6 +2,8 @@ import React from "react";
 import styled from "styled-components";
 
 import Grass from "../assets/svgs/drawings/grass.svg";
+import Facebook from "../assets/svgs/icons/facebook.svg";
+import Instagram from "../assets/svgs/icons/instagram.svg";
 
 const Foot = styled.div`
   width: 100%;
@@ -22,7 +24,6 @@ const Field = styled.div`
 const Underground = styled.div`
   display: flex;
   height: 100%;
-  text-align: center;
   flex-direction: row;
   justify-content: center;
   align-items: center;
@@ -37,12 +38,24 @@ const Text = styled.div`
   }
   /* Make the font narrower */
   transform: scaleX(0.87);
-  transform-origin: 50% 100%;
+  transform-origin: right;
+  margin-left: -55px;
+  margin-right: 5px;
 `;
 
 const Phone = styled.span`
   font-weight: bold;
   color: #3f3f3f;
+`;
+
+const Social = styled.span`
+  color: darkgrey;
+  svg {
+    cursor: pointer;
+    &:hover {
+      color: #3f3f3f;
+    }
+  }
 `;
 
 const Footer = () => {
@@ -53,14 +66,37 @@ const Footer = () => {
       </span>
     ));
   };
+
+  const visitLink = (link) => {
+    window.open(link, "_blank", "noopener,noreferrer");
+  };
+
   return (
     <Foot>
       <Field>{makeGrass()}</Field>
       <Underground>
         <Text>
-          <span>119 Cross Point Road | Edgecomb, ME 04556 | </span>
-          <Phone>(207) 882-9706</Phone>
+          <span>
+            119 Cross Point Road | Edgecomb, ME 04556 |
+            <Phone>(207) 882-9706 |</Phone>
+          </span>
         </Text>
+        <Social>
+          <Instagram
+            onClick={() => {
+              visitLink("https://www.instagram.com/ctlkto8/");
+            }}
+            height="20px"
+            width="20px"
+          />{" "}
+          <Facebook
+            onClick={() => {
+              visitLink("https://www.facebook.com/CTLKto8");
+            }}
+            height="20px"
+            width="20px"
+          />
+        </Social>
       </Underground>
     </Foot>
   );
