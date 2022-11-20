@@ -3,12 +3,12 @@ import styled from "styled-components";
 
 const CalendarContainer = styled.div`
   --scrollbar-width: calc(100vw - 100%);
-  position: absolute;
-  left: 0;
   width: calc(100vw - var(--scrollbar-width));
-  height: 100vh;
+  height: calc(100vh - 158px);
+  margin-top: 50px;
   display: flex;
   justify-content: center;
+  z-index: 0;
 `;
 
 const Calendar = () => {
