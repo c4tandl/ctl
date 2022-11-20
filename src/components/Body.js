@@ -21,13 +21,8 @@ const BodyDiv = styled.div`
   h2,
   h1 {
     margin-top: 25px;
-    font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
-      sans-serif;
-    text-transform: uppercase;
-    font-size: 20pt;
-    /* Make the font narrower */
-    transform: scaleX(0.75);
-    transform-origin: 0 100%;
+    font-family: "Bookmania-Bold", "Times New Roman", Times, serif;
+    font-size: 48px;
   }
   p {
     margin: 10px 0;

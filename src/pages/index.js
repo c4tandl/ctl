@@ -43,7 +43,7 @@ const BodyHolder = styled.div`
   h3 {
     font-size: 16pt;
   }
-  @media only screen and (max-width: 900px) {
+  @media only screen and (max-width: 1115px) {
     margin-top: 0;
     width: auto;
     padding: 2rem;

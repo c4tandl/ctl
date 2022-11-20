@@ -34,7 +34,7 @@ const MenuBody = styled.div`
   z-index: 3;
   display: ${(props) => props.display};
   position: absolute;
-  padding-top: 1em;
+  padding-top: 5px;
 `;
 const MenuUl = styled.div`
   width: fit-content;
@@ -47,7 +47,7 @@ const MenuUl = styled.div`
   &::-webkit-scrollbar {
     display: none;
   }
-  max-height: calc(100vh - 200px);
+  max-height: calc(100vh - 158px);
 `;
 
 export const MenuOption = styled.li`
@@ -70,7 +70,7 @@ export const MenuOption = styled.li`
 const MenuHeader = styled.div`
   width: fit-content;
   height: 15px;
-  margin: 20px;
+  margin: 10px 20px 10px 20px;
   padding: 8px 4px 0px 4px;
   display: flex;
   align-items: center;

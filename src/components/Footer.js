@@ -6,6 +6,7 @@ import Grass from "../assets/svgs/drawings/grass.svg";
 const Foot = styled.div`
   width: 100%;
   height: 4em;
+  font-family: "URWDIN-Regular", "Helvetica Neue", Arial, Helvetica, sans-serif;
 `;
 
 const Field = styled.div`
@@ -21,6 +22,7 @@ const Field = styled.div`
 const Underground = styled.div`
   display: flex;
   height: 100%;
+  text-align: center;
   flex-direction: row;
   justify-content: center;
   align-items: center;
@@ -33,6 +35,9 @@ const Text = styled.div`
     flex-direction: column;
     align-items: center;
   }
+  /* Make the font narrower */
+  transform: scaleX(0.87);
+  transform-origin: 50% 100%;
 `;
 
 const Phone = styled.span`

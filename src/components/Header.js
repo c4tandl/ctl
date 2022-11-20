@@ -7,7 +7,7 @@ import MenuIcon from "../assets/svgs/icons/menu.svg";
 
 const HeadSpace = styled.div`
   width: 100%;
-  margin: 1rem 0;
+  margin: 15px 0 5px 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,8 +35,8 @@ const ClickTree = styled.div`
 
 const TitleText = styled.h1`
   cursor: pointer;
-  font-family: "Bookmania-Bold";
-  font-size: 33pt;
+  font-family: "Bookmania-Semibold";
+  font-size: 32pt;
   padding: 0 2rem;
   @media only screen and (max-width: 1200px) {
     font-size: 27pt;
