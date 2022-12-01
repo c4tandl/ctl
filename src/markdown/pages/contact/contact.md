@@ -1,5 +1,5 @@
 ---
-date: 2021-09-25T12:35:38.975Z
+date: 2022-12-01T17:03:45.704Z
 title: Contact
 contactpage: true
 carousel:
@@ -11,14 +11,12 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088620/200114_untitledshoot_DSC_3838_sbrwp1.jpg
 ---
-
 119 Cross Point Road\
 Edgecomb, Maine 04556
 
 <br/>
 
-Phone: 207-882-9706\
-Fax: 207-882-6413
+Phone: 207-882-9706
 
 <br/>
 
