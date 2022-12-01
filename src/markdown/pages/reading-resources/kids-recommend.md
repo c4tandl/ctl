@@ -1,11 +1,10 @@
 ---
 path: kids-recommend
-date: 2021-10-06T12:35:38.975Z
+date: 2022-12-01T15:13:31.919Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
 ---
-
 <details open>
 <summary>
     Kindergarten
@@ -603,7 +602,7 @@ West, Jacqueline    The Books of Elsewhere series
 
 Wilder, Laura Ingalls The Little House series
 
-<details>
+</details>
 
 <details open>
 <summary>
