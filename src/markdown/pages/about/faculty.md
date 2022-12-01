@@ -1,11 +1,11 @@
 ---
 path: faculty
-date: 2022-12-01T16:35:44.240Z
+date: 2022-12-01T16:51:36.719Z
 title: Faculty
 sort: 4
 nav: about
 ---
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Caroline_3_upiugk.png)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/caroline.faculty_zafjqt.jpg)
 
 **Caroline Bond** is CTL’s kindergarten teacher. She has a B.S. in elementary education from the University of Maine at Farmington and has worked with students of all ages for more than thirty years: as a volunteer at Pine Hill Preschool in Jefferson, a teacher of third and fourth grades at Chelsea and Waldoboro elementary schools, a science teacher of fifth and sixth grade students at Kieve Science Camp for Girls, a seventh and eighth grade math and science teacher at CTL, and a helping and kindergarten teacher at CTL.
 
