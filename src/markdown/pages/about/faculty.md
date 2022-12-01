@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2021-10-26T12:35:38.975Z
+date: 2022-12-01T16:26:50.793Z
 title: Faculty
 sort: 4
 nav: about
@@ -16,6 +16,8 @@ nav: about
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Jill_2_ft3qda.png)
 
 **Jill Cotta**, CTL’s teacher of grades 3 and 4 since 2002, is a 1997 graduate of Middlebury College. She earned a Master of Arts in Teaching from the University of Maine at Orono in 2000; prior to obtaining her Masters, she team-taught a combined third and fourth grade class for two years at Weybridge Elementary School in Vermont. She also taught third grade at the Great Salt Bay School in Damariscotta. Jill has conducted teacher workshops about writing and reading in the intermediate grades at seminars across the U.S.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/angela.faculty_ikpbgv.jpg)
 
 **Angela Lathem-Ballard** is CTL’s teacher of 5-6 Humanities and also as the school’s Arts Specialist, teaching K-8 Visual Art and 5-8 Drama. Angela has taught kindergarten and every grade from 3 through 8 in her 17 years of experience in the classroom, but she loves 5-6 the best. She attended the University of Illinois for her BFA in Theater and she holds a Masters of Arts in Education, Curriculum, and Instruction from Bradley University, also in Illinois, her home state. Before becoming a teacher, she spent several years working in outreach education and as a Y.E.S. facilitator at Walt Disney World. She has studied at The Globe Theatre in London, and been a Fellow with the San Diego Area Writing Project. People here at CTL first met Angela in 2012, when she traveled to Maine to take part in our intern program, learning from Nancie and Glenn. Angela loves teaching Shakespeare through performance. She has taught at La Jolla Country Day, San Diego Cooperative Charter, and The Children’s Primary School prior to CTL. In addition, Angela has served as a social-services volunteer in Ghana, Peru, Russia, and China. 
 
