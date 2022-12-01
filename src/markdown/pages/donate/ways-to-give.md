@@ -1,6 +1,6 @@
 ---
 path: /donate/ways-to-give
-date: 2022-12-01T16:07:23.829Z
+date: 2022-12-01T16:11:57.141Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -15,7 +15,7 @@ As a demonstration school, CTL serves a purposeful diversity of local kids, abil
 
 It’s more important than ever that the school survives and the faculty continues to write, speak out, and demonstrate that effective schools depend on informed teachers who are encouraged to work together, innovate, and inspire every child to excellence.
 
-I hope you will deem CTL worthy of your tax-deductible support. A contribution of any size will make a difference in the lives of CTL students, as well as those of countless children and teachers beyond our little school. Please donate using [PayPal](https://www.paypal.com/donate/?hosted_button_id=C5MBBY8FDK9BS) or credit/debit card, or mail your tax-deductible contribution to: Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556. Thank you.
+I hope you will deem CTL worthy of your tax-deductible support. A contribution of any size will make a difference in the lives of CTL students, as well as those of countless children and teachers beyond our little school. Please donate using **[PayPal](https://www.paypal.com/donate/?hosted_button_id=C5MBBY8FDK9BS)** or credit/debit card, or mail your tax-deductible contribution to: Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556. Thank you.
 
 Sincerely yours,
 
