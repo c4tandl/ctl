@@ -1,10 +1,12 @@
 ---
 path: kids-recommend
-date: 2022-12-01T15:13:31.919Z
+date: 2022-12-02T14:40:35.175Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
 ---
+</details>
+
 <details open>
 <summary>
     Kindergarten
