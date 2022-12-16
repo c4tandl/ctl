@@ -3,7 +3,7 @@ import { Link, StaticQuery, graphql } from "gatsby";
 import { Menu, MenuOption } from "../Navigation";
 
 const AboutMenu = () => (
-  <Menu title="About" link="/about/about">
+  <Menu title="About" link="/about/about?all=true">
     <StaticQuery
       query={aboutQuery}
       render={({ allMarkdownRemark: { edges } }) => (

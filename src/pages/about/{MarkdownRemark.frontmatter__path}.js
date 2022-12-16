@@ -111,8 +111,13 @@ export default function Template({
   };
 
   useEffect(() => {
-    // set the current route to open
-    setSectionMap({ [path.pathname.split("/")[2]]: true });
+    console.log(path);
+    if (path.search === "?all=true") {
+      setSectionMap({});
+    } else {
+      // set the current route to open
+      setSectionMap({ [path.pathname.split("/")[2]]: true });
+    }
   }, [path]);
 
   return (

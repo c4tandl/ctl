@@ -5,7 +5,7 @@ import { Menu, MenuOption } from "../Navigation";
 const ReadingResources = () => (
   <Menu
     title="Reading Resources"
-    link="/reading-resources/creating-passionate-readers"
+    link="/reading-resources/creating-passionate-readers?all=true"
   >
     <StaticQuery
       query={readingResourcesQuery}

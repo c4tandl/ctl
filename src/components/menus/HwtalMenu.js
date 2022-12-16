@@ -5,7 +5,7 @@ import { Menu, MenuOption } from "../Navigation";
 const HwtalMenu = () => (
   <Menu
     title="How We Teach & Learn"
-    link="/how-we-teach-and-learn/the-basics-and-ctl-bill-of-rights"
+    link="/how-we-teach-and-learn/the-basics-and-ctl-bill-of-rights?all=true"
   >
     <StaticQuery
       query={hwtalQuery}
