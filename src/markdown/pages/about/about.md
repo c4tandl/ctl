@@ -1,6 +1,6 @@
 ---
 path: about
-date: 2022-11-16T18:38:44.559Z
+date: 2022-12-16T16:29:00.013Z
 title: At a Glance
 sort: 1
 nav: about
@@ -27,10 +27,8 @@ carousel:
 * a student population that represents many levels of ability and socioeconomic backgrounds
 * affordable tuition that’s one-third the rate of comparable Maine independent schools, with generous tuition assistance
 
+![]()
 
+![]()
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663696170/ctl.display.graphics.68_duqprc.svg)
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663696214/ctl.display.graphics.78_butqf8.svg)
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663696735/ctl.display.graphics.6228_n1edtt.svg)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1671208088/ctl.display.graphics.3_wb9epz.png)
