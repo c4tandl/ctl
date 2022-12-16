@@ -14,7 +14,9 @@ const DonateMenu = () => (
                 key={frontmatter.path}
                 className={index === 0 ? "first" : null}
               >
-                <Link to={frontmatter.path}>{frontmatter.title}</Link>
+                <Link to={`/donate/${frontmatter.path}`}>
+                  {frontmatter.title}
+                </Link>
               </MenuOption>
             );
           })}

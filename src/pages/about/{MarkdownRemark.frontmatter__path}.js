@@ -99,11 +99,7 @@ export default function Template({
   }, []);
 
   const handleToggleSection = (section) => {
-    const everythingShut = Object.keys(sectionMap).reduce((acc, cur) => {
-      acc[cur] = false;
-      return acc;
-    }, {});
-    setSectionMap({ ...everythingShut, [section]: !sectionMap[section] });
+    setSectionMap({ ...sectionMap, [section]: !sectionMap[section] });
   };
 
   const handleToggleShowSlideshow = () => {
@@ -111,11 +107,10 @@ export default function Template({
   };
 
   useEffect(() => {
-    console.log(path);
     if (path.search === "?all=true") {
       setSectionMap({});
     } else {
-      // set the current route to open
+      // set only the current route to open
       setSectionMap({ [path.pathname.split("/")[2]]: true });
     }
   }, [path]);

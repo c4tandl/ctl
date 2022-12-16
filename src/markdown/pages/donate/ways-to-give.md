@@ -1,10 +1,11 @@
 ---
-path: /donate/ways-to-give
+path: ways-to-give
 date: 2022-12-01T16:11:57.141Z
 title: Ways to Give
 sort: 1
 nav: donate
 ---
+
 For the past thirty years, the Center for Teaching and Learning has been bringing forward innovative, research-based teaching practices and then passing them along to colleagues everywhere. CTL faculty members conduct research, write and speak about our discoveries, and demonstrate our methods to visiting teachers. We live this facet of our mission not in competition with public school teachers, but in rich collaboration.
 
 A book and DVD about our program, Systems to Transform Your Classroom and School, was published in 2014 by Heinemann, with all royalties supporting tuition assistance. The third edition of my book In the Middle, released in 2015, is filled with stories about and by CTL students. And our Facebook page, viewable by all at www.facebook.com/CTLKto8, shows the teachers and children in joyful action. Please “like” us to stay updated.

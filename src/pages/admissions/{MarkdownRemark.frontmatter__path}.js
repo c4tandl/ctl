@@ -44,26 +44,33 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
-  #kids-recommend {
-    details {
-      font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
-        sans-serif;
-      font-size: 12pt;
-      margin: 1rem 0;
-    }
-    summary {
-      font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
-        sans-serif;
-      text-transform: uppercase;
-      font-size: 20pt;
+  .body-img {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  span.profiles {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    img {
+      height: 400px;
+      width: auto;
     }
   }
   @media only screen and (max-width: 1111px) {
     margin-top: 0;
   }
   @media only screen and (max-width: 900px) {
+    span.profiles {
+      img {
+        height: 70vh;
+      }
+    }
     width: auto;
-    padding: 2rem;
+    padding: 1rem;
     img {
       max-width: 60vw;
     }
@@ -111,17 +118,17 @@ export default function Template({
   return (
     <Page>
       <Helmet>
-        <title>CTL - About</title>
+        <title>CTL - Admissions</title>
       </Helmet>
-      {images.length && (
+      {images.length ? (
         <Carousel
           handleToggle={handleToggleShowSlideshow}
           coverSlideshow={coverSlideshow}
           images={images}
         ></Carousel>
-      )}
+      ) : null}
       <FullPage>
-        <BodyArea coverSlideshow={coverSlideshow}>
+        <BodyArea coverSlideshow={images.length ? coverSlideshow : true}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody
@@ -129,13 +136,7 @@ export default function Template({
                 handleToggle={() => handleToggleSection(frontmatter.path)}
                 key={frontmatter.path}
                 title={frontmatter.title}
-                html={
-                  ["kids-recommend"].includes(frontmatter.path)
-                    ? `
-                      <span id='kids-recommend'>${html}</span>
-                    `
-                    : html
-                }
+                html={html}
               />
             ))}
         </BodyArea>
@@ -149,7 +150,7 @@ export const pageQuery = graphql`
   query {
     allMarkdownRemark(
       sort: { order: ASC, fields: [frontmatter___sort] }
-      filter: { frontmatter: { nav: { eq: "reading-resources" } } }
+      filter: { frontmatter: { nav: { eq: "admissions" } } }
     ) {
       edges {
         node {

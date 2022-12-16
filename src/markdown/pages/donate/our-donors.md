@@ -1,10 +1,11 @@
 ---
-path: /donate/our-donors
+path: our-donors
 date: 2022-12-01T17:03:08.774Z
 title: Our Donors
 sort: 2
 nav: donate
 ---
+
 **FOUNDERS’ CLUB ($2,500 +)**
 
 Anonymous
@@ -21,9 +22,9 @@ William L. Newkirk
 
 Varkey Foundation
 
- 
 
-**LEADERSHIP CLUB ($1,000 +)** 
+
+**LEADERSHIP CLUB ($1,000 +)**
 
 Kelly Baetz & Scott Anderson
 
@@ -55,8 +56,6 @@ Jessica & Jonathan Tindal
 
 Anna & Jessie Trafton
 
-
-
 **CHALLENGE CLUB ($500 +)**
 
 Elisabeth & Majed Awamleh
@@ -85,7 +84,7 @@ Nancy & Bruce Tindal
 
 Amy Winston & Steve Feder
 
- 
+
 
 **TURN THE WORLD AROUND CLUB ($250 +)**
 
@@ -117,7 +116,7 @@ Lane & Fraser Smith
 
 Carol & William Youngs
 
- 
+
 
 **CENTURY CLUB ($100 +)**
 
@@ -197,7 +196,7 @@ Joy Whitaker
 
 Heather Wolfe & Dan Friedland
 
- 
+
 
 **FRIENDS OF CTL**
 
