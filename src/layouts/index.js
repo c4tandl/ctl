@@ -23,7 +23,7 @@ const BodyStyles = styled.div`
 `;
 const Footpad = styled.div`
   margin-top: auto;
-  padding-top: 1.2em;
+  /* padding-top: 1.2em; */
   margin-bottom: 1.2em;
 `;
 const HeaderLand = styled.div`

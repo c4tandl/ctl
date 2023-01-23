@@ -22,17 +22,19 @@ const Updated = styled.div`
 `;
 
 const FullPage = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: grid;
+  justify-items: center;
+  height: calc(100vh - 450px);
+  margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
+  /* background-color: mistyrose; */
 `;
 
 const BodyHolder = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
+  height: fit-content;
   padding: 0 20px;
-  margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
   transition: 0.3s;
   h1 {
     font-size: 25pt;
