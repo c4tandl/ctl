@@ -22,7 +22,6 @@ const BodyDiv = styled.div`
   h1 {
     margin-top: 25px;
     font-family: "Bookmania-Bold", "Times New Roman", Times, serif;
-    font-size: 48px;
   }
   p {
     margin: 10px 0;
