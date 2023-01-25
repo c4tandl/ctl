@@ -22,8 +22,6 @@ William L. Newkirk
 
 Varkey Foundation
 
-
-
 **LEADERSHIP CLUB ($1,000 +)**
 
 Kelly Baetz & Scott Anderson
@@ -84,8 +82,6 @@ Nancy & Bruce Tindal
 
 Amy Winston & Steve Feder
 
-
-
 **TURN THE WORLD AROUND CLUB ($250 +)**
 
 Leah Bauer & Chris Aeppli
@@ -115,8 +111,6 @@ Karen & Jeff Philbrick
 Lane & Fraser Smith
 
 Carol & William Youngs
-
-
 
 **CENTURY CLUB ($100 +)**
 
@@ -195,8 +189,6 @@ Marilynn Wendt
 Joy Whitaker
 
 Heather Wolfe & Dan Friedland
-
-
 
 **FRIENDS OF CTL**
 
