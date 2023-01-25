@@ -38,6 +38,9 @@ const BodyHolder = styled.div`
   transition: 0.3s;
   h1 {
     font-size: 25pt;
+    background-color: #00000014;
+    width: fit-content;
+    padding: 8px 17px 4px;
   }
   h2 {
     font-size: 18pt;

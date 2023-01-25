@@ -18,10 +18,25 @@ const BodyDiv = styled.div`
   width: 100%;
   position: relative;
   margin-top: 1rem;
-  h2,
+  h2 {
+    margin-top: 25px;
+    font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
+      sans-serif;
+    text-transform: uppercase;
+    /* Make the font narrower */
+    transform: scaleX(0.8);
+    -webkit-transform-origin-x: 0;
+  }
   h1 {
     margin-top: 25px;
     font-family: "Bookmania-Bold", "Times New Roman", Times, serif;
+  }
+  li {
+    font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
+      sans-serif;
+    /* Make the font narrower */
+    transform: scaleX(0.87);
+    -webkit-transform-origin-x: 0;
   }
   p {
     margin: 10px 0;

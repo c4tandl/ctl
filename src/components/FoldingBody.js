@@ -11,7 +11,9 @@ const Toggler = styled.div`
   h2 {
     font-family: "Bookmania-Semibold";
     font-size: 1.7rem !important;
-    padding: 0.5rem 0;
+    background-color: #00000014;
+    width: fit-content;
+    padding: 8px 17px 4px;
   }
 `;
 
@@ -21,7 +23,7 @@ const FoldingBody = (props) => {
       <div>
         <Toggler role="button" onClick={props.handleToggle}>
           <h2>
-            {props.title} {props.isOpen ? "-" : "+"}
+            {props.title} {props.isOpen ? <>&ndash;</> : "+"}
           </h2>
         </Toggler>
         {props.isOpen && <Body body={props.html} />}
