@@ -14,7 +14,6 @@ const PageStyles = styled.div`
   flex-direction: column;
 `;
 const BodyStyles = styled.div`
-  margin: 0 2em;
   margin-top: ${(props) => props.headerHeight}px;
   height: fit-content;
   @media only screen and (max-width: 900px) {
@@ -23,7 +22,6 @@ const BodyStyles = styled.div`
 `;
 const Footpad = styled.div`
   margin-top: auto;
-  /* padding-top: 1.2em; */
   margin-bottom: 1.2em;
 `;
 const HeaderLand = styled.div`
