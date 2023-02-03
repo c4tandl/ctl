@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2022-12-01T16:47:12.630Z
+date: 2023-02-03T16:54:14.986Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -39,6 +39,8 @@ Rob is parent to Aelia ’20 and Sawyer ’23. He lives in East Boothbay with hi
 
 [](http://c-t-l.org/rob-2/)**Katy Papagiannis**\
 Katy’s children, Gigi, class of 2023 and Ryo, class of 2026, have attended CTL since kindergarten and she feels grateful every day for the opportunity to share the joy that both children have found at CTL: Gigi’s dedication to reading, writing, art, and math and Ryo’s adventures with all his school subjects and recess. Katy is a graphic designer in the marketing department of the MIT Press, working remotely from Maine since 2008. She hopes to bring her experience with visual and marketing communications to help share CTL”s mission with the local and broader community.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1675443244/faculty%20and%20staff%20photos/katy.papagiannis.2023_dbc0j7.jpg)
 
 **Peter Branch**\
 Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been coming to Maine every summer of his life to help his family run Linekin Bay Resort which they owned from 1909 until 2015. He and his wife, Paula, now live in Boothbay year round. In his winter life, he was the head of independent pre-k through grade 12 schools for 37 years. These schools included the Dalton School in New York City, Woodmere Academy in Woodmere, Long Island, Holland Hall School in Tulsa, Oklahoma, Georgetown Day School in Washington, D.C., and the Rocky Hill School in East Greenwich, Rhode Island. Peter also did a 2 year stint as Executive Director of The Washington Ballet. During his educational career he spoke at numerous conferences and served on association boards, including the board of the National Association of Episcopal Schools, of which he was president. Peter is honored to become a member of the board of the Center for Teaching and Learning which he has long admired for its leadership in elementary and middle school education.
