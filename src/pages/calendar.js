@@ -20,9 +20,7 @@ const Calendar = () => {
         style={{ border: "none" }}
         width="100%"
         height="100%"
-        frameborder="0"
         title="CTL Calendar"
-        scrolling="no"
       ></iframe>
     </CalendarContainer>
   );

@@ -8,7 +8,7 @@ const BodyHolder = styled.div`
 `;
 const Toggler = styled.div`
   cursor: pointer;
-  h2 {
+  h1 {
     font-family: "Bookmania-Semibold";
     font-size: 1.7rem !important;
     background-color: #00000014;
@@ -22,9 +22,9 @@ const FoldingBody = (props) => {
     <BodyHolder>
       <div>
         <Toggler role="button" onClick={props.handleToggle}>
-          <h2>
+          <h1>
             {props.title} {props.isOpen ? <>&ndash;</> : "+"}
-          </h2>
+          </h1>
         </Toggler>
         {props.isOpen && <Body body={props.html} />}
       </div>

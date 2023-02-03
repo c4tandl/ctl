@@ -19,7 +19,6 @@ const BodyDiv = styled.div`
   position: relative;
   margin-top: 1rem;
   h2 {
-    margin-top: 25px;
     font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
       sans-serif;
     text-transform: uppercase;
@@ -28,8 +27,11 @@ const BodyDiv = styled.div`
     -webkit-transform-origin-x: 0;
   }
   h1 {
-    margin-top: 25px;
-    font-family: "Bookmania-Bold", "Times New Roman", Times, serif;
+    background-color: #00000014;
+    width: fit-content;
+    padding: 8px 17px 4px;
+    font-family: "Bookmania-Semibold", "Times New Roman", Times, serif;
+    font-size: 1.7rem !important;
   }
   li {
     font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
