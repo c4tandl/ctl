@@ -62,7 +62,6 @@ const BodyHolder = styled.div`
 
 const FullPage = styled.div`
   display: grid;
-  /* justify-items: center; */
   width: 100vw;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
   @media only screen and (max-width: 1115px) {
@@ -83,9 +82,8 @@ const FullPage = styled.div`
   }
 
   @media only screen and (max-width: 1115px) {
-    svg {
-      display: none;
-    }
+    display: flex;
+    justify-content: center;
   }
 `;
 
@@ -103,6 +101,9 @@ const BirdArea = styled.div`
     .st2 {
       fill: #ffffff;
     }
+  }
+  @media only screen and (max-width: 1115px) {
+    display: none;
   }
 `;
 
@@ -130,6 +131,9 @@ const LeftBot = styled.div`
     .st5 {
       fill: #3c2415;
     }
+  }
+  @media only screen and (max-width: 1115px) {
+    display: none;
   }
 `;
 
@@ -200,6 +204,9 @@ const MidBot = styled.div`
       fill: #a97c50;
     }
   }
+  @media only screen and (max-width: 1115px) {
+    display: none;
+  }
 `;
 
 const SunArea = styled.div`
@@ -213,6 +220,9 @@ const SunArea = styled.div`
     .st1 {
       fill: #ffffff;
     }
+  }
+  @media only screen and (max-width: 1115px) {
+    display: none;
   }
 `;
 
@@ -258,10 +268,9 @@ const BotRight = styled.div`
     .st11 {
       fill: #39b54a;
     }
-
-    @media only screen and (max-width: 1115px) {
-      margin-bottom: 0;
-    }
+  }
+  @media only screen and (max-width: 1115px) {
+    display: none;
   }
 `;
 
