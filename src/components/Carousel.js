@@ -14,7 +14,7 @@ const FullRow = styled.div`
   align-items: flex-start;
   justify-content: center;
   overflow: hidden;
-  @media only screen and (max-width: 1111px) {
+  @media only screen and (max-width: 1115px) {
     position: relative;
   }
 `;
@@ -41,7 +41,7 @@ const Button = styled.div`
     bottom: 1rem;
     right: 1rem;
     margin-top: 0;
-    @media only screen and (max-width: 1111px) {
+    @media only screen and (max-width: 1115px) {
       display: none;
       position: relative;
     }

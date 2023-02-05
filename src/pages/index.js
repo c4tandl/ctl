@@ -45,7 +45,6 @@ const BodyHolder = styled.div`
     font-size: 16pt;
   }
   @media only screen and (max-width: 1115px) {
-    margin-top: 0;
     width: auto;
     padding: 2rem;
     img {
@@ -64,11 +63,10 @@ const FullPage = styled.div`
   display: grid;
   grid-template-rows: 150px 1fr 1fr;
   grid-template-columns: 1fr 1fr max(900px) 1fr 1fr;
-  /* background-color: thistle; */
   grid-template-areas:
-    "bod-left-left-top bod-left-right-top body        sun                sun"
-    "bod-left-left-bot bod-left-right-bot body        sun                sun"
-    "bot-left-left-bot bot-left-right-bot bot-mid-bot bot-right-left-bot bot-right-right-bot";
+    ". .    body   sun  sun"
+    ". bird body   sun  sun"
+    ". ctl  acorns worm .";
   svg {
     .st0 {
       stroke-width: 0 !important;
@@ -76,13 +74,24 @@ const FullPage = styled.div`
   }
 
   @media only screen and (max-width: 1115px) {
-    display: flex;
-    justify-content: center;
+    grid-template-areas:
+      ". . body . ."
+      ". . body . ."
+      ". . worm . .";
+  }
+`;
+
+const HideOnSmallscreen = styled.div`
+  display: contents;
+  div {
+    @media only screen and (max-width: 1115px) {
+      display: none;
+    }
   }
 `;
 
 const BirdArea = styled.div`
-  grid-area: bod-left-right-bot;
+  grid-area: bird;
   width: 200px;
   height: 200px;
   svg {
@@ -96,13 +105,10 @@ const BirdArea = styled.div`
       fill: #ffffff;
     }
   }
-  @media only screen and (max-width: 1115px) {
-    display: none;
-  }
 `;
 
 const LeftBot = styled.div`
-  grid-area: bot-left-right-bot;
+  grid-area: ctl;
   width: 150px;
   height: 150px;
   svg {
@@ -126,22 +132,19 @@ const LeftBot = styled.div`
       fill: #3c2415;
     }
   }
-  @media only screen and (max-width: 1115px) {
-    display: none;
-  }
 `;
 
 const MidBot = styled.div`
-  grid-area: bot-mid-bot;
+  grid-area: acorns;
   width: 100%;
   height: 100%;
   display: grid;
   margin-top: -100px;
   margin-left: 100px;
   grid-template-areas:
-    "top-left top     top"
-    "mid-left mid     mid"
-    "bot-left bot-mid bot";
+    "top-left .       ."
+    "mid-left .       ."
+    "bot-left bot-mid .";
   svg {
     width: 150px;
     height: 150px;
@@ -198,9 +201,6 @@ const MidBot = styled.div`
       fill: #a97c50;
     }
   }
-  @media only screen and (max-width: 1115px) {
-    display: none;
-  }
 `;
 
 const SunArea = styled.div`
@@ -215,17 +215,33 @@ const SunArea = styled.div`
       fill: #ffffff;
     }
   }
-  @media only screen and (max-width: 1115px) {
-    display: none;
-  }
 `;
 
 const BotRight = styled.div`
-  grid-area: bot-right-left-bot;
-  width: 200px;
-  height: 200px;
+  grid-area: worm;
   svg {
-    margin-bottom: -335px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: -305px;
+    @media only screen and (max-width: 1115px) {
+      position: absolute;
+      bottom: 120px;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    @media only screen and (max-width: 900px) {
+      bottom: 205px;
+    }
+    @media only screen and (max-width: 777px) {
+      bottom: 210px;
+    }
+    @media only screen and (max-width: 666px) {
+      bottom: 220px;
+    }
+    @media only screen and (max-width: 555px) {
+      bottom: 225px;
+    }
     .st0 {
       fill: #ef4136;
     }
@@ -263,9 +279,6 @@ const BotRight = styled.div`
       fill: #39b54a;
     }
   }
-  @media only screen and (max-width: 1115px) {
-    display: none;
-  }
 `;
 
 export default function Template({
@@ -289,21 +302,23 @@ export default function Template({
         <BodyHolder>
           <Body body={html} />
         </BodyHolder>
-        <SunArea>
-          <Sun />
-        </SunArea>
-        <BirdArea>
-          <Bird transform="scale(-1 1)" />
-        </BirdArea>
-        <LeftBot>
-          <CTLAcorn />
-        </LeftBot>
-        <MidBot>
-          <Acorn className="acorn" />
-          <AcornPerson1 className="person1" />
-          <AcornPerson2 className="person2" />
-          <HappyAcorn className="happy" />
-        </MidBot>
+        <HideOnSmallscreen>
+          <SunArea>
+            <Sun />
+          </SunArea>
+          <BirdArea>
+            <Bird transform="scale(-1 1)" />
+          </BirdArea>
+          <LeftBot>
+            <CTLAcorn />
+          </LeftBot>
+          <MidBot>
+            <Acorn className="acorn" />
+            <AcornPerson1 className="person1" />
+            <AcornPerson2 className="person2" />
+            <HappyAcorn className="happy" />
+          </MidBot>
+        </HideOnSmallscreen>
         <BotRight>
           <AcornWorm />
         </BotRight>

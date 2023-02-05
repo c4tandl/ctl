@@ -44,8 +44,8 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
-  @media only screen and (max-width: 1111px) {
-    margin-top: 0;
+  @media only screen and (max-width: 1115px) {
+    margin-top: 20px;
   }
   @media only screen and (max-width: 900px) {
     width: auto;
