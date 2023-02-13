@@ -14,3 +14,8 @@ ol {
   transform: scaleX(0.87);
   transform-origin: 0 100%;
 }
+
+/* add a background color to focused elements while removing the border */
+div[role="menu"]:focus {
+  outline: none;
+}

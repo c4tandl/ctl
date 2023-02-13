@@ -99,8 +99,12 @@ export const Menu = (props) => {
     <div
       onMouseEnter={handleEnterMenu}
       onMouseLeave={handleLeaveMenu}
-      onKeyPress={null}
       onClick={handleLeaveMenu}
+      onKeyDown={(e) => {
+        if (e.key === "Enter") {
+          setIsOpen(!isOpen);
+        }
+      }}
       tabIndex="0"
       role="menu"
     >
