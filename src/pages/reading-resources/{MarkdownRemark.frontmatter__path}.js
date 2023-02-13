@@ -50,6 +50,8 @@ const BodyArea = styled.div`
         sans-serif;
       font-size: 12pt;
       margin: 1rem 0;
+      cursor: pointer;
+      width: fit-content;
     }
     summary {
       font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,

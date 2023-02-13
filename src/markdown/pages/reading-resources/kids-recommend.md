@@ -5,9 +5,8 @@ title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
 ---
-</details>
 
-<details open>
+<details>
 <summary>
     Kindergarten
 </summary>
@@ -240,7 +239,7 @@ Yum, Hyewon  Mom! It’s My 1st Day of Kindergarten
 
 </details>
 
-<details open>
+<details>
 <summary>
 Gr. 1-2
 </summary>
@@ -439,7 +438,7 @@ Wilson, Karma    Bear Snores On and the rest of the Bear books
 
 </details>
 
-<details open>
+<details>
 <summary>
 Gr. 3-4 
 </summary>
@@ -606,7 +605,7 @@ Wilder, Laura Ingalls The Little House series
 
 </details>
 
-<details open>
+<details>
 <summary>
 Gr. 5-6 
 </summary>
@@ -1005,7 +1004,7 @@ Zusak, Markus    The Book Thief
 
 </details>
 
-<details open>
+<details>
 
 <summary>
 Gr. 7-8 
