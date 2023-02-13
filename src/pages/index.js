@@ -224,23 +224,10 @@ const BotRight = styled.div`
     height: 200px;
     margin-bottom: -305px;
     @media only screen and (max-width: 1115px) {
-      position: absolute;
-      bottom: 120px;
       width: 100%;
       display: flex;
+      align-items: flex-end;
       justify-content: center;
-    }
-    @media only screen and (max-width: 900px) {
-      bottom: 205px;
-    }
-    @media only screen and (max-width: 777px) {
-      bottom: 210px;
-    }
-    @media only screen and (max-width: 666px) {
-      bottom: 220px;
-    }
-    @media only screen and (max-width: 555px) {
-      bottom: 225px;
     }
     .st0 {
       fill: #ef4136;
