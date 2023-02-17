@@ -55,7 +55,7 @@ const BodyHolder = styled.div`
 
 const FullPage = styled.div`
   display: grid;
-  width: 100vw;
+  width: calc(100vw - 20px);
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
   @media only screen and (max-width: 1115px) {
     margin-top: 0;
