@@ -55,7 +55,8 @@ const Button = styled.div`
 const Slide = styled.img`
   justify-self: flex-start;
   height: 230px;
-  margin: 0 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
   &.loaded {
     border: 1px solid #999;
   }
@@ -71,6 +72,11 @@ const Carousel = (props) => {
       return images[inx - images.length];
     }
   });
+
+  const intervalRef = useRef(null);
+  const slideTrackRef = useRef(null);
+  const timeoutRef = useRef(null);
+
   const [
     imageOne,
     imageTwo,
@@ -97,18 +103,24 @@ const Carousel = (props) => {
     imageTen,
     imageEleven,
   ]);
-  const intervalRef = useRef(null);
-  const slideOneRef = useRef(null);
-  const slideTwoRef = useRef(null);
-  const slideThreeRef = useRef(null);
-  const slideFourRef = useRef(null);
-  const slideFiveRef = useRef(null);
-  const slideSixRef = useRef(null);
-  const slideSevenRef = useRef(null);
-  const slideEightRef = useRef(null);
-  const slideNineRef = useRef(null);
-  const slideTenRef = useRef(null);
-  const slideElevenRef = useRef(null);
+
+  useEffect(() => {
+    const slowPokes = [];
+    Array.from(slideTrackRef.current.children).forEach((child) => {
+      console.log(child);
+      if (child.naturalHeight !== 0) {
+        child.classList.add("loaded");
+      } else {
+        slowPokes.push(child);
+      }
+    });
+    timeoutRef.current = setTimeout(() => {
+      slowPokes.forEach((child) => {
+        child.classList.add("loaded");
+      });
+    }, 3000);
+    return () => window.clearTimeout(timeoutRef.current);
+  }, []);
 
   const handleGoBack = () => {
     const startSlide = images.indexOf(currentSlides[0]);
@@ -155,84 +167,18 @@ const Carousel = (props) => {
       <Button style={{ marginRight: "-75px" }} onClick={handleGoBack}>
         <ArrowLeft />
       </Button>
-      <SlideTrack>
-        <Slide
-          onLoad={() => {
-            slideOneRef.current?.classList.add("loaded");
-          }}
-          ref={slideOneRef}
-          src={currentSlides[0]}
-        />
-        <Slide
-          onLoad={() => {
-            slideTwoRef.current?.classList.add("loaded");
-          }}
-          ref={slideTwoRef}
-          src={currentSlides[1]}
-        />
-        <Slide
-          onLoad={() => {
-            slideThreeRef.current?.classList.add("loaded");
-          }}
-          ref={slideThreeRef}
-          src={currentSlides[2]}
-        />
-        <Slide
-          onLoad={() => {
-            slideFourRef.current?.classList.add("loaded");
-          }}
-          ref={slideFourRef}
-          src={currentSlides[3]}
-        />
-        <Slide
-          onLoad={() => {
-            slideFiveRef.current?.classList.add("loaded");
-          }}
-          ref={slideFiveRef}
-          src={currentSlides[4]}
-        />
-        <Slide
-          onLoad={() => {
-            slideSixRef.current?.classList.add("loaded");
-          }}
-          ref={slideSixRef}
-          src={currentSlides[5]}
-        />
-        <Slide
-          onLoad={() => {
-            slideSevenRef.current?.classList.add("loaded");
-          }}
-          ref={slideSevenRef}
-          src={currentSlides[6]}
-        />
-        <Slide
-          onLoad={() => {
-            slideEightRef.current?.classList.add("loaded");
-          }}
-          ref={slideEightRef}
-          src={currentSlides[7]}
-        />
-        <Slide
-          onLoad={() => {
-            slideNineRef.current?.classList.add("loaded");
-          }}
-          ref={slideNineRef}
-          src={currentSlides[8]}
-        />
-        <Slide
-          onLoad={() => {
-            slideTenRef.current?.classList.add("loaded");
-          }}
-          ref={slideTenRef}
-          src={currentSlides[9]}
-        />
-        <Slide
-          onLoad={() => {
-            slideElevenRef.current?.classList.add("loaded");
-          }}
-          ref={slideElevenRef}
-          src={currentSlides[10]}
-        />
+      <SlideTrack ref={slideTrackRef}>
+        <Slide src={currentSlides[0]} />
+        <Slide src={currentSlides[1]} />
+        <Slide src={currentSlides[2]} />
+        <Slide src={currentSlides[3]} />
+        <Slide src={currentSlides[4]} />
+        <Slide src={currentSlides[5]} />
+        <Slide src={currentSlides[6]} />
+        <Slide src={currentSlides[7]} />
+        <Slide src={currentSlides[8]} />
+        <Slide src={currentSlides[9]} />
+        <Slide src={currentSlides[10]} />
       </SlideTrack>
       {handleToggle ? (
         <Button className="bottom" onClick={handleToggle}>
