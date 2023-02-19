@@ -1,5 +1,5 @@
 ---
-path: /internships/overview-and-testimonials
+path: overview-and-testimonials
 date: 2022-12-02T18:11:58.003Z
 title: Overview & Testimonials
 sort: 1
