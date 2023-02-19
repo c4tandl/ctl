@@ -35,7 +35,6 @@ const BodyHolder = styled.div`
   grid-area: body;
   background-color: #fff;
   z-index: 0;
-  height: fit-content;
   padding: 0 20px;
   transition: 0.3s;
   h2 {
@@ -46,7 +45,7 @@ const BodyHolder = styled.div`
   }
   @media only screen and (max-width: 1115px) {
     width: auto;
-    padding: 2rem;
+    padding: 0 2rem;
     img {
       max-width: 70vw;
     }
@@ -68,16 +67,17 @@ const FullPage = styled.div`
     ". bird body   sun  sun"
     ". ctl  acorns worm .";
   svg {
+    z-index: 1;
     .st0 {
       stroke-width: 0 !important;
     }
   }
 
   @media only screen and (max-width: 1115px) {
-    grid-template-areas:
-      ". . body . ."
-      ". . body . ."
-      ". . worm . .";
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "body";
   }
 `;
 
@@ -217,18 +217,12 @@ const SunArea = styled.div`
   }
 `;
 
-const BotRight = styled.div`
+const WormArea = styled.div`
   grid-area: worm;
   svg {
     width: 200px;
     height: 200px;
     margin-bottom: -305px;
-    @media only screen and (max-width: 1115px) {
-      width: 100%;
-      display: flex;
-      align-items: flex-end;
-      justify-content: center;
-    }
     .st0 {
       fill: #ef4136;
     }
@@ -305,10 +299,10 @@ export default function Template({
             <AcornPerson2 className="person2" />
             <HappyAcorn className="happy" />
           </MidBot>
+          <WormArea>
+            <AcornWorm />
+          </WormArea>
         </HideOnSmallscreen>
-        <BotRight>
-          <AcornWorm />
-        </BotRight>
       </FullPage>
       <Updated title={`Last updated - ${date}`}>&Delta;</Updated>
     </Page>

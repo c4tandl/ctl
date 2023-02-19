@@ -118,7 +118,7 @@ const Carousel = (props) => {
       slowPokes.forEach((child) => {
         child.classList.add("loaded");
       });
-    }, 3000);
+    }, 1000);
     return () => window.clearTimeout(timeoutRef.current);
   }, []);
 
