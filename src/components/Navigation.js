@@ -51,14 +51,17 @@ const MenuUl = styled.div`
 `;
 
 export const MenuOption = styled.li`
-  padding: 2em 2em 1.6em 2em;
   background-color: white;
   &.first {
     border-top: 1px solid black;
   }
   a {
+    padding: 2em 2em 1.6em 2em;
     text-decoration: none;
     color: black;
+    display: block;
+    width: 100%;
+    height: 100%;
   }
   &:hover {
     a {
