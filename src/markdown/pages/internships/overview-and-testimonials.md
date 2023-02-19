@@ -4,7 +4,16 @@ date: 2022-12-02T18:11:58.003Z
 title: Overview & Testimonials
 sort: 1
 nav: internships
+carousel:
+  images:
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.36_l9ricn.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.33_ozbuim.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.31_nzfsxk.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867862/Home%20page%20photos/school.1080.42_x05usr.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867859/Home%20page%20photos/art.1080.4_o4cgju.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/art.1080.6_tdg3ju.jpg
 ---
+
 # Internships
 
 Interested educators: Apply today using the attached [internship application](https://www.icloud.com/iclouddrive/0e5ZsEg8ANQg-ld4cw9hHFBxg#CTL-Internship-App-22-23).

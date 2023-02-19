@@ -207,6 +207,26 @@ init({
             label: "Title",
           },
           {
+            widget: "object",
+            type: "carousel",
+            name: "carousel",
+            summary: {
+              "[object Object]": null,
+            },
+            fields: [
+              {
+                label: "Images",
+                name: "images",
+                widget: "list",
+                field: {
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                },
+              },
+            ],
+          },
+          {
             widget: "markdown",
             label: "Body",
             name: "body",
@@ -227,6 +247,26 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            widget: "object",
+            type: "carousel",
+            name: "carousel",
+            summary: {
+              "[object Object]": null,
+            },
+            fields: [
+              {
+                label: "Images",
+                name: "images",
+                widget: "list",
+                field: {
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                },
+              },
+            ],
           },
           {
             widget: "markdown",
@@ -251,6 +291,26 @@ init({
             label: "Title",
           },
           {
+            widget: "object",
+            type: "carousel",
+            name: "carousel",
+            summary: {
+              "[object Object]": null,
+            },
+            fields: [
+              {
+                label: "Images",
+                name: "images",
+                widget: "list",
+                field: {
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                },
+              },
+            ],
+          },
+          {
             widget: "markdown",
             label: "Body",
             name: "body",
@@ -267,6 +327,26 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            widget: "object",
+            type: "carousel",
+            name: "carousel",
+            summary: {
+              "[object Object]": null,
+            },
+            fields: [
+              {
+                label: "Images",
+                name: "images",
+                widget: "list",
+                field: {
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                },
+              },
+            ],
           },
           {
             widget: "markdown",

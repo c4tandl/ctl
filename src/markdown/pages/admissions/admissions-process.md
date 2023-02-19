@@ -4,6 +4,16 @@ date: 2021-10-06T12:35:38.975Z
 title: Admissions Process
 sort: 1
 nav: admissions
+carousel:
+  images:
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.37_rq7fgb.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867862/Home%20page%20photos/school.1080.7_r3fkdb.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867864/Home%20page%20photos/school.1080.16_lkhcjm.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.2_r0zw2k.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.22_gmsyl1.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.6_hgmmqf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.5_twrpvd.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.38_vqfsuj.jpg
 ---
 
 CTL’s Admissions Process:

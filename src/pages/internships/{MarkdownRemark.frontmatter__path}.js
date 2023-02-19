@@ -32,7 +32,7 @@ const BodyArea = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
-  padding: 20px;
+  padding: 0 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
   transition: 0.5s;
   h1 {
@@ -118,17 +118,17 @@ export default function Template({
   return (
     <Page>
       <Helmet>
-        <title>CTL - Donate</title>
+        <title>CTL - Internships</title>
       </Helmet>
-      {images.length ? (
+      {images.length && (
         <Carousel
           handleToggle={handleToggleShowSlideshow}
           coverSlideshow={coverSlideshow}
           images={images}
         ></Carousel>
-      ) : null}
+      )}
       <FullPage>
-        <BodyArea coverSlideshow={images.length ? coverSlideshow : true}>
+        <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody
@@ -150,7 +150,7 @@ export const pageQuery = graphql`
   query {
     allMarkdownRemark(
       sort: { order: ASC, fields: [frontmatter___sort] }
-      filter: { frontmatter: { nav: { eq: "donate" } } }
+      filter: { frontmatter: { nav: { eq: "internships" } } }
     ) {
       edges {
         node {
