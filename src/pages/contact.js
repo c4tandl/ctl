@@ -32,7 +32,7 @@ const BodyHolder = styled.div`
   z-index: 0;
   width: 900px;
   padding: 0 20px;
-  margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
+  margin-top: 250px;
   transition: 0.3s;
   h1 {
     font-size: 25pt;
@@ -43,7 +43,7 @@ const BodyHolder = styled.div`
   h3 {
     font-size: 16pt;
   }
-  @media only screen and (max-width: 900px) {
+  @media only screen and (max-width: 1111px) {
     margin-top: 0;
     width: auto;
     padding: 2rem;
