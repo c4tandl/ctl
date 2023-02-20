@@ -14,7 +14,9 @@ const InternshipsMenu = () => (
                 key={frontmatter.path}
                 className={index === 0 ? "first" : null}
               >
-                <Link to={frontmatter.path}>{frontmatter.title}</Link>
+                <Link to={`/internships/${frontmatter.path}`}>
+                  {frontmatter.title}
+                </Link>
               </MenuOption>
             );
           })}

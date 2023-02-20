@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useMemo, useEffect } from "react";
 import { graphql } from "gatsby";
 
 import { useLocation } from "@reach/router";
@@ -7,6 +7,7 @@ import styled from "styled-components";
 
 import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
+import OpenAllButton from "../../components/OpenAllButton";
 
 const Page = styled.div`
   display: flex;
@@ -106,6 +107,18 @@ export default function Template({
     setCoverSlideshow(!coverSlideshow);
   };
 
+  const openOrCloseAll = () => {
+    if (anyOpen) {
+      setSectionMap({});
+    } else {
+      const sectionMap = edges.reduce((acc, { node: { frontmatter } }) => {
+        acc[frontmatter.path] = true;
+        return acc;
+      }, {});
+      setSectionMap(sectionMap);
+    }
+  };
+
   useEffect(() => {
     if (path.search === "?all=true") {
       setSectionMap({});
@@ -114,6 +127,10 @@ export default function Template({
       setSectionMap({ [path.pathname.split("/")[2]]: true });
     }
   }, [path]);
+
+  const anyOpen = useMemo(() => {
+    return Object.keys(sectionMap).some((key) => key);
+  }, [sectionMap]);
 
   return (
     <Page>
@@ -128,6 +145,7 @@ export default function Template({
         ></Carousel>
       )}
       <FullPage>
+        <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
         <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
