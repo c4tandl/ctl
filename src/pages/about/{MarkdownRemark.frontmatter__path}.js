@@ -145,8 +145,8 @@ export default function Template({
         ></Carousel>
       )}
       <FullPage>
+        <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
         <BodyArea coverSlideshow={coverSlideshow}>
-          <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody

@@ -34,7 +34,7 @@ const BodyArea = styled.div`
   background-color: #fff;
   z-index: 0;
   width: 900px;
-  padding: 20px;
+  padding: 0 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
   transition: 0.5s;
   h1 {
@@ -144,8 +144,8 @@ export default function Template({
         ></Carousel>
       ) : null}
       <FullPage>
+        <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
         <BodyArea coverSlideshow={images.length ? coverSlideshow : true}>
-          <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody

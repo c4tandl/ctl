@@ -164,7 +164,11 @@ const Carousel = (props) => {
 
   return (
     <FullRow>
-      <Button style={{ marginRight: "-75px" }} onClick={handleGoBack}>
+      <Button
+        title="Rewind slides"
+        style={{ marginRight: "-75px" }}
+        onClick={handleGoBack}
+      >
         <ArrowLeft />
       </Button>
       <SlideTrack ref={slideTrackRef}>
@@ -181,11 +185,15 @@ const Carousel = (props) => {
         <Slide src={currentSlides[10]} />
       </SlideTrack>
       {handleToggle ? (
-        <Button className="bottom" onClick={handleToggle}>
+        <Button
+          title={`${coverSlideshow ? "Reveal" : "Cover"} slides`}
+          className="bottom"
+          onClick={handleToggle}
+        >
           {coverSlideshow ? <ChevronDown /> : <ChevronUp />}
         </Button>
       ) : null}
-      <Button onClick={handleGoAhead}>
+      <Button title="Advance slides" onClick={handleGoAhead}>
         <ArrowRight />
       </Button>
     </FullRow>

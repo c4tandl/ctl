@@ -3,10 +3,7 @@ import { Link, StaticQuery, graphql } from "gatsby";
 import { Menu, MenuOption } from "../Navigation";
 
 const InternshipsMenu = () => (
-  <Menu
-    title="Internships"
-    link="/internships/overview-and-testimonials?all=true"
-  >
+  <Menu title="Internships" link="/internships/overview-and-testimonials">
     <StaticQuery
       query={internshipsQuery}
       render={({ allMarkdownRemark: { edges } }) => (
