@@ -92,7 +92,7 @@ const Post = ({ post }) => (
   </BlogFrame>
 );
 
-const SearchPosts = ({ posts, onFilter }) => {
+const FuzzySearchPosts = ({ posts, onFilter }) => {
   const [input, setInput] = useState("");
   const [latestInput, setLatestInput] = useState(null);
   const handleInputChange = (e) => {
@@ -128,7 +128,7 @@ const SearchPosts = ({ posts, onFilter }) => {
         const results = performSearch(posts, input);
         filterResults(results);
         setLatestInput(input);
-      }, 300);
+      }, 500);
       return () => window.clearTimeout(timeout);
     }
   }, [input, posts, filterResults, latestInput]);
@@ -164,6 +164,7 @@ const BlogList = (props) => {
     const newPosts = filteredPosts
       .slice(pageNum * pageSize, (pageNum + 1) * pageSize)
       .map((edge) => <Post key={edge.node.id} post={edge.node} />);
+    setPageNum(0);
     setPosts(newPosts);
   }, [pageNum, filteredPosts]);
 
@@ -178,18 +179,21 @@ const BlogList = (props) => {
           Previous Page
         </PageButton>
         <h2>
-          Showing {pageNum * pageSize + 1} - {(pageNum + 1) * pageSize} of{" "}
-          {allPosts.length} results
+          Showing {pageNum * pageSize + 1} -{" "}
+          {(pageNum + 1) * pageSize > filteredPosts.length
+            ? filteredPosts.length
+            : (pageNum + 1) * pageSize}{" "}
+          of {filteredPosts.length} results
         </h2>
         <PageButton
-          disabled={(pageNum + 1) * pageSize >= allPosts.length}
+          disabled={(pageNum + 1) * pageSize >= filteredPosts.length}
           onClick={() => setPageNum(pageNum + 1)}
         >
           Next Page
         </PageButton>
       </Row>
       {props.allowSearch ? (
-        <SearchPosts posts={allPosts} onFilter={onFilter}></SearchPosts>
+        <FuzzySearchPosts posts={allPosts} onFilter={onFilter} />
       ) : null}
       {posts}
     </div>
