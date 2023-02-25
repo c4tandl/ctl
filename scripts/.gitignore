@@ -1,4 +1,4 @@
-test.json
+*.json
 .env
 .venv
 _posts
