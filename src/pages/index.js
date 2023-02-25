@@ -67,7 +67,7 @@ const FullPage = styled.div`
     ". bird body   sun  sun"
     ". ctl  acorns worm .";
   svg {
-    z-index: 1;
+    z-index: 0;
     .st0 {
       stroke-width: 0 !important;
     }

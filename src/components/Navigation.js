@@ -31,11 +31,12 @@ const Nav = styled.div`
 `;
 
 const MenuBody = styled.div`
-  z-index: 3;
   display: ${(props) => props.display};
   position: absolute;
+  z-index: 3;
   padding-top: 5px;
 `;
+
 const MenuUl = styled.div`
   width: fit-content;
   overflow-y: auto;
