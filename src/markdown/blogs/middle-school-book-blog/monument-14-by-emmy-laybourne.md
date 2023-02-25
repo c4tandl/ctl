@@ -9,6 +9,7 @@ categories:
   - scifi
   - ya
 authors:
+  - emmy-laybourne
 images:
 comments:
 creator: Charlotte

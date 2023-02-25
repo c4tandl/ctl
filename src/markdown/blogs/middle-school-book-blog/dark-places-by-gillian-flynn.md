@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - gillian-flynn
 images:
 comments:
 creator: Krista

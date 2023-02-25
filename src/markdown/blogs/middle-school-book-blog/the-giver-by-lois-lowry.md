@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - lois-lowry
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658777/The-Giver.jpeg.jpg
 comments:

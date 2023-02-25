@@ -7,6 +7,7 @@ categories:
   - fant
   - romance
 authors:
+  - red-by-kerstin-gier
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513093/Ruby-Red-187x300.jpg.jpg
 comments:

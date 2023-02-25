@@ -9,6 +9,7 @@ categories:
   - mystery
   - thriller
 authors:
+  - agatha-christie
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513293/Orient-Express-186x300.jpg.jpg
 comments:

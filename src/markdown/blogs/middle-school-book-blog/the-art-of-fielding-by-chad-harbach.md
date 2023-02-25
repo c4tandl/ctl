@@ -7,6 +7,7 @@ categories:
   - currfict
   - sports-novel
 authors:
+  - chad-harbach
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700578/Art-Fielding-198x300.jpg.jpg
 comments:

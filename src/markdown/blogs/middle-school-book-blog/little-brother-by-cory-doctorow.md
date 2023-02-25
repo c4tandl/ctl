@@ -8,6 +8,7 @@ categories:
   - techno-thriller
   - yahumor
 authors:
+  - cory-doctorow
 images:
 comments:
 creator: Parker

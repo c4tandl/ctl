@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - gordon-korman
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659659177/The-Unteachables-678x1024.jpeg.jpg
 comments:

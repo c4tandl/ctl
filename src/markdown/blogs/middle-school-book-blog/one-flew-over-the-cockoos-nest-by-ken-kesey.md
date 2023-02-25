@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - classics
 authors:
+  - ken-kesey
 images:
 comments:
 creator: Sophia S.

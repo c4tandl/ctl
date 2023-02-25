@@ -8,6 +8,7 @@ categories:
   - histfict
   - western
 authors:
+  - erin-bowman
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513310/VengeanceRoad-201x300.jpg.jpg
 comments:

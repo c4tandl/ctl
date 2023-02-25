@@ -8,6 +8,7 @@ categories:
   - fant
   - series-novel
 authors:
+  - sarah-j-maas
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637541043/Throne-of-Glass-300x275.jpg.jpg
 comments:

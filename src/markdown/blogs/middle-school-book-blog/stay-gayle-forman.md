@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - gayle-forman
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513456/81aTBRY7dxL-200x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513458/81aTBRY7dxL.jpg.jpg

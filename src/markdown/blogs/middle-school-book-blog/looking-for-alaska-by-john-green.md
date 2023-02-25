@@ -8,6 +8,7 @@ categories:
   - mystery
   - ya
 authors:
+  - john-green
 images:
 comments:
 creator: Anne

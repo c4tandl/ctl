@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - monica-hesse
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700660/Girl-in-the-Blue-Coat.jpg.jpg
 comments:

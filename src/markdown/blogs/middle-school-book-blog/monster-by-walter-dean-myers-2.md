@@ -8,6 +8,7 @@ categories:
   - social-justice-novel
   - yaserious
 authors:
+  - walter-dean-myers
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1662814562/monster.jpg.jpg
 comments:

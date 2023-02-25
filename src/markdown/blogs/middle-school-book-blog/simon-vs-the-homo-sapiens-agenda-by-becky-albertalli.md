@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - becky-albertalli
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513117/Simon-vs-The-Homo-Sapiens-Agenda-Isabelle.jpg.jpg
 comments:

@@ -7,6 +7,7 @@ categories:
   - currfict
   - ya
 authors:
+  - renee-watson
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658834/Piecing-Me.jpg.jpg
 comments:

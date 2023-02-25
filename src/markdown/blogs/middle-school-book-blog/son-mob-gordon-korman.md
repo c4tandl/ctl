@@ -8,6 +8,7 @@ categories:
   - family-saga
   - spy-novel
 authors:
+  - gordon-korman
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512917/Son-of-the-Mob-200x300.jpg.jpg
 comments:

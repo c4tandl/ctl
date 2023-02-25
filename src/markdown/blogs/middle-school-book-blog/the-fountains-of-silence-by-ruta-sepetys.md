@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - ruta-sepetys
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513308/The-Fountains-of-Silence.jpg.jpg
 comments:

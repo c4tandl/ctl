@@ -8,6 +8,7 @@ categories:
   - romance
   - series-novel
 authors:
+  - kiera-cass
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700600/selection-cvr-199x300.jpeg.jpg
 comments:

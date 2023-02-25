@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - currfict
 authors:
+  - rainbow-rowell
 images:
 comments:
 creator: Payton

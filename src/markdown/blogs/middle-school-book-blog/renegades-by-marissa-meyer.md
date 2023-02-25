@@ -8,6 +8,7 @@ categories:
   - scifi
   - series-novel
 authors:
+  - marissa-meyer
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513058/Renegades.jpg.jpg
 comments:

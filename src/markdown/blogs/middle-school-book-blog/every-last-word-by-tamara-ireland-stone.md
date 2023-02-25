@@ -9,6 +9,7 @@ categories:
   - ya
   - yaserious
 authors:
+  - tamara-ireland-stone
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637542521/Every-Last-Word-Sophia.jpg.jpg
 comments:

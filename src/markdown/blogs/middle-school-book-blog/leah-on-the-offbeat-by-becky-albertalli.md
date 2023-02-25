@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - becky-albertalli
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637511823/Leah-on-the-Offbeat-Kestrel.jpg.jpg
 comments:

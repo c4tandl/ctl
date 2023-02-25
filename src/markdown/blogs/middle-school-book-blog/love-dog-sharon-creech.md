@@ -7,6 +7,7 @@ categories:
   - free-verse-novelmemoir
   - uncategorized
 authors:
+  - sharon-creech
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659659086/1-205x300.png.png
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659659087/1.png.png

@@ -9,6 +9,7 @@ categories:
   - parody
   - short-story-anthology-or-collection
 authors:
+  - simon-rich
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700653/Ant-Farm-Freida.jpeg.jpg
 comments:

@@ -9,6 +9,7 @@ categories:
   - retelling
   - series-novel
 authors:
+  - chris-colfer
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513118/Land-of-Stories-Taber-1.jpg.jpg
 comments:

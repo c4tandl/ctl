@@ -7,6 +7,7 @@ categories:
   - currfict
   - yaserious
 authors:
+  - morgan-matson
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513810/second-chance-summer-196x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513811/second-chance-summer.jpg.jpg

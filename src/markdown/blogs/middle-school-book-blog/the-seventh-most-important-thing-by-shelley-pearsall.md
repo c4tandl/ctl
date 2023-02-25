@@ -9,6 +9,7 @@ categories:
   - uncategorized
   - ya
 authors:
+  - shelley-pearsall
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540798/Seventh-Most-Important.png.png
 comments:

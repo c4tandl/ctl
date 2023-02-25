@@ -7,6 +7,7 @@ categories:
   - histfict
   - thriller
 authors:
+  - stephen-king
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512732/The-Green-Mile.jpg.jpg
 comments:

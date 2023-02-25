@@ -7,6 +7,7 @@ categories:
   - histfict
   - social-justice-novel
 authors:
+  - markus-zusak
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700610/The-Book-Thief-192x300.png.png
 comments:

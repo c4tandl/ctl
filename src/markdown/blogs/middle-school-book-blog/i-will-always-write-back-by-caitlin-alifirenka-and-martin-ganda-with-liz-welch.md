@@ -7,6 +7,7 @@ categories:
   - autobiography
   - mem
 authors:
+  - caitlin-alifirenka-and-martin-ganda-with-liz-welch
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540812/I-Will-Always-225x300.jpg.jpg
 comments:

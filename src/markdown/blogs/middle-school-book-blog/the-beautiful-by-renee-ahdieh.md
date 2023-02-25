@@ -8,6 +8,7 @@ categories:
   - mystery
   - romance
 authors:
+  - renee-ahdieh
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513768/The-Beautiful.jpg.jpg
 comments:

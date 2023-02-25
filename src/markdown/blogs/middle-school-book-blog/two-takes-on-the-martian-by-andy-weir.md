@@ -7,6 +7,7 @@ categories:
   - adv
   - scifi
 authors:
+  - andy-weir
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659659150/The-Martian-183x300.jpg.jpg
 comments:

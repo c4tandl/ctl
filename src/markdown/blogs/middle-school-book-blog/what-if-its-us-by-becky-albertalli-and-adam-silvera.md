@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - becky-albertalli-and-adam-silvera
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658595/WHat-If-its-Us.jpg.jpg
 comments:

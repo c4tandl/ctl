@@ -8,6 +8,7 @@ categories:
   - family-saga
   - nature
 authors:
+  - garth-stein
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658842/The-Art-of-Racing-in-the-Rain-200x300.jpg.jpg
 comments:

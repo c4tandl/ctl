@@ -8,6 +8,7 @@ categories:
   - nature
   - non-fiction
 authors:
+  - michael-finkel
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700637/Stranger-in-the-Woods.jpg.jpg
 comments:

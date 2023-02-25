@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - jennifer-e-smith
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637541059/Field-Notes-on-Love.jpg.jpg
 comments:

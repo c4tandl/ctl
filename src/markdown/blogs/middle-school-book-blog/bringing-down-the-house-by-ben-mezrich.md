@@ -7,6 +7,7 @@ categories:
   - new-journalism
   - ya
 authors:
+  - ben-mezrich
 images:
 comments:
 creator: Jacob

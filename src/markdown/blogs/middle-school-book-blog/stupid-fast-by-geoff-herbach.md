@@ -9,6 +9,7 @@ categories:
   - ya
   - yaserious
 authors:
+  - geoff-herbach
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540793/Stupid-Fast.jpg.jpg
 comments:

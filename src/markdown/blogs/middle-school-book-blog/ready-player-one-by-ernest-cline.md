@@ -8,6 +8,7 @@ categories:
   - scifi
   - techno-thriller
 authors:
+  - ernest-cline
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513063/Ready-Player-One.png.png
 comments:

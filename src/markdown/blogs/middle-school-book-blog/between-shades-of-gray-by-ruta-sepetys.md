@@ -9,6 +9,7 @@ categories:
   - history
   - ya
 authors:
+  - ruta-sepetys
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637542552/Between-shades-of-gray.jpg.jpg
 comments:

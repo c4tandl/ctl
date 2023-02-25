@@ -7,6 +7,7 @@ categories:
   - classics
   - fable
 authors:
+  - george-orwell
 images:
 comments:
 creator: Ridgely

@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - kimberly-jones-and-gilly-segal
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658776/Im-Not-Dying-with-You-Tonight-677x1024.jpeg.jpg
 comments:

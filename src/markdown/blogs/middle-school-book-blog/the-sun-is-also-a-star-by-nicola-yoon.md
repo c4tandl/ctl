@@ -9,6 +9,7 @@ categories:
   - ya
   - yaserious
 authors:
+  - nicola-yoon
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540798/The-Sun-Is-Also-a-Star-Emma-1-666x1024.jpeg.jpg
 comments:

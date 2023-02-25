@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - gayle-forman
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513097/18879761-225x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540810/18879761.jpg.jpg

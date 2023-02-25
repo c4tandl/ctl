@@ -8,6 +8,7 @@ categories:
   - mystery
   - romance
 authors:
+  - nicola-yoon
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659659083/Everything.jpg.jpg
 comments:

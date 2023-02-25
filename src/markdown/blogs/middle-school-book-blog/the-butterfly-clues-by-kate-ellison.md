@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - kate-ellison
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700662/Butterfly-Clues.jpeg.jpg
 comments:

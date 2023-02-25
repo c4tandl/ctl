@@ -9,6 +9,7 @@ categories:
   - ya
   - yaserious
 authors:
+  - laura-ruby
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513138/Bone-Gap-Nestor.jpg.jpg
 comments:

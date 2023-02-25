@@ -9,6 +9,7 @@ categories:
   - thriller
   - ya
 authors:
+  - veronica-roth
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637511821/Divergent.jpg.jpg
 comments:

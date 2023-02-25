@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - histfict
 authors:
+  - kristin-levine
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700556/Lions-of-Little-Rock-202x300.jpeg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700557/Lions-of-Little-Rock.jpeg.jpg

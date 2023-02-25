@@ -8,6 +8,7 @@ categories:
   - mem
   - non-fiction
 authors:
+  - jim-lovell-and-jeffrey-kluger
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540804/Apollo-13-199x300.jpg.jpg
 comments:

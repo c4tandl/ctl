@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - jeffrey-eugenides
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658785/Virgin-Suicides-684x1024.jpeg.jpg
 comments:

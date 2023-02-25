@@ -8,6 +8,7 @@ categories:
   - dystopian-science-fiction
   - ya
 authors:
+  - marie-lu
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512871/Champion-Owen-675x1024.jpg.jpg
 comments:

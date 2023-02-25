@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - karen-mcmanus
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700663/One-of-Us-Is-Lying-678x1024.jpeg.jpg
 comments:

@@ -7,6 +7,7 @@ categories:
   - adv
   - dystopian-science-fiction
 authors:
+  - jeanne-duprau
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512945/Ember.jpg.jpg
 comments:

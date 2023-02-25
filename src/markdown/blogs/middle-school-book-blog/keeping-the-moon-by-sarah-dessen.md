@@ -7,6 +7,7 @@ categories:
   - currfict
   - romance
 authors:
+  - sarah-dessen
 images:
 comments:
 creator: Amelia

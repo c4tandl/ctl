@@ -7,6 +7,7 @@ categories:
   - anti-war-novel
   - histfict
 authors:
+  - walter-dean-myers
 images:
 comments:
 creator: Tristam

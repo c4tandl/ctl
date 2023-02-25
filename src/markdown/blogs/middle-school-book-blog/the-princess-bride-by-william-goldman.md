@@ -10,6 +10,7 @@ categories:
   - legend
   - romance
 authors:
+  - william-goldman
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658847/Princess-Bride-1-183x300.jpg.jpg
 comments:

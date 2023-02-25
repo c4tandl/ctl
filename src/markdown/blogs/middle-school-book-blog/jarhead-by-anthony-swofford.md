@@ -8,6 +8,7 @@ categories:
   - uncategorized
   - war-story
 authors:
+  - anthony-swofford
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637542540/Jarhead-Jack-1.jpg.jpg
 comments:

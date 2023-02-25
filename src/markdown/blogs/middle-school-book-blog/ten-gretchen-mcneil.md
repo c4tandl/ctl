@@ -9,6 +9,7 @@ categories:
   - mystery
   - thriller
 authors:
+  - gretchen-mcneil
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658264/Ten-198x300.jpg.jpg
 comments:

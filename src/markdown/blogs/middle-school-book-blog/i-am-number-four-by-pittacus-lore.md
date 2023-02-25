@@ -8,6 +8,7 @@ categories:
   - dystopian-science-fiction
   - fant
 authors:
+  - pittacus-lore
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512917/I_Am_Number_Four_Cover-198x300.jpg.jpg
 comments:

@@ -8,6 +8,7 @@ categories:
   - non-fiction
   - science
 authors:
+  - randall-munroe
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513798/What-If.jpg.jpg
 comments:

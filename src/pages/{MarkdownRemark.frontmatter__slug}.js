@@ -1,5 +1,6 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
+import { authorsMap, categoriesMap } from "../assets/blogmaps";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -12,8 +13,17 @@ export default function Template({
         <Link to={`/${frontmatter.blog}`}>All Posts</Link>
       </div>
       <div>
-        <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
+        <div>
+          <h2>{frontmatter.title}</h2>
+          <h2>{frontmatter.date}</h2>
+          <h2>
+            categories:{" "}
+            {frontmatter.categories?.map((x) => categoriesMap[x]).join(", ")}
+          </h2>
+          <h2>
+            authors: {frontmatter.authors?.map((x) => authorsMap[x]).join(", ")}
+          </h2>
+        </div>
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </div>
@@ -29,6 +39,8 @@ export const pageQuery = graphql`
         path
         title
         blog
+        categories
+        authors
       }
     }
   }

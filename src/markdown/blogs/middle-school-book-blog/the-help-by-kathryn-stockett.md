@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - histfict
 authors:
+  - kathryn-stockett
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513787/The-Help.jpg.jpg
 comments:

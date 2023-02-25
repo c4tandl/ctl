@@ -7,6 +7,7 @@ categories:
   - currfict
   - sports-novel
 authors:
+  - walter-dean-myers
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512729/Game-208x300.jpg.jpg
 comments:

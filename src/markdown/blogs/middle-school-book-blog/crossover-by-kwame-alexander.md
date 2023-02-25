@@ -9,6 +9,7 @@ categories:
   - sports-novel
   - ya
 authors:
+  - kwame-alexander
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700654/Crossover-Aidan.jpg.jpg
 comments:

@@ -8,6 +8,7 @@ categories:
   - social-justice-novel
   - yaserious
 authors:
+  - jason-reynolds-and-brendan-kiely
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658088/All-American-Boys-201x300.jpg.jpg
 comments:

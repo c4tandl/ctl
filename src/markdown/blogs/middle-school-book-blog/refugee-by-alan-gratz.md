@@ -9,6 +9,7 @@ categories:
   - histfict
   - yaserious
 authors:
+  - alan-gratz
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513136/Refugee-1-198x300.jpg.jpg
 comments:

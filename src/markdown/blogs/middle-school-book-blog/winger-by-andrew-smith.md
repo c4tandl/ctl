@@ -8,6 +8,7 @@ categories:
   - currfict
   - ya
 authors:
+  - andrew-smith
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659660237/Winger.jpg.jpg
 comments:

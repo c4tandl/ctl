@@ -8,6 +8,7 @@ categories:
   - retelling
   - romance
 authors:
+  - renee-ahdieh
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512731/The-Wrath-and-the-Dawn-200x300.jpg.jpg
 comments:

@@ -9,6 +9,7 @@ categories:
   - scifi
   - supernatural
 authors:
+  - richard-matheson
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637541046/iamlegend-bookcover2-201x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637541047/iamlegend-bookcover2.jpg.jpg

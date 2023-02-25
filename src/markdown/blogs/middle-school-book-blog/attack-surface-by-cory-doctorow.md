@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - cory-doctorow
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658251/Attack-Surface-674x1024.jpeg.jpg
 comments:

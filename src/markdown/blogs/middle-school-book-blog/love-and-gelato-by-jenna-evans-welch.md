@@ -8,6 +8,7 @@ categories:
   - mystery
   - romance
 authors:
+  - jenna-evans-welch
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659660246/Love-and-Gelato-YuJi-683x1024.jpg.jpg
 comments:

@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - dystopian-science-fiction
 authors:
+  - dave-eggers
 images:
 comments:
 creator: Anne

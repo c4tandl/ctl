@@ -8,6 +8,7 @@ categories:
   - sports-novel
   - ya
 authors:
+  - matthew-quick
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540808/11138172-199x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540809/11138172.jpg.jpg

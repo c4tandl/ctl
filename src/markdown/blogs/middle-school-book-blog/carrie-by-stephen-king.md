@@ -8,6 +8,7 @@ categories:
   - supernatural
   - thriller
 authors:
+  - stephen-king
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513323/Carrie-book-cover-image-179x300.jpg.jpg
 comments:

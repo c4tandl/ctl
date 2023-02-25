@@ -8,6 +8,7 @@ categories:
   - journalism
   - mem
 authors:
+  - thomas-mcfadden-and-rusty-young
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700567/43081-197x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700568/43081.jpg.jpg

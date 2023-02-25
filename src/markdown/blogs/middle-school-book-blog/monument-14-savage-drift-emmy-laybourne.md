@@ -9,6 +9,7 @@ categories:
   - scifi
   - ya
 authors:
+  - emmy-laybourne
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513094/5770033._SY540_-225x300.jpg.jpg
 comments:

@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - julie-murphy
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637541046/Dumplin.jpg.jpg
 comments:

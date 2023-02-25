@@ -7,6 +7,7 @@ categories:
   - anti-war-novel
   - classics
 authors:
+  - dalton-trumbo
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700597/Johnny-Got-His-Gun.jpg.jpg
 comments:

@@ -9,6 +9,7 @@ categories:
   - mystery
   - supernatural
 authors:
+  - rick-yancey
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637511821/The-Monstrumologist-200x300.jpg.jpg
 comments:

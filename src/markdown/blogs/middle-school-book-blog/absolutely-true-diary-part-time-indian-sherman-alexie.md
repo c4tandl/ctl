@@ -8,6 +8,7 @@ categories:
   - currfict
   - ya
 authors:
+  - sherman-alexie
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659659090/6881eed3f57f35152cae7b85252d784d-199x300.jpg.jpg
 comments:

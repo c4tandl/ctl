@@ -8,6 +8,7 @@ categories:
   - dystopian-science-fiction
   - ya
 authors:
+  - james-dashner
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637542550/The_Maze_Runner_cover-207x300.png.png
 comments:

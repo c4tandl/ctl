@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - mem
 authors:
+  - dave-eggers
 images:
 comments:
 creator: Teddy

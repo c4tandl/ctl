@@ -8,6 +8,7 @@ categories:
   - history
   - mem
 authors:
+  - elie-wiesel
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513290/Night-187x300.jpg.jpg
 comments:

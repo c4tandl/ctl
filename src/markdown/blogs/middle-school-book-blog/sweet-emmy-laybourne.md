@@ -12,6 +12,7 @@ categories:
   - thriller
   - ya
 authors:
+  - emmy-laybourne
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658617/Sweet-Laybourne-201x300.jpg.jpg
 comments:

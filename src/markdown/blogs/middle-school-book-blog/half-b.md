@@ -8,6 +8,7 @@ categories:
   - family-saga
   - nature
 authors:
+  - kenneth-oppel
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700586/Half-Brother-197x300.jpg.jpg
 comments:

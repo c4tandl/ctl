@@ -9,6 +9,7 @@ categories:
   - mem
   - non-fiction
 authors:
+  - jon-krakauer
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700615/Into-Thin-Air-195x300.jpg.jpg
 comments:

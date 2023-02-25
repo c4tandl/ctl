@@ -8,6 +8,7 @@ categories:
   - non-fiction
   - science
 authors:
+  - eric-schlosser-and-charles-wilson
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700590/Chew-on-This.jpg.jpg
 comments:

@@ -9,6 +9,7 @@ categories:
   - history
   - romance
 authors:
+  - jodi-picoult
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513461/Storyteller-1.jpg.jpg
 comments:

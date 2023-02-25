@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - roland-smith
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658622/Peak-200x300.jpg.jpg
 comments:

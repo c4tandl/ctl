@@ -8,6 +8,7 @@ categories:
   - non-fiction
   - science
 authors:
+  - ben-goldfarb
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700638/Eager.jpg.jpg
 comments:

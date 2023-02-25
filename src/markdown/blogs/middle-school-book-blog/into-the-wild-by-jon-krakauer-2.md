@@ -8,6 +8,7 @@ categories:
   - nature
   - non-fiction
 authors:
+  - jon-krakauer
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513294/Into-the-Wild.jpg.jpg
 comments:

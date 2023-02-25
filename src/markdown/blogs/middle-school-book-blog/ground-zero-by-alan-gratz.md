@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - alan-gratz
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658256/Ground-Zero-678x1024.jpeg.jpg
 comments:

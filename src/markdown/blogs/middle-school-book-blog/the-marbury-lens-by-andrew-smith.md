@@ -9,6 +9,7 @@ categories:
   - techno-thriller
   - ya
 authors:
+  - andrew-smith
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512694/Marbury.jpg.jpg
 comments:

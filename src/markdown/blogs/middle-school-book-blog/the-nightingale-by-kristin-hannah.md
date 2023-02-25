@@ -7,6 +7,7 @@ categories:
   - histfict
   - history
 authors:
+  - kristin-hannah
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658273/The-Nightingale.jpg.jpg
 comments:

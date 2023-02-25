@@ -7,6 +7,7 @@ categories:
   - currfict
   - ya
 authors:
+  - cecelia-perez
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512947/Strange-Birds-Sarah.jpg.jpg
 comments:

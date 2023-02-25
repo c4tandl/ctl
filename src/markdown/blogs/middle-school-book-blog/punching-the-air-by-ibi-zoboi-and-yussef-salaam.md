@@ -6,6 +6,8 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - yussef-salaam
+  - ibi-zoboi
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658788/Punching-the-Air-678x1024.jpeg.jpg
 comments:

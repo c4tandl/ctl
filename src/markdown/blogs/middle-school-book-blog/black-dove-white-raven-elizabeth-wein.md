@@ -9,6 +9,7 @@ categories:
   - history
   - ya
 authors:
+  - elizabeth-wein
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700595/Black-Dove-White-Raven-196x300.jpg.jpg
 comments:

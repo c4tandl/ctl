@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - currfict
 authors:
+  - erin-jade-lange
 images:
 comments:
 creator: Nicholas

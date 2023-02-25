@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - sophie-gonzales
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658249/Only-Mostly-Devastated-663x1024.jpeg.jpg
 comments:

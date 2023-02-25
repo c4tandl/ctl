@@ -7,6 +7,7 @@ categories:
   - adv
   - classics
 authors:
+  - herman-melville
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700573/MobyDickTonyMillionaireCoverPoster-198x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700577/MobyDickTonyMillionaireCoverPoster.jpg.jpg

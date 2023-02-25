@@ -10,6 +10,7 @@ categories:
   - non-fiction
   - war-story
 authors:
+  - mark-bowden
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637541051/Black-Hawk-Down-195x300.jpg.jpg
 comments:

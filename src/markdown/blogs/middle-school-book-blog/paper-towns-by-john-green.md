@@ -8,6 +8,7 @@ categories:
   - mystery
   - ya
 authors:
+  - john-green
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513062/Paper-Towns.jpg.jpg
 comments:

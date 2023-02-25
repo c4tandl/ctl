@@ -10,6 +10,7 @@ categories:
   - social-justice-novel
   - yaserious
 authors:
+  - jennifer-latham
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700620/Dreamland-Burning-1-200x300.jpg.jpg
 comments:

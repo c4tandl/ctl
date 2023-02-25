@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - john-green
 images:
 comments:
 creator: Maggie

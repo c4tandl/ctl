@@ -7,6 +7,7 @@ categories:
   - currfict
   - ya
 authors:
+  - claire-zorn
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659659546/Claire-Zorn.jpg.jpg
 comments:

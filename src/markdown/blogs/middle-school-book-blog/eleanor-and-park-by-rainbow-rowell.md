@@ -1,11 +1,12 @@
 ---
 slug: /middle-school-book-blog/eleanor-and-park-by-rainbow-rowell
 date: 2014-02-04T11:58:46Z
-title: Eleanor and Park, by Rainbow Rowell 
+title: Eleanor and Park, by Rainbow Rowell
 blog: middle-school-book-blog
 categories:
   - currfict
 authors:
+  - rainbow-rowell
 images:
 comments:
 creator: Elizabeth

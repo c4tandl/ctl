@@ -9,6 +9,7 @@ categories:
   - techno-thriller
   - ya
 authors:
+  - marie-lu
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659700658/Warcross-Aymeric-683x1024.jpg.jpg
 comments:

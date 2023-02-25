@@ -8,6 +8,7 @@ categories:
   - dystopian-science-fiction
   - ya
 authors:
+  - neal-shusterman
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658774/Unwind-Nico-1-683x1024.jpg.jpg
 comments:

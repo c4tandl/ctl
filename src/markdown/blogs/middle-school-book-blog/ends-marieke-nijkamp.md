@@ -7,6 +7,7 @@ categories:
   - currfict
   - thriller
 authors:
+  - marieke-nijkamp
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512730/THis-is-Where-it-Ends-200x300.jpg.jpg
 comments:

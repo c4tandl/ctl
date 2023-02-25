@@ -10,6 +10,7 @@ categories:
   - histfict
   - mystery
 authors:
+  - jennifer-donnelly
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513135/Rev_paperback_US-200x300.jpg.jpg
 comments:

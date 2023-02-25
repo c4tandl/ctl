@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - poetry-collection
 authors:
+  - rupi-kaur
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658957/Sun-and-Her-Flowers.jpg.jpg
 comments:

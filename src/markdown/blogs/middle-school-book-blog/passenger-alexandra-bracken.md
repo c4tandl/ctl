@@ -10,6 +10,7 @@ categories:
   - series-novel
   - ya
 authors:
+  - alexandra-bracken
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658596/51NFZbK5TrL-197x300.jpg.jpg
 comments:

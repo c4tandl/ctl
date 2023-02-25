@@ -8,6 +8,7 @@ categories:
   - romance
   - ya
 authors:
+  - susane-colasanti
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637540805/When-It-Happens.jpg.jpg
 comments:

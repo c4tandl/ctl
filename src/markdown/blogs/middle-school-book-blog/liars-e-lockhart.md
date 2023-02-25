@@ -8,6 +8,7 @@ categories:
   - mystery
   - ya
 authors:
+  - liars-e-lockhart
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513785/16143347-198x300.jpg.jpg
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513786/16143347.jpg.jpg

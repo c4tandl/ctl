@@ -8,6 +8,7 @@ categories:
   - histfict
   - mystery
 authors:
+  - laurie-king
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637541057/Beekeepers-Apprentice-225x300.jpg.jpg
 comments:

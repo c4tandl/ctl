@@ -9,6 +9,7 @@ categories:
   - ya
   - yaserious
 authors:
+  - sharon-draper
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513770/Copper_Sun_book_cover-200x300.jpg.jpg
 comments:

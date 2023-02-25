@@ -8,6 +8,7 @@ categories:
   - classics
   - scifi
 authors:
+  - orson-scott-card
 images:
 comments:
 creator: Charlotte

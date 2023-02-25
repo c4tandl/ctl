@@ -6,6 +6,7 @@ blog: middle-school-book-blog
 categories:
   - uncategorized
 authors:
+  - megan-crewe
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512947/The-Way-We-Fall-195x300.jpg.jpg
 comments:

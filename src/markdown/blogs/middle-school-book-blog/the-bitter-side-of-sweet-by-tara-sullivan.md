@@ -10,6 +10,7 @@ categories:
   - ya
   - yaserious
 authors:
+  - tara-sullivan
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637513455/Bitter-Side-of-Sweet-Lilly-Mae-683x1024.jpg.jpg
 comments:

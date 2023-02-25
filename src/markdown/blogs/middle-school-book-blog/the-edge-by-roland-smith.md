@@ -7,6 +7,7 @@ categories:
   - adv
   - nature
 authors:
+  - roland-smith
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1637512694/The-Edge-200x300.jpg.jpg
 comments:

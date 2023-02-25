@@ -9,6 +9,7 @@ categories:
   - ya
   - yaserious
 authors:
+  - angie-thomas
 images:
   - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1659658257/The-Hate-U-Give-199x300.jpg.jpg
 comments:
