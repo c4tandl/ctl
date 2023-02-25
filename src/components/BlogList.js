@@ -10,6 +10,7 @@ import { Link } from "gatsby";
 import styled from "styled-components";
 
 import SearchIcon from "../assets/svgs/icons/search.svg";
+import { authorsMap, categoriesMap } from "../assets/blogmaps";
 
 const Title = styled.div`
   color: #777777;
@@ -286,23 +287,25 @@ const FuzzySearchPosts = ({ posts, onFilter }) => {
                   ...styles,
                   minWidth: "220px",
                   maxWidth: "300px",
-                  maxHeight: "35px",
                 }),
                 valueContainer: (styles) => ({
                   ...styles,
-                  height: "35px",
+                  minHeight: "35px",
                 }),
               }}
               placeholder="Select genres..."
               className="pickermenu"
               options={genreOptions.map((option) => ({
                 value: option,
-                label: option,
+                label: categoriesMap[option],
               }))}
               onChange={(selectedValues) => {
                 setGenre(selectedValues.map((value) => value.value));
               }}
-              value={genre.map((gen) => ({ value: gen, label: gen }))}
+              value={genre.map((gen) => ({
+                value: gen,
+                label: categoriesMap[gen],
+              }))}
               isMulti
             />
           </span>
@@ -314,23 +317,25 @@ const FuzzySearchPosts = ({ posts, onFilter }) => {
                   ...styles,
                   minWidth: "220px",
                   maxWidth: "300px",
-                  maxHeight: "35px",
                 }),
                 valueContainer: (styles) => ({
                   ...styles,
-                  height: "35px",
+                  minHeight: "35px",
                 }),
               }}
               placeholder="Select authors..."
               className="pickermenu"
               options={authorOptions.map((option) => ({
                 value: option,
-                label: option,
+                label: authorsMap[option],
               }))}
               onChange={(selectedValues) => {
                 setAuthor(selectedValues.map((value) => value.value));
               }}
-              value={author.map((aut) => ({ value: aut, label: aut }))}
+              value={author.map((aut) => ({
+                value: aut,
+                label: authorsMap[aut],
+              }))}
               isMulti
             />
           </span>
