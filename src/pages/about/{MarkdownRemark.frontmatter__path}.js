@@ -9,6 +9,33 @@ import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
 
+import CTLAcorn from "../../assets/svgs/drawings/home/ctl.acorn.svg";
+
+const Acorn = styled.div`
+  width: 200px;
+  height: 200px;
+  svg {
+    .st0 {
+      fill: #ffffff;
+    }
+    .st1 {
+      fill: #8dc63f;
+    }
+    .st2 {
+      fill: #603913;
+    }
+    .st3 {
+      fill: #8b5e3c;
+    }
+    .st4 {
+      fill: #754c29;
+    }
+    .st5 {
+      fill: #3c2415;
+    }
+  }
+`;
+
 const Page = styled.div`
   display: flex;
   flex-direction: column;
@@ -148,21 +175,32 @@ export default function Template({
         <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
         <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
-            edges.map(({ node: { frontmatter, html } }) => (
-              <FoldingBody
-                isOpen={sectionMap[frontmatter.path]}
-                handleToggle={() => handleToggleSection(frontmatter.path)}
-                key={frontmatter.path}
-                title={frontmatter.title}
-                html={
-                  ["faculty", "administration", "board-of-directors"].includes(
-                    frontmatter.path
-                  )
-                    ? `<span class='profiles'>${html}</span>`
-                    : html
-                }
-              />
-            ))}
+            edges.map(({ node: { frontmatter, html } }, i) => {
+              const image = (
+                <Acorn>
+                  <CTLAcorn />
+                </Acorn>
+              );
+              return (
+                <FoldingBody
+                  isOpen={sectionMap[frontmatter.path]}
+                  handleToggle={() => handleToggleSection(frontmatter.path)}
+                  key={frontmatter.path}
+                  title={frontmatter.title}
+                  leftImage={i % 2 === 0 ? image : null}
+                  rightImage={i % 2 === 0 ? null : image}
+                  html={
+                    [
+                      "faculty",
+                      "administration",
+                      "board-of-directors",
+                    ].includes(frontmatter.path)
+                      ? `<span class='profiles'>${html}</span>`
+                      : html
+                  }
+                />
+              );
+            })}
         </BodyArea>
       </FullPage>
       <Updated title={`Last updated - ${latestDate}`}>&Delta;</Updated>

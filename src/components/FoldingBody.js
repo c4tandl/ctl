@@ -6,6 +6,25 @@ const BodyHolder = styled.div`
   position: relative;
   margin-bottom: 20px;
 `;
+
+const SideBodyLeft = styled.div`
+  position: absolute;
+  top: 50%;
+  left: -30%;
+  @media only screen and (max-width: 1115px) {
+    display: none;
+  }
+`;
+
+const SideBodyRight = styled.div`
+  position: absolute;
+  top: 50%;
+  right: -30%;
+  @media only screen and (max-width: 1115px) {
+    display: none;
+  }
+`;
+
 const Toggler = styled.div`
   cursor: pointer;
   h1 {
@@ -19,16 +38,24 @@ const Toggler = styled.div`
 
 const FoldingBody = (props) => {
   return (
-    <BodyHolder>
-      <div>
-        <Toggler role="button" onClick={props.handleToggle}>
-          <h1>
-            {props.title} {props.isOpen ? <>&ndash;</> : "+"}
-          </h1>
-        </Toggler>
-        {props.isOpen && <Body body={props.html} />}
-      </div>
-    </BodyHolder>
+    <>
+      <BodyHolder>
+        <div>
+          <Toggler role="button" onClick={props.handleToggle}>
+            <h1>
+              {props.title} {props.isOpen ? <>&ndash;</> : "+"}
+            </h1>
+          </Toggler>
+          {props.isOpen && (
+            <>
+              <SideBodyLeft>{props.leftImage}</SideBodyLeft>
+              <SideBodyRight>{props.rightImage}</SideBodyRight>
+              <Body body={props.html} />
+            </>
+          )}
+        </div>
+      </BodyHolder>
+    </>
   );
 };
 

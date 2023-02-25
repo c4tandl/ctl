@@ -15,6 +15,7 @@ const PageStyles = styled.div`
 `;
 const BodyStyles = styled.div`
   margin-top: ${(props) => props.headerHeight}px;
+  overflow-x: hidden;
   @media only screen and (max-width: 900px) {
     margin: 0;
   }

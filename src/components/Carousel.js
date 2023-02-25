@@ -107,7 +107,6 @@ const Carousel = (props) => {
   useEffect(() => {
     const slowPokes = [];
     Array.from(slideTrackRef.current.children).forEach((child) => {
-      console.log(child);
       if (child.naturalHeight !== 0) {
         child.classList.add("loaded");
       } else {
