@@ -5,6 +5,7 @@ import React, {
   useMemo,
   useRef,
 } from "react";
+import Select from "react-select";
 import { Link } from "gatsby";
 import styled from "styled-components";
 
@@ -58,9 +59,15 @@ const AboutSection = styled.div`
 const Row = styled.div`
   width: calc(100% - 40px);
   display: flex;
+  min-height: 35px;
   padding: 0 20px;
   justify-content: space-between;
-  margin: 1em 0;
+  margin: 1rem 0;
+  @media only screen and (max-width: 900px) {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
 `;
 
 const SingleInput = styled.span`
@@ -69,8 +76,11 @@ const SingleInput = styled.span`
   justify-content: flex-start;
   input,
   select {
+    min-width: 200px;
+    min-height: 35px;
     line-height: 24px;
     font-size: 16px;
+    margin: 0;
   }
 `;
 
@@ -86,6 +96,9 @@ const PageButton = styled.button`
   text-transform: uppercase;
   padding-bottom: 0;
   padding-top: 4px;
+  max-height: 35px;
+  cursor: pointer;
+  min-width: 220px;
   /* Make the font narrower */
   transform: scaleX(0.8);
 `;
@@ -130,7 +143,9 @@ const Post = ({ post }) => (
 const FuzzySearchPosts = ({ posts, onFilter }) => {
   const [input, setInput] = useState("");
   const [latestInput, setLatestInput] = useState(null);
+  const [showAdvanced, setShowAdvanced] = useState(false);
   const [genre, setGenre] = useState([]);
+  const [author, setAuthor] = useState([]);
   const timeout = useRef(null);
   const isRunned = useRef(false);
 
@@ -142,20 +157,17 @@ const FuzzySearchPosts = ({ posts, onFilter }) => {
     onFilter(posts);
   }, [onFilter, posts]);
 
+  const clearAdvanced = () => {
+    setGenre([]);
+    setAuthor([]);
+  };
+
+  const advancedSearchClear = useMemo(() => {
+    return !genre.length && !author.length;
+  }, [genre, author]);
+
   const handleInputChange = (e) => {
-    switch (e.target.id) {
-      case "search":
-        setInput(e.target.value);
-        break;
-      case "genre":
-        const newGenre = Array.from(e.target.selectedOptions).map(
-          (opt) => opt.value
-        );
-        setGenre(newGenre);
-        break;
-      default:
-        break;
-    }
+    setInput(e.target.value);
   };
 
   const filterResults = useCallback(
@@ -179,12 +191,34 @@ const FuzzySearchPosts = ({ posts, onFilter }) => {
     return opts.sort();
   }, [posts]);
 
+  const authorOptions = useMemo(() => {
+    const opts = posts
+      .filter((edge) => edge.node.frontmatter.authors)
+      .reduce((acc, edge) => {
+        edge.node.frontmatter.authors.forEach((category) => {
+          if (!acc.includes(category)) {
+            acc.push(category);
+          }
+        });
+        return acc;
+      }, []);
+    return opts.sort();
+  }, [posts]);
+
   useEffect(() => {
     const filterPosts = (posts) =>
       posts.filter(
         (edge) =>
+          // author input
+          (!author.length ||
+            author.some((aut) =>
+              edge.node.frontmatter.authors?.find(
+                (hor) => hor.toLowerCase() === aut.toLowerCase()
+              )
+            )) &&
+          // genre input
           (!genre.length ||
-            genre.every((gen) =>
+            genre.some((gen) =>
               edge.node.frontmatter.categories?.find(
                 (cat) => cat.toLowerCase() === gen.toLowerCase()
               )
@@ -219,27 +253,98 @@ const FuzzySearchPosts = ({ posts, onFilter }) => {
         window.clearTimeout(timeout.current);
       }
     };
-  }, [input, posts, genre, filterResults, latestInput]);
+  }, [input, posts, genre, author, filterResults, latestInput]);
 
   return (
-    <Row>
-      <SingleInput>
-        <SearchIcon />
-        :&nbsp;
-        <input id="search" type="search" onChange={handleInputChange} />
-      </SingleInput>
-      <SingleInput>
-        :&nbsp;
-        <select id="genre" multiple={true} onChange={handleInputChange}>
-          {genreOptions.map((option) => (
-            <option key={option} value={option}>
-              {option}
-            </option>
-          ))}
-        </select>
-      </SingleInput>
-      {JSON.stringify(genre)}
-    </Row>
+    <>
+      <Row>
+        <SingleInput>
+          <SearchIcon />
+          :&nbsp;
+          <input
+            placeholder="Search blog..."
+            id="search"
+            type="search"
+            onChange={handleInputChange}
+          />
+        </SingleInput>
+        <PageButton
+          onClick={() => {
+            setShowAdvanced(!showAdvanced);
+          }}
+        >
+          {showAdvanced ? "hide " : "show "}advanced search
+        </PageButton>
+      </Row>
+      {showAdvanced ? (
+        <Row>
+          <span>
+            <span>Genres:&nbsp;</span>
+            <Select
+              styles={{
+                control: (styles) => ({
+                  ...styles,
+                  minWidth: "220px",
+                  maxWidth: "300px",
+                  maxHeight: "35px",
+                }),
+                valueContainer: (styles) => ({
+                  ...styles,
+                  height: "35px",
+                }),
+              }}
+              placeholder="Select genres..."
+              className="pickermenu"
+              options={genreOptions.map((option) => ({
+                value: option,
+                label: option,
+              }))}
+              onChange={(selectedValues) => {
+                setGenre(selectedValues.map((value) => value.value));
+              }}
+              value={genre.map((gen) => ({ value: gen, label: gen }))}
+              isMulti
+            />
+          </span>
+          <span>
+            <span>Authors:&nbsp;</span>
+            <Select
+              styles={{
+                control: (styles) => ({
+                  ...styles,
+                  minWidth: "220px",
+                  maxWidth: "300px",
+                  maxHeight: "35px",
+                }),
+                valueContainer: (styles) => ({
+                  ...styles,
+                  height: "35px",
+                }),
+              }}
+              placeholder="Select authors..."
+              className="pickermenu"
+              options={authorOptions.map((option) => ({
+                value: option,
+                label: option,
+              }))}
+              onChange={(selectedValues) => {
+                setAuthor(selectedValues.map((value) => value.value));
+              }}
+              value={author.map((aut) => ({ value: aut, label: aut }))}
+              isMulti
+            />
+          </span>
+          <PageButton
+            onClick={() => {
+              clearAdvanced();
+            }}
+            disabled={advancedSearchClear}
+          >
+            clear advanced search
+          </PageButton>
+        </Row>
+      ) : null}
+    </>
   );
 };
 
