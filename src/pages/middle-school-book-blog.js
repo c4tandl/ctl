@@ -26,6 +26,7 @@ export const middleSchoolBookBlogQuery = graphql`
             title
             authors
             creator
+            categories
             images
           }
         }
