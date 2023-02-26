@@ -9,32 +9,7 @@ import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
 
-import CTLAcorn from "../../assets/svgs/drawings/ctl.acorn.svg";
-
-const Acorn = styled.div`
-  width: 200px;
-  height: 200px;
-  svg {
-    .st0 {
-      fill: #ffffff;
-    }
-    .st1 {
-      fill: #8dc63f;
-    }
-    .st2 {
-      fill: #603913;
-    }
-    .st3 {
-      fill: #8b5e3c;
-    }
-    .st4 {
-      fill: #754c29;
-    }
-    .st5 {
-      fill: #3c2415;
-    }
-  }
-`;
+import { CTLAcorn, Sun } from "../../assets/svgs/drawings";
 
 const Page = styled.div`
   display: flex;
@@ -56,13 +31,49 @@ const FullPage = styled.div`
   align-items: center;
 `;
 
+const SunDiv = styled.div`
+  position: absolute;
+  top: 50%;
+  right: 0;
+  @media only screen and (max-width: 1600px) {
+    opacity: 0.9;
+  }
+  @media only screen and (max-width: 1500px) {
+    opacity: 0.8;
+  }
+  @media only screen and (max-width: 1450px) {
+    opacity: 0.7;
+  }
+  @media only screen and (max-width: 1400px) {
+    opacity: 0.6;
+  }
+  @media only screen and (max-width: 1350px) {
+    opacity: 0.5;
+  }
+  @media only screen and (max-width: 1300px) {
+    opacity: 0.4;
+  }
+  @media only screen and (max-width: 1250px) {
+    opacity: 0.3;
+  }
+  @media only screen and (max-width: 1200px) {
+    opacity: 0.2;
+  }
+  @media only screen and (max-width: 1150px) {
+    opacity: 0.1;
+  }
+  @media only screen and (max-width: 1100px) {
+    display: none;
+  }
+`;
+
 const BodyArea = styled.div`
-  background-color: #fff;
-  z-index: 0;
+  background-color: #ffffff00;
   width: 900px;
   padding: 0 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
   transition: 0.5s;
+  z-index: 0;
   h1 {
     font-size: 25pt;
   }
@@ -72,6 +83,7 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
+  overflow-y: hidden;
   .body-img {
     width: 100%;
     display: flex;
@@ -173,14 +185,13 @@ export default function Template({
       )}
       <FullPage>
         <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
+        <SunDiv>
+          <Sun />
+        </SunDiv>
         <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }, i) => {
-              const image = (
-                <Acorn>
-                  <CTLAcorn />
-                </Acorn>
-              );
+              const image = <CTLAcorn />;
               return (
                 <FoldingBody
                   isOpen={sectionMap[frontmatter.path]}

@@ -19,6 +19,12 @@ const BodyStyles = styled.div`
   @media only screen and (max-width: 900px) {
     margin: 0;
   }
+  svg {
+    z-index: 0;
+    .st0 {
+      stroke-width: 0 !important;
+    }
+  }
 `;
 const Footpad = styled.div`
   margin-top: auto;
@@ -39,9 +45,9 @@ const Layout = ({ children }) => {
   const [showNav, setShowNav] = React.useState(true);
   const headerRef = React.useRef(null);
 
-  React.useEffect(() => {
-    const resizeWindow = (wind) => {
-      if (wind.target.innerWidth < 900) {
+  const resizeWindow = React.useCallback(
+    (wind) => {
+      if (wind && (wind.innerWidth || wind.target.innerWidth) < 900) {
         setShowNav(false);
         setHeaderHeight(0);
       } else {
@@ -50,11 +56,18 @@ const Layout = ({ children }) => {
         }
         setShowNav(true);
       }
-    };
+    },
+    [headerHeight]
+  );
+
+  React.useEffect(() => {
+    resizeWindow(window);
+  }, [resizeWindow]);
+
+  React.useEffect(() => {
     window.addEventListener("resize", resizeWindow);
-    window.dispatchEvent(new Event("resize"));
     return () => window.removeEventListener("resize", resizeWindow);
-  }, [headerHeight, headerRef]);
+  }, [headerHeight, headerRef, resizeWindow]);
 
   return (
     <PageStyles>

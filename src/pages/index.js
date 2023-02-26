@@ -62,17 +62,12 @@ const FullPage = styled.div`
   overflow-y: hidden;
   display: grid;
   grid-template-rows: 150px 1fr 1fr;
-  grid-template-columns: 1fr 1fr max(900px) 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) 1fr minmax(0, 900px) 1fr minmax(0, 1fr);
+  justify-content: center;
   grid-template-areas:
-    ". .    body   sun  sun"
-    ". bird body   sun  sun"
-    ". ctl  acorns worm .";
-  svg {
-    z-index: 0;
-    .st0 {
-      stroke-width: 0 !important;
-    }
-  }
+    ".   .    body   .    sun"
+    ".   bird body   .    ."
+    "ctl .    acorns worm .";
 
   @media only screen and (max-width: 1115px) {
     display: grid;
@@ -120,7 +115,7 @@ export default function Template({
           />
           <CTLAcorn
             style={{ gridArea: "ctl" }}
-            svgProps={{ style: { marginBottom: "-290px" } }}
+            svgProps={{ style: { marginBottom: "-280px" } }}
           />
           <FourAcorns style={{ gridArea: "acorns" }} />
           <WormAcorn style={{ gridArea: "worm" }} />

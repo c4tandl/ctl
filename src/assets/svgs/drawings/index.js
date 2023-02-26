@@ -144,8 +144,8 @@ export const FourAcorns = ({ svgProps, ...props }) => {
 };
 
 const SunDiv = styled.div`
-  width: 400px;
-  height: 400px;
+  width: 370px;
+  height: 370px;
   svg {
     .st0 {
       fill: #fbb040;
