@@ -4,8 +4,8 @@ import styled from "styled-components";
 import Grass from "../assets/svgs/drawings/grass.svg";
 import Facebook from "../assets/svgs/icons/facebook.svg";
 import Instagram from "../assets/svgs/icons/instagram.svg";
-import CTLAcorn from "../assets/svgs/drawings/home/ctl.acorn.svg";
-import AcornWorm from "../assets/svgs/drawings/home/acorn.worm.svg";
+import { CTLAcorn } from "../assets/svgs/drawings";
+import AcornWorm from "../assets/svgs/drawings/acorn.worm.svg";
 
 const Foot = styled.div`
   width: 100%;

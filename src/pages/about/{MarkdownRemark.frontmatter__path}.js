@@ -9,7 +9,7 @@ import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
 
-import CTLAcorn from "../../assets/svgs/drawings/home/ctl.acorn.svg";
+import CTLAcorn from "../../assets/svgs/drawings/ctl.acorn.svg";
 
 const Acorn = styled.div`
   width: 200px;

@@ -8,14 +8,15 @@ import Carousel from "../components/Carousel";
 import Body from "../components/Body";
 
 // svgs
-import Sun from "../assets/svgs/drawings/home/sun.svg";
-import HappyAcorn from "../assets/svgs/drawings/home/happy.acorn.3.svg";
-import Acorn from "../assets/svgs/drawings/home/acorn.4.svg";
-import CTLAcorn from "../assets/svgs/drawings/home/ctl.acorn.svg";
-import Bird from "../assets/svgs/drawings/home/bird.svg";
-import AcornWorm from "../assets/svgs/drawings/home/acorn.worm.svg";
-import AcornPerson1 from "../assets/svgs/drawings/home/acorn.person.1.svg";
-import AcornPerson2 from "../assets/svgs/drawings/home/acorn.person.2.svg";
+
+import { Bird, CTLAcorn } from "../assets/svgs/drawings";
+import Sun from "../assets/svgs/drawings/sun.svg";
+import HappyAcorn from "../assets/svgs/drawings/happy.acorn.3.svg";
+import Acorn from "../assets/svgs/drawings/acorn.4.svg";
+// import Bird from "../assets/svgs/drawings/bird.svg";
+import AcornWorm from "../assets/svgs/drawings/acorn.worm.svg";
+import AcornPerson1 from "../assets/svgs/drawings/acorn.person.1.svg";
+import AcornPerson2 from "../assets/svgs/drawings/acorn.person.2.svg";
 
 const Page = styled.div`
   display: flex;
@@ -86,50 +87,6 @@ const HideOnSmallscreen = styled.div`
   div {
     @media only screen and (max-width: 1115px) {
       display: none;
-    }
-  }
-`;
-
-const BirdArea = styled.div`
-  grid-area: bird;
-  width: 200px;
-  height: 200px;
-  svg {
-    .st0 {
-      fill: #27aae1;
-    }
-    .st1 {
-      fill: #1c75bc;
-    }
-    .st2 {
-      fill: #ffffff;
-    }
-  }
-`;
-
-const LeftBot = styled.div`
-  grid-area: ctl;
-  width: 150px;
-  height: 150px;
-  svg {
-    margin-bottom: -235px;
-    .st0 {
-      fill: #ffffff;
-    }
-    .st1 {
-      fill: #8dc63f;
-    }
-    .st2 {
-      fill: #603913;
-    }
-    .st3 {
-      fill: #8b5e3c;
-    }
-    .st4 {
-      fill: #754c29;
-    }
-    .st5 {
-      fill: #3c2415;
     }
   }
 `;
@@ -287,12 +244,16 @@ export default function Template({
           <SunArea>
             <Sun />
           </SunArea>
-          <BirdArea>
-            <Bird transform="scale(-1 1)" />
-          </BirdArea>
-          <LeftBot>
-            <CTLAcorn />
-          </LeftBot>
+          {/* <BirdArea> */}
+          <Bird
+            style={{ gridArea: "bird" }}
+            svgProps={{ transform: "scale(-1 1)" }}
+          />
+          {/* </BirdArea> */}
+          <CTLAcorn
+            style={{ gridArea: "ctl" }}
+            svgProps={{ style: { marginBottom: "-290px" } }}
+          />
           <MidBot>
             <Acorn className="acorn" />
             <AcornPerson1 className="person1" />
