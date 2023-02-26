@@ -191,7 +191,7 @@ export default function Template({
         <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }, i) => {
-              const image = <CTLAcorn />;
+              const image = <CTLAcorn style={{ backgroundColor: "red" }} />;
               return (
                 <FoldingBody
                   isOpen={sectionMap[frontmatter.path]}

@@ -43,8 +43,8 @@ const BodyHolder = styled.div`
     font-size: 16pt;
   }
   @media only screen and (max-width: 1115px) {
-    width: auto;
-    padding: 0 2rem;
+    width: calc(100% - 3rem);
+    margin: 0 1.5rem;
     img {
       max-width: 70vw;
     }
@@ -54,15 +54,16 @@ const BodyHolder = styled.div`
 const FullPage = styled.div`
   position: relative;
   display: grid;
-  width: calc(100vw - 20px);
+  width: auto;
   margin-top: 250px;
   @media only screen and (max-width: 1115px) {
     margin-top: 0;
   }
-  overflow-y: hidden;
+  overflow: hidden;
   display: grid;
+  max-width: 100vw;
   grid-template-rows: 150px 1fr 1fr;
-  grid-template-columns: minmax(0, 1fr) 1fr minmax(0, 900px) 1fr minmax(0, 1fr);
+  grid-template-columns: 1fr 1fr minmax(900px, 1fr) 1fr 1fr;
   justify-content: center;
   grid-template-areas:
     ".   .    body   .    sun"
@@ -70,10 +71,9 @@ const FullPage = styled.div`
     "ctl .    acorns worm .";
 
   @media only screen and (max-width: 1115px) {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-    grid-template-areas: "body";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 `;
 
@@ -109,10 +109,16 @@ export default function Template({
         </BodyHolder>
         <HideOnSmallscreen>
           <Sun style={{ gridArea: "sun" }} />
-          <Bird
-            style={{ gridArea: "bird" }}
-            svgProps={{ transform: "scale(-1 1)" }}
-          />
+          <div
+            style={{
+              gridArea: "bird",
+              minWidth: "300px",
+              display: "flex",
+              justifyContent: "flex-end",
+            }}
+          >
+            <Bird svgProps={{ transform: "scale(-1 1)" }} />
+          </div>
           <CTLAcorn
             style={{ gridArea: "ctl" }}
             svgProps={{ style: { marginBottom: "-280px" } }}
