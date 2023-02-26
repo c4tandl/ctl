@@ -55,10 +55,11 @@ const FullPage = styled.div`
   position: relative;
   display: grid;
   width: calc(100vw - 20px);
-  margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
+  margin-top: 250px;
   @media only screen and (max-width: 1115px) {
     margin-top: 0;
   }
+  overflow-y: hidden;
   display: grid;
   grid-template-rows: 150px 1fr 1fr;
   grid-template-columns: 1fr 1fr max(900px) 1fr 1fr;
