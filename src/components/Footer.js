@@ -69,7 +69,7 @@ const SmallScreenShowIllustrations = styled.div`
       stroke-width: 0 !important;
     }
   }
-  @media only screen and (min-width: 1115px) {
+  @media only screen and (min-width: 900px) {
     display: none;
   }
 `;

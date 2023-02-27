@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
+//general
 import BirdSVG from "./bird.svg";
 import CTLAcornSVG from "./ctl.acorn.svg";
 import AcornPerson1SVG from "./acorn.person.1.svg";
@@ -8,8 +9,14 @@ import AcornSVG from "./acorn.4.svg";
 import AcornPerson2SVG from "./acorn.person.2.svg";
 import WormAcornSVG from "./acorn.worm.svg";
 import HappyAcornSVG from "./happy.acorn.3.svg";
-import AcornParaSVG from "./acorn.para.svg";
 import SunSVG from "./sun.svg";
+
+// about sections
+import AcornParaSVG from "./acorn.para.svg";
+// about bottom
+import CTLBirdSVG from "./ctl.blue.bird.svg";
+import FlowerPinkSVG from "./flower.pink.svg";
+import FlowerRedSVG from "./flower.red.svg";
 
 const BirdDiv = styled.div`
   width: 200px;
@@ -234,5 +241,79 @@ export const AcornPara = ({ svgProps, ...props }) => {
     <AcornParaDiv {...props}>
       <AcornParaSVG {...svgProps} />
     </AcornParaDiv>
+  );
+};
+
+/**
+ * Bottoms
+ */
+
+const AboutBottomDiv = styled.div`
+  display: inline-flex;
+  width: 1200px;
+  height: 550px;
+  overflow-y: hidden;
+  margin-bottom: -120px;
+  z-index: -1;
+  svg.bird {
+    width: 1200px;
+    .cls-1 {
+      fill: #27aae1;
+    }
+    .cls-2 {
+      fill: #fff;
+    }
+    .cls-3 {
+      fill: #2b3990;
+    }
+    .cls-4 {
+      fill: #262262;
+    }
+    .cls-5 {
+      fill: #f7941d;
+    }
+    .cls-6 {
+      fill: #1c75bc;
+    }
+  }
+  svg.flowerpink {
+    margin-bottom: -110px;
+    .st0 {
+      fill: #fff100;
+    }
+    .st1 {
+      fill: #ec297b;
+    }
+    .st2 {
+      fill: #fbb040;
+    }
+  }
+  svg.flowerred {
+    transform: scale(0.5);
+    margin-bottom: -180px;
+    .st0 {
+      fill: #f9ec31;
+    }
+    .st1 {
+      fill: #ee4036;
+    }
+    .st2 {
+      fill: #f05a28;
+    }
+    .st3 {
+      fill: #ffffff;
+    }
+  }
+  @media only screen and (max-width: 900px) {
+    display: none;
+  }
+`;
+export const AboutBottom = ({ svgProps, ...props }) => {
+  return (
+    <AboutBottomDiv {...props}>
+      <CTLBirdSVG {...svgProps} className="bird" />
+      <FlowerRedSVG {...svgProps} className="flowerred" />
+      <FlowerPinkSVG {...svgProps} className="flowerpink" />
+    </AboutBottomDiv>
   );
 };

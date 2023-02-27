@@ -214,6 +214,7 @@ export default function Template({
               );
             })}
         </BodyArea>
+        {getSVGs("about", "bottom")}
       </FullPage>
       <Updated title={`Last updated - ${latestDate}`}>&Delta;</Updated>
     </Page>

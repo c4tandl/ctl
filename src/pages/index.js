@@ -70,7 +70,7 @@ const FullPage = styled.div`
     ".   bird body   .    ."
     "ctl .    acorns worm .";
 
-  @media only screen and (max-width: 1115px) {
+  @media only screen and (max-width: 900px) {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -80,7 +80,7 @@ const FullPage = styled.div`
 const HideOnSmallscreen = styled.div`
   display: contents;
   div {
-    @media only screen and (max-width: 1115px) {
+    @media only screen and (max-width: 900px) {
       display: none;
     }
   }
