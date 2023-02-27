@@ -124,7 +124,10 @@ export default function Template({
             svgProps={{ style: { marginBottom: "-280px" } }}
           />
           <FourAcorns style={{ gridArea: "acorns" }} />
-          <WormAcorn style={{ gridArea: "worm" }} />
+          <WormAcorn
+            svgProps={{ style: { marginBottom: "-297px" } }}
+            style={{ gridArea: "worm" }}
+          />
         </HideOnSmallscreen>
       </FullPage>
       <Updated title={`Last updated - ${date}`}>&Delta;</Updated>

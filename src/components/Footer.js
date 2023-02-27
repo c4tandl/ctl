@@ -4,8 +4,7 @@ import styled from "styled-components";
 import Grass from "../assets/svgs/drawings/grass.svg";
 import Facebook from "../assets/svgs/icons/facebook.svg";
 import Instagram from "../assets/svgs/icons/instagram.svg";
-import { CTLAcorn } from "../assets/svgs/drawings";
-import AcornWorm from "../assets/svgs/drawings/acorn.worm.svg";
+import { CTLAcorn, WormAcorn } from "../assets/svgs/drawings";
 
 const Foot = styled.div`
   width: 100%;
@@ -75,73 +74,6 @@ const SmallScreenShowIllustrations = styled.div`
   }
 `;
 
-const CTLArea = styled.div`
-  width: 150px;
-  height: 150px;
-  svg {
-    .st0 {
-      fill: #ffffff;
-    }
-    .st1 {
-      fill: #8dc63f;
-    }
-    .st2 {
-      fill: #603913;
-    }
-    .st3 {
-      fill: #8b5e3c;
-    }
-    .st4 {
-      fill: #754c29;
-    }
-    .st5 {
-      fill: #3c2415;
-    }
-  }
-`;
-const WormArea = styled.div`
-  svg {
-    width: 200px;
-    height: 200px;
-    .st0 {
-      fill: #ef4136;
-    }
-    .st1 {
-      fill: #1c75bc;
-    }
-    .st2 {
-      fill: #ec008c;
-    }
-    .st3 {
-      fill: #00a79d;
-    }
-    .st4 {
-      fill: #92278f;
-    }
-    .st5 {
-      fill: #2b3990;
-    }
-    .st6 {
-      fill: #f7941d;
-    }
-    .st7 {
-      fill: #009444;
-    }
-    .st8 {
-      fill: #f9ed32;
-    }
-    .st9 {
-      fill: #8dc63f;
-    }
-    .st10 {
-      fill: #ffffff;
-    }
-    .st11 {
-      fill: #39b54a;
-    }
-  }
-`;
-
 const Footer = () => {
   const makeGrass = () => {
     return Array.from(Array(50).keys()).map((section) => (
@@ -158,12 +90,8 @@ const Footer = () => {
   return (
     <Foot>
       <SmallScreenShowIllustrations>
-        <CTLArea>
-          <CTLAcorn />
-        </CTLArea>
-        <WormArea>
-          <AcornWorm />
-        </WormArea>
+        <CTLAcorn />
+        <WormAcorn />
       </SmallScreenShowIllustrations>
       <Field>{makeGrass()}</Field>
       <Underground>

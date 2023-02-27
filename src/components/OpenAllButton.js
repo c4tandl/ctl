@@ -7,8 +7,8 @@ import Minus from "../assets/svgs/icons/minus.svg";
 const OpenCloseButton = styled.button`
   z-index: 2;
   position: fixed;
-  top: 16px;
-  left: 16px;
+  top: 166px;
+  right: 30vw;
   color: black;
   border: 0;
   padding: 0;

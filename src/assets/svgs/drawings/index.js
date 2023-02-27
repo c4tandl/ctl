@@ -8,6 +8,7 @@ import AcornSVG from "./acorn.4.svg";
 import AcornPerson2SVG from "./acorn.person.2.svg";
 import WormAcornSVG from "./acorn.worm.svg";
 import HappyAcornSVG from "./happy.acorn.3.svg";
+import AcornParaSVG from "./acorn.para.svg";
 import SunSVG from "./sun.svg";
 
 const BirdDiv = styled.div`
@@ -167,7 +168,6 @@ const WormAcornDiv = styled.div`
   svg {
     width: 200px;
     height: 200px;
-    margin-bottom: -305px;
     .st0 {
       fill: #ef4136;
     }
@@ -211,5 +211,28 @@ export const WormAcorn = ({ svgProps, ...props }) => {
     <WormAcornDiv {...props}>
       <WormAcornSVG {...svgProps} />
     </WormAcornDiv>
+  );
+};
+
+const AcornParaDiv = styled.div`
+  width: 380px;
+  height: 380px;
+  svg {
+    .st0 {
+      fill: #f15a29;
+    }
+    .st1 {
+      fill: #8dc63f;
+    }
+    .st2 {
+      fill: #ffffff;
+    }
+  }
+`;
+export const AcornPara = ({ svgProps, ...props }) => {
+  return (
+    <AcornParaDiv {...props}>
+      <AcornParaSVG {...svgProps} />
+    </AcornParaDiv>
   );
 };

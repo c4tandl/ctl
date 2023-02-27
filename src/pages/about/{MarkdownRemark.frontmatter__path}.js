@@ -9,7 +9,9 @@ import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
 
-import { CTLAcorn, Sun } from "../../assets/svgs/drawings";
+import { Sun } from "../../assets/svgs/drawings";
+
+import { getSVGs } from "../../utils";
 
 const Page = styled.div`
   display: flex;
@@ -83,7 +85,6 @@ const BodyArea = styled.div`
   h3 {
     font-size: 16pt;
   }
-  overflow-y: hidden;
   .body-img {
     width: 100%;
     display: flex;
@@ -191,15 +192,15 @@ export default function Template({
         <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }, i) => {
-              const image = <CTLAcorn style={{ backgroundColor: "red" }} />;
+              const images = getSVGs("about", frontmatter.path);
               return (
                 <FoldingBody
                   isOpen={sectionMap[frontmatter.path]}
                   handleToggle={() => handleToggleSection(frontmatter.path)}
                   key={frontmatter.path}
                   title={frontmatter.title}
-                  leftImage={i % 2 === 0 ? image : null}
-                  rightImage={i % 2 === 0 ? null : image}
+                  leftImage={images?.["left"]}
+                  rightImage={images?.["right"]}
                   html={
                     [
                       "faculty",

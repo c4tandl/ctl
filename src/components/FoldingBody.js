@@ -8,8 +8,9 @@ const BodyHolder = styled.div`
 `;
 
 const SideBodyLeft = styled.div`
+  height: 100%;
   position: absolute;
-  top: 50%;
+  top: 0;
   left: -30%;
   @media only screen and (max-width: 1115px) {
     display: none;
@@ -17,8 +18,9 @@ const SideBodyLeft = styled.div`
 `;
 
 const SideBodyRight = styled.div`
+  height: 100%;
   position: absolute;
-  top: 50%;
+  top: 0;
   right: -30%;
   @media only screen and (max-width: 1115px) {
     display: none;
