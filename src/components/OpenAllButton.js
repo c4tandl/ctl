@@ -5,9 +5,10 @@ import Plus from "../assets/svgs/icons/plus.svg";
 import Minus from "../assets/svgs/icons/minus.svg";
 
 const OpenCloseButtonArea = styled.div`
+  z-index: 2;
+  pointer-events: none;
   position: fixed;
   top: 116px;
-  z-index: 10;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -44,7 +45,7 @@ const LittleWiderThanNav = styled.div`
 `;
 
 const OpenCloseButton = styled.button`
-  z-index: 2;
+  pointer-events: all;
   color: black;
   border: 0;
   padding: 0;
