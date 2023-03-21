@@ -1,7 +1,7 @@
 ---
 path: creating-passionate-readers
-date: 2021-10-06T12:35:38.975Z
-title: Creating Passionate Readers - a piece by Nancie Atwell
+date: 2023-03-21T13:52:59.660Z
+title: Creating Passionate Readers - A Piece by Nancie Atwell
 sort: 1
 nav: reading-resources
 carousel:
