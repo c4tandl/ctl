@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2021-10-06T12:35:38.975Z
+date: 2023-03-21T13:31:41.807Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -15,10 +15,9 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.5_twrpvd.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.38_vqfsuj.jpg
 ---
-
 CTL’s Admissions Process:
 
-A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open House. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school at 207-882-9706.
+A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open House or Open Tour. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school at 207-882-9706.
 
 B. **Applying**: Once you know you would like to apply, do so by:
 
