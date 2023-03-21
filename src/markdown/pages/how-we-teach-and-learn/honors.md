@@ -1,7 +1,7 @@
 ---
 path: honors
-date: 2021-10-06T12:35:38.975Z
-title: Honors CTL Kids have received
+date: 2023-03-21T13:31:17.397Z
+title: Honors CTL Kids Have Received
 sort: 6
 nav: how-we-teach-and-learn
 ---
