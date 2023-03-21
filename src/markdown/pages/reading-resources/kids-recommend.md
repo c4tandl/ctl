@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-21T15:16:27.986Z
+date: 2023-03-21T17:16:45.542Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -493,61 +493,61 @@ Wilder, Laura Ingalls The *Little House* series
 Gr. 5-6 
 </summary>
 
-Abel-Fattah, Randa    Does My Head Look Big In This?
+Abel-Fattah, Randa    *Does My Head Look Big In This?*
 
-Alexander, Kwame  Booked, Crossover, and Rebound
+Alexander, Kwame  *Booked, Crossover,* and *Rebound*
 
-Almond, David    The Savage
+Almond, David    *The Savage*
 
-Alphin, Elaine    The Perfect Shot [(review)](http://c-t-l.org/bookblog/?p=259)
+Alphin, Elaine    *The Perfect Shot* [(review)](http://c-t-l.org/bookblog/?p=259)
 
-Anderson, John    Sidekicked
+Anderson, John    *Sidekicked*
 
-Anderson, M.T.    Octavian Nothing
+Anderson, M.T.    *Octavian Nothing*
 
-Applegate, Katherine    Wishtree
+Applegate, Katherine    *Wishtree*
 
-Armstrong, K.L.  Loki’s Wolves and Odin’s Ravens
+Armstrong, K.L.  *Loki’s Wolves* and *Odin’s Ravens*
 
-Bacigalupi, Paolo    Ship Breaker
+Bacigalupi, Paolo    *Ship Breaker*
 
-Bagieu, Penelope    Brazen
+Bagieu, Penelope    *Brazen*
 
-Banks, Angelica   Finding Serendipity
+Banks, Angelica   *Finding Serendipity*
 
-Barrows, Annie    The Magic Half
+Barrows, Annie    *The Magic Half*
 
-Bartoletti, Susan   Typhoid Mary and The Boy Who Dared
+Bartoletti, Susan   *Typhoid Mary* and *The Boy Who Dared*
 
-Bascomb, Neal    The Nazi Hunters
+Bascomb, Neal    *The Nazi Hunters*
 
-Baskin, Nora Raleigh    Almost Home, Nine, Ten, and Every Girl Except Me, Anything But Typical and The Summer Before Boys
+Baskin, Nora Raleigh    *Almost Home, Nine, Ten, and Every Girl Except Me, Anything But Typical* and *The Summer Before Boys*
 
-Bauer, Joan    Almost Home and Close to Famous
+Bauer, Joan    *Almost Home* and *Close to Famous*
 
-Bell, Cece   El Deafo
+Bell, Cece   *El Deafo*
 
-Benjamin, Ali   The Thing About Jellyfish and The Next Great Paulie Fink
+Benjamin, Ali   *The Thing About Jellyfish* and *The Next Great Paulie Fink*
 
-Bertman, Jennifer   Book Scavenger
+Bertman, Jennifer   *Book Scavenger*
 
-Bigalow, Lisa Jenn    Drum Roll, Please
+Bigalow, Lisa Jenn    *Drum Roll, Please*
 
-Black, Holly    Darkest Part of the Forest
+Black, Holly    *Darkest Part of the Forest*
 
-Bowler, Tim     Storm Catchers [(review)](http://c-t-l.org/bookblog/?p=493)
+Bowler, Tim     *Storm Catchers* [(review)](http://c-t-l.org/bookblog/?p=493)
 
-Bowman, Erin    Contagion
+Bowman, Erin    *Contagion*
 
-Boyne, John     The Boy in the Striped Pajamas and The Boy on Top of the Mountain
+Boyne, John     *The Boy in the Striped Pajamas* and *The Boy on Top of the Mountain*
 
-Bradbury, Jennifer     Shift and A Moment Comes
+Bradbury, Jennifer     *Shift* and *A Moment Comes*
 
-Bradley, Kimberly   The War that Saved My Life series
+Bradley, Kimberly   *The War that Saved My Life* series
 
-Brashares, Ann The Sisterhood of the Travleing Pants series
+Brashares, Ann *The Sisterhood of the Traveling Pants* series
 
-Bryant, Jen    Pieces of Georgia
+Bryant, Jen    *Pieces of Georgia*
 
 Burg, Ann E.     All the Broken Pieces
 
