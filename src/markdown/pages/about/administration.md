@@ -1,6 +1,6 @@
 ---
 path: administration
-date: 2022-12-01T16:36:19.827Z
+date: 2023-03-21T13:21:19.816Z
 title: Administration
 sort: 5
 nav: about
@@ -14,4 +14,4 @@ carousel:
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/louise.staff_spnpef.jpg)
 
-**Louise Monroe** is CTL’s Office Manager and a native of Midcoast Maine. She attended the University of Massachusetts Amherst, earning her Bachelor of Arts in English and Communication, as well as a Master of Science in Business and Analytics. After graduating Louise moved back to her hometown, beginning her professional career as an Administrative Assistant at Boothbay Region Land Trust. In the summer, she manages Cozy’s Dockside Restaurant in Southport. She has always loved attending school and learning as a whole, and has found the opportunity to manage CTL’s office to be rewarding.
+**Louise Monroe** is CTL’s Office Manager and a native of Midcoast Maine. She attended the University of Massachusetts Amherst, earning her Bachelor of Arts in English and Communication, as well as a Master of Science in Business and Analytics. After graduating Louise moved back to her hometown, beginning her professional career as an Administrative Assistant at Boothbay Region Land Trust. In the summer, she manages Cozy’s Dockside restaurant in Southport. She has always loved attending school and learning as a whole, and has found the opportunity to manage CTL’s office to be rewarding.
