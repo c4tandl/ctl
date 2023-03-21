@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-21T17:16:45.542Z
+date: 2023-03-21T18:04:48.886Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -549,45 +549,45 @@ Brashares, Ann *The Sisterhood of the Traveling Pants* series
 
 Bryant, Jen    *Pieces of Georgia*
 
-Burg, Ann E.     All the Broken Pieces
+Burg, Ann E.     *All the Broken Pieces*
 
-Buyea, Rob    Because of Mr. Terupt series and the Perfect Score series
+Buyea, Rob    *Because of Mr. Terupt* series and the *Perfect Score* series
 
-Carey, Janet Lee    Dragon’s Keep and The Beast of Noor
+Carey, Janet Lee    *Dragon’s Keep* and *The Beast of Noor*
 
-Carman, Patrick    Floors
+Carman, Patrick    *Floors*
 
-Chabon, Michael     Summerland
+Chabon, Michael     *Summerland*
 
-Chainani, Soman    The School for Good and Evil series
+Chainani, Soman    *The School for Good and Evil* series
 
-Charbonneau, Joelle    The Testing and Need
+Charbonneau, Joelle    *The Testing* and *Need*
 
-Chima, Cinda Williams    The Warrior Heir trilogy
+Chima, Cinda Williams    *The Warrior Heir* trilogy
 
-Choldenko, Gennifer    If a Tree Falls at Lunch Period
+Choldenko, Gennifer    *If a Tree Falls at Lunch Period*
 
-Cody, Matthew    Powerless, Super, and Will in Scarlet
+Cody, Matthew    *Powerless, Super,* and *Will in Scarlet*
 
-Colfer, Chris    Land of Stories
+Colfer, Chris    *Land of Stories*
 
-Collins, Suzanne    The Hunger Games series [(review of the first book)](http://c-t-l.org/bookblog/?p=502)
+Collins, Suzanne    *The Hunger Games* series [(review of the first book)](http://c-t-l.org/bookblog/?p=502)
 
-Condie, Ally    The Matched series
+Condie, Ally    The *Matched* series
 
-Connor, Leslie    Waiting for Normal
+Connor, Leslie    *Waiting for Normal*
 
-Cuevas, Michelle   Confessions of an Imaginary Friend
+Cuevas, Michelle   *Confessions of an Imaginary Friend*
 
-Dashner, James    The Maze Runner trilogy and Eye of Minds
+Dashner, James    *The Maze Runner* trilogy and *Eye of Minds*
 
-Dessen, Sarah    Keeping the Moon, The Truth About Forever, Along for the Ride
+Dessen, Sarah    *Keeping the Moon, The Truth About Forever, Along for the Ride*
 
-Doctorow, Cory    Little Brother and For the Win
+Doctorow, Cory    *Little Brother* and *For the Win*
 
-Draper, Sharon    Copper Sun and Out of My Mind
+Draper, Sharon    *Copper Sun* and *Out of My Mind*
 
-Emerson, Kevin Last Day on Mars series
+Emerson, Kevin *Last Day on Mars* series
 
 Engle, Margarita    Hurricane Dancers and The Surrender Tree
 
