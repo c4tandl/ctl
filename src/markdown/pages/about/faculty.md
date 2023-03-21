@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2022-12-01T16:51:36.719Z
+date: 2023-03-21T13:20:51.951Z
 title: Faculty
 sort: 4
 nav: about
@@ -23,11 +23,11 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669912150/faculty%20and%20staff%20photos/Alyssa_Katya_itwnrc.jpg)
 
-**Alyssa Mitchell** is CTL‘s grades 5-8 science teacher and an assistant teacher in 5-8 math. Alyssa has taught in Chicago, Nepal, and, most recently, in Lewiston. She is certified in math and science for middle grades and in physical and biological sciences for grades 9-12. Alyssa has a BS in Biology and Psychology from Virginia Commonwealth University and an MEd from National Louis University in Chicago. Alyssa has volunteered with the BRLT as a water quality monitor since moving to Boothbay several years ago and she believes in community partnerships and the importance of citizen science for student learning. Alyssa sees “each day \[as] a new opportunity to learn and foster positive change.” Trust in relationships is crucial to her style of teaching. 
+**Alyssa Mitchell** is CTL's grades 5-8 science teacher and an assistant teacher in 5-8 math. Alyssa has taught in Chicago, Nepal, and, most recently, in Lewiston. She is certified in math and science for middle grades and in physical and biological sciences for grades 9-12. Alyssa has a BS in Biology and Psychology from Virginia Commonwealth University and an MEd from National Louis University in Chicago. Alyssa has volunteered with the BRLT as a water quality monitor since moving to Boothbay several years ago and she believes in community partnerships and the importance of citizen science for student learning. Alyssa sees “each day \[as] a new opportunity to learn and foster positive change.” Trust in relationships is crucial to her style of teaching. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Katie_2_yzlvfx.png)
 
-**Katie Rittershaus** has been CTL’s teacher of middle-school (grades 5-8) mathematics since 2004; before that she was a familiar presence at the school as a long-term substitute, helping teacher, and advocate for children. A passionate mathematician, Katie also holds a B.A. from the University of Southern Maine in women’s studies and took several years of pre-med courses at Regis College and Colorado State University. Her students are stand-outs at Mathcounts competitions and in their high school mathematics courses
+**Katie Rittershaus** has been CTL’s teacher of middle-school (grades 5-8) mathematics since 2004; before that she was a familiar presence at the school as a long-term substitute, helping teacher, and advocate for children. A passionate mathematician, Katie also holds a B.A. from the University of Southern Maine in women’s studies and took several years of pre-med courses at Regis College and Colorado State University. Her students are stand-outs at Mathcounts competitions and in their high school mathematics courses.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/stacy.faculty_nctjda.jpg)
 
@@ -35,7 +35,7 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
 
-**Kaity Newell** is CTL’s music teacher for grades K-4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently
+**Kaity Newell** is CTL’s music teacher for grades K-4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/annie.faculty_kzyxka.jpg)
 
