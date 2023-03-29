@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-29T16:43:14.352Z
+date: 2023-03-29T18:07:41.008Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -1095,99 +1095,97 @@ Hand, Cynthia, Brodi Ashton, and Jodi Meadows   *My Lady Jane* and *My Plain Ja
 
 Harrington, Laura    *Alice Bliss*
 
-Hautman, Pete    All In, Godless, Hole in the Sky, The Big Crunch, Invisible, No Limit, Rash, and What Boys Really Want
+Hautman, Pete    *All In, Godless, Hole in the Sky, The Big Crunch, Invisible, No Limit, Rash,* and *What Boys Really Want*
 
-Heller, Joseph    Catch-22
+Heller, Joseph    *Catch-22*
 
-Hemingway, Ernest    The Old Man and the Sea, The Sun Also Rises, and For Whom the Bell Tolls
+Hemingway, Ernest    *The Old Man and the Sea, The Sun Also Rises,* and *For Whom the Bell Tolls*
 
-Hickham, Jr., Homer    October Sky
+Hickham, Jr., Homer    *October Sky*
 
-Hijuelos, Oscar    Dark Dude
+Hijuelos, Oscar    *Dark Dude*
 
-Hillenbrand, Laura    Unbroken
+Hillenbrand, Laura    *Unbroken*
 
-Hinton, S.E.    The Outsiders
+Hinton, S.E.    *The Outsiders*
 
-Hitchcock, Bonnie-Sue    The Smell of Other People’s Houses
+Hitchcock, Bonnie-Sue    *The Smell of Other People’s Houses*
 
-Homer     The Iliad and The Odyssey
+Homer     *The Iliad* and *The Odyssey*
 
-Hoose, Phillip   The Boys Who Challenged Hitler
+Hoose, Phillip   *The Boys Who Challenged Hitler*
 
-Hornby, Nick    High Fidelity, About a Boy, and Slam
+Hornby, Nick    *High Fidelity, About a Boy,* and *Slam*
 
-Hosseini, Khaled    The Kite Runner, A Thousand Splendid Suns, and And the Mountains Echoed
+Hosseini, Khaled    *The Kite Runner, A Thousand Splendid Suns,* and *And the Mountains Echoed*
 
-Huxley, Aldous    Brave New World
+Huxley, Aldous    *Brave New World*
 
-Ishiguro, Kazuo    Never Let Me Go
+Ishiguro, Kazuo    *Never Let Me Go*
 
-Jinks, Catherine    Evil Genius and Genius Squad
+Jinks, Catherine    *Evil Genius* and *Genius Squad*
 
-Johnson, Angela    The First Part Last
+Johnson, Angela    *The First Part Last*
 
-Johnson, Maureen    The Name of the Star, The Madness Underneath, and The Shadow Cabinet
+Johnson, Maureen    *The Name of the Star, The Madness Underneath,* and *The Shadow Cabinet*
 
-Kaling, Mindy    Is Everyone Hanging Out Without Me? and Why Not Me?
+Kaling, Mindy    *Is Everyone Hanging Out Without Me?* and *Why Not Me?*
 
-Kenneally, Miranda    Breathe, Annie, Breathe
+Kenneally, Miranda    *Breathe, Annie, Breathe*
 
-Keplinger, Kody   The Duff
+Keplinger, Kody   *The Duff*
 
-Kesey, Ken    One Flew Over the Cuckoo’s Nest [(review)](http://c-t-l.org/bookblog/?p=957)
+Kesey, Ken    *One Flew Over the Cuckoo’s Nest* [(review)](http://c-t-l.org/bookblog/?p=957)
 
-Kiely, Brandon and Jason Reynolds   All American Boys
+Kiely, Brandon and Jason Reynolds   *All American Boys*
 
-King, A.S.    Please Ignore Vera Dietz, Dust of 100 Dogs, Everyone Sees the Ants, and Ask the Passengers
+King, A.S.    *Please Ignore Vera Dietz, Dust of 100 Dogs, Everyone Sees the Ants,* and *Ask the Passengers*
 
-King, Stephen    11/22/63, Carrie, Pet Semetary, The Shining, Under the Dome, Christine, The Long Walk, The Girl Who Loved Tom Gordon, and The Stand
+King, Stephen    *11/22/63, Carrie, Pet Semetary, The Shining, Under the Dome, Christine, The Long Walk, The Girl Who Loved Tom Gordon,* and *The Stand*
 
-Kingsolver, Barbara    The Bean Trees and The Poisonwood Bible
+Kingsolver, Barbara    *The Bean Trees* and *The Poisonwood Bible*
 
-Klass, David    Danger Zone, Dark Angel, Home of the Braves, and Stuck on Earth
+Klass, David    *Danger Zone, Dark Angel, Home of the Braves,* and *Stuck on Earth*
 
-Koertge, Ron    Shakespeare Bats Cleanup and The Brimstone Journals
+Koertge, Ron    *Shakespeare Bats Cleanup* and *The Brimstone Journals*
 
-Korman, Gordon    Born to Rock, No More Dead Dogs, Schooled, Son of the Mob, Son of the Mob: Hollywood Hustle, and Jake, Reinvented
+Korman, Gordon    *Born to Rock, No More Dead Dogs, Schooled, Son of the Mob, Son of the Mob: Hollywood Hustle,* and *Jake, Reinvented*
 
-Krakauer, Jon    Into Thin Air and Into the Wild
+Krakauer, Jon    *Into Thin Air* and *Into the Wild*
 
-Kretch, Bob    Rebound [(review)](http://c-t-l.org/bookblog/?p=70)
+Kretch, Bob    *Rebound* [(review)](http://c-t-l.org/bookblog/?p=70)
 
-Latham, Jennifer   Dreamland Burning
+Latham, Jennifer   *Dreamland Burning*
 
-Laure, Estelle   This Raging Light
+Laure, Estelle   *This Raging Light*
 
-Laybourne, Emmy    Monument 14 [(review)](http://c-t-l.org/bookblog/?p=954), Monument 14: Sky on Fire [(review)](http://c-t-l.org/bookblog/?p=943), Monument 14: Savage Drift, and Sweet
+Laybourne, Emmy    *Monument 14* [(review)](http://c-t-l.org/bookblog/?p=954), *Monument 14: Sky on Fire* [(review)](http://c-t-l.org/bookblog/?p=943), *Monument 14: Savage Drift*, and *Sweet*
 
-Lee, Harper    To Kill a Mockingbird
+Lee, Harper    *To Kill a Mockingbird*
 
-Letts, Billie    Where the Heart Is
+Letts, Billie    *Where the Heart Is*
 
-Levine, Kristin    The Lions of Little Rock
+Levine, Kristin    T*he Lions of Little Rock*
 
-Levithan, David    Every Day and Another Day
+Levithan, David    *Every Day* and *Another Day*
 
-Lewis, John & Andrew Aydin  March (1, 2, and 3)
+Lewis, John & Andrew Aydin  *March (1, 2, and 3)*
 
-Lieb, Josh    I Am a Genius of Unspeakable Evil and I Want To Be Your Class President [(review)](http://c-t-l.org/bookblog/?p=407)
+Lieb, Josh    *I Am a Genius of Unspeakable Evil and I Want To Be Your Class President* [(review)](http://c-t-l.org/bookblog/?p=407)
 
-Lipsyte, Robert    Center Field and Raiders’ Night [(review)](http://c-t-l.org/bookblog/?p=328)
+Lipsyte, Robert    *Center Field* and *Raiders’ Night* [(review)](http://c-t-l.org/bookblog/?p=328)
 
-Lockhart, E.    The Disreputable History of Frankie Landau-Banks [(review)](http://c-t-l.org/bookblog/?p=79), The Boyfriend List, We Were Liars
+Lockhart, E.    *The Disreputable History of Frankie Landau-Banks* [(review)](http://c-t-l.org/bookblog/?p=79), *The Boyfriend List, We Were Liars*
 
-Lu, Marie    Legend, Prodigy, Champion, Warcross, and Wildcard
+Lu, Marie    *Legend, Prodigy, Champion, Warcross,* and *Wildcard*
 
-Lubar, David    Dunk, Hidden Talents [(review)](http://c-t-l.org/bookblog/?p=167), True Talents, and Sleeping Freshmen Never Lie
+Lubar, David    *Dunk, Hidden Talents* [(review)](http://c-t-l.org/bookblog/?p=167), *True Talents,* and *Sleeping Freshmen Never Lie*
 
-Ludlum, Robert    The Bourne Identity and The Bourne Supremacy
+Ludlum, Robert    *The Bourne Identity* and *The Bourne Supremacy*
 
-Lyga, Barry    I Hunt Killers, Game, Blood of My Blood, and Bang
+Lyga, Barry    *I Hunt Killers, Game, Blood of My Blood*, and *Bang*
 
-Lyga, Barry    I Hunt Killers, Game, Blood of My Blood, and Bang
-
-Lynch, Jim    The Highest Tide
+Lynch, Jim    *The Highest Tide*
 
 Magoon, Kekla   How It Went Down
 
