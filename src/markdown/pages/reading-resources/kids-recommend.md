@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-21T18:04:48.886Z
+date: 2023-03-29T15:30:42.871Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -589,97 +589,97 @@ Draper, Sharon    *Copper Sun* and *Out of My Mind*
 
 Emerson, Kevin *Last Day on Mars* series
 
-Engle, Margarita    Hurricane Dancers and The Surrender Tree
+Engle, Margarita    *Hurricane Dancers* and *The Surrender Tree*
 
-Erskine, Kathryn    Mockingbird
+Erskine, Kathryn    *Mockingbird*
 
-Evans, Richard Paul The Michael Vey series
+Evans, Richard Paul The *Michael Vey* series
 
-Farmer, Nancy    House of the Scorpion [(review)](http://c-t-l.org/bookblog/?p=418)
+Farmer, Nancy    *House of the Scorpion* [(review)](http://c-t-l.org/bookblog/?p=418)
 
-Fisher, Catherine    The Incarceron series
+Fisher, Catherine    The *Incarceron* series
 
-Fitzpatrick, Becca    Crescendo and Hush, Hush
+Fitzpatrick, Becca    *Crescendo* and *Hush, Hush*
 
-Flood, Nancy Bo    Warriors in the Crossfire and No-Name Baby
+Flood, Nancy Bo    *Warriors in the Crossfire* and *No-Name Baby*
 
-Forman, Mark    Slathbog’s Gold
+Forman, Mark    *Slathbog’s Gold*
 
-Friend, Natasha    Bounce and Perfect
+Friend, Natasha    *Bounce* and *Perfect*
 
-Fukuda, Andrew Xia    Crossing and the Hunt series
+Fukuda, Andrew Xia    *Crossing and the Hunt* series
 
-Fukui, Isamu    The Truancy books
+Fukui, Isamu    The *Truancy* books
 
-Gaiman, Neil    The Graveyard Book, Coraline, and Neverwhere
+Gaiman, Neil    *The Graveyard Book*, *Coraline*, and *Neverwhere*
 
-Gemeinhart, Dan    The Honest Truth, and The Remarkable Journey of Coyote Sunrise
+Gemeinhart, Dan    *The Honest Truth*, and *The Remarkable Journey of Coyote Sunrise*
 
-Gino, Alex   George
+Gino, Alex   *George*
 
-Gleitzman, Morris    The Once series
+Gleitzman, Morris    The *Once* series
 
-Golden, Christopher    Last Breath and Body Bags
+Golden, Christopher    *Last Breath* and *Body Bags*
 
-Gonzalez, Julie    Imaginary Enemy
+Gonzalez, Julie    *Imaginary Enemy*
 
-Grabenstein, Chris    Escape from Mr. Lemoncello’s Library and The Island of Dr. Libris
+Grabenstein, Chris    *Escape from Mr. Lemoncello’s Library* and *The Island of Dr. Libris*
 
-Graff, Lisa    Far Away, Lost in the Sun, The Thing About Georgie, A Tangle of Knots, and Double Dog Dare
+Graff, Lisa    *Far Away*, *Lost in the Sun*, *The Thing About Georgie*, *A Tangle of Knots*, and *Double Dog Dare*
 
-Grant, Michael    The Gone series
+Grant, Michael    The *Gone* series
 
-Gratz, Allan    Prisoner B-3087, Grenade, Ban This Book, Project-1065, Refugee, Samurai Shortstop, Brooklyn Nine, and Code of Honor
+Gratz, Allan    *Prisoner B-3087, Grenade, Ban This Book, Project-1065, Refugee, Samurai Shortstop, Brooklyn Nine,* and *Code of Honor*
 
-Greitens, Eric  The Warrior’s Heart
+Greitens, Eric  *The Warrior’s Heart*
 
-Griffin, Paul    The Orange Houses, Burning Blue, and Ten Mile River
+Griffin, Paul    *The Orange Houses, Burning Blue,* and *Ten Mile River*
 
-Han, Jenny    Shug
+Han, Jenny    *Shug*
 
-Hannigan, Katherine    Ida B.
+Hannigan, Katherine  *  Ida B.*
 
-Harrington, Karen    Sure Signs of Crazy
+Harrington, Karen    *Sure Signs of Crazy*
 
-Hautman, Pete    Blank Confession, Rash, Invisible, and Godless
+Hautman, Pete    *Blank Confession, Rash, Invisible,* and *Godless*
 
-Haworth, Danette    A Whole Lot of Lucky
+Haworth, Danette    *A Whole Lot of Lucky*
 
-Herlong, M.H.    The Great Wide Sea
+Herlong, M.H.    *The Great Wide Sea*
 
-Hiassen, Carl    Flush and Hoot
+Hiassen, Carl    *Flush* and *Hoot*
 
-Hicks, Faith Erin    Friends with Boys
+Hicks, Faith Erin    *Friends with Boys*
 
-Higson, Charlie    Silverfin, The Dead, and The Enemy series
+Higson, Charlie    *Silverfin,* *The Dead*, and *The Enemy* series
 
-Hillenbrand, Laura   Unbroken
+Hillenbrand, Laura   *Unbroken*
 
-Holm, Jennifer   Sunny Side Up and The Fourteenth Goldfish
+Holm, Jennifer   *Sunny Side Up* and *The Fourteenth Goldfish*
 
-Holzier, Tracy   Secret Hum of a Daisy
+Holzier, Tracy   *Secret Hum of a Daisy*
 
-Horowitz, Anthony    The Alex Rider series: Stormbreaker, Point Blank, etc.
+Horowitz, Anthony    The Alex Rider series: *Stormbreaker, Point Blank,* etc.
 
-Howe, James    The Misfits and Totally Joe, 13: Thirteen Stories, Addie on the Inside
+Howe, James    *The Misfits, Totally Joe, 13: Thirteen Stories*, and *Addie on the Inside*
 
-Hunt, Linda Mullaly    Fish in a Tree, One for the Murphys, and Shouting at the RainHunt, Lynda Mullaly    One for the Murphys
+Hunt, Linda Mullaly    *Fish in a Tree, One for the Murphys,* and *Shouting at the Rain*
 
-Jinks, Catherine    Evil Genius and How to Catch a Bogle
+Jinks, Catherine    *Evil Genius* and *How to Catch a Bogle*
 
-Johnson, Varian  The Parker Inheritance
+Johnson, Varian  *The Parker Inheritance*
 
-Kamkwamba, William and Mealer, Bryan    The Boy Who Harnessed the Wind
+Kamkwamba, William and Mealer, Bryan    *The Boy Who Harnessed the Wind*
 
-Kent, Rose    Kimchi and Calamari and Rocky Road
+Kent, Rose    *Kimchi and Calamari* and *Rocky Road*
 
-Kessler, Liz    The Tail of Emily WindsnapKlages, Ellen    The Green Glass Sea
+Kessler, Liz    *The Tail of Emily Windsnap*
 
-Klages, Ellen    The Green Glass Sea, Out of Left Field, and Wicked Wonders
+Klages, Ellen    *The Green Glass Sea, Out of Left Field,* and *Wicked Wonders*
 
-Kluger, Steve   My Most Excellent Year
+Kluger, Steve   *My Most Excellent Year*
 
-Korman, Gordon    Born to Rock, Schooled, Pop, Swindle, Whatshisface, Ungifted, Slacker, Restart, Unteachable, Son of the Mob, Born to Rock, Swindle, and the Mastermind series
+Korman, Gordon    *Born to Rock, Schooled, Pop, Swindle, Whatshisface, Ungifted, Slacker, Restart, Unteachable, Son of the Mob,* and the *Mastermind* series
 
 LaFleur, Suzanne    Love, Aubrey, and Eight Keys
 
