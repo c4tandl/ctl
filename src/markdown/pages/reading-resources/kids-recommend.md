@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-29T15:51:54.965Z
+date: 2023-03-29T16:43:14.352Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -891,209 +891,209 @@ Zusak, Markus    *The Book Thief*
 Gr. 7-8 
 </summary>
 
-Acevedo, Elizabeth    The Poet X, Clap When You Land and With the Fire on High
+Acevedo, Elizabeth    *The Poet X, Clap When You Land* and *With the Fire on High*
 
-Adams, Douglas    The Hitchhiker’s Guide to the Galaxy series
+Adams, Douglas    *The Hitchhiker’s Guide to the Galaxy* series
 
-Adieh, Renee    The Wrath and the Dawn and The Rose and the Dagger
+Adieh, Renee    *The Wrath and the Dawn* and *The Rose and the Dagger*
 
-Adiga, Aravind    The White Tiger [(review)](http://c-t-l.org/bookblog/?p=62)
+Adiga, Aravind    *The White Tiger* [(review)](http://c-t-l.org/bookblog/?p=62)
 
-Albert, Melissa   The Hazel Wood
+Albert, Melissa   *The Hazel Wood*
 
-Albertalli, Becky    Simon vs. the Homo Sapien Agenda, Leah on the Offbeat
+Albertalli, Becky    *Simon vs. the Homo Sapien Agenda, Leah on the Offbeat*
 
-Albertalli, Becky and Adam Silvera    What If It’s Us
+Albertalli, Becky and Adam Silvera    *What If It’s Us*
 
-Alexander, Kwame   Crossover and Booked
+Alexander, Kwame   *Crossover* and *Booked*
 
-Alexie, Sherman    The Absolutely True Diary of a Part-Time Indian
+Alexie, Sherman    *The Absolutely True Diary of a Part-Time Indian*
 
-Alifirenka, Caitlin and Martin Ganda   I Will Always Write Back
+Alifirenka, Caitlin and Martin Ganda   *I Will Always Write Back*
 
-Anderson, Laurie Halse   Speak, Prom and The Impossible Knife of Memory
+Anderson, Laurie Halse   *Speak, Prom* and *The Impossible Knife of Memory*
 
-Anderson, M.T.    Feed, The Game of Sunken Places, and Thirsty
+Anderson, M.T.    *Feed, The Game of Sunken Places,* and *Thirsty*
 
-Andrews, Jesse    Me and Earl and the Dying Girl
+Andrews, Jesse    *Me and Earl and the Dying Girl*
 
-Atkinson, Kate    Life After Life and Behind the Scenes at the Museum
+Atkinson, Kate    *Life After Life* and *Behind the Scenes at the Museum*
 
-Atwood, Margaret    The Handmaid’s Tale
+Atwood, Margaret    *The Handmaid’s Tale*
 
-Austen, Jane    Emma and Pride and Prejudice
+Austen, Jane    *Emma* and *Pride and Prejudice*
 
-Aveyard, Victoria   Red Queen and Glass Sword
+Aveyard, Victoria   *Red Queen* and *Glass Sword*
 
-Bacigalupi, Paolo    Ship Breaker and The Drowned Cities
+Bacigalupi, Paolo    *Ship Breaker* and *The Drowned Cities*
 
-Banks, Russell    Rule of the Bone
+Banks, Russell    *Rule of the Bone*
 
-Bauby, Jean Dominique    The Diving Bell and the Butterfly
+Bauby, Jean-Dominique    *The Diving Bell and the Butterfly*
 
-Beah, Ishmael    A Long Way Gone
+Beah, Ishmael    *A Long Way Gone*
 
-Benioff, David    City of Thieves
+Benioff, David    *City of Thieves*
 
-Bick, Ilsa    Ashes
+Bick, Ilsa    *Ashes*
 
-Bingham, Kelly    Shark Girl
+Bingham, Kelly    *Shark Girl*
 
-Bissinger, H.G.    Friday Night Lights
+Bissinger, H.G.    *Friday Night Lights*
 
-Bowden, Mark    Black Hawk Down
+Bowden, Mark    *Black Hawk Down*
 
-Bowman, Erin   Vengeance Road
+Bowman, Erin   *Vengeance Road*
 
-Bracken, Alexandra   Passenger and Wayfarer
+Bracken, Alexandra   *Passenger* and *Wayfarer*
 
-Bradbury, Ray    Fahrenheit 451
+Bradbury, Ray    *Fahrenheit 451*
 
-Bray, Libba    Beauty Queens, Going Bovine, and The Diviners
+Bray, Libba    *Beauty Queens, Going Bovine,* and *The Diviners*
 
-Brontë, Charlotte    Jane Eyre
+Brontë, Charlotte    *Jane Eyre*
 
-Brown, Christy    My Left Foot
+Brown, Christy    *My Left Foot*
 
-Brown, Dan    The Da Vinci Code and Angels and Demons
+Brown, Dan    *The Da Vinci Code* and *Angels and Demons*
 
-Brown, Daniel James    The Boys on the Boat
+Brown, Daniel James    *The Boys on the Boat*
 
-Bryant, Jen    Pieces of Georgia
+Bryant, Jen    *Pieces of Georgia*
 
-Bryson, Bill    A Walk in the Woods
+Bryson, Bill    *A Walk in the Woods*
 
-Buckhanon, Kalisha    Upstate
+Buckhanon, Kalisha    *Upstate*
 
-Burgess, Anthony    A Clockwork Orange
+Burgess, Anthony    *A Clockwork Orange*
 
-Cabot, Meg    All-American Girl, Avalon High and The Princess Diaries series
+Cabot, Meg    *All-American Girl, Avalon High* and *The Princess Diaries* series
 
-Caletti, Deb    The Nature of Jade, Wild Roses, The Six Rules of Maybe, and Honey, Baby, Sweetheart
+Caletti, Deb    *The Nature of Jade, Wild Roses, The Six Rules of Maybe*, and *Honey, Baby, Sweetheart*
 
-Card, Orson Scott    The Ender series [(review of Ender’s Game)](http://c-t-l.org/bookblog/?p=940) and Pathfinder
+Card, Orson Scott    The *Ender* series [(review of Ender’s Game)](http://c-t-l.org/bookblog/?p=940) and *Pathfinder*
 
-Carreyrou, John    Bad Blood
+Carreyrou, John    *Bad Blood*
 
-Cass, Kiera   The Selection series and The Siren
+Cass, Kiera   *The Selection* series and *The Siren*
 
-Cavallaro, Brittany    A Study in Charlotte and The Last of August
+Cavallaro, Brittany    *A Study in Charlotte* and *The Last of August*
 
-Chabon, Michael    The Adventures of Kavalier and Clay and The Yiddish Policemen’s Union
+Chabon, Michael    *The Adventures of Kavalier and Clay* and *The Yiddish Policemen’s Union*
 
-Chandler, Kristen    Wolves, Boys, and Other Things That Might Kill Me
+Chandler, Kristen    *Wolves, Boys, and Other Things That Might Kill Me*
 
-Chbosky, Stephen    The Perks of Being a Wallflower
+Chbosky, Stephen    *The Perks of Being a Wallflower*
 
-Christie, Agatha    And Then There Were None, Murder on the Orient Express
+Christie, Agatha    *And Then There Were None, Murder on the Orient Express*
 
-Cisneros, Sandra    The House on Mango Street
+Cisneros, Sandra    *The House on Mango Street*
 
-Cline, Eric    Ready Player One
+Cline, Eric    *Ready Player One*
 
-Cohen, Joshua    Leverage
+Cohen, Joshua    *Leverage*
 
-Cohn, Rachel and David Levithan    Dash and Lily’s Book of Dares and Nick and Norah’s Infinite Playlist
+Cohn, Rachel and David Levithan    *Dash and Lily’s Book of Dares* and *Nick and Norah’s Infinite Playlist*
 
-Collins, Suzanne    The Hunger Games [(review),](http://c-t-l.org/bookblog/?p=502) Catching Fire, and Mockingjay
+Collins, Suzanne    *The Hunger Games* [(review),](http://c-t-l.org/bookblog/?p=502) *Catching Fire,* and *Mockingjay*
 
-Condie, Ally    Matched and Crossed
+Condie, Ally    *Matched* and *Crossed*
 
-Cormier, Robert    I Am the Cheese and The Chocolate War
+Cormier, Robert    *I Am the Cheese* and *The Chocolate War*
 
-Coy, John    Crackback [(review)](http://c-t-l.org/bookblog/?p=392)
+Coy, John    *Crackback* [(review)](http://c-t-l.org/bookblog/?p=392)
 
-Creech, Sharon   Love That Dog and Hate That Cat
+Creech, Sharon   *Love That Dog* and *Hate That Cat*
 
-Crichton, Michael    Sphere, Congo, Next, Jurassic Park, The Lost World, Airframe, and The Andromeda Strain
+Crichton, Michael    *Sphere, Congo, Next, Jurassic Park, The Lost World, Airframe,* and *The Andromeda Strain*
 
-Crowe, Chris    Death Coming Up the Hill
+Crowe, Chris    *Death Coming Up the Hill*
 
-Crutcher, Chris    Deadline, Running Loose and The Crazy Horse Electric Game
+Crutcher, Chris    *Deadline, Running Loose* and *The Crazy Horse Electric Game*
 
-D’Lacey, Chris    The Fire Within
+D’Lacey, Chris    *The Fire Within*
 
-Dashner, James    The Maze Runner, The Scorch Trials, The Death Cure, and The Kill Order
+Dashner, James    *The Maze Runner, The Scorch Trials, The Death Cure,* and *The Kill Order*
 
-Deaver, Julie Reece    The Night I Disappeared and Say Goodnight, Gracie [(review)](http://c-t-l.org/bookblog/?p=212)
+Deaver, Julie Reece    *The Night I Disappeared* and *Say Goodnight, Gracie* [(review)](http://c-t-l.org/bookblog/?p=212)
 
-DePrince, Michaela  Taking Flight
+DePrince, Michaela  *Taking Flight*
 
-Dessen, Sarah    Dreamland, Just Listen, Keeping the Moon, [(review)](http://c-t-l.org/bookblog/?p=921) Someone Like You, This Lullaby, Lock and Key, The Truth about Forever, What Happened to Goodbye, [(review)](http://c-t-l.org/bookblog/?p=918) and The Moon and More
+Dessen, Sarah    *Dreamland, Just Listen, Keeping the Moon,* [(review)](http://c-t-l.org/bookblog/?p=921) *Someone Like You, This Lullaby, Lock and Key, The Truth about Forever, What Happened to Goodbye,* [(review)](http://c-t-l.org/bookblog/?p=918) and *The Moon and More*
 
-Deuker, Carl    Heart of a Champion, Night Hoops, Painting the Black, Gym Candy, and High Heat
+Deuker, Carl    *Heart of a Champion, Night Hoops, Painting the Black, Gym Candy,* and *High Heat*
 
-Diaz, Junot    The Brief, Wondrous Life of Oscar Wao
+Diaz, Junot    *The Brief, Wondrous Life of Oscar Wao*
 
-Doctorow, Cory    Little Brother [(review)](http://c-t-l.org/bookblog/?p=838) and Homeland
+Doctorow, Cory    *Little Brother* [(review)](http://c-t-l.org/bookblog/?p=838) and *Homeland*
 
-Doerr, Anthony    All the Light We Cannot See
+Doerr, Anthony    *All the Light We Cannot See*
 
-Donnelly, Jennifer    A Northern Light, Revolution, and These Shallow Graves
+Donnelly, Jennifer    *A Northern Light, Revolution,* and *These Shallow Graves*
 
-Draper, Sharon    The Battle of Jericho, Fire from the Rock, Copper Sun, Just Another Hero, Out of My Mind, November Blues, and Stella by Starlight
+Draper, Sharon    *The Battle of Jericho, Fire from the Rock, Copper Sun, Just Another Hero, Out of My Mind, November Blues,* and *Stella by Starlight*
 
-Ducie, Joe   The Rig and Crystal Force
+Ducie, Joe   *The Rig* and *Crystal Force*
 
-DuMaurier, Daphne    Rebecca
+DuMaurier, Daphne    *Rebecca*
 
-Eddings, David    The Belgariad series and the Mallorean series
+Eddings, David    The *Belgariad* series and the *Mallorean* series
 
-Eggers, Dave    A Heartbreaking Work of Staggering Genius, [(review)](http://c-t-l.org/bookblog/?p=848) Zeitoun, What Is the What, and The Circle [(review)](http://c-t-l.org/bookblog/?p=911)
+Eggers, Dave    *A Heartbreaking Work of Staggering Genius,* [(review)](http://c-t-l.org/bookblog/?p=848) *Zeitoun, What Is the What,* and *The Circle* [(review)](http://c-t-l.org/bookblog/?p=911)
 
-Erdrich, Louise    The Round House
+Erdrich, Louise    *The Round House*
 
-Farmer, Nancy    The House of the Scorpion [(review)](http://c-t-l.org/bookblog/?p=63) and The Sea of Trolls
+Farmer, Nancy    *The House of the Scorpion* [(review)](http://c-t-l.org/bookblog/?p=63) and *The Sea of Trolls*
 
-Finkel, Michael    The Stranger in the Woods
+Finkel, Michael    *The Stranger in the Woods*
 
-Fisher, Catherine    Incarceron and Sapphique
+Fisher, Catherine    *Incarceron* and *Sapphique*
 
-Fitzgerald, F. Scott   The Great Gatsby
+Fitzgerald, F. Scott   *The Great Gatsby*
 
-Flack, Sophie    Bunheads
+Flack, Sophie    *Bunheads*
 
-Flinn, Alex    Breaking Point and Breathing Underwater
+Flinn, Alex    *Breaking Point* and *Breathing Underwater*
 
-Foer, Jonathan Safran    Extremely Loud and Incredibly Close
+Foer, Jonathan Safran    *Extremely Loud and Incredibly Close*
 
-Forman, Gayle    If I Stay, I Was Here, Just One Day, and Where She Went
+Forman, Gayle    *If I Stay, I Was Here, Just One Day,* and *Where She Went*
 
-Frasier, Charles    Cold Mountain
+Frasier, Charles    *Cold Mountain*
 
-Gaiman, Neil    Interworld, Neverwhere, Stardust, American Gods, and Anansi Boys
+Gaiman, Neil    *Interworld, Neverwhere, Stardust, American Gods,* and *Anansi Boys*
 
-Galloway, Gregory    As Simple as Snow and The 39 Deaths of Adam Strand
+Galloway, Gregory    *As Simple as Snow* and *The 39 Deaths of Adam Strand*
 
-Gier, Kirsten    Ruby Red and Sapphire Blue
+Gier, Kerstin    *Ruby Red* and *Sapphire Blue*
 
-Giles, Gail    Playing in Traffic, Right Behind You, and Shattering Glass
+Giles, Gail    *Playing in Traffic, Right Behind You,* and *Shattering Glass*
 
-Golding, William    Lord of the Flies [(review)](http://c-t-l.org/bookblog/?p=74)
+Golding, William    *Lord of the Flies* [(review)](http://c-t-l.org/bookblog/?p=74)
 
-Goldman, William    The Princess Bride
+Goldman, William    *The Princess Bride*
 
-Grant, Michael    Gone, [(review)](http://c-t-l.org/bookblog/?p=364) Lies, Hunger, Plague, and Fear
+Grant, Michael    *Gone*, [(review)](http://c-t-l.org/bookblog/?p=364) *Lies, Hunger, Plague,* and *Fear*
 
-Gratz, Alan    Refugee, Ground Zero and Projekt 1065
+Gratz, Alan    *Refugee, Ground Zero* and *Projekt 1065*
 
-Green, John    An Abundance of Katherines, Looking for Alaska, Paper Towns, Turtles All the Way Down, and The Fault in Our Stars [(review)](http://c-t-l.org/bookblog/?p=837)
+Green, John    *An Abundance of Katherines, Looking for Alaska, Paper Towns, Turtles All the Way Down,* and *The Fault in Our Stars* [(review)](http://c-t-l.org/bookblog/?p=837)
 
-Grover, Lorie Ann   On Pointe
+Grover, Lorie Ann   *On Pointe*
 
-Haddon, Mark    The Curious Incident of the Dog in the Night-time
+Haddon, Mark    *The Curious Incident of the Dog in the Night-time*
 
-Haig, Matt    The Dead Father’s Club [(review)](http://c-t-l.org/bookblog/?p=240)
+Haig, Matt    *The Dead Father’s Club* [(review)](http://c-t-l.org/bookblog/?p=240)
 
-Hamilton, Steve    The Lock Artist
+Hamilton, Steve    *The Lock Artist*
 
-Han, Jenny    To All the Boys I’ve Loved Before, Shug, We’ll Always Have Summer, It’s Not Summer Without You, PS I Still Love You, Always and Forever, Lara Jean, and The Summer I Turned Pretty [(latest review)](http://c-t-l.org/bookblog/?p=857)[(another review)](http://c-t-l.org/bookblog/?p=413)
+Han, Jenny    *To All the Boys I’ve Loved Before, Shug, We’ll Always Have Summer, It’s Not Summer Without You, PS I Still Love You, Always and Forever, Lara Jean,* and *The Summer I Turned Pretty* [(latest review)](http://c-t-l.org/bookblog/?p=857)[(another review)](http://c-t-l.org/bookblog/?p=413)
 
-Hand, Cynthia   The Last Time We Say Goodbye
+Hand, Cynthia   *The Last Time We Say Goodbye*
 
-Hand, Cynthia and Brodi Ashton  My Lady Jane and My Plain Jane
+Hand, Cynthia, Brodi Ashton, and Jodi Meadows   *My Lady Jane* and *My Plain Jane*
 
-Harrington, Laura    Alice Bliss
+Harrington, Laura    *Alice Bliss*
 
 Hautman, Pete    All In, Godless, Hole in the Sky, The Big Crunch, Invisible, No Limit, Rash, and What Boys Really Want
 
