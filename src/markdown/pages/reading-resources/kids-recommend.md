@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-29T18:07:41.008Z
+date: 2023-03-29T19:21:23.891Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -1187,61 +1187,61 @@ Lyga, Barry    *I Hunt Killers, Game, Blood of My Blood*, and *Bang*
 
 Lynch, Jim    *The Highest Tide*
 
-Magoon, Kekla   How It Went Down
+Magoon, Kekla   *How It Went Down*
 
-Marchetta, Melina    Jellicoe Road and Saving Francesca
+Marchetta, Melina    *Jellicoe Road* and *Saving Francesca*
 
-Marino, Peter    Magic and Misery [(review)](http://c-t-l.org/bookblog/?p=78)
+Marino, Peter    *Magic and Misery* [(review)](http://c-t-l.org/bookblog/?p=78)
 
-Marquhardt, Marie   The Radius of Us
+Marquhardt, Marie   *The Radius of Us*
 
-Marsden, John    The Tomorrow series
+Marsden, John    The *Tomorrow* series
 
-Martel, Yann    Life of Pi
+Martel, Yann    *Life of Pi*
 
-Martin, George R.R.    A Song of Ice and Fire series
+Martin, George R.R.    *A Song of Ice and Fire* series
 
-Mass, Wendy    Heaven Looks a Lot Like the Mall, Jeremy Fink and the Meaning of Life, and A Mango-Shaped Space
+Mass, Wendy    *Heaven Looks a Lot Like the Mall, Jeremy Fink and the Meaning of Life*, and *A Mango-Shaped Space*
 
-Mastromonaco, Alyssa    Who Thought This Was a Good Idea?
+Mastromonaco, Alyssa    *Who Thought This Was a Good Idea?*
 
-Matson, Morgan    Amy and Roger’s Epic Detour, Since You’ve Been Gone, Save the Date, The Unexpected Everything, and Second Chance Summer
+Matson, Morgan    *Amy and Roger’s Epic Detour, Since You’ve Been Gone, Save the Date, The Unexpected Everything,* and *Second Chance Summer*
 
-McCammon, Robert    Boy’s Life
+McCammon, Robert    *Boy’s Life*
 
-McCarthy, Cormac    Blood Meridian, No Country for Old Men, The Road, and All the Pretty Horses
+McCarthy, Cormac    *Blood Meridian, No Country for Old Men, The Road,* and *All the Pretty Horses*
 
-McManus, Karen    One of Us Is Lying and Two Can Keep a Secret
+McManus, Karen    *One of Us Is Lying* and *Two Can Keep a Secret*
 
-McNab, Andy    Traitor [(review)](http://c-t-l.org/bookblog/?p=295) and Payback
+McNab, Andy    *Traitor* [(review)](http://c-t-l.org/bookblog/?p=295) and *Payback*
 
-Melville, Herman    Moby Dick
+Melville, Herman    *Moby Dick*
 
-Meyer, Marissa    Cinder, Scarlet, Cress, Winter, and Fairest
+Meyer, Marissa    *Cinder, Scarlet, Cress, Winter,* and *Fairest*
 
-Mezrich, Ben    Bringing Down the House [(review)](http://c-t-l.org/bookblog/?p=858) and The Accidental Billionaires
+Mezrich, Ben   * Bringing Down the House* [(review)](http://c-t-l.org/bookblog/?p=858) and *The Accidental Billionaires*
 
-Miller, Kirsten    How to Lead a Life of Crime
+Miller, Kirsten    *How to Lead a Life of Crime*
 
-Monroe, Randall  What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+Monroe, Randall  *What If?: Serious Scientific Answers to Absurd Hypothetical Questions*
 
-Moore, Perry    Hero
+Moore, Perry    *Hero*
 
-Morganstern, Erin    The Night Circus
+Morganstern, Erin    *The Night Circus*
 
-Moriarty, Jaclyn    Feeling Sorry for Celia, The Murder of Bindy Mackenzie, The Spell Book of Listen Taylor, The Year of Secret Assignments, and The Ghosts of Ashbury High
+Moriarty, Jaclyn    *Feeling Sorry for Celia, The Murder of Bindy Mackenzie, The Spell Book of Listen Taylor, The Year of Secret Assignments,* and *The Ghosts of Ashbury High*
 
-Morpurgo, Michael    Private Peaceful and War Horse
+Morpurgo, Michael    *Private Peaceful* and *War Horse*
 
-Mosley, Walter    47
+Mosley, Walter    *47*
 
-Moyes, Jojo   Me Before You
+Moyes, Jojo   *Me Before You*
 
-Mullin, Mike    Ashfall and Ashen Winter
+Mullin, Mike    *Ashfall* and *Ashen Winter*
 
-Murray, Liz    Breaking Night
+Murray, Liz    *Breaking Night*
 
-Myers, Walter Dean    Autobiography of My Dead Brother, Bad Boy, Fallen Angels, [(review)](http://c-t-l.org/bookblog/?p=903) Hoops, Monster, The Outside Shot, Shooter, Slam, and Game
+Myers, Walter Dean    *Autobiography of My Dead Brother, Bad Boy, Fallen Angels*, [(review)](http://c-t-l.org/bookblog/?p=903) *Hoops, Monster, The Outside Shot, Shooter, Slam,* and *Game*
 
 Nakazawa, Kaji    Barefoot Gen, The Day After, and Life After the Bomb
 
