@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-29T19:21:23.891Z
+date: 2023-03-29T20:08:03.476Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -1243,234 +1243,234 @@ Murray, Liz    *Breaking Night*
 
 Myers, Walter Dean    *Autobiography of My Dead Brother, Bad Boy, Fallen Angels*, [(review)](http://c-t-l.org/bookblog/?p=903) *Hoops, Monster, The Outside Shot, Shooter, Slam,* and *Game*
 
-Nakazawa, Kaji    Barefoot Gen, The Day After, and Life After the Bomb
+Nakazawa, Kaji    *Barefoot Gen, The Day After,* and *Life After the Bomb*
 
-Nancy, Ted L.    The Letters from a Nut series
+Nancy, Ted L.    The *Letters from a Nut* series
 
-Nelson, Jandy    The Sky Is Everywhere
+Nelson, Jandy    *The Sky Is Everywhere*
 
-Neruda, Pablo   Odes to Common Things
+Neruda, Pablo   *Odes to Common Things*
 
-Ness, Patrick    The Ask and the Answer, Monsters of Men, The Knife of Never Letting Go, and More Than This
+Ness, Patrick    *The Ask and the Answer, Monsters of Men, The Knife of Never Letting Go,* and *More Than This*
 
-Nguyen, Bich Minh    Stealing Buddha’s Dinner
+Nguyen, Bich Minh    *Stealing Buddha’s Dinner*
 
-Nicholls, Stan    Orcs [(review)](http://c-t-l.org/bookblog/?p=211)
+Nicholls, Stan    *Orcs* [(review)](http://c-t-l.org/bookblog/?p=211)
 
-Nijkamp, Marieke   This Is Where It Ends
+Nijkamp, Marieke   *This Is Where It Ends*
 
-Noah, Trevor    Born a Crime
+Noah, Trevor    *Born a Crime*
 
-Nolan, Han    Pregnant Pause, If I Should Die Before I Wake [(review),](http://c-t-l.org/bookblog/?p=242) and A Summer of Kings
+Nolan, Han    *Pregnant Pause, If I Should Die Before I Wake* [(review),](http://c-t-l.org/bookblog/?p=242) and *A Summer of Kings*
 
-Northrop, Michael    Trapped
+Northrop, Michael    *Trapped*
 
-O’Brien, Tim    If I Die in a Combat Zone, Going After Cacciato, and The Things They Carried
+O’Brien, Tim    *If I Die in a Combat Zone, Going After Cacciato,* and *The Things They Carried*
 
-Obama, Barack    Dreams from My Father
+Obama, Barack    *Dreams from My Father*
 
-Obama, Michelle    Becoming
+Obama, Michelle    *Becoming*
 
-Ockler, Sarah    Twenty Boy Summer and Fixing Delilah
+Ockler, Sarah    *Twenty Boy Summer* and *Fixing Delilah*
 
-Oliver, Lauren    Before I Fall, Delirium, Pandemonium, and Requiem
+Oliver, Lauren    *Before I Fall, Delirium, Pandemonium,* and Requiem
 
-Oppel, Kenneth    Airborn, Skybreaker, Half Brother, and Starclimber
+Oppel, Kenneth    *Airborn, Skybreaker, Half Brother,* and *Starclimber*
 
-Orwell, George    Animal Farm [(review)](http://c-t-l.org/bookblog/?p=864) and 1984
+Orwell, George    *Animal Farm* [(review)](http://c-t-l.org/bookblog/?p=864) and *1984*
 
-Osa, Nancy    Cuba 15
+Osa, Nancy    *Cuba 15*
 
-Padian, Maria   Out of Nowhere
+Padian, Maria   *Out of Nowhere*
 
-Parrado, Nando    Miracle in the Andes
+Parrado, Nando    *Miracle in the Andes*
 
-Patchett, Anne    Bel Canto
+Patchett, Anne    *Bel Canto*
 
-Patrick, Cat    Forgotten, Revived, and The Originals
+Patrick, Cat    *Forgotten, Revived,* and *The Originals*
 
-Pearsall, Shelley   The Seventh Most Important Thing
+Pearsall, Shelley   *The Seventh Most Important Thing*
 
-Pearson, Mary    A Room on Lorelei Street, The Miles Between, The Adoration of Jenna Fox, and The Fox Inheritance
+Pearson, Mary    *A Room on Lorelei Street, The Miles Between, The Adoration of Jenna Fox,* and *The Fox Inheritance*
 
-Peet, Mal    Life: An Exploded Diagram
+Peet, Mal    *Life: An Exploded Diagram*
 
-Peterson, Margaret Haddix     Uprising
+Peterson, Margaret Haddix     *Uprising*
 
-Petrucha, Stefan    Ripper
+Petrucha, Stefan    *Ripper*
 
-Pfeffer, Susan Beth    Life as We Knew It
+Pfeffer, Susan Beth    *Life as We Knew It*
 
-Poe, Edgar Allen    Tales of Mystery and Terror
+Poe, Edgar Allen    *Tales of Mystery and Terror*
 
-Preston, Douglas and Child, Lincoln    Relic [(review)](http://c-t-l.org/bookblog/?p=125), The Book of the Dead, Brimstone, and Dance of Death
+Preston, Douglas and Child, Lincoln    *Relic* [(review)](http://c-t-l.org/bookblog/?p=125), *The Book of the Dead, Brimstone,* and *Dance of Death*
 
-Pullman, Phillip    The Dark Materials trilogy
+Pullman, Phillip    The *Dark Materials* trilogy
 
-Quick, Matthew    Boy 21
+Quick, Matthew    *Boy 21*
 
-Ray, Michelle    Falling for Hamlet
+Ray, Michelle    *Falling for Hamlet*
 
-Reichl, Ruth    Tender at the Bone
+Reichl, Ruth    *Tender at the Bone*
 
-Reinhart, Dana    A Brief Chapter in My Impossible Life, How to Build a House, Things a Brother Knows, and Harmless
+Reinhart, Dana    *A Brief Chapter in My Impossible Life, How to Build a House, Things a Brother Knows,* and *Harmless*
 
-Remarque, Erich    All Quiet on the Western Front
+Remarque, Erich    *All Quiet on the Western Front*
 
-Reynolds, Jason    Long Way Down, Look Both Ways, Ghost series
+Reynolds, Jason    *Long Way Down, Look Both Ways, Ghost* series
 
-Rich, Simon    Ant Farm and Free Range Chickens
+Rich, Simon    *Ant Farm* and *Free-Range Chickens*
 
-Rosoff, Meg    What I Was and How I Live Now
+Rosoff, Meg    *What I Was* and *How I Live Now*
 
-Roth, Veronica    Divergent, Insurgent, and Allegiant
+Roth, Veronica    *Divergent*, *Insurgent*, and *Allegiant*
 
-Rowell, Rainbow    Carry On, Pumpkinheads, Landline, Eleanor and Park [(review)](http://c-t-l.org/bookblog/?p=937) and Fangirl [(review)](http://c-t-l.org/bookblog/?p=961)
+Rowell, Rainbow    *Carry On, Pumpkinheads, Landline, Eleanor and Park* [(review)](http://c-t-l.org/bookblog/?p=937) and *Fangirl* [(review)](http://c-t-l.org/bookblog/?p=961)
 
-Rowling, J.K.    The Harry Potter series
+Rowling, J.K.    The *Harry Potter* series
 
-Rubin, Lance  Denton Little’s Death Date
+Rubin, Lance  *Denton Little’s Death Date*
 
-Ruebens, Michael    Son of 613
+Ruebens, Michael    *Son of 613*
 
-Runyon, Brent    The Burn Journals and Surface Tension
+Runyon, Brent  *  The Burn Journals* and *Surface Tension*
 
-Sagan, Carl    Contact
+Sagan, Carl    *Contact*
 
-Salinger, J.D.    The Catcher in the Rye and Franny and Zooey
+Salinger, J.D.    *The Catcher in the Rye* and *Franny and Zooey*
 
-Satrapi, Marjane    Persepolis and Persepolis 2
+Satrapi, Marjane    *Persepolis* and *Persepolis 2*
 
-Scheinkin, Steve  Bomb
+Scheinkin, Steve  *Bomb*
 
-Schlosser, Eric  Fast Food Nation
+Schlosser, Eric  *Fast Food Nation*
 
-Schneider, Robyn   Extraordinary Means
+Schneider, Robyn   *Extraordinary Means*
 
-Sedaris, David    Me Talk Pretty One Day, The Santaland Diaries, and Naked
+Sedaris, David    *Me Talk Pretty One Day, The Santaland Diaries,* and *Naked*
 
-Sedgwick, Marcus    Revolver
+Sedgwick, Marcus    *Revolver*
 
-Sepetys, Ruta    Between Shades of Gray, The Fountains of Silence, and Salt to the Sea
+Sepetys, Ruta    *Between Shades of Gray, The Fountains of Silence,* and *Salt to the Sea*
 
-Shabazz, Ilyasah & Kekla Magoon  X: A Novel
+Shabazz, Ilyasah & Kekla Magoon  *X: A Novel*
 
-Sheff, David    Beautiful Boy
+Sheff, David    *Beautiful Boy*
 
-Shusterman, Neal    Everlost, Everwild, The Shadow Club, and the Unwind series
+Shusterman, Neal    *Everlost, Everwild, The Shadow Club,* and the *Unwind* series
 
-Silverstein, Ken    The Radioactive Boy Scout
+Silverstein, Ken    *The Radioactive Boy Scout*
 
-Sittenfeld, Curtis    Prep
+Sittenfeld, Curtis    *Prep*
 
-Sloan, Holly Goldberg    I’ll Be There
+Sloan, Holly Goldberg    *I’ll Be There*
 
-Smith, Andrew    Winger, Standoff, and The Marbury Lens
+Smith, Andrew    *Winger, Standoff,* and *The Marbury Lens*
 
-Smith, Betty    A Tree Grows in Brooklyn
+Smith, Betty    *A Tree Grows in Brooklyn*
 
-Smith, Dodie    I Capture the Castle [(review)](http://c-t-l.org/bookblog/?p=126)
+Smith, Dodie    *I Capture the Castle* [(review)](http://c-t-l.org/bookblog/?p=126)
 
-Smith, Jennifer    The Statistical Probability of Love at First Sight, This Is What Happy Looks Like, and Windfall
+Smith, Jennifer    *The Statistical Probability of Love at First Sight, This Is What Happy Looks Like*, and *Windfall*
 
-Smith, Kirsten    The Geography of Girlhood
+Smith, Kirsten    *The Geography of Girlhood*
 
-Smith, Roland    Peak and The Edge
+Smith, Roland    *Peak* and *The Edge*
 
-Sones, Sonya    One of Those Hideous Books Where the Mother Dies, Stop Pretending, What My Mother Doesn’t Know, What My Girlfriend Doesn’t Know, and What Happened When My Big Sister Went Crazy
+Sones, Sonya    *One of Those Hideous Books Where the Mother Dies, Stop Pretending, What My Mother Doesn’t Know, What My Girlfriend Doesn’t Know,* and *What Happened When My Big Sister Went Crazy*
 
-Sonneblick, Jordan    Notes from the Midnight Driver, Zen and the Art of Faking It, After Ever After, and Drums, Girls, and Dangerous Pie
+Sonneblick, Jordan    *Notes from the Midnight Driver, Zen and the Art of Faking It, After Ever After,* and *Drums, Girls, and Dangerous Pie*
 
-Spiegelman, Art    Maus I and Maus II
+Spiegelman, Art    *Maus I* and *Maus II*
 
-Spotswood, Jessica   A Tyranny of Petticoats
+Spotswood, Jessica   *A Tyranny of Petticoats*
 
-Stein, Garth   The Art of Racing in the Rain
+Stein, Garth   *The Art of Racing in the Rain*
 
-Steinbeck, John    The Grapes of Wrath
+Steinbeck, John    *The Grapes of Wrath*
 
-Steinkellner, Teddy    Trash Can Days
+Steinkellner, Teddy    *Trash Can Days*
 
-Stiefvater, Maggie, et al.    The Curiosities
+Stiefvater, Maggie, et al.    *The Curiosities*
 
-Stockett, Kathryn    The Help
+Stockett, Kathryn    *The Help*
 
-Strasser, Todd    Bootcamp, Can’t Get There from Here, Give a Boy a Gun, and The Wave
+Strasser, Todd    *Bootcamp, Can’t Get There from Here, Give a Boy a Gun,* and *The Wave*
 
-Sullivan, Tara    The Bitter Side of Sweet
+Sullivan, Tara    *The Bitter Side of Sweet*
 
-Summers, Courtney    Fall for Anything
+Summers, Courtney    *Fall for Anything*
 
-Swofford, Anthony    Jarhead and Hotels, Hospitals, and Jails
+Swofford, Anthony    *Jarhead and Hotels, Hospitals,* and *Jails*
 
-Thomas, Angie    The Hate U Give, Concrete Rose, and On the Come Up
+Thomas, Angie    *The Hate U Give, Concrete Rose,* and *On the Come Up*
 
-Tinti, Hannah    The Good Thief [(review)](http://c-t-l.org/bookblog/?p=207)
+Tinti, Hannah    *The Good Thief* [(review)](http://c-t-l.org/bookblog/?p=207)
 
-Tolkien, J.R.R.    The Hobbit and The Lord of the Rings trilogy
+Tolkien, J.R.R.    *The Hobbit* and *The Lord of the Rings* trilogy
 
-Trumbo, Dalton    Johnny Got His Gun
+Trumbo, Dalton    *Johnny Got His Gun*
 
-Twain, Mark    The Adventures of Huckleberry Finn
+Twain, Mark    *The Adventures of Huckleberry Finn*
 
-Vivian, Siobhan    Not That Kind of Girl and The List
+Vivian, Siobhan    *Not That Kind of Girl* and *The List*
 
-Vizzini, Ned    Be More Chill and It’s Kind of a Funny Story
+Vizzini, Ned    *Be More Chill* and *It’s Kind of a Funny Story*
 
-Vonnegut, Kurt    Man Without a Country, Slaughterhouse-Five, Cat’s Cradle, Slapstick, Galapagos, Mother Night, and Armageddon in Retrospect
+Vonnegut, Kurt    *Man Without a Country, Slaughterhouse-Five, Cat’s Cradle, Slapstick, Galapagos, Mother Night,* and *Armageddon in Retrospect*
 
-Wagner, Laura Rose   Hold Tight, Don’t Let Go
+Wagner, Laura Rose   *Hold Tight, Don’t Let Go*
 
-Walker, Karen Thompson    The Age of Miracles
+Walker, Karen Thompson    *The Age of Miracles*
 
-Wallach, Tommy  We All Looked Up and Thanks for the Trouble
+Wallach, Tommy * We All Looked Up* and *Thanks for the Trouble*
 
-Watson, Renee Piecing Me Together and Watch Us Rise
+Watson, Renee   *Piecing Me Together* and *Watch Us Rise*
 
-Walls, Jeanette    The Glass Castle [(review)](http://c-t-l.org/bookblog/?p=130)
+Walls, Jeanette    *The Glass Castle* [(review)](http://c-t-l.org/bookblog/?p=130)
 
-Weaver, Will    Memory Boy
+Weaver, Will    *Memory Boy*
 
-Weeks, Sarah    So B. It
+Weeks, Sarah    *So B. It*
 
-Wein, Elizabeth   Code Name Verity, Black Dove, White Raven, The Pearl Thief, and A Thousand Sisters
+Wein, Elizabeth   *Code Name Verity, Black Dove, White Raven, The Pearl Thief,* and *A Thousand Sisters*
 
-Weir, Andy  The Martian
+Weir, Andy  *The Martian*
 
-Weisel, Elie    Night
+Weisel, Elie    *Night*
 
-Whaley, John Corey    Where Things Come Back and Noggin
+Whaley, John Corey    *Where Things Come Back* and *Noggin*
 
-White, Ellen Emerson    A Season of Daring Greatly
+White, Ellen Emerson  *  A Season of Daring Greatly*
 
-White, T.H.    The Once and Future King and The Book of Merlin
+White, T.H.    *The Once and Future King* and *The Book of Merlin*
 
-Wilson, Daniel H.    Robopocalypse and Robogenesis
+Wilson, Daniel H.    *Robopocalypse* and *Robogenesis*
 
-Wolf, Allan    The Watch That Ends the Night
+Wolf, Allan    *The Watch That Ends the Night*
 
-Wolff, Tobias    This Boy’s Life
+Wolff, Tobias    *This Boy’s Life*
 
-Woodson, Jacqueline   Brown Girl Dreaming and Harbor Me
+Woodson, Jacqueline   *Brown Girl Dreaming* and *Harbor Me*
 
-Woolf, Tobias    This Boy’s Life
+Woolf, Tobias    *This Boy’s Life*
 
-Yancey, Rick  The Fifth Wave, The Infinite Sea, The Last Star and the Monstrumologist series
+Yancey, Rick  *The Fifth Wave, The Infinite Sea, The Last Star* and the *Monstrumologist* series
 
-Yoon, David  Super Fake Love Song and Frankly in Love
+Yoon, David  *Super Fake Love Song* and *Frankly in Love*
 
-Yoon, Nicola  Everything, Everything and The Sun Is Also a Star
+Yoon, Nicola  *Everything, Everything* and *The Sun Is Also a Star*
 
-Young, Moira    Blood Red Road and Rebel Heart
+Young, Moira    *Blood Red Road* and *Rebel Heart*
 
-Yousafzai, Malala   I Am Malala and We Are Displaced
+Yousafzai, Malala   *I Am Malala* and *We Are Displaced*
 
-Zarr, Sarah    Sweethearts, How to Save a Life, and Story of a Girl
+Zarr, Sarah    *Sweethearts, How to Save a Life,* and *Story of a Girl*
 
-Zevin, Gabrielle    Memoirs of a Teenage Amnesiac, All These Things I’ve Done, and Because It Is My Blood
+Zevin, Gabrielle    *Memoirs of a Teenage Amnesiac, All These Things I’ve Done,* and *Because It Is My Blood*
 
-Zoboi, Ibi    American Street and Pride
+Zoboi, Ibi    *American Street* and *Pride*
 
-Zusak, Markus    The Book Thief and I Am the Messenger [(review)](/middle-school-book-blog/i-am-the-messenger-by-markus-zusak)
+Zusak, Markus    *The Book Thief* and *I Am the Messenger* [(review)](/middle-school-book-blog/i-am-the-messenger-by-markus-zusak)
 
 </details>
