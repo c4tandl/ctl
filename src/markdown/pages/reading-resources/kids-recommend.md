@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-29T15:30:42.871Z
+date: 2023-03-29T15:51:54.965Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -681,209 +681,207 @@ Kluger, Steve   *My Most Excellent Year*
 
 Korman, Gordon    *Born to Rock, Schooled, Pop, Swindle, Whatshisface, Ungifted, Slacker, Restart, Unteachable, Son of the Mob,* and the *Mastermind* series
 
-LaFleur, Suzanne    Love, Aubrey, and Eight Keys
+LaFleur, Suzanne    *Love, Aubrey,* and *Eight Keys*
 
-Lai, Thanhha    Inside Out and Back Again
+Lai, Thanhha    *Inside Out* and *Back Again*
 
-Lake, Nick    Hostage Three
+Lake, Nick    *Hostage Three*
 
-Larbalestier, Justine    How to Ditch Your Fairy
+Larbalestier, Justine    *How to Ditch Your Fairy*
 
-Levine, Kristin    The Lions of Little Rock and Jigsaw Jungle
+Levine, Kristin    *The Lions of Little Rock* and *Jigsaw Jungle*
 
-Lin, Grace    Where the Mountain Meets the Moon
+Lin, Grace    *Where the Mountain Meets the Moon*
 
-Lloyd, Natalie    Snicker of Magic
+Lloyd, Natalie    *Snicker of Magic*
 
-Lockhart, E.    The Disreputable History of Frankie Landau Banks
+Lockhart, E.    *The Disreputable History of Frankie Landau Banks*
 
-Lord, Cynthia    Handful of Stars, Half a Chance, Rules and Touch Blue
+Lord, Cynthia    *Handful of Stars, Half a Chance, Rules* and *Touch Blue*
 
-Lore, Pittacus    The I Am Number Four series
+Lore, Pittacus    The *I Am Number Four* series
 
-Lorentz, Dayna    No Safety in Numbers
+Lorentz, Dayna    *No Safety in Numbers*
 
-Lowry, Lois    The Giver, Gathering Blue, Messenger, Number the Stars and The Silent BoyLowry, Lois    The Giver, Messenger, and Number the Stars
+Lowry, Lois    *The Giver, Gathering Blue, Messenger, Number the Stars* and *The Silent Boy*
 
-Lu, Marie    The Legend series and the Warcross series
+Lu, Marie    The *Legend* series and the *Warcross* series
 
-Lubar, David    Sleeping Freshmen Never Lie
+Lubar, David    *Sleeping Freshmen Never Lie*
 
-MacHale, D.J. The Sylo series
+MacHale, D.J. The *Sylo* series
 
-Magnim, Joyce    Jellybean Summer
+Magnim, Joyce    *Jellybean Summer*
 
-Magoon, Kekla    Shadows of Sherwood and The Rock and the River [(review)](http://c-t-l.org/bookblog/?p=532)
+Magoon, Kekla    *Shadows of Sherwood* and *The Rock and the River* [(review)](http://c-t-l.org/bookblog/?p=532)
 
-Mass, Wendy    Jeremy Fink and the Meaning of Life, A Mango-Shaped Space [(review)](http://c-t-l.org/bookblog/?p=337), Finally, 11 Birthdays, Candymaker, Leap Day, Heaven’s A Lot Like the Mall, The Lost Present, and 13 Gifts
+Mass, Wendy    *Jeremy Fink and the Meaning of Life, A Mango-Shaped Space* [(review)](http://c-t-l.org/bookblog/?p=337), *Finally, 11 Birthdays, Candymaker, Leap Day, Heaven’s A Lot Like the Mall, The Lost Present,* and *13 Gifts*
 
-Mayo, Simon The Itch series
+Mayo, *Simon The Itch* series
 
-McCormick, Patricia    Never Fall Down
+McCormick, Patricia    *Never Fall Down*
 
-McNaulty, Stacy    Miscalculations of Lightning Girl
+McNaulty, Stacy    *Miscalculations of Lightning Girl*
 
-McNeil, Gretchen    Ten
+McNeil, Gretchen    *Ten*
 
-Messenger, Shannon The Keeper of the Lost Cities series
+Messenger, Shannon    *The Keeper of the Lost Cities* series
 
-Messner, Kate    Breakout, All the Answers, Capture the Flag, Hide and Seek, Seventh Wish, and Manhunt
+Messner, Kate    *Breakout, All the Answers, Capture the Flag, Hide and Seek, Seventh Wish,* and *Manhunt*
 
-Meyer, Marissa    Cinder and the rest of the Lunar Chronicles, the Renegades series
+Meyer, Marissa    *Cinder* and the rest of the *Lunar Chronicles*, the *Renegades* series
 
-Morpurgo, Michael    War Horse
+Morpurgo, Michael    *War Horse*
 
-Mosier, Paul    Train I Ride
+Mosier, Paul    *Train I Ride*
 
-Muchamore, Robert    The Cherub series
+Muchamore, Robert    The *Cherub* series
 
-Mull, Brandon    The Fablehaven series and the Beyonders series
+Mull, Brandon    The *Fablehaven* series and the *Beyonders* series
 
-Mulligan, Andy    Trash
+Mulligan, Andy    *Trash*
 
-Myers, Walter Dean    Autobiography of My Dead Brother, Fallen Angels, Hoops, Game, Monster, Sunrise Over Falluja, Dope Sick, and Shooter
+Myers, Walter Dean    *Autobiography of My Dead Brother, Fallen Angels, Hoops, Game, Monster, Sunrise Over Falluja, Dope Sick,* and *Shooter*
 
-Myracle, Lauren    Ten, Eleven, Twelve, and Thirteen
+Myracle, Lauren    *Ten, Eleven, Twelve,* and *Thirteen*
 
-Ness, Patrick    The Chaos Walking series, Birthmarked, More Than This, and Monster Calls
+Ness, Patrick    *The Chaos Walking series, Birthmarked, More Than This*, and *Monster Calls*
 
-Nicholls, Sally  Ways to Live Forever
+Nicholls, Sally  *Ways to Live Forever*
 
-Nielson, Jennifer  A Night Divided, Resistance, False Prince, and Mark of the Thief
+Nielson, Jennifer  *A Night Divided, Resistance, False Prince*, and *Mark of the Thief*
 
-Nolan, Han    Crazy
+Nolan, Han    *Crazy*
 
-Oppel, Kenneth  Half Brother
+Oppel, Kenneth  *Half Brother*
 
-Padian, Maria    Brett McCarthy: Work in Progress
+Padian, Maria    *Brett McCarthy: Work in Progress*
 
-Palacio, R.J.    Wonder and Auggie and Me
+Palacio, R.J.    *Wonder* and *Auggie and Me*
 
-Park, Linda Sue    A Long Walk to Water
+Park, Linda Sue    *A Long Walk to Water*
 
-Patterson, James    Maximum Ride: The Angel Experiment, Maximum Ride: School’s Out Forever, and Maximum Ride: Saving the World and Other Extreme Sports, Crazy House, and The Treasure Hunters series
+Patterson, James    *Maximum Ride: The Angel Experiment, Maximum Ride: School’s Out Forever, and Maximum Ride: Saving the World and Other Extreme Sports, Crazy House,* and *The Treasure Hunters* series
 
-Patterson, Katherine    Bread and Roses Too
+Patterson, Katherine    *Bread and Roses Too*
 
-Paulson, Gary The Hatchet series, Lawn Boy, and Wood’s Runner
+Paulson, Gary The *Hatchet* series, *Lawn Boy,* and *Wood’s Runner*
 
-Paver, Michelle    Wolf Brother, Spirit Walker, and the rest of the Chronicles of
+Paver, Michelle    *Wolf Brother, Spirit Walker,* and the rest of the *Chronicles of Ancient Darkness* series
 
-Peet, Mal    Keeper and Tamar
+Peet, Mal    *Keeper* and *Tamar*
 
-Pfeffer, Susan    Life as We Knew It
+Pfeffer, Susan    *Life as We Knew It*
 
-Preus, Margi    Heart of a Samurai, West of the Moon, and Shadow of the Mountain
+Preus, Margi    *Heart of a Samurai, West of the Moon,* and *Shadow of the Mountain*
 
-Price, Lissa    Starters
+Price, Lissa    *Starters*
 
-Pullman, Phillip    The Dark Materials trilogy
+Pullman, Philip    *His Dark Materials* trilogy
 
-Pyron, Bobbie  Lucky Strike
+Pyron, Bobbie  *Lucky Strike*
 
-Quick, Matthew    Boy 21
+Quick, Matthew    *Boy 21*
 
-Reintgen, Scott    Nyxia
+Reintgen, Scott    *Nyxia*
 
-Resau, Laura    Red Glass and The Queen of Water
+Resau, Laura    *Red Glass* and *The Queen of Water*
 
-Rex, Adam    The True Meaning of Smekday [(review)](http://c-t-l.org/bookblog/?p=173)
+Rex, Adam    *The True Meaning of Smekday* [(review)](http://c-t-l.org/bookblog/?p=173)  
 
-Reynolds, Jason The Ghost series, As Brave As You, and Miles Morales
+Reynolds, Jason  The *Ghost* series, *As Brave As You*, and *Miles Morales*
 
-Riordan, Rick    The Lightning Thief, Sea of Monsters, Titan’s Curse, The Lost Hero, The Son of Neptune, The Mark of Athena, The Kane Chronicles, Magnus Chase, and the Percy Jackson series
+Riordan, Rick    *The Lightning Thief, Sea of Monsters, Titan’s Curse, The Lost Hero, The Son of Neptune, The Mark of Athena, The Kane Chronicles, Magnus Chase,* and the *Percy Jackson* series
 
-Rocklin, Joanne    One Day and One Amazing Morning on Orange Street
+Rocklin, Joanne    *One Day and One Amazing Morning on Orange Street*
 
-Rosoff, Meg    Picture Me Gone and There Is No Dog
+Rosoff, Meg    *Picture Me Gone* and *There Is No Dog*
 
-Roth, Veronica The Divergent series
+Roth, Veronica   The *Divergent* series
 
-Rowling, J.K.    Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, etc.
+Rowling, J.K.   * Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban,* etc.
 
-Rupp, Rebecca    After Eli
+Rupp, Rebecca    *After Eli*
 
-Rutkoski, Marie    Cabinet of Wonders
+Rutkoski, Marie    *Cabinet of Wonders*
 
-Sachar, Louis   Fuzzy Mud and Holes
+Sachar, Louis   *Fuzzy Mud* and *Holes*
 
-Schmatz, Pat    Bluefish
+Schmatz, Pat    *Bluefish*
 
-Schmidt, Gary    The Wednesday Wars, Orbiting Jupiter, OK for Now, Trouble, and Pay Attention Carter Jones
+Schmidt, Gary    *The Wednesday Wars, Orbiting Jupiter, OK for Now, Trouble,* and *Pay Attention Carter Jones*
 
-Schrefer, Eliot    Endangered
+Schrefer, Eliot    *Endangered*
 
-Scott, Michael    The Secrets of the Immortal Nicholas Flamel series
+Scott, Michael    *The Secrets of the Immortal Nicholas Flamel* series
 
-Selznick, Brian    The Invention of Hugo Cabret, The Marvels, and Wonderstruck
+Selznick, Brian    T*he Invention of Hugo Cabret, The Marvels,* and *Wonderstruck*
 
-Sepetys, Ruta    Between Shades of Gray
+Sepetys, Ruta    *Between Shades of Gray*
 
-Shull, Meagan  The Swap
+Shull, Meagan  *The Swap*
 
-Shusterman, Neal    The Schwaa was Here, Antsy Does Time, Unwind, Full Tilt, Everlost
+Shusterman, Neal    *The Schwaa was Here, Antsy Does Time, Unwind, Full Tilt, Everlost*
 
-Sloan, Holly Goldberg    Counting by 7s
+Sloan, Holly Goldberg    *Counting by 7s*
 
-Smiley, Jane    A Good Horse
+Smiley, Jane    *A Good Horse*
 
-Snyder, Laurel Orphan Island
+Snyder, Laurel   *Orphan Island*
 
-Sonnenblick, Jordan    Drums, Girls, and Dangerous Pie, Notes from the Midnight Driver, Zen and the Art of Faking It, and After Ever After
+Sonnenblick, Jordan    *Drums, Girls, and Dangerous Pie, Notes from the Midnight Driver, Zen and the Art of Faking It,* and *After Ever After*
 
-Spinelli, Jerry    Crash, Milkweed, Stargirl, Smiles to Go, Wringer, Maniac, Jake and Lilly, and Milkweed
+Spinelli, Jerry    *Crash, Milkweed, Stargirl, Smiles to Go, Wringer, Maniac, Jake and Lilly,* and *Milkweed*
 
-Standiford, Natalie    Secret Tree and The Only Girl in School
+Standiford, Natalie    *Secret Tree* and *The Only Girl in School*
 
-Starmer, Aaron   The Riverman and The Whisper
+Starmer, Aaron   *The Riverman* and *The Whisper*
 
-Stead, Rebecca   Goodbye Stranger, Bob, Liar and Spy, and When You Reach Me
+Stead, Rebecca   *Goodbye Stranger, Bob, Liar and Spy,* and *When You Reach Me*
 
-Tanner Lian    The Icebreaker series
+Tanner, Lian    The *Icebreaker* series
 
-Tarshis, Lauren    Emma-Jean Lazarus Fell Out of a Tree
+Tarshis, Lauren    *Emma-Jean Lazarus Fell Out of a Tree*
 
-Telgemeier, Raina    Smile and Drama
+Telgemeier, Raina    *Smile* and *Drama*
 
-Tolkein, J.R.R.   The Lord of the Rings series
+Tolkein, J.R.R.   *The Lord of the Rings* series
 
-Vail, Rachel    Ever After and Well That Was Awkward
+Vail, Rachel    *Ever After* and *Well That Was Awkward*
 
-Van Draanen, Wendelin    Flipped and The Running Dream
+Van Draanen, Wendelin    *Flipped* and *The Running Dream*
 
-Velde, Vivian Vande    Stolen
+Velde, Vivian Vande    *Stolen*
 
-Vrabel, Beth  Pack of Dorks
+Vrabel, Beth  *Pack of Dorks*
 
-Walters, Eric The Rule of Three
+Walters, Eric *The Rule of Three*
 
-Wein, Elizabeth    Code Name Verity
+Wein, Elizabeth    *Code Name Verity*
 
-Wells, Robison    The Variant series
+Wells, Robison    *Variant* and *Feedback*
 
-Wells, Robison    Variant and Feedback
+Wenxuan, Coa    *Bronze and Sunflower*
 
-Wenxuan, Coa    Bronze and Sunflower
+Westerfeld, Scott    *Leviathan* [(review)](http://c-t-l.org/bookblog/?p=482), *Behemoth*, and *Goliath*
 
-Westerfeld, Scott    Leviathan [(review)](http://c-t-l.org/bookblog/?p=482), Behemoth, and Goliath
+Woodson, Jacqueline   *Feathers* and *Brown Girl Dreaming*
 
-Woodson, Jacqueline   Feathers and Brown Girl Dreaming
+Wright, Bil    *Putting Makeup on the Fat Boy*
 
-Wright, Bil    Putting Makeup on the Fat Boy
+Yancey, Rick    *The Extraordinary Adventures of Alfred Kropp* and *The Monstrumologist*
 
-Yancey, Rick    The Extraordinary Adventures of Alfred Kropp and The Monstrumologist
+Yang, Gene    *American-Born Chinese* and *Level Up*
 
-Yang, Gene    American-Born Chinese and Level Up
+Yoon, Nicola  *Everything, Everything*
 
-Yoon, Nicola  Everything, Everything
+Yousafzai, Malala    *I Am Malala*
 
-Yousafzai, Malala    I Am Malala
+Zeigler, Jennifer  *How Not to Be Popular*
 
-Zeigler, Jennifer  How Not to Be Popular
+Zevin, Gabrielle    *Elsewhere*
 
-Zevin, Gabrielle    Elsewhere
-
-Zusak, Markus    The Book Thief
+Zusak, Markus    *The Book Thief*
 
 </details>
 
