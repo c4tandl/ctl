@@ -1,102 +1,93 @@
 ---
 path: high-school-readers
-date: 2021-10-06T12:35:38.975Z
+date: 2023-03-30T17:03:10.249Z
 title: High School Readers
 sort: 3
 nav: reading-resources
 ---
-
 CTL graduates become voracious readers: that’s a fact. But after 8th grade-and without booktalks and classroom libraries-it can be hard to find books for pleasure reading. Nancie created these lists of recommended titles for high school students looking for the next level of great books to read independently. If you’re a CTL alum who’s found a great book that’s not on the list, would you give Louise a call? We’d love to add your beloved new titles and spread the word.
 
 ## Pleasure Reading for CTL Graduates
 
-Adams, Douglas    The Hitchhiker’s Guide to the Galaxy series
+Adams, Douglas    *The Hitchhiker’s Guide to the Galaxy* series
 
-Adigo, Aravind    The White Tiger
+Adigo, Aravind    *The White Tiger*
 
-Alexie, Sherman    Flight and Wardances
+Alexie, Sherman    *Flight* and *Wardances*
 
-Allende, Isabel    The House of the Spirits, Ines of My Soul and Island Beneath the Sea
+Allende, Isabel    *The House of the Spirits, Ines of My Soul* and *Island Beneath the Sea*
 
-Anderson, Laurie Halse    Speak
+Anderson, Laurie Halse    *Speak*
 
-Anderson, M.T.    The Astonishing Life of Octavian Nothing: The Pox Party
+Anderson, M.T.    *The Astonishing Life of Octavian Nothing: The Pox Party* and *The Astonishing Life of Octavian Nothing: The Kingdom on the Waves*
 
-and The Astonishing Life of Octavian Nothing: The Kingdom on the Waves
+Atkinson, Kate    *Behind the Scenes at the Museum*
 
-Atkinson, Kate    Behind the Scenes at the Museum
+Atwood, Margaret    *Alias Grace, The Blind Assassin, Cat’s Eye, The Handmaid’s Tale, Moral Disorder*, and *Surfacing*
 
-Atwood, Margaret    Alias Grace, The Blind Assassin, Cat’s Eye,
+Austen, Jane    *Emma, Pride and Prejudice,* and *Mansfield Park*
 
-The Handmaid’s Tale, Moral Disorder, and Surfacing
+Bank, Melissa    *The Girl’s Guide to Hunting and Fishing* and *The Wonder Spot*
 
-Austen, Jane    Emma, Pride and Prejudice, and Mansfield Park
+Banks, Russell    *Rule of the Bone* and *The Sweet Hereafter*
 
-Bank, Melissa    The Girl’s Guide to Hunting and Fishing and The Wonder Spot
+Barker, Pat    *Regeneration*
 
-Banks, Russell    Rule of the Bone and The Sweet Hereafter
+Bauby, Jean-Dominique    *The Diving Bell and the Butterfly*
 
-Barker, Pat    Regeneration
+Beattie, Ann    *Chilly Scenes of Winter*
 
-Bauby, Jean-Dominique    The Diving Bell and the Butterfly
+Benioff, David    *City of Thieves*
 
-Beattie, Ann    Chilly Scenes of Winter
+Bissinger, H.G.    *Friday Night Lights*
 
-Benioff, David    City of Thieves
+Bloom, Amy    *Where the God of Love Hangs Out*
 
-Bissinger, H.G.    Friday Night Lights
+Bolano, Roberto    *The Savage Detectives*
 
-Bloom, Amy    Where the God of Love Hangs Out
+Bradbury, Ray    *Fahrenheit 451*
 
-BolaÃ±o, Roberto    The Savage Detectives
+Bronte, Charlotte    *Jane Eyre*
 
-Bradbury, Ray    Fahrenheit 451
+Bryson, Bill    *A Short History of Nearly Everything, The Thunderbolt Kid*, and *A Walk in the Woods*
 
-Bronte, Charlotte    Jane Eyre
+Bowden, Mark    *Blackhawk Down*
 
-Bryson, Bill    A Short History of Nearly Everything, The Thunderbolt Kid, and
+Burgess, Anthony    *A Clockwork Orange*
 
-A Walk in the Woods
+Byatt, A.S.    *Possession*
 
-Bowden, Mark    Blackhawk Down
+Carroll, Jim    *The Basketball Diaries*
 
-Burgess, Anthony    A Clockwork Orange
+Chabon, Michael    *The Amazing Adventures of Kavalier and Clay, The Yiddish Policeman’s Union, Wonder Boys* and *Manhood for Amateurs*
 
-Byatt, A.S.    Possession
+Chang, Jung    *Wild Swans*
 
-Carroll, Jim    The Basketball Diaries
+Cheever, John    *The Wapshot Chronicles*
 
-Chabon, Michael    The Amazing Adventures of Kavalier and Clay, The Yiddish
+Colwin, Laurie    *Happy All the Time, Shine On, Bright and Dangerous Object*
 
-Policeman’s Union, Wonder Boys and Manhood for Amateurs
+Desai, Kiran    *The Inheritance of Loss*
 
-Chang, Jung    Wild Swans
+Diamond, Jared    *Guns, Germs, and Steel*
 
-Cheever, John    The Wapshot Chronicles
+Dick, Phillip    *Man in the High Castle*
 
-Colwin, Laurie    Happy All the Time, Shine On, Bright and Dangerous Object
+Dawidoff, Nicholas    *The Crowd Sounds Happy*
 
-Desai, Kiran    The Inheritance of Loss
+Doctorow, E.L.    *Ragtime, The March,* and *The Book of Daniel* 
 
-Diamond, Jared    Guns, Germs, and Steel
+Donnelly, Jennifer    *A Northern Light*
 
-Dick, Phillip    Man in the High Castle
+Dorris, Michael    *A Yellow Raft in Blue Water*
 
-Dawidoff, Nicholas    The Crowd Sounds Happy
+Draper, Sharon    *Copper Sun*
 
-Doctorow, E.L.    Ragtime, The March, and The Book of Daniel and Ragtime
+Dudman, Martha    *Augusta Gone*
 
-Donnelly, Jennifer    A Northern Light
+Dumas, Alexander    *The Count of Monte Cristo*
 
-Dorris, Michael    A Yellow Raft in Blue Water
-
-Draper, Sharon    Copper Sun
-
-Dudman, Martha    Augusta Gone
-
-Dumas, Alexander    The Count of Monte Cristo
-
-DuMaurier, Daphne    Rebecca
+DuMaurier, Daphne    *Rebecca*
 
 Edwards, Kim    The Memory Keeper’s Daughter
 
