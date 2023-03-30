@@ -1,6 +1,6 @@
 ---
 path: history
-date: 2021-09-18T22:37:26.356Z
+date: 2023-03-30T16:48:38.521Z
 title: History of CTL
 sort: 2
 nav: about
@@ -11,7 +11,7 @@ CTL is a demonstration school: the faculty conducts research and draws on credib
 
 Royalties from the first edition of Nancie Atwell’s book *In the Middle* underwrote the initial construction of CTL. Additional income is raised through an annual fundraising campaign, a biennial silent auction, grants, royalties from Nancie Atwell’s publications, an intern program for visiting teachers, and Nancie’s donation to CTL of the million-dollar award she received from the Varkey Foundation when she was named recipient of the Global Teacher Prize in 2015.
 
-It is a continuing challenge to enroll the range of students who allow us to characterize CTL as a demonstration school. We seek children of many levels of ability and socioeconomic background, and we work hard to keep tuition rates low and to raise money to provide tuition assistance, so the school can attract all kinds of kids and families and provide a credible lab school for other teachers.
+It is a continuing challenge to enroll the range of students who allow us to characterize CTL as a demonstration school. We seek children who represent the range of families found in Midcoast Maine. We work hard to keep tuition rates low and to raise money to provide tuition assistance, so the school can attract all kinds of kids and families and provide a credible lab school for other teachers.
 
 We enjoy a physical plant that is designed for children, learning, teaching, and collegiality. Our students’ sense of initiative, enthusiasm for school, competence, and curiosity take our breaths away. Our students know stuff and want to know more. They understand how work is done, and they want to work. We have a curriculum of breadth and depth that creates writers, readers, mathematicians, scientists, historians, painters, debaters, singers, reporters, musicians, actors, poets, sculptors, critics, political activists, diplomats, humanitarians, and citizens. We enjoy relationships of trust and congeniality with parents—friendships that are long-term and based on love and a sense of responsibility for a community of children. And we have a faculty of outstanding teachers who bring intelligence, knowledge of effective methods, high expectations, common sense, a cooperative spirit, and an awesome willingness to work hard for other people’s children.
 
