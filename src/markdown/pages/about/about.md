@@ -1,6 +1,6 @@
 ---
 path: about
-date: 2022-12-16T16:29:00.013Z
+date: 2023-03-30T16:46:58.926Z
 title: At a Glance
 sort: 1
 nav: about
@@ -24,7 +24,7 @@ carousel:
 * a full-day kindergarten program focused on helping children feel secure and competent as they learn the essentials of writing, reading, and math and bond with a teacher and classmates
 * smooth transitions between grades and teachers, thanks to a faculty that’s on the same page about methods for teaching and being with children
 * never a raised voice or standardized test
-* a student population that represents many levels of ability and socioeconomic backgrounds
+* a student population that represents the full range of socioeconomic and racial diversity found in Midcoast Maine
 * affordable tuition that’s one-third the rate of comparable Maine independent schools, with generous tuition assistance
 
 ![]()
