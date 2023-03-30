@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2022-12-02T18:11:58.003Z
+date: 2023-03-30T17:41:08.679Z
 title: Overview & Testimonials
 sort: 1
 nav: internships
@@ -13,7 +13,6 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867859/Home%20page%20photos/art.1080.4_o4cgju.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/art.1080.6_tdg3ju.jpg
 ---
-
 # Internships
 
 Interested educators: Apply today using the attached [internship application](https://www.icloud.com/iclouddrive/0e5ZsEg8ANQg-ld4cw9hHFBxg#CTL-Internship-App-22-23).
@@ -28,7 +27,7 @@ Instruction in writing, reading, and math is organized as a workshop, which comb
 
 The intern program is an opportunity for us to demonstrate research-based methods in an environment we designed to match our intentions, beliefs, knowledge, and experience. We believe key elements of the CTL program provide a realistic alternative for teachers seeking more effective models for teaching and being with children and collaborating with colleagues. So far we have hosted interning teachers from Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Illinois, Indiana, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Washington, D.C., West Virginia, Wisconsin, and Wyoming in the United States. Our international teachers have come from Australia, Brazil, Canada, Ecuador, England, India, Japan, the Philippines, Taiwan, and Uganda.
 
-The intern program serves classroom teachers of grades K-8 interested in learning more about teaching writing and reading at either the K-4 or 5-8 level, with rich opportunities to observe and confer with CTL teachers about literacy instruction. Participants learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation. Visiting teachers can anticipate interning alongside other teachers from the same grade levels from schools throughout the U.S. and beyond our borders.
+The intern program serves classroom teachers of grades K-8 interested in learning more about teaching writing and reading at any grade level, with rich opportunities to observe and confer with CTL teachers about literacy instruction. Participants learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation. Visiting teachers can anticipate interning alongside other teachers from the same grade levels from schools throughout the U.S. and beyond our borders.
 
 The internship program is structured to make it likely that visiting teachers will be able to act on what they have learned here and make substantive changes back home. We have established the following conditions for participation:
 
