@@ -1,6 +1,6 @@
 ---
 path: high-school-readers
-date: 2023-03-30T17:03:10.249Z
+date: 2023-03-30T17:36:02.479Z
 title: High School Readers
 sort: 3
 nav: reading-resources
@@ -89,358 +89,334 @@ Dumas, Alexander    *The Count of Monte Cristo*
 
 DuMaurier, Daphne    *Rebecca*
 
-Edwards, Kim    The Memory Keeper’s Daughter
+Edwards, Kim    *The Memory Keeper’s Daughter*
 
-Eggers, Dave    A Heartbreaking Work of Staggering Genius, What Is
+Eggers, Dave    *A Heartbreaking Work of Staggering Genius, What Is the What,* and *Zeitoun*
 
-the What, and Zeitoun
+Ellison, Ralph    *The Invisible Man*
 
-Ellison, Ralph    The Invisible Man
+Enright, Anne    *The Gathering*
 
-Enright, Anne    The Gathering
+Eugenides, Jeffrey    *Middlesex* and T*he Virgin Suicides*
 
-Eugenides, Jeffrey    Middlesex and The Virgin Suicides
+Fitch, Janet    *White Oleander*
 
-Fitch, Janet    White Oleander
+Fitzgerald, F. Scott    *The Great Gatsby* and *Tender Is the Night*
 
-Fitzgerald, F. Scott    The Great Gatsby and Tender Is the Night
+Fleming, Keith    *The Boy with a Thorn in His Side*
 
-Fleming, Keith    The Boy with a Thorn in His Side
+Foer, Jonathan Safran    *Extremely Loud and Incredibly Close*
 
-Foer, Jonathan Safran    Extremely Loud and Incredibly Close
+Forster, E.M.    *Howard’s End* and *A Room with a View*
 
-Forster, E.M.    Howard’s End and A Room with a View
+Fowler, Karen    *The Jane Austen Book Club*
 
-Fowler, Karen    The Jane Austen Book Club
+Fowles, John    *The French Lieutenant’s Woman*
 
-Fowles, John    The French Lieutenant’s Woman
+Franzen, Jonathan    *The Corrections*
 
-Franzen, Jonathan    The Corrections
+Frazier, Charles    *Cold Mountain*
 
-Frazier, Charles    Cold Mountain
+Freudenberger, Neil    *Lucky Girls*
 
-Freudenberger, Neil    Lucky Girls
+Gaiman, Neil    *American Gods* and *Anansi Boys*
 
-Gaiman, Neil    American Gods and Anansi Boys
+Galloway, Gregory    *As Simple as Snow*
 
-Galloway, Gregory    As Simple as Snow
+Garland, Alex    *The Beach*
 
-Garland, Alex    The Beach
+Gilbert, Elizabeth    *Stern Men*
 
-Gilbert, Elizabeth    Stern Men
+Gladwell, Malcolm    *Blink, The Tipping Point*, and *Outliers*
 
-Gladwell, Malcolm    Blink, The Tipping Point, and Outliers
+Golding, William    *Lord of the Flies*
 
-Golding, William    Lord of the Flies
+Gore, Al    *An Inconvenient Truth*
 
-Gore, Al    An Inconvenient Truth
+Green, Hannah    *I Never Promised You a Rose Garden*
 
-Green, Hannah    I Never Promised You a Rose Garden
+Griffin, John Howard    *Black Like Me*
 
-Griffin, John Howard    Black Like Me
+Guest, Judith    *Ordinary People*
 
-Guest, Judith    Ordinary People
+Guterson, David    *Snow Falling on Cedars*
 
-Guterson, David    Snow Falling on Cedars
+Haddon, Mark    *The Curious Incident of the Dog in the Night-Time*
 
-Haddon, Mark    The Curious Incident of the Dog in the Night-Time
+Haig, Matt    *The Dead Fathers Club*
 
-Haig, Matt    The Dead Fathers Club
+Harding, Paul    *Tinkers*
 
-Harding, Paul    Tinkers
+Harris, Jane    *The Observations*
 
-Harris, Jane    The Observations
+Harris, Joanne    *Chocolat*
 
-Harris, Joanne    Chocolat
+Haruf, Ken    *Plainsong*
 
-Haruf, Ken    Plainsong
+Heller, Joseph    *Catch-22*
 
-Heller, Joseph    Catch-22
+Herbert, Frank    *Dune*
 
-Herbert, Frank    Dune
+Hijuelos, Oscar    *Dark Dude*
 
-Hijuelos, Oscar    Dark Dude
+Hillenbrand, Laura    *Seabiscuit*
 
-Hillenbrand, Laura    Seabiscuit
+Hoffman, Alice    *At Risk*
 
-Hoffman, Alice    At Risk
+Hornby, Nick    *High Fidelity, About a Boy*, and *Slam*
 
-Hornby, Nick    High Fidelity, About a Boy, and Slam
+Hosseini, Khaled    *The Kite Runner*
 
-Hosseini, Khaled    The Kite Runner
+Huxley, Aldous    *Brave New World*
 
-Huxley, Aldous    Brave New World
+Irving, John    *The Ciderhouse Rules, Hotel New Hampshire, A Prayer for Owen Meany,* and *The World According to Garp*
 
-Irving, John    The Ciderhouse Rules, Hotel New Hampshire,
+Ishiguro, Kazuo    *Never Let Me Go* and *The Remains of the Day*
 
-A Prayer for Owen Meany, and The World According to Garp
+Janzen, Rhoda    *Mennonite in a Little Black Dress*
 
-Ishiguro, Kazuo    Never Let Me Go and The Remains of the Day
+Johnson, Diane    *Le Divorce*
 
-Janzen, Rhoda    Mennonite in a Little Black Dress
+Johnson, Joyce    *Minor Characters*
 
-Johnson, Diane    Le Divorce
+Jones, Lloyd    *Mr. Pip*
 
-Johnson, Joyce    Minor Characters
+Joravsky, Ben    *Hoop Dreams*
 
-Jones, Lloyd    Mr. Pip
+Junger, Sebastian    *War*
 
-Joravsky, Ben    Hoop Dreams
+Karr, Mary    *Cherry, Liar’s Club,* and *Lit*
 
-Junger, Sebastian    War
+Kaysen, Susanna    *Girl, Interrupted*
 
-Karr, Mary    Cherry, Liar’s Club, and Lit
+Kidd, Sue Monk    *The Secret Life of Bees*
 
-Kaysen, Susanna    Girl, Interrupted
+Kesey, Ken    *One Flew Over the Cuckoo’s Nest*
 
-Kidd, Sue Monk    The Secret Life of Bees
+King, Stephen    *The Shining*
 
-Kesey, Ken    One Flew Over the Cuckoo’s Nest
+Kingsolver, Barbara    *Animal Dreams, The Bean Trees, The Lacuna,* and *The Poisonwood Bible*
 
-King, Stephen    The Shining
+Kneale, Matthew    *When We Were Romans*
 
-Kingsolver, Barbara    Animal Dreams, The Bean Trees
+Koertge, Ron    *The Burn Journals*
 
-The Lacuna, and The Poisonwood Bible
+Korman, Gordon    *Jake Reinvented*
 
-Kneale, Matthew    When We Were Romans
+Kovic, Ron    *Born on the Fourth of July*
 
-Koertge, Ron    The Burn Journals
+Krakauer, John    *Into Thin Air* and *Into the Wild*
 
-Korman, Gordon    Jake Reinvented
+Krauss, Nichole    *The History of Love*
 
-Kovic, Ron    Born on the Fourth of July
+Lamott, Anne    *Blue Shoe*
 
-Krakauer, John    Into Thin Air and Into the Wild
+Lee, Harper    *To Kill a Mockingbird*
 
-Krauss, Nichole    The History of Love
+Lehane, Dennis    *Mystic River*
 
-Lamott, Anne    Blue Shoe
+Letts, Billie    *Where the Heart Is*
 
-Lee, Harper    To Kill a Mockingbird
+Levy, Andrea    *A Small Island*
 
-Lehane, Dennis    Mystic River
+Lockhart, E.    *The Disreputable History of Frankie Landau-Banks*
 
-Letts, Billie    Where the Heart Is
+London, Jack    *The Call of the Wild*
 
-Levy, Andrea    A Small Island
+Lovell, James and Jeffrey Kluger    *Apollo 13*
 
-Lockhart, E.    The Disreputable History of Frankie Landau-Banks
+Ludlum, Robert    The *Bourne* trilogy
 
-London, Jack    The Call of the Wild
+Maclean, Norman    *Young Men and Fire*
 
-Lovell, James and Jeffrey Kluger    Apollo 13
+McCann, Colin    *Let the Great World Spin*
 
-Ludlum, Robert    The Bourne trilogy
+McCarthy, Cormac    *The Crossing, The Road,* and *No Country for Old Men*
 
-Maclean, Norman    Young Men and Fire
+McCarthy, Mary    *A Charmed Life* and *The Group*
 
-McCann, Colin    Let the Great World Spin
+McEwan, Ian    *Atonement* and *Saturday*
 
-McCarthy, Cormac    The Crossing, The Road, and No Country for Old Men
+Mailer, Norman    *The Naked and the Dead*
 
-McCarthy, Mary    A Charmed Life and The Group
+Marquez, Gabriel Garcia    *Love in the Time of Cholera* and *One Hundred Years of Solitude*
 
-McEwan, Ian    Atonement and Saturday
+Martel, Yann    *Life of Pi*
 
-Mailer, Norman    The Naked and the Dead
+Martin, Steve    *Shopgirl*
 
-Marquez, Gabriel Garcia    Love in the Time of Cholera
+Martinez, A. Lee    *Gil’s All-Fright Diner*
 
-and One Hundred Years of Solitude
+McCann, Colin    *Let the Great World Spin*
 
-Martel, Yann    Life of Pi
+McCormick, Patricia    *Purple Heart*
 
-Martin, Steve    Shopgirl
+Messud, Claire    *The Emperor’s Children*
 
-Martinez, A. Lee    Gil’s All-Fright Diner
+Mezrich, Ben    *Bringing Down the House*
 
-McCann, Colin    Let the Great World Spin
+Minot, Susan    *Evening* and *Monkeys*
 
-McCormick, Patricia    Purple Heart
+Moehringer, J.R.    *The Tender Bar*
 
-Messud, Claire    The Emperor’s Children
+Moody, Rick    *The Ice Storm*
 
-Mezrich, Ben    Bringing Down the House
+Moore, Lorrie   * Birds of America, A Gate at the Stairs,* and *Who Will Run the Frog Hospital?*
 
-Minot, Susan    Evening and Monkeys
+Morrison, Toni    *Beloved, The Bluest Eye,* and *A Mercy*
 
-Moehringer, J.R.    The Tender Bar
+Mosley, Walter    *47*
 
-Moody, Rick    The Ice Storm
+Munro, Alice    *Dance of the Happy Shades, Friend of My Youth, Lives of Girls and Women, The Love of a Good Woman, Runaway* and *Something I’ve Been Meaning to Tell You*
 
-Moore, Lorrie    Birds of America, A Gate at the Stairs, and Who Will
+Nabukov, Vladimir    *Lolita* and *Pale Fire*
 
-Run the Frog Hospital?
+Nafisi, Azar    *Reading Lolita in Tehran*
 
-Morrison, Toni    Beloved, The Bluest Eye, and A Mercy
+Nasar, Sylvia    *A Beautiful Mind*
 
-Mosley, Walter    47
+Nicholls, David    *One Day*
 
-Munro, Alice    Dance of the Happy Shades, Friend of My Youth
+Oates, Joyce Carol    *We Were the Mulvaneys*
 
-Lives of Girls and Women, The Love of a Good Woman, Runaway
+Obama, Barack    *Dreams from My Father*
 
-and Something I’ve Been Meaning to Tell You
+O’Brian, Patrick    The *Master and Commander* series
 
-Nabukov, Vladimir    Lolita and Pale Fire
+O’Brien, Tim    *The Things They Carried, If I Die in a Combat Zone* and *Going After Cacciato*
 
-Nafisi, Azar    Reading Lolita in Tehran
+Ondaatje, Michael    *The English Patient*
 
-Nasar, Sylvia    A Beautiful Mind
+O’Neill, Joseph    *Netherland*
 
-Nicholls, David    One Day
+Patchett, Anne    *Bel Canto* and *Truth and Beauty: A Friendship*
 
-Oates, Joyce Carol    We Were the Mulvaneys
+Perotta, Tom    *Election*
 
-Obama, Barack    Dreams from My Father
+Pessl, Marisha    *Special Topics in Calamity Physics*
 
-O’Brien, Patrick    The Master and Commander series
+Plath, Sylvia    *The Bell Jar*
 
-O’Brien, Tim    The Things They Carried, If I Die in a Combat Zone
+Prachett, Terry    *Nation*
 
-and Going After Cacciato
+Prose, Francine    *Goldengrove*
 
-Ondaatje, Michael    The English Patient
+Proulx, E. Annie    *The Shipping News*
 
-O’Neill, Joseph    Netherland
+Reichl, Ruth    *Tender at the Bone*
 
-Patchett, Anne    Bel Canto and Truth and Beauty: A Friendship
+Remarque, Erich Maria    *All Quiet on the Western Front*
 
-Perotta, Tom    Election
+Rice, Anne    *Interview with the Vampire*
 
-Pessl, Marisha    Special Topics in Calamity Physics
+Rich, Simon    *Ant Farm*
 
-Plath, Sylvia    The Bell Jar
+Robbins, Tom    *Even Cowgirls Get the Blues*
 
-Prachett, Terry    Nation
+Robinson, Lewis    *Water Dogs*
 
-Prose, Francine    Goldengrove
+Robinson, Marilyn    *Gilead* and *Housekeeping*
 
-Proulx, E. Annie    The Shipping News
+Rosoff, Meg    *The Bride’s Farewell, How I Live Now,* and *What I Was*
 
-Reichl, Ruth    Tender at the Bone
+Roth, Phillip    *Good-bye, Columbus* and *The Human Stain*
 
-Remarque, Erich Maria    All Quiet on the Western Front
+Roy, Arundhati    *The God of Small Things*
 
-Rice, Anne    Interview with the Vampire
+Rushdie, Salman    *Haroun and the Sea of Stories* and *Luka and the Fire of Life*
 
-Rich, Simon    Ant Farm
+Russo, Richard    *Empire Falls*
 
-Robbins, Tom    Even Cowgirls Get the Blues
+Sacco, Joe    *Palestine* and *Safe Area Gorazde*
 
-Robinson, Lewis    Water Dogs
+Sagan, Carl    *Contact*
 
-Robinson, Marilyn    Gilead and Housekeeping
+Salinger, J.D.    *Catcher in the Rye*
 
-Rosoff, Meg    The Bride’s Farewell, How I Live Now, and What I Was
+Satrapi, Marjane    *Persepolis* and *Persepolis II*
 
-Roth, Phillip    Good-bye, Columbus and The Human Stain
+Schiff, David    *Beautiful Boy*
 
-Roy, Arundhati    The God of Small Things
+Sedaris, David    *Dress Your Family in Corduroy and Denim, Naked,* and *Me Talk Pretty One Day*
 
-Rushdie, Salman    Haroun and the Sea of Stories and Luka and the Fire of Life
+Sharra, Michael    *The Killer Angels*
 
-Russo, Richard    Empire Falls
+Shepard, Jim    *Project X*
 
-Sacco, Joe    Palestine and Safe Area Gorazde
+Shields, Carol    *Unless*
 
-Sagan, Carl    Contact
+Silverstein, Ken    *The Radioactive Boy Scout*
 
-Salinger, J.D.    Catcher in the Rye
+Simpson, Mona    *Anywhere But Here*
 
-Satrapi, Marjane    Persepolis and Persepolis II
+Sittenfeld, Curtis    *Prep*
 
-Schiff, David    Beautiful Boy
+Smiley, Jane    *A Thousand Acres*
 
-Sedaris, David    Dress Your Family in Corduroy and Denim, Naked,
+Smith, Ali    *The Accidental*
 
-and Me Talk Pretty One Day
+Smith, Alison    *Name All the Animals*
 
-Sharra, Michael    The Killer Angels
+Smith, Dodie    *I Capture the Castle*
 
-Shepard, Jim    Project X
+Smith, Zadie    *On Beauty* and *White Teeth*
 
-Shields, Carol    Unless
+Spencer, Scott    *Waking the Dead*
 
-Silverstein, Ken    The Radioactive Boy Scout
+Spiegelman, Art    *Maus I* and *Maus II*
 
-Simpson, Mona    Anywhere But Here
+Stewart, Leah    *The Myth of You and Me*
 
-Sittenfeld, Curtis    Prep
+Stegner, Wallace    *Angle of Repose* and *Crossing to Safety*
 
-Smiley, Jane    A Thousand Acres
+Stockett, Kathryn    *The Help*
 
-Smith, Ali    The Accidental
+Strout, Elizabeth    *Amy and Isabelle* and *Olive Kitteridge*
 
-Smith, Alison    Name All the Animals
+Sullivan, J. Courtney    *Commencement*
 
-Smith, Dodie    I Capture the Castle
+Swofford, Anthony    *Jarhead*
 
-Smith, Zadie    On Beauty and White Teeth
+Tan, Amy    *The Joy Luck Club*
 
-Spencer, Scott    Waking the Dead
+Tartt, Donna    *The Secret History*
 
-Spiegelman, Art    Maus I and Maus II
+Tinti, Hannah    *The Good Thief*
 
-Stewart, Leah    The Myth of You and Me
+Toews, Miriam    *A Complicated Kindness*
 
-Stegner, Wallace    Angle of Repose and Crossing to Safety
+Trillin, Calvin    *About Alice, Remembering Denny,* and others
 
-Stockett, Kathryn    The Help
+Trumbo, Dalton    *Johnny Got His Gun*
 
-Strout, Elizabeth    Amy and Isabelle and Olive Kitteridge
+Updike, John    *The Centaur, Couples, The Witches of Eastwick,* and the *Rabbit* trilogy
 
-Sullivan, J. Courtney    Commencement
+Vizzini, Ned    *Be More Chill* and *It’s Kind of a Funny Story*
 
-Swofford, Anthony    Jarhead
+Vonnegut, Kurt    *Welcome to the Monkey House, Armageddon in Retrospect, Slapstick,* and *Slaughterhouse-Five*
 
-Tan, Amy    The Joy Luck Club
+Walbert, Kate    *A Short History of Women*
 
-Tartt, Donna    The Secret History
+Walls, Jeanette    *The Glass Castle*
 
-Tinti, Hannah    The Good Thief
+Waugh, Evelyn    *Brideshead Revisited*
 
-Toews, Miriam    A Complicated Kindness
+Wharton, Edith    *House of Mirth*
 
-Trillin, Calvin    About Alice, Remembering Denny, and others
+Whitehead, Colson    *Sag Harbor*
 
-Trumbo, Dalton    Johnny Got His Gun
+Wiesel, Elie    *Night*
 
-Updike, John    The Centaur, Couples, The Witches of Eastwick, and
+Wolff, Tobias    *In Pharaoh’s Army, Our Story Begins, Old School,* and *This Boy’s Life*
 
-and the Rabbit trilogy
+Woolf, Virginia    *To the Lighthouse* and *A Room of One’s Own*
 
-Vizzini, Ned    Be More Chill and It’s Kind of a Funny Story
+Wright, Richard    *Native Son* and *Black Boy*
 
-Vonnegut, Kurt    Welcome to the Monkey House, Armageddon in Retrospect,
+Wroblewski, David   * The Story of Edgar Sawtelle*
 
-Slapstick, and Slaughterhouse-Five
+Young, Rusty and Thomas McFadden    *Marching Powder*
 
-Walbert, Kate    A Short History of Women
+Zusak, Markus    *The Book Thief* and *I Am the Messenger*
 
-Walls, Jeanette    The Glass Castle
-
-Waugh, Evelyn    Brideshead Revisited
-
-Wharton, Edith    House of Mirth
-
-Whitehead, Colson    Sag Harbor
-
-Wiesel, Elie    Night
-
-Wolff, Tobias    In Pharaoh’s Army, Our Story Begins, Old School,
-
-and This Boy’s Life
-
-Woolf, Virginia    To the Lighthouse and A Room of One’s Own
-
-Wright, Richard    Native Son and Black Boy
-
-Wroblewski, David    The Story of Edgar Sawtelle
-
-Young, Rusty and Thomas McFadden    Marching Powder
-
-Zusak, Markus    The Book Thief and I Am the Messenger
-
-**Zinn, Howard    A People’s History of the United States**
+Zinn, Howard    *A People’s History of the United States*
