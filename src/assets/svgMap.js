@@ -5,6 +5,9 @@ import {
   AcornCloud,
   AcornTent,
   AboutBottom,
+  FlyingBird,
+  AcornCloud2,
+  CTLAcorn,
 } from "./svgs/drawings";
 
 export const svgMap = {
@@ -40,6 +43,21 @@ export const svgMap = {
             flexDirection: "column-reverse",
           }}
         />
+      ),
+    },
+    welcome: {
+      left: <FlyingBird />,
+      right: (
+        <div
+          style={{
+            minHeight: "100%",
+            display: "flex",
+            flexDirection: "column-reverse",
+          }}
+        >
+          <AcornCloud2 style={{ marginTop: "50px" }} />
+          <CTLAcorn />
+        </div>
       ),
     },
   },

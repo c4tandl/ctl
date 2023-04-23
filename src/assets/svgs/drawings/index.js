@@ -10,6 +10,8 @@ import AcornPerson2SVG from "./acorn.person.2.svg";
 import WormAcornSVG from "./acorn.worm.svg";
 import HappyAcornSVG from "./happy.acorn.3.svg";
 import SunSVG from "./sun.svg";
+import AcornCloud2SVG from "./acorn.cloud.2.svg";
+import FlyingBirdSVG from "./flying.bird.svg";
 
 // about sections
 import AcornParaSVG from "./acorn.para.svg";
@@ -307,6 +309,63 @@ export const AcornTent = ({ svgProps, ...props }) => {
     <AcornTentDiv {...props}>
       <AcornTentSVG {...svgProps} />
     </AcornTentDiv>
+  );
+};
+
+const AcornCloud2Div = styled.div`
+  width: 250px;
+  height: 250px;
+  svg {
+    .cls-1 {
+      fill: #9ac5cf;
+    }
+    .cls-2 {
+      fill: #2bb673;
+    }
+    .cls-3 {
+      fill: #594a42;
+    }
+    .cls-4 {
+      fill: #fff;
+    }
+  }
+`;
+
+export const AcornCloud2 = ({ svgProps, ...props }) => {
+  return (
+    <AcornCloud2Div {...props}>
+      <AcornCloud2SVG {...svgProps} />
+    </AcornCloud2Div>
+  );
+};
+
+const FlyingBirdDiv = styled.div`
+  width: 200px;
+  height: 200px;
+  svg {
+    .cls-1 {
+      fill: #fff;
+    }
+    .cls-2 {
+      fill: #2b3990;
+    }
+    .cls-3 {
+      fill: #1c75bc;
+    }
+    .cls-4 {
+      fill: #fbb040;
+    }
+    .cls-5 {
+      fill: #662d91;
+    }
+  }
+`;
+
+export const FlyingBird = ({ svgProps, ...props }) => {
+  return (
+    <FlyingBirdDiv {...props}>
+      <FlyingBirdSVG {...svgProps} />
+    </FlyingBirdDiv>
   );
 };
 
