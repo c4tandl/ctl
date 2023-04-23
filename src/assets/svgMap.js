@@ -1,5 +1,11 @@
 import React from "react";
-import { Bird, AcornPara, AboutBottom } from "./svgs/drawings";
+import {
+  Bird,
+  AcornPara,
+  AcornCloud,
+  AcornTent,
+  AboutBottom,
+} from "./svgs/drawings";
 
 export const svgMap = {
   about: {
@@ -9,8 +15,27 @@ export const svgMap = {
       right: (
         <AcornPara
           style={{
-            backgrundColor: "lilac",
             minHeight: "100%",
+            display: "flex",
+            flexDirection: "column-reverse",
+          }}
+        />
+      ),
+    },
+    history: {
+      left: (
+        <AcornCloud
+          style={{
+            minHeight: "10%",
+            display: "flex",
+            flexDirection: "column-reverse",
+          }}
+        />
+      ),
+      right: (
+        <AcornTent
+          style={{
+            minHeight: "95%",
             display: "flex",
             flexDirection: "column-reverse",
           }}
