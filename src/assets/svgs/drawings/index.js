@@ -10,9 +10,14 @@ import AcornPerson2SVG from "./acorn.person.2.svg";
 import WormAcornSVG from "./acorn.worm.svg";
 import HappyAcornSVG from "./happy.acorn.3.svg";
 import SunSVG from "./sun.svg";
+import AcornCloud2SVG from "./acorn.cloud.2.svg";
+import FlyingBirdSVG from "./flying.bird.svg";
 
 // about sections
 import AcornParaSVG from "./acorn.para.svg";
+import AcornCloudSVG from "./acorn.cloud.svg";
+import AcornTentSVG from "./acorn.tent.svg";
+
 // about bottom
 import CTLBirdSVG from "./ctl.blue.bird.svg";
 import FlowerPinkSVG from "./flower.pink.svg";
@@ -241,6 +246,126 @@ export const AcornPara = ({ svgProps, ...props }) => {
     <AcornParaDiv {...props}>
       <AcornParaSVG {...svgProps} />
     </AcornParaDiv>
+  );
+};
+
+const AcornCloudDiv = styled.div`
+  height: 250px;
+  width: 250px;
+  svg {
+    .cls-1 {
+      fill: #fff;
+    }
+    .cls-2 {
+      fill: #d6e2f4;
+    }
+    .cls-3 {
+      fill: #603913;
+    }
+    .cls-4 {
+      fill: #a97c50;
+    }
+  }
+`;
+export const AcornCloud = ({ svgProps, ...props }) => {
+  return (
+    <AcornCloudDiv {...props}>
+      <AcornCloudSVG {...svgProps} />
+    </AcornCloudDiv>
+  );
+};
+
+const AcornTentDiv = styled.div`
+  height: 300px;
+  width: 300px;
+  .st0 {
+    fill: #603913;
+  }
+  .st1 {
+    fill: #00a651;
+  }
+  .st2 {
+    fill: #ffffff;
+  }
+  .st3 {
+    fill: #ffffff;
+    stroke: #ffffff;
+    stroke-width: 1.6177;
+    stroke-miterlimit: 10;
+  }
+  .st4 {
+    fill: #8b5e3c;
+  }
+  .st5 {
+    fill: #754c29;
+  }
+  .st6 {
+    fill: #c49a6c;
+  }
+`;
+
+export const AcornTent = ({ svgProps, ...props }) => {
+  return (
+    <AcornTentDiv {...props}>
+      <AcornTentSVG {...svgProps} />
+    </AcornTentDiv>
+  );
+};
+
+const AcornCloud2Div = styled.div`
+  width: 250px;
+  height: 250px;
+  svg {
+    .cls-1 {
+      fill: #9ac5cf;
+    }
+    .cls-2 {
+      fill: #2bb673;
+    }
+    .cls-3 {
+      fill: #594a42;
+    }
+    .cls-4 {
+      fill: #fff;
+    }
+  }
+`;
+
+export const AcornCloud2 = ({ svgProps, ...props }) => {
+  return (
+    <AcornCloud2Div {...props}>
+      <AcornCloud2SVG {...svgProps} />
+    </AcornCloud2Div>
+  );
+};
+
+const FlyingBirdDiv = styled.div`
+  width: 200px;
+  height: 200px;
+  svg {
+    .cls-1 {
+      fill: #fff;
+    }
+    .cls-2 {
+      fill: #2b3990;
+    }
+    .cls-3 {
+      fill: #1c75bc;
+    }
+    .cls-4 {
+      fill: #fbb040;
+    }
+    .cls-5 {
+      fill: #662d91;
+    }
+  }
+`;
+
+export const FlyingBird = ({ svgProps, ...props }) => {
+  return (
+    <FlyingBirdDiv {...props}>
+      <FlyingBirdSVG {...svgProps} />
+    </FlyingBirdDiv>
   );
 };
 
