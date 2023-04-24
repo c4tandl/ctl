@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-03-30T17:41:08.679Z
+date: 2023-04-24T14:23:54.444Z
 title: Overview & Testimonials
 sort: 1
 nav: internships
@@ -15,7 +15,7 @@ carousel:
 ---
 # Internships
 
-Interested educators: Apply today using the attached [internship application](https://www.icloud.com/iclouddrive/0e5ZsEg8ANQg-ld4cw9hHFBxg#CTL-Internship-App-22-23).
+Interested educators: Apply today using the attached [internship application](https://docs.google.com/document/d/1KUVrXbTiBE3obkZbFhmO2d3y4E7LSjFscQWEZHSj-1A/edit?usp=sharing).
 
 You may scan and email to internship@c-t-l.org or mail to Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556 USA.
 
