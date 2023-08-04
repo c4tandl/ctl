@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-04-24T14:23:54.444Z
+date: 2023-08-04T03:52:26.243Z
 title: Overview & Testimonials
 sort: 1
 nav: internships
@@ -15,7 +15,7 @@ carousel:
 ---
 # Internships
 
-Interested educators: Apply today using the attached [internship application](https://docs.google.com/document/d/1KUVrXbTiBE3obkZbFhmO2d3y4E7LSjFscQWEZHSj-1A/edit?usp=sharing).
+Interested educators: Apply today using the attached [internship application](https://drive.google.com/file/d/1wiQrAefOVCH-stHoLLnEkyBSqzpIBnJO/view?usp=sharing).
 
 You may scan and email to internship@c-t-l.org or mail to Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556 USA.
 
@@ -35,6 +35,6 @@ The internship program is structured to make it likely that visiting teachers wi
 2. Teachers spend four days, Monday-Thursday, at the school and immerse themselves in CTL’s schedule, organization, curricula, methods, and theories of teaching. Interns observe instruction, record and reflect on their observations, and work with one another and our faculty; they do not teach CTL students. The focus is on examining the structures in place here and considering implications for back home.
 3. The cost to each interning teacher is $950, payable in full no later than six weeks in advance of the first day of the internship.
 4. CTL teachers review applications and select the intern teams together in early August. Our criteria include adherence to the guidelines established in this letter; completeness of the application; and compatibility of a teacher’s vision and sense of purpose with those of CTL.
-5. Applicants are notified of our decision by or on August 15.
+5. Priority application deadline is August 1. However, applications are reviewed on a rolling basis and will be considered if space is available. 
 
 CTL is located approximately an hour north of Portland, Maine. Teachers who live at a distance and cannot commute daily can arrange to be accommodated locally at Cod Cove Inn or The Sheepscot Harbour Village Resort, or check out the listings on Airbnb.  Interns should anticipate that they will require a car during their stay in Edgecomb. CTL can assist you with lodging or car rental arrangements.
