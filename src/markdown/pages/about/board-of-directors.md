@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2023-08-17T16:27:52.559Z
+date: 2023-08-17T16:29:58.937Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -22,7 +22,7 @@ Josh is parent to Kelly, who began his CTL career as a kindergartener in 2016. J
 **Anne Atwell Merkel**, Clerk\
 Anne has been CTL’s teacher of grades 7-8 writing, reading, and history since 2013 and is a member of the Class of 2000. With her mother, Nancie Atwell, she is a co-author of *The Reading Zone, Second Edition: How to Help Kids Become Skilled, Passionate, Habitual, Critical Readers*, based on their work with readers at CTL. One of Anne’s earliest memories is standing with her mom, at sunset, on the land on Cross Point Road that would become home to, so far, thirty years’ worth of writers, readers, mathematicians, historians, scientists, and artists. She has considered it her own second home ever since. 
 
-**Peter Branch**,Treasurer\
+**Peter Branch**, Treasurer\
 Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been coming to Maine every summer of his life to help his family run Linekin Bay Resort which they owned from 1909 until 2015. He and his wife, Paula, now live in Boothbay year round. In his winter life, he was the head of independent pre-k through grade 12 schools for 37 years. These schools included the Dalton School in New York City, Woodmere Academy in Woodmere, Long Island, Holland Hall School in Tulsa, Oklahoma, Georgetown Day School in Washington, D.C., and the Rocky Hill School in East Greenwich, Rhode Island. Peter also did a 2 year stint as Executive Director of The Washington Ballet. During his educational career he spoke at numerous conferences and served on association boards, including the board of the National Association of Episcopal Schools, of which he was president. Peter is honored to become a member of the board of the Center for Teaching and Learning which he has long admired for its leadership in elementary and middle school education.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913219/faculty%20and%20staff%20photos/Maureen_Barbieri_Bio_Photo_incf2b.jpg)
