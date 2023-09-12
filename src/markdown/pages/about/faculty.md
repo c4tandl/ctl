@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2023-09-12T15:43:40.895Z
+date: 2023-09-12T15:45:39.125Z
 title: Faculty
 sort: 4
 nav: about
@@ -20,6 +20,8 @@ nav: about
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/angela.faculty_ikpbgv.jpg)
 
 **Angela Lathem-Ballard** is CTL’s teacher of 5-6 Humanities and also as the school’s Arts Specialist, teaching K-8 Visual Art and 5-8 Drama. Angela has taught kindergarten and every grade from 3 through 8 in her 18 years of experience in the classroom, but she loves 5-6 the best. She attended the University of Illinois for her BFA in Theater and she holds a Masters of Arts in Education, Curriculum, and Instruction from Bradley University, also in Illinois, her home state. Before becoming a teacher, she spent several years working in outreach education and as a Y.E.S. facilitator at Walt Disney World. She has studied at The Globe Theatre in London, and been a Fellow with the San Diego Area Writing Project. People here at CTL first met Angela in 2012, when she traveled to Maine to take part in our intern program, learning from Nancie and Glenn. Angela loves teaching Shakespeare through performance. She has taught at La Jolla Country Day, San Diego Cooperative Charter, and The Children’s Primary School prior to CTL. In addition, Angela has served as a social-services volunteer in Ghana, Peru, Russia, and China. 
+
+![]()
 
 **Glenn Powers** teaches grades 5-6 mathematics as well as grades 5-8 science and physical education. He taught humanities, math, and technology for ten years in Williamsville, New York, as well as East Harlem, Brooklyn, Queens, and at the Baccalaureate School for Global Education in Astoria, before coming to CTL in 2005. He earned a Masters in English Education from Columbia University Teachers College and a B.A. in English from the State University of New York at Buffalo. He has presented at the National Council of Teachers of English Convention, and he consults with schools about writing and reading workshop methods and science instruction. He is a consultant with the Gulf of Maine Research Institute and the Maine STEM Partnership and founding editor of the *Maine Student Science Journal,* as well as a curriculum developer for the Maine Environmental Education Association. Glenn has written many science grants for the school; previous projects have been funded by National Resources Council of Maine, Project Learning Tree, SeaWorld, Samsung, Toshiba, Portsmouth Naval Shipyard, and Captain Planet. 
 
