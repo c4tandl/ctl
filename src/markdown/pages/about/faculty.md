@@ -1,12 +1,10 @@
 ---
 path: faculty
-date: 2023-09-12T15:45:39.125Z
+date: 2023-09-12T15:52:58.285Z
 title: Faculty
 sort: 4
 nav: about
 ---
-
-
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Jenn_3_sdbm31.png)
 
 **Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jenn stepped into a new role as the Grade 1-2 teacher. This year, she is excited to move to teach kindergarten. Jenn has always enjoyed teaching the reading and writing programs in grades K-4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
@@ -29,7 +27,7 @@ nav: about
 
 **Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 14 years of experience in the classroom. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. At CTL, she works as a part-time administrator in addition to her classroom roles. 
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Katie_2_yzlvfx.png)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669912457/faculty%20and%20staff%20photos/Katie_2021_lujhqc.jpg)
 
 **Katie Rittershaus** has been CTL’s teacher of middle-school (grades 5-8) mathematics since 2004; before that she was a familiar presence at the school as a long-term substitute, helping teacher, and advocate for children. A passionate mathematician, Katie also holds a B.A. from the University of Southern Maine in women’s studies and took several years of pre-med courses at Regis College and Colorado State University. Her students are stand-outs at Mathcounts competitions and in their high school mathematics courses.
 
@@ -45,6 +43,6 @@ nav: about
 
 **Haley Barnes** joined CTL in 2021 as a helping teacher. She has spent over ten years working with children in different roles. She spent time as a preschool teacher, Behavioral Health Professional (BHP), and many years as a nanny. She graduated from nearby Morse High School, and moved on to Suffolk University in Boston. She returned to Maine, became a mother, and finished her degree. She graduated from Walden University, Summa Cum Laude, with a Bachelor of Science degree in Health Studies with a focus in Child Development. Haley believes that each domain of health must be nurtured in children. Social-emotional development in addition to cognitive development are foci that she enjoys supporting for CTL's students.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1694532774/Cate_es1rwk.jpg)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/kate.faculty_t2lbyj.jpg)
 
 **Cate Molloy** enjoys being a helping teacher at CTL and working as the Aftercare Program Director. Cate is a graduate of the University of Vermont with a degree in elementary education. She spent many years teaching kindergarten and first grade and most recently working in a library. Her enthusiasm for being a part of the CTL community is based in the lovely way that what she has loved about both worlds combine at CTL. She lives in Hallowell and, when not trying to see every sturgeon that might swim by on the Kennebec, can be found swimming laps, taking walks, hitting up her local library for books, and trying to return them on time.
