@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2023-03-21T13:51:40.135Z
+date: 2023-09-25T13:24:08.828Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -28,8 +28,6 @@ B. **Applying**: Once you know you would like to apply, do so by:
 
 Families will be notified of admissions decisions on or before March 10.
 
-For the academic school year of 2023-24, the admissions deadline of February 15 has passed and most classes are full. We always anticipate changes and openings between now and the start of the year, and we encourage families to apply to join the waitlist. Tuition assistance for 2023-24 has already been disbursed.
-
 If you are ready to move forward with an application and join CTL’s waitlist, please apply using the [TADS enrollment system](https://mytads.com/a/ctl). Contact the office with any questions.
 
 **Tuition — $12,100 in 2023-24, grades K-8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance based on income for the previous year. Payment plans are available, with single pay, two payment, and ten payment options.
@@ -38,4 +36,4 @@ If you are ready to move forward with an application and join CTL’s waitlist, 
 
 **Grades 1 through 7** — Although CTL is currently full for this academic year, we always anticipate openings in the subsequent academic year. Interested families should submit an inquiry for next year using the inquiry link above to learn more.
 
-This year, CTL will hold open houses in October and April. Fill out an inquiry to learn more. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
+This year, CTL will hold open houses in October and April. CTL's fall Open House will be on Sunday, October 15, from 2:00-4:00. Fill out an inquiry to learn more. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
