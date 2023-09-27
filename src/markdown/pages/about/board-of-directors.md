@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2023-08-23T19:06:10.080Z
+date: 2023-09-27T18:26:03.726Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -44,6 +44,8 @@ Katy’s children, Gigi, class of 2023, and Ryo, class of 2026, have attended CT
 
 **Brita Wanger**\
 Born in Southern West Virginia, Brita Wanger grew up in the Western Mountains of Maine. She enjoyed a 15 year stint at NBC Universal, serving as creative executive for Late Night and Specials Programming for the network and co-creating the storied NBC Late Night Writers Workshop. Since returning to Maine in 2018, Brita and her husband Doug have lived in Alna with their children, Billy and Alice (CTL class of 2028). In Maine, Brita has served as Director of Media and Performing Arts for the Maine Arts Commission, served as state coordinator for the NEA’s Poetry Out Loud program and led projects for Maine’s “Percent for Art” legislation, which ensures public art is a part of all State-funded building projects.  Brita still leads workshops in comedy writing every chance she gets. Brita has been part of the CTL parent community since 2020 and is pleased to have the opportunity to serve on the board. 
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1695839147/JHT_hecqao.jpg)
 
 **Jessica Tindal**\
 Jessica Tindal was raised in Georgia and studied in Tennessee before finding her forever home in Maine in 2011. She has since lived in Boothbay with her husband Jonathan and their two girls, Olivia and Cora. Olivia joined CTL’s kindergarten class in 2020, and Cora followed in the fall of 2023. Jessica has been awed by the genuine warmth of the CTL community and the way her daughter has developed such a fast and deep love of learning. She is grateful for the opportunity to transform that sense of community and dedication into meaningful action for the school.
