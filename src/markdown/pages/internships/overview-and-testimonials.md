@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-08-04T03:52:26.243Z
+date: 2023-10-31T16:13:05.995Z
 title: Overview & Testimonials
 sort: 1
 nav: internships
@@ -15,7 +15,7 @@ carousel:
 ---
 # Internships
 
-Interested educators: Apply today using the attached [internship application](https://drive.google.com/file/d/1wiQrAefOVCH-stHoLLnEkyBSqzpIBnJO/view?usp=sharing).
+Interested educators: We are still accepting applications for our spring 2024 intern weeks: March 25-28, 2024 (Grades 5-8) and April 1-4, 2024 (K-8). Apply today using the attached [internship application](https://drive.google.com/file/d/1wiQrAefOVCH-stHoLLnEkyBSqzpIBnJO/view?usp=sharing). 
 
 You may scan and email to internship@c-t-l.org or mail to Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556 USA.
 
