@@ -1,5 +1,5 @@
 ---
-date: 2022-12-01T17:03:45.704Z
+date: 2023-10-31T16:44:57.184Z
 title: Contact
 contactpage: true
 carousel:
@@ -20,4 +20,4 @@ Phone: 207-882-9706
 
 <br/>
 
-E-mail [katy@c-t-l.org](mailto:katy@c-t-l.org) directly, or submit an inquiry below:
+Email CTL's Head of School Katy Inman ([katy@c-t-l.org)](mailto:katy@c-t-l.org) directly, or submit an inquiry below:
