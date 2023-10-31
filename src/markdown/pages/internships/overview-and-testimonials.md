@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-10-31T16:13:05.995Z
+date: 2023-10-31T16:24:54.217Z
 title: Overview & Testimonials
 sort: 1
 nav: internships
@@ -37,4 +37,4 @@ The internship program is structured to make it likely that visiting teachers wi
 4. CTL teachers review applications and select the intern teams together in early August. Our criteria include adherence to the guidelines established in this letter; completeness of the application; and compatibility of a teacher’s vision and sense of purpose with those of CTL.
 5. Priority application deadline is August 1. However, applications are reviewed on a rolling basis and will be considered if space is available. 
 
-CTL is located approximately an hour north of Portland, Maine. Teachers who live at a distance and cannot commute daily can arrange to be accommodated locally at Cod Cove Inn or The Sheepscot Harbour Village Resort, or check out the listings on Airbnb.  Interns should anticipate that they will require a car during their stay in Edgecomb. CTL can assist you with lodging or car rental arrangements.
+CTL is located approximately an hour north of Portland, Maine. Teachers who live at a distance and cannot commute daily can arrange to be accommodated locally at [Cod Cove Inn](https://www.codcoveinn.com) or [Sheepscot Harbour Village Resort](https://www.midcoastshvr.com), or other local listings.  Interns should anticipate that they will require a car during their stay in Edgecomb. CTL can assist you with lodging or car rental arrangements.
