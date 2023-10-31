@@ -7,8 +7,8 @@ categories:
   - mystery
 authors:
   - holly-jackson
-creator: "null"
-date: 2023-10-31T15:12:34.830Z
+creator: Lily
+date: 2023-10-31T15:12:54.333Z
 images: []
 ---
 “*I’m not sure I’m the good girl I once thought I was. I’ve lost her along the way.*”
