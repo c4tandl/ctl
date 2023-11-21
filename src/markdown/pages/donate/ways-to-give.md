@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2023-11-21T17:54:01.102Z
+date: 2023-11-21T17:54:45.250Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -45,6 +45,8 @@ You may also donate to CTL through your [online CLYNK account](https://www.clynk
 
 **Box Tops for Education**
 
-For over 25 years, Box Tops for Education has given families an easy way to earn cash for schools. Box Tops is now a digital program. Download the [Box Tops app](https://www.boxtops4education.com/s/get-the-app) to scan your receipt (either paper or digital) and earn for CTL with every Box Tops product you buy. 
+For over 25 years, Box Tops for Education has given families an easy way to earn cash for schools. Box Tops is now a digital program. Download the [Box Tops app](https://www.boxtops4education.com/s/get-the-app) to scan your receipt (either paper or digital) and earn for CTL with every Box Tops product you buy.
+
+ 
 
 *Please contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org with any questions or to learn more about ways to give to CTL.*
