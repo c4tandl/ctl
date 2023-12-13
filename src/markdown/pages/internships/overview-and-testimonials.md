@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-12-13T05:08:08.015Z
+date: 2023-12-13T05:14:44.580Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -39,4 +39,41 @@ The intern program is an opportunity for us to demonstrate research-based method
 
 The intern program serves classroom teachers of grades K-8 interested in learning more about teaching writing and reading at any grade level, with rich opportunities to observe and confer with CTL teachers about literacy instruction. Participants learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation. Visiting teachers can anticipate interning alongside other teachers from the same grade levels from schools throughout the U.S. and beyond our borders.
 
-The internship program is structured to make it likely that visiting teachers will be able to act on what they have learned here and make substantive changes back home.
+The internship program is structured to make it likely that visiting teachers will be able to act on what they have learned here and make substantive changes back home. 
+
+**The Intern Program: Who Benefits and How**
+
+*CTL Teachers…*
+
+* Examine their own teaching practice
+* Broaden their impact as an educator
+* Are able to elevate their practice by presenting to others
+* Deepen their commitment to the rationale for their teaching methods
+* Bond as faculty while they collaborate to teach others
+* Stay up-to-date on current professional development and research
+* Form mentoring and collaborative relationships with teachers both during and after their time in Edgecomb
+
+*CTL Students…*
+
+* See grown-ups as lifelong learners
+* Take pride in themselves as students
+* Gain perspective on their own education
+* Feel proud of CTL and their own role as a teacher and learner here
+* Meet visitors from around the country–and world
+
+*Visiting Teacher-Interns…*
+
+* Learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation 
+* Have rich opportunities to observe and confer
+* Are mentored all week long by CTL teachers and have an opportunity to ask every question
+* See how CTL teachers collaborate as colleagues
+* Return with resources to put to use in their classrooms: forms, evaluations, minilessons, syllabi
+* Experience a week-long period of reflection and immersion (vs. a seminar or conference session)
+* Connect with other teachers in their cohort
+* Prepare to to act on what they have learned and make substantive changes in their own classrooms
+
+*The Students of Visiting Teacher-Interns…*
+
+* Experience the benefits of CTL’s strong systems in their own classrooms
+* Are able to experience choice, rigor, and authentic learning as writers and readers
+* See their teacher as a life-long learner
