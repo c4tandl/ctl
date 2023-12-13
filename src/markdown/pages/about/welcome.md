@@ -1,6 +1,6 @@
 ---
 path: welcome
-date: 2021-09-19T12:35:38.975Z
+date: 2023-12-13T05:26:25.590Z
 title: Welcome
 sort: 3
 nav: about
@@ -16,8 +16,6 @@ CTL’s academic program is both **rigorous** and **flexible**. Teachers hold **
 CTL focuses curriculum on **authentic** **and** **practical work**. Writers write during their writing class, and readers read when that time in the day arrives. Because science and history often have meaningful **hands-on explorations** that deepen kids’ ability to authentically participate in those topics, kids collect data, research, examine artifacts, and interact with the world around them through **field experiences**. 
 
 I hope that you will contact CTL to learn more about joining a community where your child will thrive. 
-
-
 
 Katy Inman
 
