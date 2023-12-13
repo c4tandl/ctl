@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-12-13T05:15:35.057Z
+date: 2023-12-13T05:19:44.153Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -65,7 +65,7 @@ The internship program is structured to make it likely that visiting teachers wi
 * Feel proud of CTL and their own role as a teacher and learner here
 * Meet visitors from around the country–and world
 
-*Visiting Teacher-Interns…*
+*[Visiting Teacher-Interns…](https://drive.google.com/file/d/1rd-wnp5fMwFqsYT6xisd-XV6FeYXnH0f/view?usp=sharing)*
 
 * Learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation 
 * Have rich opportunities to observe and confer
