@@ -80,6 +80,7 @@ const Form = styled.div`
           height: 2rem;
           padding: 0 1rem;
           margin: 0 auto;
+          margin-bottom: 8px;
           border-radius: 3px;
           border: 1px solid #234;
           background-color: #def;
@@ -171,45 +172,78 @@ export default function Template({
             >
               <input type="hidden" name="form-name" value="contact" />
               <p class="double">
-                <label>
+                <label for="first-name">
                   First Name{" "}
-                  <input type="text" name="first-name" title="First Name" />
+                  <input
+                    id="first-name"
+                    type="text"
+                    name="first-name"
+                    title="First Name"
+                  />
                 </label>
-                <label>
+                <label for="last-name">
                   Last Name{" "}
-                  <input type="text" name="last-name" title="Last Name" />
+                  <input
+                    id="last-name"
+                    type="text"
+                    name="last-name"
+                    title="Last Name"
+                  />
+                </label>
+              </p>
+              <p class="double">
+                <label for="email">
+                  <span title="Email required">Email</span>
+                  <span class="required"> *</span>
+                  <input
+                    id="email"
+                    type="email"
+                    name="email"
+                    required
+                    title="Email"
+                  />
+                </label>
+                <label for="phone">
+                  <span title="Phone number">Phone Number</span>
+                  <input
+                    id="phone"
+                    type="tel"
+                    name="phone"
+                    required
+                    title="Phone number"
+                  />
                 </label>
               </p>
               <p>
-                <label>
-                  <span title="Email required">Email </span>
-                  <span class="required">*</span>
-                  <input type="email" name="email" required title="Email" />
-                </label>
-              </p>
-              <p>
-                <label>
+                <label for="address">
                   Mailing Address{" "}
-                  <input type="text" name="address" title="Mailing address" />
+                  <input
+                    id="address"
+                    type="text"
+                    name="address"
+                    title="Mailing address"
+                  />
                 </label>
               </p>
               <p class="triple">
-                <label>
+                <label for="city">
                   City
-                  <input type="text" name="city" title="City" />
+                  <input id="city" type="text" name="city" title="City" />
                 </label>
-                <label>
+                <label for="state">
                   State
                   <input
+                    id="state"
                     type="text"
                     pattern="[A-Z]{2}"
                     name="state"
                     title="Two letter state code"
                   />
                 </label>
-                <label>
+                <label for="zip">
                   Zip{" "}
                   <input
+                    id="zip"
                     type="text"
                     pattern="[0-9]{5}"
                     title="Five digit zip code"
@@ -217,8 +251,9 @@ export default function Template({
                 </label>
               </p>
               <p>
-                <label>
-                  Message <textarea name="message" title="Message" />
+                <label for="message">
+                  Message{" "}
+                  <textarea id="message" name="message" title="Message" />
                 </label>
               </p>
               <p class="submit">
