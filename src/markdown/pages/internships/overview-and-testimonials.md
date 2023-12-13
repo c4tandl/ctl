@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-12-13T04:55:53.159Z
+date: 2023-12-13T05:08:08.015Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -25,6 +25,7 @@ You may scan and email to internship@c-t-l.org or mail to Center for Teaching an
 * The cost to each interning teacher is $950, payable in full no later than six weeks in advance of the first day of the internship.
 * CTL teachers review applications and select the intern teams together in early August. Our main criteria is compatibility of a teacher’s vision and sense of purpose with those of CTL.
 * Priority application deadline is August 1. However, applications are reviewed on a rolling basis and will be considered if space is available. 
+* CTL is located approximately an hour north of Portland, Maine. We recommend local accommodations [Cod Cove Inn](https://www.codcoveinn.com) or [Sheepscot Harbour Village Resort](https://www.midcoastshvr.com).  Interns should anticipate that they will require a car during their stay in Edgecomb. CTL can assist you with lodging or car rental arrangements.
 
 CTL is a demonstration school for teachers from around the world. The faculty has drawn on theory and research, including our own, to show how K-8 schools might be restructured. The curriculum stresses real and original work: writing, research, computation and problem-solving, experiments, building, observation, data collection and analysis, the reading of exceptional children’s literature across the disciplines, and artistic, musical, and dramatic performance.
 
@@ -38,6 +39,4 @@ The intern program is an opportunity for us to demonstrate research-based method
 
 The intern program serves classroom teachers of grades K-8 interested in learning more about teaching writing and reading at any grade level, with rich opportunities to observe and confer with CTL teachers about literacy instruction. Participants learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation. Visiting teachers can anticipate interning alongside other teachers from the same grade levels from schools throughout the U.S. and beyond our borders.
 
-The internship program is structured to make it likely that visiting teachers will be able to act on what they have learned here and make substantive changes back home. 
-
-CTL is located approximately an hour north of Portland, Maine. Teachers who live at a distance and cannot commute daily can arrange to be accommodated locally. We recommend [Cod Cove Inn](https://www.codcoveinn.com) or [Sheepscot Harbour Village Resort](https://www.midcoastshvr.com).  Interns should anticipate that they will require a car during their stay in Edgecomb. CTL can assist you with lodging or car rental arrangements.
+The internship program is structured to make it likely that visiting teachers will be able to act on what they have learned here and make substantive changes back home.
