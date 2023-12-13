@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-12-13T05:19:44.153Z
+date: 2023-12-13T05:25:14.496Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -33,11 +33,11 @@ Instruction in writing, reading, and math is organized as a workshop, which comb
 
 The intern program is an opportunity for us to demonstrate research-based methods in an environment we designed to match our intentions, beliefs, knowledge, and experience. We believe key elements of the CTL program provide a realistic alternative for teachers seeking more effective models for teaching and being with children and collaborating with colleagues. 
 
-CTL has hosted interns from 40 states...
+*CTL has hosted interns from 40 states...*
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1702441336/CTL_Interns_-_US_iziyby.jpg)
 
-and 10 countries!
+*and 10 countries!*
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1702441336/CTL_Interns_-_International_l6reat.jpg)
 
