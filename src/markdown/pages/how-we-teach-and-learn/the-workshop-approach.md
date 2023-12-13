@@ -1,7 +1,7 @@
 ---
 path: the-workshop-approach
-date: 2023-09-13T13:27:00.195Z
-title: The Workshop Approach
+date: 2023-12-13T05:33:08.396Z
+title: The History & Development of Workshop Teaching
 sort: 2
 nav: how-we-teach-and-learn
 ---
