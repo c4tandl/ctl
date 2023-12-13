@@ -1,6 +1,6 @@
 ---
 path: about
-date: 2023-03-30T16:46:58.926Z
+date: 2023-12-13T05:23:32.480Z
 title: At a Glance
 sort: 1
 nav: about
@@ -17,18 +17,13 @@ carousel:
 ---
 ## The Basics
 
-* small class sizes (16-18 students, with just 8-9 in kindergarten)
+* small class sizes (16-18 students)
 * an outstanding faculty of dedicated professionals whose every decision is based on knowledge of and love for their students
 * a bright, inviting, art-filled environment
 * a community where every child is known, accepted, and respected—where the social rule “You can’t say you can’t play” prevents bullying and exclusion
-* a full-day kindergarten program focused on helping children feel secure and competent as they learn the essentials of writing, reading, and math and bond with a teacher and classmates
 * smooth transitions between grades and teachers, thanks to a faculty that’s on the same page about methods for teaching and being with children
 * never a raised voice or standardized test
 * a student population that represents the full range of socioeconomic and racial diversity found in Midcoast Maine
 * affordable tuition that’s one-third the rate of comparable Maine independent schools, with generous tuition assistance
-
-![]()
-
-![]()
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1671208088/ctl.display.graphics.3_wb9epz.png)
