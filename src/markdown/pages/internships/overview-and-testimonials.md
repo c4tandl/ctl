@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-12-13T05:14:44.580Z
+date: 2023-12-13T05:15:35.057Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -33,9 +33,13 @@ Instruction in writing, reading, and math is organized as a workshop, which comb
 
 The intern program is an opportunity for us to demonstrate research-based methods in an environment we designed to match our intentions, beliefs, knowledge, and experience. We believe key elements of the CTL program provide a realistic alternative for teachers seeking more effective models for teaching and being with children and collaborating with colleagues. 
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1702441336/CTL_Interns_-_US_iziyby.jpg "CTL has hosted interns from 40 states...")
+CTL has hosted interns from 40 states...
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1702441336/CTL_Interns_-_International_l6reat.jpg "and 10 countries!")
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1702441336/CTL_Interns_-_US_iziyby.jpg)
+
+and 10 countries!
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1702441336/CTL_Interns_-_International_l6reat.jpg)
 
 The intern program serves classroom teachers of grades K-8 interested in learning more about teaching writing and reading at any grade level, with rich opportunities to observe and confer with CTL teachers about literacy instruction. Participants learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation. Visiting teachers can anticipate interning alongside other teachers from the same grade levels from schools throughout the U.S. and beyond our borders.
 
