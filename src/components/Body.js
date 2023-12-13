@@ -33,13 +33,6 @@ const BodyDiv = styled.div`
     font-family: "Bookmania-Semibold", "Times New Roman", Times, serif;
     font-size: 1.7rem !important;
   }
-  li {
-    font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial,
-      sans-serif;
-    /* Make the font narrower */
-    transform: scaleX(0.87);
-    -webkit-transform-origin-x: 0;
-  }
   p {
     margin: 10px 0;
   }
