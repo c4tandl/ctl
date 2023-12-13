@@ -1,7 +1,7 @@
 ---
 path: justice-equity-diversity-and-inclusion
-date: 2023-03-30T16:52:53.131Z
-title: Justice, Equity, Diversity and Inclusion at CTL
+date: 2023-12-13T05:28:13.834Z
+title: Equity, Justice and Belonging at CTL
 sort: 7
 nav: about
 ---
