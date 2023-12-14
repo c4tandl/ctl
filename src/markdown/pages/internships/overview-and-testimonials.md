@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-12-13T05:25:14.496Z
+date: 2023-12-14T20:33:47.773Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -74,7 +74,7 @@ The internship program is structured to make it likely that visiting teachers wi
 * Return with resources to put to use in their classrooms: forms, evaluations, minilessons, syllabi
 * Experience a week-long period of reflection and immersion (vs. a seminar or conference session)
 * Connect with other teachers in their cohort
-* Prepare to to act on what they have learned and make substantive changes in their own classrooms
+* Prepare to act on what they have learned and make substantive changes in their own classrooms
 
 *The Students of Visiting Teacher-Interns…*
 
