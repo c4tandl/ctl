@@ -1,5 +1,5 @@
 ---
-date: 2022-11-15T21:54:03.323Z
+date: 2024-03-06T17:08:07.080Z
 title: Home
 homepage: true
 carousel:
@@ -17,11 +17,10 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867857/Home%20page%20photos/school.1080.21_swm1fz.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.9_jqpbzd.jpg
 ---
-
 # Our Mission
 
 </br>
 
-The Center for Teaching and Learning is a K-8 demonstration school dedicated to the development and dissemination of authentic, joyful methods for teaching across the curriculum.
+The Center for Teaching and Learning is a Pre-K**–**8 demonstration school dedicated to the development and dissemination of authentic, joyful methods for teaching across the curriculum.
 
 We seek to teach and influence both a cross-section of children of mid-coastal Maine and, through our intern program, speeches, and publications, classroom teachers throughout the U.S.
