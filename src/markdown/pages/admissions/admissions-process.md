@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2023-09-25T13:24:08.828Z
+date: 2024-03-06T15:47:42.415Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -30,7 +30,7 @@ Families will be notified of admissions decisions on or before March 10.
 
 If you are ready to move forward with an application and join CTL’s waitlist, please apply using the [TADS enrollment system](https://mytads.com/a/ctl). Contact the office with any questions.
 
-**Tuition — $12,100 in 2023-24, grades K-8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance based on income for the previous year. Payment plans are available, with single pay, two payment, and ten payment options.
+**Tuition — $12,400 in 2024-25, grades Pre-K–8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance based on income for the previous year. Payment plans are available, with single pay, two payment, and ten payment options.
 
 **Kindergarten** — Each year we accept up to nine children in our kindergarten class. Parents can attend an Open House or schedule a tour to learn more about the school. Once a decision is made to apply, kindergarten applicants will come for a visit from 8:30-12:45, joining the current kindergarten class. Caroline Bond, CTL’s kindergarten teacher, will observe and informally assess the applicant’s readiness.
 
