@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2023-12-14T20:33:47.773Z
+date: 2024-03-06T15:56:35.300Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -15,9 +15,9 @@ carousel:
 ---
 # Internships
 
-Interested educators: We are still accepting applications for our spring 2024 intern weeks: March 25-28, 2024 (Grades 5-8) and April 1-4, 2024 (K-8). Apply today using the attached [internship application](https://drive.google.com/file/d/1wiQrAefOVCH-stHoLLnEkyBSqzpIBnJO/view?usp=sharing). 
+Interested educators: We are still accepting applications for our spring 2024 intern weeks: March 25-28, 2024 (Grades 5-8) and April 1-4, 2024 (K-8). Apply today using CTL's [internship application](https://docs.google.com/forms/d/e/1FAIpQLSeDW2f7uBl4e11q92sc2CbwIpuAfnD_OH2mcT9POIHWzJ5rgQ/viewform?usp=sf_link). 
 
-You may scan and email to internship@c-t-l.org or mail to Center for Teaching and Learning, 119 Cross Point Road, Edgecomb, ME 04556 USA. Please contact internship@c-t-l.org or (207) 882-9706 with any questions. 
+Please contact internship@c-t-l.org with any questions or to request a PDF of the application. 
 
 **CTL's Internship Program**
 
