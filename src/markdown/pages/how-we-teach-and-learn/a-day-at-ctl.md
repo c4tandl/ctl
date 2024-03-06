@@ -1,6 +1,6 @@
 ---
 path: a-day-at-ctl
-date: 2023-12-13T05:40:35.375Z
+date: 2024-03-06T17:09:33.553Z
 title: A Day at CTL/Morning Meeting
 sort: 3
 nav: how-we-teach-and-learn
@@ -15,7 +15,7 @@ carousel:
 ---
 # Visit a Morning Meeting
 
-Every morning from 8:30-8:50, CTL students and teachers of grades K-8 gather together to start our day together. It’s a joyous occasion that exemplifies the tone of the school, its feeling of community, and the respect granted to every child.
+Every morning from 8:30-8:50, CTL students and teachers of grades Pre-K**–**8 gather together to start our day together. It’s a joyous occasion that exemplifies the tone of the school, its feeling of community, and the respect granted to every child.
 
 You and your child are cordially invited to visit a morning meeting and join us as we celebrate birthdays, discuss current events, review policies and procedures, sing, recite a poem,and begin the day with laughter.
 
