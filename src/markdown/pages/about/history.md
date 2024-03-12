@@ -1,11 +1,11 @@
 ---
 path: history
-date: 2024-03-06T17:08:54.468Z
+date: 2024-03-12T18:07:52.802Z
 title: History of CTL
 sort: 2
 nav: about
 ---
-The Center for Teaching and Learning, a Pre-K**–**8 independent school, was founded by Nancie Atwell in 1990. CTL is accredited by the New England Association of Schools and Colleges, licensed by the Maine Department of Education, and has state and federal tax-exempt status as a non-profit, 501(c)(3) corporation. It draws students from more than twenty communities in Maine’s midcoast region.
+The Center for Teaching and Learning, a Pre-K--8 independent school, was founded by Nancie Atwell in 1990. CTL is accredited by the New England Association of Schools and Colleges, licensed by the Maine Department of Education, and has state and federal tax-exempt status as a non-profit, 501(c)(3) corporation. It draws students from more than twenty communities in Maine’s midcoast region.
 
 CTL is a demonstration school: the faculty conducts research and draws on credible studies; develops practices that reflect our knowledge and theories; and helps other educators understand what is possible for their classrooms and schools. 
 
