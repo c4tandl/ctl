@@ -1,6 +1,6 @@
 ---
 path: enrichment
-date: 2024-03-14T04:33:52.618Z
+date: 2024-03-14T04:45:28.918Z
 title: Enrichment
 sort: 5
 nav: how-we-teach-and-learn
@@ -45,4 +45,9 @@ carousel:
 * a commitment to community service
 * kid-friendly traditions and rituals that create a love of school and a sense of belonging
 * daily recess, a well-equipped playground, and woods with a nature trail
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382774/unnamed-492_aoh9jr.jpg)
+
 * outdoor classroom
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382114/unnamed-190_w32dza.jpg)
