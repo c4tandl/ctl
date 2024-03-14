@@ -1,21 +1,23 @@
 ---
 path: a-day-at-ctl
-date: 2024-03-14T03:08:26.056Z
+date: 2024-03-14T03:58:08.760Z
 title: A Day at CTL/Morning Meeting
 sort: 3
 nav: how-we-teach-and-learn
 carousel:
   images:
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750442/unnamed-27_mzkihi.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750443/unnamed-129_q3phlw.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750441/unnamed-50_wmyvre.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750440/unnamed-25_yci7vn.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750440/unnamed-5_g7npgq.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665750442/unnamed-107_pr79tb.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388214/unnamed-217_e6hd3l.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388253/unnamed-222_scykh2.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388293/unnamed-191_yimbqo.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388333/unnamed-86_ivkrd5.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388372/image-3_poi9ku.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388415/IMG_5713_fpc2cv.jpg
 ---
 # Visit a Morning Meeting
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710385519/school.1080.37_rq7fgb_weebln.jpg)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.27_epcg68.jpg)
 
 Every morning from 8:30-8:50, CTL students and teachers of grades Pre-K--8 gather together to start our day together. It’s a joyous occasion that exemplifies the tone of the school, its feeling of community, and the respect granted to every child.
 
