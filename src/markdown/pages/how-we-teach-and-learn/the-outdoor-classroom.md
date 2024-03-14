@@ -1,6 +1,6 @@
 ---
 path: the-outdoor-classroom
-date: 2023-12-13T05:41:22.471Z
+date: 2024-03-14T04:53:48.602Z
 title: The Outdoor Classroom
 sort: 4
 nav: how-we-teach-and-learn
@@ -17,6 +17,8 @@ The learning that happens at the Outdoor Classroom follows CTL’s workshop appr
 Over the past three years, Annie Nixon has developed and implemented a hands-on field science curriculum for grades K-2, who each spend a day each and every week on Forest Field Science, in rain, shine, snow, or any other iteration of Maine weather. Students deeply value their experience in the Outdoor Classroom and, in self-reflections, frequently cite it as a crucial part of their learning for the year.
 
 Students in grade 3-8 access the Outdoor Classroom as appropriate to their curricular projects, traveling down the hill to do research on Maine mammals, weather, and water, and sometimes even to write nature-inspired poetry.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382114/unnamed-190_w32dza.jpg)
 
 ## The Development of the Outdoor Classroom
 
