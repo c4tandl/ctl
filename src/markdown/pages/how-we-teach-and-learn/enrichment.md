@@ -1,6 +1,6 @@
 ---
 path: enrichment
-date: 2024-03-14T04:45:28.918Z
+date: 2024-03-14T04:47:50.400Z
 title: Enrichment
 sort: 5
 nav: how-we-teach-and-learn
@@ -49,5 +49,3 @@ carousel:
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382774/unnamed-492_aoh9jr.jpg)
 
 * outdoor classroom
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382114/unnamed-190_w32dza.jpg)
