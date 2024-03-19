@@ -1,6 +1,6 @@
 ---
 path: enrichment
-date: 2024-03-16T02:31:47.792Z
+date: 2024-03-19T16:41:18.265Z
 title: Enrichment
 sort: 5
 nav: how-we-teach-and-learn
@@ -32,9 +32,9 @@ carousel:
 * twice-weekly physical education on the field and in the gym
 * a school literary magazine
 
-<p align="center">
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710389852/image-4_g5uurw.jpg)
-</p>
+
+!\[](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710389852/image-4_g5uurw.jpg)
+
 
 * daily, whole-school morning meetings that create a community as children and teachers chat about current events and natural phenomena, celebrate birthdays, sing, read poems, and laugh together
 
