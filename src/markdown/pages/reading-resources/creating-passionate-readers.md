@@ -1,6 +1,6 @@
 ---
 path: creating-passionate-readers
-date: 2024-03-14T04:01:57.572Z
+date: 2024-03-19T17:01:27.698Z
 title: Creating Passionate Readers - A Piece by Nancie Atwell
 sort: 1
 nav: reading-resources
@@ -8,10 +8,11 @@ carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388253/unnamed-222_scykh2.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710387696/IMG_5557_gfawrz.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1636667655/200114_untitledshoot_DSC_3799_fihvaf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867479/unnamed-511_ndby5d.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088626/200114_untitledshoot_DSC_3566_ykf1la.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088623/200114_untitledshoot_DSC_3868_vbltj7.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088620/200114_untitledshoot_DSC_3838_sbrwp1.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867407/unnamed-557_glkwfj.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867582/unnamed-509_de4egq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867637/unnamed-510_ydmo6y.jpg
 ---
 
 The annual average number of books read by seventh and eighth grade readers at CTL is at least forty titles. In the lower grades, the numbers are similarly high. My K-6 colleagues and I make time every day for our students to curl up with good books and engage in the single activity that consistently correlates with high levels of performance on standardized tests of reading ability. That is _frequent, voluminous, self-selected reading_. A child sitting in a quiet room with a good book isn’t a flashy or marketable teaching method. It just happens to be the only way anyone ever became a reader.
