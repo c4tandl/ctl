@@ -1,6 +1,6 @@
 ---
 path: creating-passionate-readers
-date: 2024-03-19T17:08:33.465Z
+date: 2024-03-19T17:11:20.292Z
 title: Creating Passionate Readers - A Piece by Nancie Atwell
 sort: 1
 nav: reading-resources
@@ -17,6 +17,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868037/unnamed-495_hin6lx.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867930/unnamed-493_pxlyzi.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867817/unnamed-496_qfxt0c.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868255/unnamed-442_hgmmyc.jpg
 ---
 
 The annual average number of books read by seventh and eighth grade readers at CTL is at least forty titles. In the lower grades, the numbers are similarly high. My K-6 colleagues and I make time every day for our students to curl up with good books and engage in the single activity that consistently correlates with high levels of performance on standardized tests of reading ability. That is _frequent, voluminous, self-selected reading_. A child sitting in a quiet room with a good book isn’t a flashy or marketable teaching method. It just happens to be the only way anyone ever became a reader.
