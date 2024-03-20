@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2024-03-06T15:56:35.300Z
+date: 2024-03-20T15:24:13.081Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -15,7 +15,7 @@ carousel:
 ---
 # Internships
 
-Interested educators: We are still accepting applications for our spring 2024 intern weeks: March 25-28, 2024 (Grades 5-8) and April 1-4, 2024 (K-8). Apply today using CTL's [internship application](https://docs.google.com/forms/d/e/1FAIpQLSeDW2f7uBl4e11q92sc2CbwIpuAfnD_OH2mcT9POIHWzJ5rgQ/viewform?usp=sf_link). 
+Interested educators: We are still accepting applications for our spring 2024 intern weeks: March 25-28, 2024 (Grades 5-8). Apply today using CTL's [internship application](https://docs.google.com/forms/d/e/1FAIpQLSeDW2f7uBl4e11q92sc2CbwIpuAfnD_OH2mcT9POIHWzJ5rgQ/viewform?usp=sf_link). 
 
 Please contact internship@c-t-l.org with any questions or to request a PDF of the application. 
 
