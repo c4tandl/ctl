@@ -1,6 +1,6 @@
 ---
 path: overview-and-testimonials
-date: 2024-03-20T15:24:13.081Z
+date: 2024-03-20T15:30:01.235Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -9,9 +9,6 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.36_l9ricn.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.33_ozbuim.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.31_nzfsxk.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867862/Home%20page%20photos/school.1080.42_x05usr.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867859/Home%20page%20photos/art.1080.4_o4cgju.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/art.1080.6_tdg3ju.jpg
 ---
 # Internships
 
