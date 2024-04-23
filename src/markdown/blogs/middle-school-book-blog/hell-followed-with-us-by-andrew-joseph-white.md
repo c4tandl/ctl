@@ -7,10 +7,9 @@ categories:
   - fantasy-horror
 authors:
   - Andrew-Joseph-White
-creator: Ori
-date: 2023-10-31T17:40:46.531Z
+creator: Stacey
+date: 2024-04-23T15:17:12.688Z
 ---
-
 In the near future, a genocidal, ultra-religious cult has wiped out most of Earth’s population. This cult, called the Angels, has raised Benji, a transgender boy who’s been injected with a virus called Seraph. Seraph is slowly overtaking Benji’s body and turning him into a monster. He escapes from the cult and runs into Nick, the leader of the Acheson LGBTQ+ Center, or the ALC. The ALC is barely surviving and wants to take down the cult, but they need Benji’s help. Will the ALC and Benji survive? Will Benji and Nick put aside their past and learn to work together? Or will it all go to hell?
 
 Hell Followed With Us is not a happy, feel-good story. It’s death, destruction, and trying to get through life. Andrew Joseph White crafts a brutally beautiful tale of the queer struggle and the rage that can accompany this struggle. His crafting of the narrative makes it an easy 9.5 out of 10.
@@ -25,6 +24,6 @@ This book is a brutal, dark, and terrifying rebellion that will linger deep insi
 
 And maybe, just maybe, it’ll all work out in the end.
 
-O﻿ri Taylor
+O﻿ri 
 
 P﻿eachtree Teen, 416 pages
