@@ -8,9 +8,8 @@ categories:
 authors:
   - Trevor-Noah
 creator: Carter
-date: 2023-10-31T15:48:01.037Z
+date: 2024-04-23T15:16:29.437Z
 ---
-
 Trevor Noah was born in 1984. Noah grew up under South African apartheid for ten years. Noah is biracial: his mother is Black and his father is white. Back then, a white man and a Black woman were not allowed to have any type of relationship, but his parents were together anyways. According to apartheid laws, Noah was not even allowed to have been born—he was born a crime.
 
 Noah was raised by his mom, and he had a challenging time growing up. He and his mother had no money. Noah lived in a shack with his mom, grandmother, aunt, uncle, and his two cousins. Eventually, Noah’s abusive stepfather moves in, and the situation goes from bad to much, much worse.
@@ -21,6 +20,6 @@ Born a Crime by Trevor Noah is a memoir. Noah tells a moving story about growing
 
 Extremely funny, this memoir is a good starting point for readers new to the genre.
 
-Carter Wilson
+Carter 
 
 One World, 304 pages
