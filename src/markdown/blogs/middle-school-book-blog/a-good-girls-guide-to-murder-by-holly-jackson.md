@@ -5,7 +5,7 @@ blog: middle-school-book-blog
 authors:
   - holly-jackson
 creator: Lily
-date: 2024-04-23T15:18:22.725Z
+date: 2024-04-23T15:21:39.052Z
 title: A Good Girl's Guide to Murder, by Holly Jackson
 categories:
   - mystery
@@ -16,8 +16,6 @@ images: []
 “*I’m not sure I’m the good girl I once thought I was. I’ve lost her along the way.*”
 
 Sixteen-year-old Pippa cannot forget the murder case of Andie Bell. Five years ago, Andie Bell was murdered by her high school boyfriend, Sal Singh, who killed himself days later. Everyone in the town of Fairview has moved on, even the police—everyone except for Pip. Pip has not forgotten about the murder, and she has a nagging feeling that Sal was never the killer that everyone made him out to be. She thinks Sal is innocent. As she dives deeper into the town's secrets, she finds information that may end up hurting everyone she loves. 
-
-'</br>'
 
 Throughout the book the reader can feel connected to the main character, Pip, and all the emotions that this case causes her. Even though this case rips her apart and makes her lose things, she still has a hunger to show everyone that Sal Singh is guilty. This is effective because the reader is left wondering what Pip is going to do next. This adds a level of suspense. 
 
