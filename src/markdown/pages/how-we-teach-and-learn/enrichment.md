@@ -1,6 +1,6 @@
 ---
 path: enrichment
-date: 2024-03-19T16:41:18.265Z
+date: 2024-07-02T20:04:34.523Z
 title: Enrichment
 sort: 5
 nav: how-we-teach-and-learn
@@ -31,11 +31,6 @@ carousel:
 * weekly music classes in grades K-4 taught by musician Kaity Newell; drama in grades 5-8 directed by Angela Lathem-Ballard; and student-led performances and productions
 * twice-weekly physical education on the field and in the gym
 * a school literary magazine
-
-
-!\[](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710389852/image-4_g5uurw.jpg)
-
-
 * daily, whole-school morning meetings that create a community as children and teachers chat about current events and natural phenomena, celebrate birthdays, sing, read poems, and laugh together
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867859/Home%20page%20photos/school.1080.30_gm6xer.jpg)
