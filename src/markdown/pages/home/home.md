@@ -1,5 +1,5 @@
 ---
-date: 2024-03-14T03:35:58.786Z
+date: 2024-08-12T17:14:57.921Z
 title: Home
 homepage: true
 carousel:
@@ -18,3 +18,9 @@ carousel:
 The Center for Teaching and Learning is a Pre-K--8 demonstration school dedicated to the development and dissemination of authentic, joyful methods for teaching across the curriculum.
 
 We seek to teach and influence both a cross-section of children of mid-coastal Maine and, through our intern program, speeches, and publications, classroom teachers throughout the U.S.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1697121146/neasc-logo-accredited-web_ubzywe.png)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1723482481/Literacy_Awards_Badges_2017Honoree_vkmnfu.jpg)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1723482889/BOM23_WInner_spyiho.png)
