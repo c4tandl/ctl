@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2023-09-13T19:04:30.880Z
+date: 2024-08-19T16:24:28.660Z
 title: Faculty
 sort: 4
 nav: about
@@ -29,17 +29,11 @@ nav: about
 
 **Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 14 years of experience in the classroom. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. At CTL, she works as a part-time administrator in addition to her classroom roles. 
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669912457/faculty%20and%20staff%20photos/Katie_2021_lujhqc.jpg)
 
-**Katie Rittershaus** has been CTL’s teacher of middle-school (grades 5-8) mathematics since 2004; before that she was a familiar presence at the school as a long-term substitute, helping teacher, and advocate for children. A passionate mathematician, Katie also holds a B.A. from the University of Southern Maine in women’s studies and took several years of pre-med courses at Regis College and Colorado State University. Her students are stand-outs at Mathcounts competitions and in their high school mathematics courses.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
 
 **Kaity Newell** is CTL’s music teacher for grades K-4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently.
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/annie.faculty_kzyxka.jpg)
-
-**Annie Nixon** is the physical education teacher for grades K-4, leads our Forest Field Science outdoor education program for K-2, and shares her music in Morning Meeting each day.  Her B.S. degree from Penn State University is in Recreation Park Management with a minor in art. She has led sailing, canoeing, hiking and cross-country skiing experiences for children and adults. Annie currently holds a USCG 100 ton Masters Captain’s License. Annie is a certified Waldorf Teacher and has been a class teacher at Ashwood Waldorf, Chewonki and a music teacher at the Juniper Hill School. She has a wide range of experience working with students in every grade from pre-K to eighth. Annie sees physical education experiences as an important aspect in overall health and is committed to fostering student’s growing understanding of what lifelong physical health means. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669912457/faculty%20and%20staff%20photos/Haley_2021_ipw4lr.jpg)
 
