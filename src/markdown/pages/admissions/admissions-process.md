@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2024-09-19T16:42:47.383Z
+date: 2024-10-09T18:06:54.946Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -32,4 +32,4 @@ If you are ready to move forward with an application and join CTL’s waitlist, 
 
 **Tuition — $12,400 in 2024-25, grades Pre-K--8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance based on income for the previous year. Payment plans are available, with single pay, two payment, and ten payment options.
 
-This year, CTL will hold open houses in October and April. CTL's spring Open House will be on Sunday, April 28, from 3:30-5:00. Please inquire before attending to prioritize admissions. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
+This year, CTL will hold open houses in October and April. CTL's fall Open House will be on Sunday, October 27, from 3:30-5:00. Please inquire before attending to prioritize admissions. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
