@@ -1,12 +1,12 @@
 ---
 path: strategy
-date: 2023-11-20T21:00:25.943Z
+date: 2024-10-09T15:33:23.580Z
 title: Strategic Plan
 sort: 10
 nav: about
 ---
-[November 2023 Strategic Planning Information and Survey](https://forms.gle/mbQAoxUEA1Mi3FfQA)
 
-[](https://forms.gle/mbQAoxUEA1Mi3FfQA)
 
-[Link to the Strategic Plan](https://docs.google.com/spreadsheets/d/1y6CTf0FEo2b68xe6oDzb1Xyvd7In8H98SzCMgK0zB38/edit#gid=1709744959)[](https://docs.google.com/spreadsheets/d/1y6CTf0FEo2b68xe6oDzb1Xyvd7In8H98SzCMgK0zB38/edit#gid=1709744959)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1728487968/SP_1_gzvaki.png)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1728487968/SP_2_udqa6s.png)
