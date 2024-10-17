@@ -45,7 +45,7 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-netlify-cms",
+      resolve: "gatsby-plugin-decap-cms",
       options: {
         manualInit: true,
         modulePath: `${__dirname}/src/cms/cms.js`,
