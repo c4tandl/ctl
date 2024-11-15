@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2023-11-21T17:54:45.250Z
+date: 2024-11-15T18:49:40.500Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -25,6 +25,11 @@ Donations to the Center for Teaching and Learning can be mailed to 119 Cross Poi
 
 Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=WNBVUWQLJ5G5N&source=url&ssrt=1700588523861) to make a donation online through PayPal. 
 
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="NTKRQX53KUM2S" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 
 **Stock Gifts**
