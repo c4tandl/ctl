@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2023-09-27T18:26:03.726Z
+date: 2024-11-20T18:35:42.994Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -29,11 +29,6 @@ Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been com
 
 **Maureen Barbieri**\
 Maureen was a middle school teacher whose work was dramatically influenced by Nancie Atwell’s first book *In the Middle* and by Nancie’s subsequent articles, books, and presentations. Nancie invited her to CTL in its early days, and many times over the years, so she developed a deep appreciation for the pedagogy, school culture, and commitment to excellence the whole school community embodies. A faculty member at NYU and UNH for many years, she is now at Stenhouse Publishers, editing books by and for teachers. She lives in Kittery, ME and is grateful to be a part of the CTL family.
-
-![]()
-
-**Robert Russell**\
-Rob is parent to Aelia ’20 and Sawyer ’23. He lives in East Boothbay with his wife Elizabeth Kaser. Rob works as a marine biologist for the Maine Department of Marine Resources and chairs the CTL Facilities Committee.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1675443244/faculty%20and%20staff%20photos/katy.papagiannis.2023_dbc0j7.jpg)
 
