@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2024-11-20T18:47:28.165Z
+date: 2024-11-20T20:09:32.275Z
 title: Faculty
 sort: 4
 nav: about
@@ -10,6 +10,8 @@ nav: about
 **Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jenn stepped into a new role as the Grade 1-2 teacher. This year, she is excited to move to teach kindergarten. Jenn has always enjoyed teaching the reading and writing programs in grades K-4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732127808/11250-CTL_240925-1_woaoxk.jpg)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732132917/11252-CTL_240925_rjxk96.jpg)
 
 **Corbin Lichtinger** and his family recently moved to Wiscasset from Portland, Oregon, where taught first grade or a 1-2 class for the past seven years. Corbin has a BA in Political Science and Environmental Studies from Allegheny College and his Master of Arts in Teaching from Lewis and Clark College. His interests include gardening and healthy food in schools. 
 
@@ -40,6 +42,8 @@ nav: about
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/kate.faculty_t2lbyj.jpg)
 
 **Cate Molloy** enjoys being a helping teacher at CTL and working as the Aftercare Program Director. Cate is a graduate of the University of Vermont with a degree in elementary education. She spent many years teaching kindergarten and first grade and most recently working in a library. Her enthusiasm for being a part of the CTL community is based in the lovely way that what she has loved about both worlds combine at CTL. She lives in Hallowell and, when not trying to see every sturgeon that might swim by on the Kennebec, can be found swimming laps, taking walks, hitting up her local library for books, and trying to return them on time.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732132914/10755-CTL_240925_llemax.jpg)
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732128119/10752-CTL_240925-1_dwvgho.jpg)
 
