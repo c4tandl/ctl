@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2024-08-19T16:24:28.660Z
+date: 2024-11-20T18:37:12.569Z
 title: Faculty
 sort: 4
 nav: about
@@ -9,7 +9,7 @@ nav: about
 
 **Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jenn stepped into a new role as the Grade 1-2 teacher. This year, she is excited to move to teach kindergarten. Jenn has always enjoyed teaching the reading and writing programs in grades K-4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
 
-![]()
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732127808/11250-CTL_240925-1_woaoxk.jpg)
 
 **Corbin Lichtinger** and his family recently moved to Wiscasset from Portland, Oregon, where taught first grade or a 1-2 class for the past seven years. Corbin has a BA in Political Science and Environmental Studies from Allegheny College and his Master of Arts in Teaching from Lewis and Clark College. His interests include gardening and healthy food in schools. 
 
@@ -28,8 +28,6 @@ nav: about
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/stacy.faculty_nctjda.jpg)
 
 **Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 14 years of experience in the classroom. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. At CTL, she works as a part-time administrator in addition to her classroom roles. 
-
-
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
 
