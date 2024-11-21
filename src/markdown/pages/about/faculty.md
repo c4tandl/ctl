@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2024-11-21T02:20:28.227Z
+date: 2024-11-21T02:29:10.560Z
 title: Faculty
 sort: 4
 nav: about
@@ -8,8 +8,6 @@ nav: about
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Jenn_3_sdbm31.png)
 
 **Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jenn stepped into a new role as the Grade 1-2 teacher. This year, she is excited to move to teach kindergarten. Jenn has always enjoyed teaching the reading and writing programs in grades K-4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732127808/11250-CTL_240925-1_woaoxk.jpg)
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/c_scale,h_1800/v1732132917/11252-CTL_240925_rjxk96.jpg)
 
