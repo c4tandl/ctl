@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2024-11-20T20:09:32.275Z
+date: 2024-11-21T02:20:28.227Z
 title: Faculty
 sort: 4
 nav: about
@@ -11,7 +11,7 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732127808/11250-CTL_240925-1_woaoxk.jpg)
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732132917/11252-CTL_240925_rjxk96.jpg)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/c_scale,h_1800/v1732132917/11252-CTL_240925_rjxk96.jpg)
 
 **Corbin Lichtinger** and his family recently moved to Wiscasset from Portland, Oregon, where taught first grade or a 1-2 class for the past seven years. Corbin has a BA in Political Science and Environmental Studies from Allegheny College and his Master of Arts in Teaching from Lewis and Clark College. His interests include gardening and healthy food in schools. 
 
