@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2024-11-21T02:29:10.560Z
+date: 2024-11-21T02:32:10.558Z
 title: Faculty
 sort: 4
 nav: about
@@ -42,7 +42,5 @@ nav: about
 **Cate Molloy** enjoys being a helping teacher at CTL and working as the Aftercare Program Director. Cate is a graduate of the University of Vermont with a degree in elementary education. She spent many years teaching kindergarten and first grade and most recently working in a library. Her enthusiasm for being a part of the CTL community is based in the lovely way that what she has loved about both worlds combine at CTL. She lives in Hallowell and, when not trying to see every sturgeon that might swim by on the Kennebec, can be found swimming laps, taking walks, hitting up her local library for books, and trying to return them on time.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732132914/10755-CTL_240925_llemax.jpg)
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732128119/10752-CTL_240925-1_dwvgho.jpg)
 
 Kennedy Hathaway joined CTL as a helping teacher in 2024. She is a graduate of Husson University with a degree in elementary education and a focus in science. During college, Kennedy interned at the Challenger Learning Center where she worked alongside NASA scientists, engineers, astronauts, and teachers. In her free time she likes to spend time with her family, chase her tortoises around, read, write, garden, bake, craft, and explore. This is Kennedy’s first year teaching, and she is excited to jump in and learn!
