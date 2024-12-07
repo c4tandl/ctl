@@ -1,5 +1,5 @@
 ---
-path: overview-and-testimonials
+path: internship-program
 date: 2024-11-19T01:42:58.768Z
 title: Internship Program
 sort: 1

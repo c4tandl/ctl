@@ -42,9 +42,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -84,9 +81,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -126,9 +120,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -168,9 +159,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -210,9 +198,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -252,9 +237,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -294,9 +276,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -332,9 +311,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
