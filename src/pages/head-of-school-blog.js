@@ -1,13 +1,13 @@
 import React from "react";
 import { graphql } from "gatsby";
-import BlogList from "../components/BlogList";
+import BlogListSimple from "../components/BlogListSimple";
 
 const HeadOfSchoolBlog = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  return <BlogList posts={edges} />;
+  return <BlogListSimple posts={edges} allowSearch />;
 };
 
 export const headOfSchoolBlogQuery = graphql`
@@ -19,6 +19,7 @@ export const headOfSchoolBlogQuery = graphql`
       edges {
         node {
           id
+          html
           excerpt(pruneLength: 250)
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
