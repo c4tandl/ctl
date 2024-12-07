@@ -1,24 +1,25 @@
 import React from "react";
 import { graphql } from "gatsby";
-import BlogList from "../components/BlogList";
+import BlogListSimple from "../components/BlogListSimple";
 
 const HeadOfSchoolBlog = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  return <BlogList posts={edges} />;
+  return <BlogListSimple posts={edges} allowSearch />;
 };
 
 export const headOfSchoolBlogQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort:  {frontmatter: {date: DESC}}
       filter: { fileAbsolutePath: { regex: "/head-of-school-blog/" } }
     ) {
       edges {
         node {
           id
+          html
           excerpt(pruneLength: 250)
           frontmatter {
             date(formatString: "MMMM DD, YYYY")

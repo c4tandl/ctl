@@ -38,8 +38,6 @@ const MenuBody = styled.div`
 `;
 
 const MenuUl = styled.div`
-  width: fit-content;
-  overflow-y: auto;
   li {
     list-style: none;
     border: 1px solid black;

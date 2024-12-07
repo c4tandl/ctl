@@ -13,7 +13,7 @@ const MiddleSchoolBookBlog = ({
 export const middleSchoolBookBlogQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: {frontmatter: {date: DESC}}
       filter: { fileAbsolutePath: { regex: "/middle-school-book-blog/" } }
     ) {
       edges {

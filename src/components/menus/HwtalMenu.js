@@ -32,7 +32,7 @@ const HwtalMenu = () => (
 export const hwtalQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: ASC, fields: [frontmatter___sort] }
+      sort: { frontmatter: {sort: ASC} }
       filter: { frontmatter: { nav: { eq: "how-we-teach-and-learn" } } }
       limit: 1000
     ) {

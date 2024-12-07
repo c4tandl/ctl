@@ -1,6 +1,6 @@
 ---
 # Prefix with `/head-of-school-blog/` necessary for proper routing
-slug: /head-of-school-blog/new-post
+slug: /head-of-school-blog/5-10-24-reading-instruction
 blog: head-of-school-blog
 title: 5/10/24 - Reading Instruction
 date: 2024-11-21T02:51:06.063Z

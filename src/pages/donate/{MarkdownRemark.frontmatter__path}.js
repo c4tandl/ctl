@@ -166,7 +166,7 @@ export default function Template({
 export const pageQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: ASC, fields: [frontmatter___sort] }
+      sort: { frontmatter: { sort: ASC } }
       filter: { frontmatter: { nav: { eq: "donate" } } }
     ) {
       edges {

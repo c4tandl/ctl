@@ -1,4 +1,4 @@
-import CMS, { init } from "netlify-cms-app";
+import CMS, { init } from "decap-cms-app";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 // This global flag enables manual initialization.
 window.CMS_MANUAL_INIT = true;
@@ -42,9 +42,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -84,9 +81,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -126,9 +120,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -168,9 +159,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -210,9 +198,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -252,9 +237,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -294,9 +276,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -332,9 +311,6 @@ init({
             widget: "object",
             type: "carousel",
             name: "carousel",
-            summary: {
-              "[object Object]": null,
-            },
             fields: [
               {
                 label: "Images",
@@ -449,7 +425,23 @@ init({
         name: "About Book Blog",
         label: "About Book Blog",
         folder: "src/markdown/blogs/middle-school-book-blog/about",
-        create: true,
+        fields: [
+          {
+            name: "title",
+            label: "Title",
+          },
+          {
+            widget: "markdown",
+            label: "Body",
+            name: "body",
+            editor_components: ["image"],
+          },
+        ],
+      },
+      {
+        name: "About Head of School Blog",
+        label: "About Head of School Blog",
+        folder: "src/markdown/blogs/head-of-school-blog/about",
         fields: [
           {
             name: "title",

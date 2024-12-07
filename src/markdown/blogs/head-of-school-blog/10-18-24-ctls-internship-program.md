@@ -1,6 +1,6 @@
 ---
 # Prefix with `/head-of-school-blog/` necessary for proper routing
-slug: /head-of-school-blog/new-post
+slug: /head-of-school-blog/10-18-24-ctls-internship-program
 blog: head-of-school-blog
 title: 10/18/24 - CTL’s Internship Program
 date: 2024-11-21T03:01:51.806Z

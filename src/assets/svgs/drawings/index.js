@@ -83,6 +83,7 @@ const FourAcornsDiv = styled.div`
   height: 100%;
   display: grid;
   margin-top: -100px;
+  margin-bottom: 50px;
   margin-left: 100px;
   grid-template-areas:
     "top-left .       ."

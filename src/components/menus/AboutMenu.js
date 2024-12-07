@@ -34,7 +34,7 @@ const AboutMenu = () => (
 export const aboutQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: ASC, fields: [frontmatter___sort] }
+      sort: { frontmatter: { sort: ASC } }
       filter: { frontmatter: { nav: { eq: "about" } } }
       limit: 1000
     ) {
