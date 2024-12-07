@@ -449,7 +449,23 @@ init({
         name: "About Book Blog",
         label: "About Book Blog",
         folder: "src/markdown/blogs/middle-school-book-blog/about",
-        create: true,
+        fields: [
+          {
+            name: "title",
+            label: "Title",
+          },
+          {
+            widget: "markdown",
+            label: "Body",
+            name: "body",
+            editor_components: ["image"],
+          },
+        ],
+      },
+      {
+        name: "About Head of School Blog",
+        label: "About Head of School Blog",
+        folder: "src/markdown/blogs/head-of-school-blog/about",
         fields: [
           {
             name: "title",

@@ -65,6 +65,7 @@ const FullPage = styled.div`
   grid-template-rows: 150px 1fr 1fr;
   grid-template-columns: 1fr 1fr minmax(900px, 1fr) 1fr 1fr;
   justify-content: center;
+  align-items: end;
   grid-template-areas:
     ".   .    body   .    sun"
     ".   bird body   .    ."
@@ -108,7 +109,7 @@ export default function Template({
           <Body body={html} />
         </BodyHolder>
         <HideOnSmallscreen>
-          <Sun style={{ gridArea: "sun" }} />
+          <Sun style={{ gridArea: "sun" }} svgProps={{ style: { marginTop: "195px" } }} />
           <div
             style={{
               gridArea: "bird",
@@ -121,11 +122,11 @@ export default function Template({
           </div>
           <CTLAcorn
             style={{ gridArea: "ctl" }}
-            svgProps={{ style: { marginBottom: "-280px" } }}
+            svgProps={{ style: { marginBottom: "-35px" } }}
           />
           <FourAcorns style={{ gridArea: "acorns" }} />
           <WormAcorn
-            svgProps={{ style: { marginBottom: "-297px" } }}
+            svgProps={{ style: { marginBottom: "-30px" } }}
             style={{ gridArea: "worm" }}
           />
         </HideOnSmallscreen>
