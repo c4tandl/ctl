@@ -13,7 +13,7 @@ const HeadOfSchoolBlog = ({
 export const headOfSchoolBlogQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort:  {frontmatter: {date: DESC}}
       filter: { fileAbsolutePath: { regex: "/head-of-school-blog/" } }
     ) {
       edges {

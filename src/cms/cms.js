@@ -1,4 +1,4 @@
-import CMS, { init } from "netlify-cms-app";
+import CMS, { init } from "decap-cms-app";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 // This global flag enables manual initialization.
 window.CMS_MANUAL_INIT = true;

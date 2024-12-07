@@ -29,7 +29,7 @@ const AdmissionsMenu = () => (
 export const admissionsQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: ASC, fields: [frontmatter___sort] }
+      sort: { frontmatter: { sort: ASC } }
       filter: { frontmatter: { nav: { eq: "admissions" } } }
       limit: 1000
     ) {

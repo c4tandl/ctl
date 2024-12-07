@@ -39,7 +39,7 @@ const ReadingResources = () => (
 export const readingResourcesQuery = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: ASC, fields: [frontmatter___sort] }
+      sort: { frontmatter: { sort: ASC } }
       filter: { frontmatter: { nav: { eq: "reading-resources" } } }
       limit: 1000
     ) {
