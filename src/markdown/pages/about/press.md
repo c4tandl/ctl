@@ -1,11 +1,13 @@
 ---
 path: press
-date: 2024-12-11T19:07:28.588Z
+date: 2024-12-11T19:20:33.460Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
-12/9/24 - [Vs. A Poetry Competition held at Skidompha Library](https://www.boothbayregister.com/article/vs-poetry-competition-held-skidompha-library/253215)
+12/9/24 - [Maine poet laureate leads workshop, judges poetry contest during Midcoast visit (The Times Record)](https://www.pressherald.com/2024/12/09/maine-poet-laureate-leads-school-workshop-judges-poetry-contest-during-midcoast-visit/)
+
+[12/9/24 - ](https://www.pressherald.com/2024/12/09/maine-poet-laureate-leads-school-workshop-judges-poetry-contest-during-midcoast-visit/)[Vs. A Poetry Competition held at Skidompha Library](https://www.boothbayregister.com/article/vs-poetry-competition-held-skidompha-library/253215)
 
 11/8/24 - [CTL welcomes Buffalo State interns](https://www.boothbayregister.com/article/ctl-welcomes-buffalo-state-interns/252343)
 
@@ -13,7 +15,11 @@ nav: about
 
 10/7/24 - [Penny Kittle and Linda Rief visit CTL](https://www.boothbayregister.com/article/penny-kittle-and-linda-rief-visit-ctl/251230)
 
+9/4/24 - [Nature meets education at Edgecomb private school (The Times Record)](https://www.pressherald.com/2024/09/04/nature-meets-education-at-edgecomb-private-school/?fbclid=IwZXh0bgNhZW0CMTEAAR2W0YOkvdoVIeyewqhizD7nIJj67YXRoSQL2cVcgagxd0yV5yEJvJatfbY_aem_v3EEeMXF5z_z-Rs8Ji1psQ)
+
 8/12/24 - [CTL wins Best of Maine in Down East Magazine](https://www.boothbayregister.com/article/ctl-wins-best-maine-down-east-magazine/189969)
+
+8/10/24 -[ Down East Magazine's Best of Maine 2024 - CTL wins Best Private Elementary School ](https://downeast.com/features/best-of-maine/)
 
 7/1/24 - [CTL students research Maine nonprofits](https://www.boothbayregister.com/article/ctl-students-research-maine-nonprofits/188368)
 
