@@ -1,6 +1,6 @@
 ---
 path: press
-date: 2024-12-11T19:23:22.530Z
+date: 2025-01-08T18:20:15.035Z
 title: CTL in the News
 sort: 9
 nav: about
@@ -19,7 +19,7 @@ nav: about
 
 8/12/24 - [CTL wins Best of Maine in Down East Magazine](https://www.boothbayregister.com/article/ctl-wins-best-maine-down-east-magazine/189969)
 
-**8/10/24 -[ Down East Magazine's Best of Maine 2024 - CTL wins Best Private Elementary School ](https://downeast.com/features/best-of-maine/)**
+8/10/24 -[ Down East Magazine's Best of Maine 2024 - CTL wins Best Private Elementary School ](https://downeast.com/features/best-of-maine/)
 
 7/1/24 - [CTL students research Maine nonprofits](https://www.boothbayregister.com/article/ctl-students-research-maine-nonprofits/188368)
 
