@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2024-11-18T17:15:51.304Z
+date: 2025-01-10T17:19:05.325Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -17,7 +17,7 @@ carousel:
 ---
 CTL’s Admissions Process:
 
-A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open House or Open Tour. CTL's next Open Tour will be Thursday, December 12 from 8:15-10:00. Please RSVP to sarah@c-t-l.org or call the office at 207-882-9706. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school at 207-882-9706.
+A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open House or Open Tour. CTL's next Open Tour will be Wednesday, January 22 from 8:15-10:00. Please RSVP to sarah@c-t-l.org or call the office at 207-882-9706. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school at 207-882-9706.
 
 B. **Applying**: Once you know you would like to apply, do so by:
 
@@ -32,4 +32,4 @@ If you are ready to move forward with an application and join CTL’s waitlist, 
 
 **Tuition — $12,400 in 2024-25, grades Pre-K--8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance based on income for the previous year. Payment plans are available, with single pay, two payment, and ten payment options.
 
-This year, CTL will hold open houses in October and April. CTL's fall Open House will be on Sunday, October 27, from 3:30-5:00. Please inquire before attending to prioritize admissions. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
+This year, CTL will hold open houses in October and April.  Please inquire before attending to prioritize admissions. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
