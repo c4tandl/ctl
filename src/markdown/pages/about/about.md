@@ -1,6 +1,6 @@
 ---
 path: about
-date: 2023-12-13T05:23:32.480Z
+date: 2025-01-22T19:48:56.407Z
 title: At a Glance
 sort: 1
 nav: about
@@ -25,5 +25,3 @@ carousel:
 * never a raised voice or standardized test
 * a student population that represents the full range of socioeconomic and racial diversity found in Midcoast Maine
 * affordable tuition that’s one-third the rate of comparable Maine independent schools, with generous tuition assistance
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1671208088/ctl.display.graphics.3_wb9epz.png)
