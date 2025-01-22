@@ -1,6 +1,6 @@
 ---
 path: the-outdoor-classroom
-date: 2024-03-14T04:53:48.602Z
+date: 2025-01-22T19:50:24.169Z
 title: The Outdoor Classroom
 sort: 4
 nav: how-we-teach-and-learn
@@ -14,7 +14,7 @@ The structure is a timber-framed classroom in the woods to further support the h
 
 The learning that happens at the Outdoor Classroom follows CTL’s workshop approach, where student choice and voice remain at the center of the learning. CTL believes that raising young people to be deeply connected to the natural world will be crucial to the choices that we make about how to take care of our world. CTL’s outdoor classroom is a study station, an observation room, a place to huddle up and be together when it rains, and a home base for engaged and curious kids. It’s a visual and physical reminder of how much the community values connection to nature and how time outdoors feed us all.
 
-Over the past three years, Annie Nixon has developed and implemented a hands-on field science curriculum for grades K-2, who each spend a day each and every week on Forest Field Science, in rain, shine, snow, or any other iteration of Maine weather. Students deeply value their experience in the Outdoor Classroom and, in self-reflections, frequently cite it as a crucial part of their learning for the year.
+CTL has developed and implemented a hands-on field science curriculum for grades Pre-K--2, who each spend a day each and every week on Forest Field Science, in rain, shine, snow, or any other iteration of Maine weather. Students deeply value their experience in the Outdoor Classroom and, in self-reflections, frequently cite it as a crucial part of their learning for the year.
 
 Students in grade 3-8 access the Outdoor Classroom as appropriate to their curricular projects, traveling down the hill to do research on Maine mammals, weather, and water, and sometimes even to write nature-inspired poetry.
 
