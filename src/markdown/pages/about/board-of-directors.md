@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2024-11-20T18:35:42.994Z
+date: 2025-01-24T16:14:18.650Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -43,4 +43,4 @@ Born in Southern West Virginia, Brita Wanger grew up in the Western Mountains of
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1695839147/JHT_hecqao.jpg)
 
 **Jessica Tindal**\
-Jessica Tindal was raised in Georgia and studied in Tennessee before finding her forever home in Maine in 2011. She has since lived in Boothbay with her husband Jonathan and their two girls, Olivia and Cora. Olivia joined CTL’s kindergarten class in 2020, and Cora followed in the fall of 2023. Jessica has been awed by the genuine warmth of the CTL community and the way her daughter has developed such a fast and deep love of learning. She is grateful for the opportunity to transform that sense of community and dedication into meaningful action for the school.
+Jessica Tindal was raised in Georgia and studied in Tennessee before finding her forever home in Maine in 2011. She has since lived in Boothbay with her husband Jonathan and their two girls, Olivia and Cora. Olivia joined CTL’s kindergarten class in 2020, and Cora followed in the fall of 2023. Jessica has been awed by the genuine warmth of the CTL community and the way her daughters have developed such a fast and deep love of learning. She is grateful for the opportunity to transform that sense of community and dedication into meaningful action for the school.
