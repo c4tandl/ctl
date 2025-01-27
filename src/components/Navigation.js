@@ -31,10 +31,18 @@ const Nav = styled.div`
 `;
 
 const MenuBody = styled.div`
+  overflow-y: auto;
   display: ${(props) => props.display};
   position: absolute;
   z-index: 3;
   padding-top: 5px;
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  /* Hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 `;
 
 const MenuUl = styled.div`
