@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 
 import { useLocation } from "@reach/router";
 import { Helmet } from "react-helmet";
@@ -8,6 +8,8 @@ import styled from "styled-components";
 import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
+
+import LinkIcon from "../../assets/svgs/icons/navigate-to.svg";
 
 const Page = styled.div`
   display: flex;
@@ -27,6 +29,33 @@ const FullPage = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+`;
+
+const NonToggler = styled.div`
+  cursor: pointer;
+  margin-bottom: 20px;
+  a {
+    text-decoration: none;
+    color: inherit;
+    h1 {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-family: "Bookmania-Semibold";
+      font-size: 1.7rem !important;
+      background-color: #00000014;
+      width: fit-content;
+      padding: 8px 17px 4px;
+      &:hover {
+        svg {
+          stroke: #232129;
+        }
+      }
+      svg {
+        stroke: #2321299d;
+      }
+    }
+  }
 `;
 
 const BodyArea = styled.div`
@@ -142,19 +171,31 @@ export default function Template({
         <BodyArea coverSlideshow={coverSlideshow}>
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
-              <FoldingBody
-                isOpen={sectionMap[frontmatter.path]}
-                handleToggle={() => handleToggleSection(frontmatter.path)}
-                key={frontmatter.path}
-                title={frontmatter.title}
-                html={
-                  ["kids-recommend"].includes(frontmatter.path)
-                    ? `
+              <>
+                <FoldingBody
+                  isOpen={sectionMap[frontmatter.path]}
+                  handleToggle={() => handleToggleSection(frontmatter.path)}
+                  key={frontmatter.path}
+                  title={frontmatter.title}
+                  html={
+                    ["kids-recommend"].includes(frontmatter.path)
+                      ? `
                       <span id='kids-recommend'>${html}</span>
                     `
-                    : html
-                }
-              />
+                      : html
+                  }
+                />
+
+                {frontmatter.path === "creating-passionate-readers" ? (
+                  <NonToggler>
+                    <Link to="/middle-school-book-blog">
+                      <h1>
+                        Middle School Book Blog <LinkIcon />
+                      </h1>
+                    </Link>
+                  </NonToggler>
+                ) : null}
+              </>
             ))}
         </BodyArea>
       </FullPage>
