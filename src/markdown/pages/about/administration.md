@@ -1,12 +1,11 @@
 ---
 path: administration
-date: 2024-11-20T20:06:46.209Z
+date: 2025-02-03T05:03:33.836Z
 title: Administration
 sort: 5
 nav: about
 carousel:
-  images:
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1661109854/200114_untitledshoot_DSC_3659_rqjbnn.jpg
+  images: []
 ---
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Katy_1_jfpimq.png)
 
