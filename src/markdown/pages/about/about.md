@@ -1,6 +1,6 @@
 ---
 path: about
-date: 2025-02-03T04:50:58.586Z
+date: 2025-02-03T05:01:32.694Z
 title: At a Glance
 sort: 1
 nav: about
@@ -31,6 +31,22 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558202/IMG-1044_qprhbg.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558102/IMG_0671-2_mxp962.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558251/IMG_0600_cw6xke.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558362/unnamed-1029_dzl2ue.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558391/IMG_0890_f5kcdr.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558421/unnamed-1003_oa50no.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558484/unnamed-1045_njzgxe.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558518/image-28_a85zme.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558578/unnamed-1058_kiucv2.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558453/unnamed-1032_gbrjof.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558670/unnamed-1078_ucgwwu.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558792/unnamed-1123_p7ytaf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558886/unnamed-1147_g5jzsr.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558546/image-29_x7jtgo.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558612/unnamed-1059_ukjupt.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558706/unnamed-1085_sbchip.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558828/unnamed-1090_ifyxad.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558749/IMG_8359_e3aajp.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558641/unnamed-1066_kez3jg.jpg
 ---
 ## The Basics
 
