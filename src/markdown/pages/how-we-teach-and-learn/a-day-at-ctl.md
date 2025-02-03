@@ -1,6 +1,6 @@
 ---
 path: a-day-at-ctl
-date: 2025-02-03T05:28:43.354Z
+date: 2025-02-03T05:29:40.315Z
 title: A Day at CTL/Morning Meeting
 sort: 3
 nav: how-we-teach-and-learn
@@ -37,8 +37,6 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560202/IMG_1445_m11ezy.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560512/unnamed-1146_awqijp.jpg
 ---
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560411/unnamed-1027_prung5.jpg)
-
 # Visit a Morning Meeting
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710385519/school.1080.37_rq7fgb_weebln.jpg)
@@ -52,5 +50,7 @@ Every morning from 8:30-8:50, CTL students and teachers of grades Pre-K--8 gathe
 You and your child are cordially invited to visit a morning meeting and join us as we celebrate birthdays, discuss current events, review policies and procedures, sing, recite a poem,and begin the day with laughter.
 
 Afterward, Katy Inman, our Head of School, is available to give you a tour of the school and an opportunity to glimpse our award-winning program in action. To arrange to visit a CTL morning meeting, please call her at 882-9706. Typically visits are scheduled on Thursdays and Fridays.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560411/unnamed-1027_prung5.jpg)
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.27_epcg68.jpg)
