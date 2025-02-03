@@ -1,6 +1,6 @@
 ---
 path: creating-passionate-readers
-date: 2024-03-19T17:11:20.292Z
+date: 2025-02-03T03:54:13.652Z
 title: Creating Passionate Readers - A Piece by Nancie Atwell
 sort: 1
 nav: reading-resources
@@ -18,6 +18,27 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867930/unnamed-493_pxlyzi.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867817/unnamed-496_qfxt0c.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868255/unnamed-442_hgmmyc.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554553/unnamed-852_d5mckl.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554551/unnamed-853_blqsmw.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554551/IMG_0179_ppz0yq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554550/unnamed-854_m70prh.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554549/unnamed-863_fwjdhq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554548/IMG_0776_r1yaku.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554547/unnamed-930_vm2cma.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554835/unnamed-1186_nshqbw.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554546/unnamed-924_dsixjy.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554545/IMG_5793_uyw5yq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554543/IMG_0526_ecl9xq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554542/IMG_0528_r7da04.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554540/IMG_1308_noe5ki.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554540/unnamed-931_o1m8gw.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554537/IMG_1353_lfjyrg.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554540/IMG_1199_u0nm7s.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554536/unnamed-1126_ynojmw.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554533/unnamed-1138_s3xijp.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554533/unnamed-1183_gkangc.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554836/IMG_1464_cybfw3.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554535/unnamed-1119_h04qdt.jpg
 ---
 
 The annual average number of books read by seventh and eighth grade readers at CTL is at least forty titles. In the lower grades, the numbers are similarly high. My K-6 colleagues and I make time every day for our students to curl up with good books and engage in the single activity that consistently correlates with high levels of performance on standardized tests of reading ability. That is _frequent, voluminous, self-selected reading_. A child sitting in a quiet room with a good book isn’t a flashy or marketable teaching method. It just happens to be the only way anyone ever became a reader.
