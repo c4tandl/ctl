@@ -1,14 +1,12 @@
 ---
 path: admissions-process
-date: 2025-02-03T04:07:22.257Z
+date: 2025-02-03T04:29:35.637Z
 title: Admissions Process
 sort: 1
 nav: admissions
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554836/IMG_1464_cybfw3.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867864/Home%20page%20photos/school.1080.16_lkhcjm.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.2_r0zw2k.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.22_gmsyl1.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.6_hgmmqf.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.5_twrpvd.jpg
@@ -20,6 +18,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553832/unnamed-1206_ztb5n5.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554551/unnamed-853_blqsmw.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-875_btmis9.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867864/Home%20page%20photos/school.1080.16_lkhcjm.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555497/IMG-1043_t5svxx.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555490/IMG_0935_vn1sb9.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555490/unnamed-928_jofgmx.jpg
@@ -31,6 +30,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555487/IMG_8549_de3kyc.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555626/image-27_vffyxz.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555487/unnamed-1184_bag5zu.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.2_r0zw2k.jpg
 ---
 CTL’s Admissions Process:
 
