@@ -1,6 +1,6 @@
 ---
 path: about
-date: 2025-02-03T05:04:53.747Z
+date: 2025-02-03T05:05:44.783Z
 title: At a Glance
 sort: 1
 nav: about
@@ -47,6 +47,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558828/unnamed-1090_ifyxad.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558749/IMG_8359_e3aajp.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738558641/unnamed-1066_kez3jg.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738559138/unnamed-801_ydmgzp.jpg
 ---
 ## The Basics
 
