@@ -1,6 +1,6 @@
 ---
 path: a-day-at-ctl
-date: 2025-02-03T05:29:40.315Z
+date: 2025-02-03T05:34:18.101Z
 title: A Day at CTL/Morning Meeting
 sort: 3
 nav: how-we-teach-and-learn
@@ -36,6 +36,11 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560479/unnamed-1136_u6geai.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560202/IMG_1445_m11ezy.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560512/unnamed-1146_awqijp.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560661/unnamed-1185_cnfdxj.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560800/unnamed-1150_xoxnvi.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560852/unnamed-1082_zu3yl3.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560703/unnamed-1187_t6ijbb.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560741/unnamed-1190_k0dnc9.jpg
 ---
 # Visit a Morning Meeting
 
