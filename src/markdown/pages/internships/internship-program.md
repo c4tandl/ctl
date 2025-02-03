@@ -1,14 +1,17 @@
 ---
 path: internship-program
-date: 2024-12-11T18:02:16.237Z
+date: 2025-02-03T04:41:32.058Z
 title: Internship Program
 sort: 1
 nav: internships
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.36_l9ricn.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738557281/unnamed-1027-3_fgtyvn.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.33_ozbuim.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.31_nzfsxk.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738557594/IMG_3862_zwxwwa.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738557683/IMG_7100_grg8cc.jpg
 ---
 # Internships
 
