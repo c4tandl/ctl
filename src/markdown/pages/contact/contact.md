@@ -1,5 +1,5 @@
 ---
-date: 2025-02-05T18:40:11.066Z
+date: 2025-02-05T18:42:21.516Z
 title: Contact
 contactpage: true
 carousel:
@@ -26,6 +26,8 @@ Edgecomb, Maine 04556
 <br/>
 
 Phone: 207-882-9706
+
+Fax: 207-882-6413
 
 <br/>
 
