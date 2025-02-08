@@ -1,21 +1,22 @@
 ---
 path: creating-passionate-readers
-date: 2025-02-05T18:45:12.173Z
+date: 2025-02-08T03:47:53.717Z
 title: Creating Passionate Readers - A Piece by Nancie Atwell
 sort: 1
 nav: reading-resources
 carousel:
   images:
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388253/unnamed-222_scykh2.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710387696/IMG_5557_gfawrz.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867479/unnamed-511_ndby5d.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1635088626/200114_untitledshoot_DSC_3566_ykf1la.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867407/unnamed-557_glkwfj.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867874/IMG_5050_qp6joo.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867582/unnamed-509_de4egq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710388253/unnamed-222_scykh2.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867637/unnamed-510_ydmo6y.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868037/unnamed-495_hin6lx.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867930/unnamed-493_pxlyzi.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986330/unnamed-1303_hx4czd.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867817/unnamed-496_qfxt0c.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868255/unnamed-442_hgmmyc.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554553/unnamed-852_d5mckl.jpg
@@ -39,6 +40,19 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554533/unnamed-1183_gkangc.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554836/IMG_1464_cybfw3.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554535/unnamed-1119_h04qdt.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986197/unnamed_hygwzf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986222/unnamed-4_o38bvq.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986287/unnamed-1306_wznklf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986224/unnamed-1_etfa1o.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986405/unnamed-1299_w89uf7.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986223/unnamed-3_wi1ajl.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986287/unnamed-1307_pxhxg3.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986328/unnamed-1304_pmkbnl.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986223/unnamed-2_painjr.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986411/unnamed-1294_xqvxid.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986408/unnamed-1297_wkshnr.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986407/unnamed-1298_srm824.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986404/unnamed-1300_vgvh2a.jpg
 ---
 The annual average number of books read by seventh and eighth grade readers at CTL is at least forty titles. In the lower grades, the numbers are similarly high. My K-6 colleagues and I make time every day for our students to curl up with good books and engage in the single activity that consistently correlates with high levels of performance on standardized tests of reading ability. That is *frequent, voluminous, self-selected reading*. A child sitting in a quiet room with a good book isn’t a flashy or marketable teaching method. It just happens to be the only way anyone ever became a reader.
 
