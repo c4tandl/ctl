@@ -1,6 +1,6 @@
 ---
 path: internship-program
-date: 2025-02-10T17:59:31.942Z
+date: 2025-02-10T18:10:12.945Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -41,7 +41,7 @@ The intern program is an opportunity for us to demonstrate research-based method
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1702441336/CTL_Interns_-_International_l6reat.jpg)
 
-The intern program serves classroom teachers of grades K-8 interested in learning more about teaching writing and reading at any grade level, with rich opportunities to observe and confer with CTL teachers about literacy instruction. Participants learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation. Visiting teachers can anticipate interning alongside other teachers from the same grade levels from schools throughout the U.S. and beyond our borders.
+The intern program serves classroom teachers of grades Pre-K--8 interested in learning more about teaching writing and reading at any grade level, with rich opportunities to observe and confer with CTL teachers about literacy instruction. Participants learn about writing and reading minilessons, conferences, spelling instruction, age-appropriate literature and poetry, and approaches to recordkeeping and evaluation. Visiting teachers can anticipate interning alongside other teachers from the same grade levels from schools throughout the U.S. and beyond our borders.
 
 The internship program is structured to make it likely that visiting teachers will be able to act on what they have learned here and make substantive changes back home. 
 
