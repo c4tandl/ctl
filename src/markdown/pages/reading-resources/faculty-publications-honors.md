@@ -1,6 +1,6 @@
 ---
 path: faculty-publications-honors
-date: 2025-03-13T18:09:31.334Z
+date: 2025-03-13T18:15:31.536Z
 title: Faculty Publications/Honors
 sort: 4
 nav: reading-resources
@@ -59,13 +59,15 @@ Honors + Affiliations
 
 • San Diego Shakespeare Society - Director of Student Performances
 
+**Glenn Powers**: 
+
+River of Words Poetry Teacher of the Year
+
 Emeritus:
 
 **Anne Atwell Merkel:**
 
 *[The Reading Zone: How to Help Kids Become Passionate, Skilled, Habitual, Critical Readers](https://shop.scholastic.com/teachers-ecommerce/teacher/books/the-reading-zone-second-edition-9780545948746.html)*, 2nd Ed.
-
-**Glenn Powers**: River of Words Poetry Teacher of the Year
 
 **Helene Coffin**: *Every Child a Reader: Month-by-Month Effective Lessons to Teach Beginning Reading*
 
