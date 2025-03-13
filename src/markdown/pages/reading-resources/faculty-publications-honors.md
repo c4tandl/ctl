@@ -1,6 +1,6 @@
 ---
 path: faculty-publications-honors
-date: 2023-03-30T17:38:12.638Z
+date: 2025-03-13T18:09:31.334Z
 title: Faculty Publications/Honors
 sort: 4
 nav: reading-resources
@@ -18,10 +18,7 @@ Katy Inman: Head of School**
 
 Workshops and Presentations
 
-* Literacy for All, 2021
-
-“Morning Meeting; Invitations to Literacy and Community-Building”
-
+* Literacy for All, 2021; “Morning Meeting; Invitations to Literacy and Community-Building”
 * Progressive Educator Network (PEN), Workshop, National Conference, 2017; “Planning and Implementing an Integrated Project”
 * National Association of Independent Schools (NAIS); Speaker, National Conference, 2015; “Implementing and Assessing a Reading Workshop Using Choice”
 
