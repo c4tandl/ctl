@@ -1,6 +1,6 @@
 ---
 path: internship-program
-date: 2025-02-10T18:10:12.945Z
+date: 2025-03-18T13:06:52.698Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -15,7 +15,7 @@ carousel:
 ---
 # Internships
 
-Interested educators: We are accepting applications for our 2025-26 intern weeks: March 31-April 3, 2025 (Grades 5-8); April 7-10, 2025 (Grades Pre-K--4); Sept. 29-Oct.2, 2025 (Grades 5-8); Oct. 6-9, 2025 (Grades 5-8); Oct. 20-23, 2025 (Grades Pre-K--4); March 30-April 2, 2026 (Grades 5-8); and April 6-9, 2026 (Grades Pre-K--4). Apply today using CTL's [internship application](https://docs.google.com/forms/d/e/1FAIpQLSfSEIKkLwdElNJWhdWsSUrnZaRsrpuwDcZ9yKZope0xYdWUqg/viewform?usp=sf_link). 
+Interested educators: We are accepting applications for our 2025-26 intern weeks: March 31-April 3, 2025 (Grades 5-8); April 7-10, 2025 (Grades Pre-K--4); Sept. 29-Oct.2, 2025 (Grades 5-8); Oct. 20-23, 2025 (Grades Pre-K--4); March 30-April 2, 2026 (Grades 5-8); and April 6-9, 2026 (Grades Pre-K--4). Apply today using CTL's [internship application](https://docs.google.com/forms/d/e/1FAIpQLSfSEIKkLwdElNJWhdWsSUrnZaRsrpuwDcZ9yKZope0xYdWUqg/viewform?usp=sf_link). 
 
 Please contact internship@c-t-l.org with any questions or to request a PDF of the application. 
 
@@ -27,7 +27,7 @@ Please contact internship@c-t-l.org with any questions or to request a PDF of th
 * Priority application deadline is August 1. However, applications are reviewed on a rolling basis and will be considered if space is available. 
 * CTL is located approximately an hour north of Portland, Maine. We recommend local accommodations [Cod Cove Inn](https://www.codcoveinn.com) or [Sheepscot Harbour Village Resort](https://www.midcoastshvr.com).  Interns should anticipate that they will require a car during their stay in Edgecomb. CTL can assist you with lodging or car rental arrangements.
 
-CTL is a demonstration school for teachers from around the world. The faculty has drawn on theory and research, including our own, to show how K-8 schools might be restructured. The curriculum stresses real and original work: writing, research, computation and problem-solving, experiments, building, observation, data collection and analysis, the reading of exceptional children’s literature across the disciplines, and artistic, musical, and dramatic performance.
+CTL is a demonstration school for teachers from around the world. The faculty has drawn on theory and research, including our own, to show how Pre-K--8 schools might be restructured. The curriculum stresses real and original work: writing, research, computation and problem-solving, experiments, building, observation, data collection and analysis, the reading of exceptional children’s literature across the disciplines, and artistic, musical, and dramatic performance.
 
 Instruction in writing, reading, and math is organized as a workshop, which combines whole-group instruction, via minilessons, with conferences with individuals about their independent efforts. We believe such an approach has intrinsic value, transfers readily to life beyond school, engages students, and motivates them to sustain the work of learning. CTL’s philosophy and methods invite other educators to look with new eyes at what is possible for their schools and students.
 
