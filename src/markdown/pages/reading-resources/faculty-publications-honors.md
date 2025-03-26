@@ -1,6 +1,6 @@
 ---
 path: faculty-publications-honors
-date: 2025-03-13T18:15:31.536Z
+date: 2025-03-26T21:15:55.753Z
 title: Faculty Publications/Honors
 sort: 4
 nav: reading-resources
@@ -31,11 +31,9 @@ Awards
 
 **Stacey Adams: 7-8 Humanities**
 
-KIPP: Summit Academy Excellence in Teaching Award 2017 (“KSA Teacher of the Year”)
-
-Teachers College at Columbia University Dean’s Award for Outstanding Scholarship
-
-UC Berkeley, Graduate Division Summer Research Opportunity Fellowship
+* KIPP: Summit Academy Excellence in Teaching Award 2017 (“KSA Teacher of the Year”)
+* Teachers College at Columbia University Dean’s Award for Outstanding Scholarship
+* UC Berkeley, Graduate Division Summer Research Opportunity Fellowship
 
 **Angela Lathem-Ballard: 5-6 Humanities and K-8 Art and Drama**
 
@@ -59,9 +57,17 @@ Honors + Affiliations
 
 • San Diego Shakespeare Society - Director of Student Performances
 
-**Glenn Powers**: 
+**Glenn Powers: 5-8 Math and Science** 
 
-River of Words Poetry Teacher of the Year
+* Presentation: "Authentic Science in Our Changing World: Students Conducting Local Research," Teachers' College Reading Writing Project Climate Change Symposium, 2021
+* St. Mary's Kalmanovitz School of Education, Center for Environmental Literacy Teacher of the Year, 2019
+* River of Words, Poetry Teacher of the Year, 2019
+* Gulf of Maine Research Institute, Kevin McCarthy Education Innovation Award finalist, 2018
+* Presentation: Peer Review and Science Writing Tools, MSTA, 2018
+* Presentation: "Every Child in the Woods: Creating Real Science Opportunities for Middle Schoolers," Maine Environmental Education Association, 2017/2018
+* Presentation: "Reader's Roundtables: Developing Readers through Critical Talk," NCTE Boston, 2013
+* Presentation: "40 Days in the Woods," Maine Environmental Education Association, 2013
+* Presentation: "Reading in Common: Assessment in the Reading Workshop," NCTE New York City, 2007
 
 Emeritus:
 
@@ -69,6 +75,10 @@ Emeritus:
 
 *[The Reading Zone: How to Help Kids Become Passionate, Skilled, Habitual, Critical Readers](https://shop.scholastic.com/teachers-ecommerce/teacher/books/the-reading-zone-second-edition-9780545948746.html)*, 2nd Ed.
 
-**Helene Coffin**: *Every Child a Reader: Month-by-Month Effective Lessons to Teach Beginning Reading*
+**Helene Coffin**[](https://www.amazon.com/Every-Child-Reader-Month-Month/dp/054505897X):
 
-**Ted DeMille: *[Making Believe on Paper: Fiction Writing with Young Children](https://www.amazon.com/Making-Believe-Paper-Fiction-Children/dp/0325017484/ref=sr_1_1?crid=2V04B5Z9PDSRH&keywords=ted+demille&qid=1657295984&s=books&sprefix=ted+demi%2Cstripbooks%2C76&sr=1-1)***
+*[Every Child a Reader: Month-by-Month Effective Lessons to Teach Beginning Reading](https://www.amazon.com/Every-Child-Reader-Month-Month/dp/054505897X)*
+
+**Ted DeMille:**
+
+***[Making Believe on Paper: Fiction Writing with Young Children](https://www.amazon.com/Making-Believe-Paper-Fiction-Children/dp/0325017484/ref=sr_1_1?crid=2V04B5Z9PDSRH&keywords=ted+demille&qid=1657295984&s=books&sprefix=ted+demi%2Cstripbooks%2C76&sr=1-1)***
