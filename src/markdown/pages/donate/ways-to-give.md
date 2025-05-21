@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2024-11-15T18:49:40.500Z
+date: 2025-05-21T18:12:59.933Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -11,15 +11,11 @@ Thank you for considering making a donation to the Center for Teaching and Learn
 
 Please see below for some ways you can give to CTL. 
 
-*The Center for Teaching and Learning is a 501(c)(3) nonprofit organization and your contribution is tax deductible.* 
-
-
+*The Center for Teaching and Learning is a 501(c)(3) nonprofit organization and your contribution is tax deductible. CTL's EIN is 01-0448173.*
 
 **By Mail/In Person**
 
 Donations to the Center for Teaching and Learning can be mailed to 119 Cross Point Road, Edgecomb, ME 04556. 
-
-
 
 **Online**
 
@@ -31,12 +27,9 @@ Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_i
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-
 **Stock Gifts**
 
 Please contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org if you would like to donate stock.  
-
-
 
 **CLYNK**
 
@@ -46,12 +39,8 @@ Pick up CLYNK bags and bag tags at CTL to recycle your bottles and cans at home.
 
 You may also donate to CTL through your [online CLYNK account](https://www.clynk.com/login/). From the "Donate" tab of your account, you can direct part or all of your balance to CTL. Search "Center for Teaching and Learning" in the search bar, select our profile, and determine the amount you would like to donate. 
 
-
-
 **Box Tops for Education**
 
 For over 25 years, Box Tops for Education has given families an easy way to earn cash for schools. Box Tops is now a digital program. Download the [Box Tops app](https://www.boxtops4education.com/s/get-the-app) to scan your receipt (either paper or digital) and earn for CTL with every Box Tops product you buy.
-
- 
 
 *Please contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org with any questions or to learn more about ways to give to CTL.*
