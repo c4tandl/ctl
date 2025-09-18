@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2025-09-18T14:04:14.526Z
+date: 2025-09-18T14:04:47.866Z
 title: Faculty
 sort: 4
 nav: about
@@ -43,4 +43,4 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732156675/10755-CTL_240925_llemax.jpg)
 
-Kennedy Hathaway joined CTL as a helping teacher in 2024. She is a graduate of Husson University with a degree in elementary education and a focus in science. During college, Kennedy interned at the Challenger Learning Center where she worked alongside NASA scientists, engineers, astronauts, and teachers. In her free time she likes to spend time with her family, chase her tortoises around, read, write, garden, bake, craft, and explore. This is Kennedy’s first year teaching, and she is excited to jump in and learn!
+**Kennedy Hathaway** joined CTL as a helping teacher in 2024. She is a graduate of Husson University with a degree in elementary education and a focus in science. During college, Kennedy interned at the Challenger Learning Center where she worked alongside NASA scientists, engineers, astronauts, and teachers. In her free time she likes to spend time with her family, chase her tortoises around, read, write, garden, bake, craft, and explore. This is Kennedy’s first year teaching, and she is excited to jump in and learn!
