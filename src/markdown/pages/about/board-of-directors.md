@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2025-07-31T03:55:11.461Z
+date: 2025-09-18T12:22:12.002Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -30,11 +30,11 @@ Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been com
 **Maureen Barbieri**\
 Maureen was a middle school teacher whose work was dramatically influenced by Nancie Atwell’s first book *In the Middle* and by Nancie’s subsequent articles, books, and presentations. Nancie invited her to CTL in its early days, and many times over the years, so she developed a deep appreciation for the pedagogy, school culture, and commitment to excellence the whole school community embodies. A faculty member at NYU and UNH for many years, she is now at Stenhouse Publishers, editing books by and for teachers. She lives in Kittery, ME and is grateful to be a part of the CTL family.
 
-
+![](https://drive.google.com/file/d/1pdzxn2M7pmKf1kHarf0AZCFIdFGyGG93/view)
 
 **Aura Doak**
 
-
+Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1675443244/faculty%20and%20staff%20photos/katy.papagiannis.2023_dbc0j7.jpg)
 
