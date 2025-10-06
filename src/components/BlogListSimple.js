@@ -143,8 +143,8 @@ const Post = ({ post }) => (
 const FuzzySearchPosts = ({ posts, onFilter }) => {
   const [input, setInput] = useState("");
   const [latestInput, setLatestInput] = useState(null);
-  const [genre, setGenre] = useState([]);
-  const [author, setAuthor] = useState([]);
+  const [genre] = useState([]);
+  const [author] = useState([]);
   const timeout = useRef(null);
   const isRunned = useRef(false);
 
@@ -215,7 +215,7 @@ const FuzzySearchPosts = ({ posts, onFilter }) => {
         window.clearTimeout(timeout.current);
       }
     };
-  }, [input, posts, filterResults, latestInput]);
+  }, [input, posts, filterResults, latestInput, genre, author]);
 
   return (
     <>
