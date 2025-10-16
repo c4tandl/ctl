@@ -1,6 +1,6 @@
 ---
 path: enrichment
-date: 2025-02-05T19:00:04.379Z
+date: 2025-10-16T01:25:37.076Z
 title: Enrichment
 sort: 5
 nav: how-we-teach-and-learn
@@ -27,6 +27,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382669/image_50732033_wwewek.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382706/image_hwsqnm.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382774/unnamed-492_aoh9jr.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760577927/IMG_0173_zwuvbm.jpg
 ---
 * weekly music classes in grades K-4 taught by musician Kaity Newell
 
