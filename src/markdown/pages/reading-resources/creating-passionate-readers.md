@@ -1,6 +1,6 @@
 ---
 path: creating-passionate-readers
-date: 2025-02-08T03:47:53.717Z
+date: 2025-10-16T01:30:59.263Z
 title: Creating Passionate Readers - A Piece by Nancie Atwell
 sort: 1
 nav: reading-resources
@@ -17,6 +17,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868037/unnamed-495_hin6lx.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867930/unnamed-493_pxlyzi.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986330/unnamed-1303_hx4czd.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578219/unnamed-1667_bb4m0f.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867817/unnamed-496_qfxt0c.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868255/unnamed-442_hgmmyc.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554553/unnamed-852_d5mckl.jpg
@@ -31,6 +32,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554545/IMG_5793_uyw5yq.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554543/IMG_0526_ecl9xq.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554542/IMG_0528_r7da04.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578219/unnamed-1669_ga50po.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554540/IMG_1308_noe5ki.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554540/unnamed-931_o1m8gw.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554537/IMG_1353_lfjyrg.jpg
@@ -41,6 +43,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554836/IMG_1464_cybfw3.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554535/unnamed-1119_h04qdt.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986197/unnamed_hygwzf.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578219/unnamed-1668_dmubi7.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986222/unnamed-4_o38bvq.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986287/unnamed-1306_wznklf.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986224/unnamed-1_etfa1o.jpg
