@@ -1,6 +1,6 @@
 ---
 path: the-outdoor-classroom
-date: 2025-10-16T01:24:15.473Z
+date: 2025-10-16T01:33:23.994Z
 title: The Outdoor Classroom
 sort: 4
 nav: how-we-teach-and-learn
@@ -8,6 +8,7 @@ carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-927_rh6k2y.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-878_izjicl.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578391/unnamed-1696_r2jrjp.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-875_btmis9.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760577556/IMG_5642_orxmz5.heic
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-876_kfvwir.jpg
