@@ -1,6 +1,6 @@
 ---
 path: the-outdoor-classroom
-date: 2025-10-16T01:23:34.073Z
+date: 2025-10-16T01:24:15.473Z
 title: The Outdoor Classroom
 sort: 4
 nav: how-we-teach-and-learn
@@ -19,7 +19,6 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553831/unnamed-1194_que4i6.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553832/unnamed-1206_ztb5n5.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1674503508/general/IMG-1347_qgnlfo.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760577800/IMG_5663_dgwzy3.heic
 ---
 CTL’s Outdoor Classroom is both a place and a program.
 
