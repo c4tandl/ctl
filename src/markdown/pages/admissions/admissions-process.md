@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2025-09-25T16:01:09.560Z
+date: 2025-10-16T01:27:41.259Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -8,6 +8,7 @@ carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554836/IMG_1464_cybfw3.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.22_gmsyl1.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578012/unnamed-1663_sxjm9z.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.6_hgmmqf.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.5_twrpvd.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.38_vqfsuj.jpg
