@@ -1,6 +1,6 @@
 ---
 path: creating-passionate-readers
-date: 2025-10-16T01:30:59.263Z
+date: 2025-10-16T01:35:01.325Z
 title: Creating Passionate Readers - A Piece by Nancie Atwell
 sort: 1
 nav: reading-resources
@@ -19,6 +19,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738986330/unnamed-1303_hx4czd.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578219/unnamed-1667_bb4m0f.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710867817/unnamed-496_qfxt0c.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578488/unnamed-1701_d36wrs.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710868255/unnamed-442_hgmmyc.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554553/unnamed-852_d5mckl.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554551/unnamed-853_blqsmw.jpg
