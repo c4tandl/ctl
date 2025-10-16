@@ -1,17 +1,19 @@
 ---
-date: 2025-02-04T02:43:54.052Z
+date: 2025-10-16T01:32:30.898Z
 title: Home
 homepage: true
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738561432/IMG_0085_rtdzo7.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560986/IMG_2306_un6bm2.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578012/unnamed-1663_sxjm9z.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560852/unnamed-1082_zu3yl3.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560800/unnamed-1150_xoxnvi.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867860/Home%20page%20photos/school.1080.31_nzfsxk.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560741/unnamed-1190_k0dnc9.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560703/unnamed-1187_t6ijbb.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560512/unnamed-1146_awqijp.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578329/unnamed-1689_pzfdkq.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.22_gmsyl1.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738559972/unnamed-1043_nbtac3.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738559940/unnamed-1041_tdene1.jpg
