@@ -1,12 +1,13 @@
 ---
 path: about
-date: 2025-02-03T05:05:44.783Z
+date: 2025-10-16T01:26:58.859Z
 title: At a Glance
 sort: 1
 nav: about
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-848_jkl4hd.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760578012/unnamed-1663_sxjm9z.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554533/unnamed-1183_gkangc.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554535/unnamed-1119_h04qdt.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-878_izjicl.jpg
