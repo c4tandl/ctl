@@ -1,15 +1,15 @@
 ---
 path: the-outdoor-classroom
-date: 2025-02-03T05:47:17.846Z
+date: 2025-10-16T01:21:47.113Z
 title: The Outdoor Classroom
 sort: 4
 nav: how-we-teach-and-learn
 carousel:
   images:
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1674503508/general/IMG-1347_qgnlfo.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-927_rh6k2y.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-878_izjicl.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-875_btmis9.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760577556/IMG_5642_orxmz5.heic
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-876_kfvwir.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-848_jkl4hd.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-855_fs94hn.jpg
@@ -18,6 +18,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553830/unnamed-1193_yxbbqf.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553831/unnamed-1194_que4i6.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553832/unnamed-1206_ztb5n5.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1674503508/general/IMG-1347_qgnlfo.jpg
 ---
 CTL’s Outdoor Classroom is both a place and a program.
 
