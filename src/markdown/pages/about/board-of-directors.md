@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2025-09-18T13:45:39.853Z
+date: 2025-10-18T22:25:05.721Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -22,6 +22,8 @@ Josh is parent to Kelly, who began his CTL career as a kindergartener in 2016. J
 **Anne Atwell Merkel**, Clerk\
 Anne has been CTL’s teacher of grades 7-8 writing, reading, and history since 2013 and is a member of the Class of 2000. With her mother, Nancie Atwell, she is a co-author of *The Reading Zone, Second Edition: How to Help Kids Become Skilled, Passionate, Habitual, Critical Readers*, based on their work with readers at CTL. One of Anne’s earliest memories is standing with her mom, at sunset, on the land on Cross Point Road that would become home to, so far, thirty years’ worth of writers, readers, mathematicians, historians, scientists, and artists. She has considered it her own second home ever since. 
 
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760826293/IMG_4248-2_icy4em.jpg)
+
 **Peter Branch**, Treasurer\
 Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been coming to Maine every summer of his life to help his family run Linekin Bay Resort which they owned from 1909 until 2015. He and his wife, Paula, now live in Boothbay year round. In his winter life, he was the head of independent pre-k through grade 12 schools for 37 years. These schools included the Dalton School in New York City, Woodmere Academy in Woodmere, Long Island, Holland Hall School in Tulsa, Oklahoma, Georgetown Day School in Washington, D.C., and the Rocky Hill School in East Greenwich, Rhode Island. Peter also did a 2 year stint as Executive Director of The Washington Ballet. During his educational career he spoke at numerous conferences and served on association boards, including the board of the National Association of Episcopal Schools, of which he was president. Peter is honored to become a member of the board of the Center for Teaching and Learning which he has long admired for its leadership in elementary and middle school education.
 
@@ -31,8 +33,6 @@ Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been com
 Maureen was a middle school teacher whose work was dramatically influenced by Nancie Atwell’s first book *In the Middle* and by Nancie’s subsequent articles, books, and presentations. Nancie invited her to CTL in its early days, and many times over the years, so she developed a deep appreciation for the pedagogy, school culture, and commitment to excellence the whole school community embodies. A faculty member at NYU and UNH for many years, she is now at Stenhouse Publishers, editing books by and for teachers. She lives in Kittery, ME and is grateful to be a part of the CTL family.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1758202330/Aura_Photo_zrachp.jpg)
-
-
 
 **Aura Doak**
 
