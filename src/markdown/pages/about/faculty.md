@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2025-10-18T22:08:47.275Z
+date: 2025-10-18T22:15:50.928Z
 title: Faculty
 sort: 4
 nav: about
@@ -42,6 +42,8 @@ nav: about
 **Kennedy Hathaway** joined CTL as a helping teacher in 2024. She is a graduate of Husson University with a degree in elementary education and a focus in science. During college, Kennedy interned at the Challenger Learning Center where she worked alongside NASA scientists, engineers, astronauts, and teachers. In her free time she likes to spend time with her family, chase her tortoises around, read, write, garden, bake, craft, and explore. This is Kennedy’s first year teaching, and she is excited to jump in and learn!
 
 **Erika Mathieson** came to CTL as an assistant art teacher and helping teacher in January of 2025. She graduated in 2024 from Wheaton College with a degree in visual arts and psychology. She hails from Round Pond and spends her summers at their sailing camp, the Granite Hall Store, and Round Pond Coffee. Erika’s passion is ceramics and she brings her love of all things art-related to CTL’s students each day. 
+
+**Kariska Puchalski** is a CTL helping teacher, and has been a member of the CTL community for a number of years. She spent six years working at Juniper Hill School, a place-based, outdoor school. She brings her life experience of living on an island and a houseboat community, working in the natural foods industry, and as a designer/maker of jewelry and needle felting pieces. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
 
