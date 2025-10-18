@@ -1,10 +1,14 @@
 ---
 path: faculty
-date: 2025-09-18T14:04:47.866Z
+date: 2025-10-18T22:08:47.275Z
 title: Faculty
 sort: 4
 nav: about
 ---
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669912457/faculty%20and%20staff%20photos/Haley_2021_ipw4lr.jpg)
+
+**Haley Barnes** joined CTL in 2021 as a helping teacher. In 2024, Haley helped launch the school's inaugural Pre-K--K class as the assistant teacher. She has spent over ten years working with children in different roles. She spent time as a preschool teacher, Behavioral Health Professional (BHP), and many years as a nanny. She graduated from nearby Morse High School, and moved on to Suffolk University in Boston. She returned to Maine, became a mother, and finished her degree. She graduated from Walden University, Summa Cum Laude, with a Bachelor of Science degree in Health Studies with a focus in Child Development. Haley believes that each domain of health must be nurtured in children. Social-emotional development in addition to cognitive development are foci that she enjoys supporting for CTL's students.
+
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Jenn_3_sdbm31.png)
 
 **Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jennifer stepped into a new role as the  Grade 1-2 teacher. In 2023, she transitioned to leading CTL's kindergarten, and in 2024, Jennifer helped launch the school's inaugural Pre-K--K class. Jennifer has always enjoyed teaching the reading and writing programs in grades Pre-K--4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
@@ -29,14 +33,6 @@ nav: about
 
 **Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 14 years of experience in the classroom. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. At CTL, she works as a part-time administrator in addition to her classroom roles. 
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
-
-**Kaity Newell** is CTL’s music teacher for grades Pre-K--4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for over 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently.
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669912457/faculty%20and%20staff%20photos/Haley_2021_ipw4lr.jpg)
-
-**Haley Barnes** joined CTL in 2021 as a helping teacher. In 2024, Haley helped launch the school's inaugural Pre-K--K class as the assistant teacher. She has spent over ten years working with children in different roles. She spent time as a preschool teacher, Behavioral Health Professional (BHP), and many years as a nanny. She graduated from nearby Morse High School, and moved on to Suffolk University in Boston. She returned to Maine, became a mother, and finished her degree. She graduated from Walden University, Summa Cum Laude, with a Bachelor of Science degree in Health Studies with a focus in Child Development. Haley believes that each domain of health must be nurtured in children. Social-emotional development in addition to cognitive development are foci that she enjoys supporting for CTL's students.
-
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/kate.faculty_t2lbyj.jpg)
 
 **Cate Molloy** enjoys being a helping teacher at CTL and working as the Aftercare Program Director. Cate is a graduate of the University of Vermont with a degree in elementary education. She spent many years teaching kindergarten and first grade and most recently working in a library. Her enthusiasm for being a part of the CTL community is based in the lovely way that what she has loved about both worlds combine at CTL. She lives in Hallowell and, when not trying to see every sturgeon that might swim by on the Kennebec, can be found swimming laps, taking walks, hitting up her local library for books, and trying to return them on time.
@@ -44,3 +40,13 @@ nav: about
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732156675/10755-CTL_240925_llemax.jpg)
 
 **Kennedy Hathaway** joined CTL as a helping teacher in 2024. She is a graduate of Husson University with a degree in elementary education and a focus in science. During college, Kennedy interned at the Challenger Learning Center where she worked alongside NASA scientists, engineers, astronauts, and teachers. In her free time she likes to spend time with her family, chase her tortoises around, read, write, garden, bake, craft, and explore. This is Kennedy’s first year teaching, and she is excited to jump in and learn!
+
+**Erika Mathieson** came to CTL as an assistant art teacher and helping teacher in January of 2025. She graduated in 2024 from Wheaton College with a degree in visual arts and psychology. She hails from Round Pond and spends her summers at their sailing camp, the Granite Hall Store, and Round Pond Coffee. Erika’s passion is ceramics and she brings her love of all things art-related to CTL’s students each day. 
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
+
+**Kaity Newell** is CTL’s music teacher for grades Pre-K--4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for over 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently.
+
+**Misha Barker** has been with Hearty Roots since 2017, when she joined the team as a seasonal program facilitator supporting outdoor youth programs. In 2024, Misha stepped into a year-round role as Youth Program Manager, where she now leads school partnerships and seasonal camps. Over the years, she has loved expanding Hearty Roots’ programming to reach more schools and communities in a variety of settings, while continuing to spend as much time as possible outdoors with youth. In addition to her youth development work at Hearty Roots, Misha is a professional photographer, and can often be found traveling with her camera in hand. 
+
+**Molly Thibault** received her degree in Adventure-Based Environmental Education from Unity College, where she also worked as a Trip Leader facilitating multi-day outdoor experiences for incoming students. Since 2019, Molly has led a variety of activities that connect and empower youth in the outdoors, building skills in leadership, community, and risk management. She has been a long-time seasonal Adventure Mentor with Hearty Roots, leading day camps and camping expeditions, and in 2025, she stepped into a year-round role. Molly brings her passion for outdoor education and wilderness exploration to every program.
