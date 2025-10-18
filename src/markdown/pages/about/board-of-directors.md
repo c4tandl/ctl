@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2025-10-18T22:25:05.721Z
+date: 2025-10-18T22:30:02.231Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -41,7 +41,7 @@ Aura was born and raised in Boston, Massachusetts and attended college at Wentwo
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1675443244/faculty%20and%20staff%20photos/katy.papagiannis.2023_dbc0j7.jpg)
 
 [](http://c-t-l.org/rob-2/)**Katy Papagiannis**\
-Katy’s children, Gigi, class of 2023, and Ryo, class of 2026, have attended CTL since kindergarten and she feels grateful every day for the opportunity to share the joy that both children have found at CTL: Gigi’s dedication to reading, writing, art, and math and Ryo’s adventures with all his school subjects and recess. Katy is a graphic designer in the marketing department of the MIT Press, working remotely from Maine since 2008. She hopes to bring her experience with visual and marketing communications to help share CTL's mission with the local and broader community.
+Katy’s children, Madoka, class of 2023, and Ryo, class of 2026, have attended CTL since kindergarten and she feels grateful every day for the opportunity to share the joy that both children have found at CTL: Gigi’s dedication to reading, writing, art, and math and Ryo’s adventures with all his school subjects and recess. Katy is a graphic designer in the marketing department of the MIT Press, working remotely from Maine since 2008. She hopes to bring her experience with visual and marketing communications to help share CTL's mission with the local and broader community.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1692289297/cid_4E0E0EAF-E0B8-450C-8D92-8D472EBF1E9C_hr60t6.jpg)
 
