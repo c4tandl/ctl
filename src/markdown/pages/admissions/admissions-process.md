@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2025-10-29T13:38:16.717Z
+date: 2025-12-09T19:03:39.765Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -35,7 +35,7 @@ carousel:
 ---
 CTL’s Admissions Process:
 
-A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open Tour. CTL's next Open Tour will be held on Thursday, December 4, from 8:15-10:00. Please RSVP to sarah@c-t-l.org or call the office at 207-882-9706. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school.
+A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open Tour. Tours are held from 8:15-10:00. Please RSVP to sarah@c-t-l.org or call the office at 207-882-9706. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school.
 
 B. **Applying**: Once you know you would like to apply, do so by:
 
