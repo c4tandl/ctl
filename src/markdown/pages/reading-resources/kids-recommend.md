@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2025-12-10T14:36:09.565Z
+date: 2025-12-10T19:32:58.575Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -329,161 +329,163 @@ Gr. 3-4 
 
 
 
-Applegate, Katherine  *The One and Only Ivan* series, *Crenshaw, Wishtree*
+Applegate, Katherine  *The One and Only Ivan* series, *Crenshaw, Wishtree*
 
-Avi    *The End of the Beginning, Ereth’s Birthday, The Good Dog,* and the *Poppy* series
+Avi    *The End of the Beginning, Ereth’s Birthday, The Good Dog,* and the *Poppy* series
 
-Banerjee, Anjali     *Seaglass Summer*
+Banerjee, Anjali     *Seaglass Summer*
 
-Barrows, Annie    *The Magic Half, Magic in the Mix*
+Barrows, Annie    *The Magic Half, Magic in the Mix*
 
-Blume, Judy    *Tales of a Fourth Grade Nothing, Otherwise Known as Sheila the Great, Superfudge, Fudge-a-mania,* and *Double Fudge*
+Blume, Judy    *Tales of a Fourth Grade Nothing, Otherwise Known as Sheila the Great, Superfudge, Fudge-a-mania*, and *Double Fudge*
 
-Bode, N.E.    *The Anybodies* series
+Bode, N.E.    *The Anybodies* series
 
-Bosch, Pseudonymous   *The Secret* series 
+Bosch, Pseudonymous  *The Secret* series 
 
-Buckley, Michael    The *Sisters Grimm* series
+Buckley, Michael    *The Sisters Grimm* series
 
-Byars, Betsy    *My Dog, My Hero*
+Byars, Betsy    *My Dog, My Hero*
 
-Cameron, Bruce    *A Dog’s Purpose Puppy Tales: Molly’s Story, Ellie’s Story, Max’s Story,* etc.
+Cameron, Bruce    *A Dog’s Purpose Puppy Tales: Molly’s Story, Ellie’s Story, Max’s Story*, etc.
 
-Colfer, Chris    *The Land of Stories*
+Cleary, Beverly     *Ramona* series, *Henry Huggins* series, *Ribsy, Socks*
 
-Cowell, Cressida    The *How to Train Your Dragon* series
+Clements, Andrew     *School Stories* series
 
-Creech, Sharon    Hate That Cat, Love That Dog, Granny Torelli Makes Soup, and Pleasing the Ghost
+Colfer, Chris    *The Land of Stories*
 
-Dahl, Roald    *George’s Marvelous Medicine, The Witches, The Twits, Esio Trot,* and *Charlie and the Chocolate Factory*
+Creech, Sharon    *Hate That Cat, Love That Dog,* and *Pleasing the Ghost*
 
-Delaney, Joseph    *The Last Apprentice* series
+Dahl, Roald    *George’s Marvelous Medicine, The Witches, The Twits, Esio Trot,* and *Charlie and the Chocolate Factory*
 
-Di Camillo, Kate    *Because of Winn-Dixie, The Miraculous Journey of Edward Tulane,* and *The Tale of Despereaux*
+Di Camillo, Kate    *Because of Winn-Dixie, The Miraculous Journey of Edward Tulane,* and *The Tale of Despereaux*
 
-Doyle, Roddy    *The Giggler Treatment, The Meanwhile Adventures*
+Doyle, Roddy    *The Giggler Treatment* and *The Meanwhile Adventures*
 
-Dunmore, Helen    *Ingo*
+Dunmore, Helen    *Ingo*
 
-Durst, Sarah    *The Girl Who Could Not Dream*
+Durst, Sarah    *The Girl Who Could Not Dream*
 
-Erdrich, Louise  *The Birchbark House*
+Epstein, Adam Jay    *The Familiars* series
 
-Epstein, Adam Jay    *The Familiars* series
+George, Jean Craighead    *My Side of the Mountain, Frightful’s Mountain, On the Far Side of the Mountain,* and *There’s an Owl in the Shower*
 
-Estes, Eleanor    *Ginger Pye* and *Pinky Pye*
+Grabenstein, Chris   *Escape from Mr. Lemoncello’s Library, Mr. Lemoncello’s Library Olympics,* and *The Island of Dr. Libris*
 
-Flanagan, John    The *Ranger’s Apprentice* series
+Griffiths, Andy    *The Treehouse* series
 
-Forester, Victoria    *The Girl Who Could Fly*
+Guterson, Ben     *Winterhouse* series
 
-George, Jean Craighead    *My Side of the Mountain, Frightful’s Mountain, On the Far Side of the Mountain,* and *There’s an Owl in the Shower* 
+Gutman, Dan    *The Genius Files* series
 
-Grabenstein, Chris   *Escape from Mr. Lemoncello’s Library, Mr. Lemoncello’s Library Olympics,* and *The Island of Dr. Libris*
+Hale, Shannon     *Princess Academy*
 
-Griffiths, Andy    The *Treehouse* series
+Hanlon, Abby     *Dory Fantasmagory* series
 
-Gutman, Dan    *The Genius Files* series
+Herlong, M.H.    *Buddy*
 
-Henkes, Kevin    *Junonia*
+Hiaasen, Carl    *Flush, Hoot, Scat, Chomp, Squirm,* and *Wrecker*
 
-Herlong, M.H.    *Buddy*
+Howe, James    The *Bunnicula* series
 
-Hiaasen, Carl    *Flush, Hoot,* and *Scat*
+Jacobson, Jennifer Richard    *Truly Winnie*
 
-Howe, James    The *Bunnicula* series
+Jameson, *Victoria Roller Girl*
 
-Hunt, Lynda Mullaly    *Fish in a Tree*
+Jennings, Patrick     The *Guinea Dog* series
 
-Jacobson, Jennifer Richard    *Truly Winnie*
+Kelly, Erin Entrada     *The Land of Forgotten Girls*
 
-Jameson, Victoria *Roller Girl*
+Kessler, Liz    *The Tail of Emily Windsnap* series
 
-Jenkins, Emily    *Toys Go Out* and *Toy Dance Party*
+Kibuishi, Kazu      *Amulet* series
 
-Jennings, Patrick The *Guinea Dog* series
+Kinney, Jeff    *The Diary of a Wimpy Kid* series
 
-Kelly, Lynne    *Chained*
+Korman, Gordon     *Swindle, Zoobreak,* and *Framed*
 
-Kessler, Liz    *The Tail of Emily Windsnap* series
+Lasky, Kathryn     *Guardians of Ga’hoole* series
 
-Kibuishi, Kazu *Amulet* series
+Law, Ingrid    *Savvy, Scumble,* and *Switch*
 
-Kinney, Jeff   *The Diary of a Wimpy Kid* series
+Lin, Grace    *Where the Mountain Meets the Moon, Year of the Dog, Year of the Rat, Starry River of the Sky,* and *Dumpling Days*
 
-Korman, Gordon  *Swindle, Zoobreak,* and *Framed*
+Lloyd, Natalie     *A Snicker of Magic*
 
-Law, Ingrid    *Savvy*
+Lord, Cynthia    *Rules, A Handful of Stars, Touchblue,* and *Half a Chance*
 
-Lin, Grace    *Where the Mountain Meets the Moon, Year of the Dog, Year of the Rat, Starry River of the Sky,* and *Dumpling Days*
+Maguire, Gregory    *Leaping Beauty*
 
-Lord, Cynthia    *Rules, A Handful of Stars, Touchblue,* and *Half a Chance*
+Marks, Janae     *A Split Second*
 
-Lubar, David    *Road Weenies, Lawn Weenies, Campfire Weenies,* etc.
+Martin, Ann M.    *The Baby-Sitters Club* graphic novels
 
-Maguire, Gregory    *Leaping Beauty*
+Mass, Wendy    *The Candymakers* and *Eleven Birthdays*
 
-Martin, Ann M.    *The Baby-Sitters Club* graphic novels
+Matson, Morgan     *The Firefly Summer*
 
-Mass, Wendy    *The Candymakers*
+McDonald, Megan    *The Sisters Club, Rule of Three,* and *Cloudy with a Chance of Boys*
 
-McDonald, Megan    *The Sisters Club, Rule of Three,* and *Cloudy with a Chance of Boys*
+Messenger, Shannon     *Keeper of the Lost Cities*
 
-Messenger, Shannon   *Keeper of the Lost Cities*
+Myracle, Lauren    *Ten* and *Eleven*
 
-Mills, Claudia    *7 x 9 = Trouble*
+O’Connor, Barbara    *Wish*
 
-Mlynowski, Sarah    The *Whatever After* series
+Orr, Wendy     *Nimm’s Island*
 
-Mull, Brandon    The *Fablehaven* series, the *Beyonders* series, and *The Candy Shop War*
+Palacio, R.J.   *Wonder* and *Auggie and Me*
 
-Myracle, Lauren    *Ten* and *Eleven*
+Parr, Maria   *Adventures with Waffles*
 
-O’Connor, Barbara    *Wish*
+Patterson, James        *The Treasure Hunters* series
 
-Palacio, R.J.   *Wonder* and *Auggie and Me*
+Paulsen, Bree     *Garlic and the Witch* and *Garlic and the Vampire*
 
-Parr, Maria   *Adventures with Waffles*
+Paulsen, Gary    *Hatchet, The River, Dogsong,* and *Hatchet Winter*
 
-Patterson, James        The *Treasure Hunters* series
+Plays, Stacy     *The Wild Rescuers* series
 
-Paulsen, Gary    *Hatchet, The River, Dogsong,* and *Hatchet Winter*
+Rhodes, Jewel Parker   *Sugar*
 
-Paver, Michelle    *Wolf Brother, Spirit Walker,* and the rest of the *Chronicle of Ancient Darkness*
+Riordan, Rick     The *Percy Jackson* series, the *Kane Chronicles* series, the *Heroes of Olympus* series, and the *Magnus Chase* series
 
-Perkins, Linda Rae   *Nuts to You*
-
-Rhodes, Jewel Parker   *Sugar*
-
-Riordan, Rick The *Percy Jackson* series, the *Kane Chronicles* series, the *Heroes of Olympus* series, and the *Magnus Chase* series
+Rodriguez, Cindy L.     *Lola Reyes Is So Not Worried*
 
 Rowling, J.K. The *Harry Potter* series
 
-Sachar, Louis    *Holes*
+Sachar, Louis    *Holes*
 
-Sage, Angie    *Flyte, Magyk,* and *Physik*
+Sage, Angie    *Flyte, Magyk,* and *Physik*
 
-Selznick, Brian    *The Invention of Hugo Cabret*
+Selznick, Brian    *The Invention of Hugo Cabret*
 
-Smith, Jeff   The *Bone* series
+Snicket, Lemony     *A Series of Unfortunate Events* series
 
-Snicket, Lemony *A Series of Unfortunate Events* series
+Soup, Dr. Cuthbert    *A Whole Nother Story, Another Whole Nother Story,* and *No Other Story*
 
-Soup, Dr. Cuthbert    *A Whole Nother Story, Another Whole Nother Story*, and *No Other Story*
+Stewart, Trenton Lee    *The Mysterious Benedict Society* series
 
-Stewart, Trenton Lee    *The Mysterious Benedict Society* series
+Sutherland, Tui T.   *Wings of Fire* series
 
-Stone, Jeff    *The Five Ancestors* series
+Telgemeier, Raina    *Smile, Sisters, Ghosts,* and *Baby-sitters Club*
 
-Telgemeier, Raina    *Smile, Sisters, Ghosts,* and *Baby-sitters Club*
+Voigt, Cynthia    *Angus* and *Sadie*
 
-Voigt, Cynthia    *Angus and Sadie*
+Wallace, Bill    *Snot Stew* and *Furball, Puppy, and Me*
 
-Wallace, Bill    *Snot Stew* and *Furball, Puppy, and Me*
+Walliams, David     *World’s Worse* series
 
-West, Jacqueline    *The Books of Elsewhere* series
+Watson, Renee     *Ways to Make Sunshine*
+
+West, Jacqueline    *The Books of Elsewhere* series
+
+White, E.B.     *Charlotte’s Web*
 
 Wilder, Laura Ingalls The *Little House* series
+
+
 
 </details>
 
