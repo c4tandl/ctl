@@ -1,6 +1,6 @@
 ---
 path: our-donors
-date: 2024-11-19T01:41:47.101Z
+date: 2025-12-10T19:58:35.738Z
 title: Our Donors
 sort: 2
 nav: donate
@@ -12,6 +12,5 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1700589582/unnamed-217_dl3alk.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1700589582/IMG_5551_ixcw0e.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1700589582/IMG_5842_drg0w8.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1700589581/unnamed-266_d4wibe.jpg
 ---
 [2023-24 Donors](https://drive.google.com/file/d/1c5SUMqlAw6Ww6XtofGB5FVUd8aiF1LOe/view?usp=sharing) - Thank you!
