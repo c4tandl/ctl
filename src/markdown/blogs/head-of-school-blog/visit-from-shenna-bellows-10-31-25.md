@@ -2,8 +2,8 @@
 # Prefix with `/head-of-school-blog/` necessary for proper routing
 slug: /head-of-school-blog/new-post
 blog: head-of-school-blog
-title: Visit from Shenna Bellows - 10/31/25
-date: 2025-12-10T14:19:36.501Z
+title: 10/31/25 - Visit from Shenna Bellows
+date: 2025-12-10T14:20:07.018Z
 ---
 October 31, 2025
 
