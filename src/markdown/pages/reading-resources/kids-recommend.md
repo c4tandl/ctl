@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2023-03-29T20:08:03.476Z
+date: 2025-12-10T14:36:09.565Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -324,27 +324,26 @@ Wilson, Karma    *Bear Snores On* and the rest of the Bear books
 <details>
 <summary>
 Gr. 3-4 
+
 </summary>
 
-Appelt, Kathi    *The True Blue Scouts of Sugar Man Swamp*
 
-Applegate, Katherine  *The One and Only Ivan and Crenshaw*
 
-Armstrong, K.L. and M.A. Marr   *The Blackwell Pages* series
+Applegate, Katherine  *The One and Only Ivan* series, *Crenshaw, Wishtree*
 
 Avi    *The End of the Beginning, Ereth’s Birthday, The Good Dog,* and the *Poppy* series
 
 Banerjee, Anjali     *Seaglass Summer*
 
-Barrows, Annie    *The Magic Half*
-
-Barry, Dave    The *Peter and the Starcatchers* series and *Science Fair*
+Barrows, Annie    *The Magic Half, Magic in the Mix*
 
 Blume, Judy    *Tales of a Fourth Grade Nothing, Otherwise Known as Sheila the Great, Superfudge, Fudge-a-mania,* and *Double Fudge*
 
 Bode, N.E.    *The Anybodies* series
 
-Buckley, Michael    The *N.E.R.D.S.* series and the *Sisters Grimm* series
+Bosch, Pseudonymous   *The Secret* series 
+
+Buckley, Michael    The *Sisters Grimm* series
 
 Byars, Betsy    *My Dog, My Hero*
 
@@ -637,7 +636,7 @@ Griffin, Paul    *The Orange Houses, Burning Blue,* and *Ten Mile River*
 
 Han, Jenny    *Shug*
 
-Hannigan, Katherine  *  Ida B.*
+Hannigan, Katherine   * Ida B.*
 
 Harrington, Karen    *Sure Signs of Crazy*
 
@@ -799,7 +798,7 @@ Rosoff, Meg    *Picture Me Gone* and *There Is No Dog*
 
 Roth, Veronica   The *Divergent* series
 
-Rowling, J.K.   * Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban,* etc.
+Rowling, J.K.    *Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban,* etc.
 
 Rupp, Rebecca    *After Eli*
 
@@ -1219,7 +1218,7 @@ Melville, Herman    *Moby Dick*
 
 Meyer, Marissa    *Cinder, Scarlet, Cress, Winter,* and *Fairest*
 
-Mezrich, Ben   * Bringing Down the House* [(review)](http://c-t-l.org/bookblog/?p=858) and *The Accidental Billionaires*
+Mezrich, Ben    *Bringing Down the House* [(review)](http://c-t-l.org/bookblog/?p=858) and *The Accidental Billionaires*
 
 Miller, Kirsten    *How to Lead a Life of Crime*
 
@@ -1333,7 +1332,7 @@ Rubin, Lance  *Denton Little’s Death Date*
 
 Ruebens, Michael    *Son of 613*
 
-Runyon, Brent  *  The Burn Journals* and *Surface Tension*
+Runyon, Brent   * The Burn Journals* and *Surface Tension*
 
 Sagan, Carl    *Contact*
 
@@ -1423,7 +1422,7 @@ Wagner, Laura Rose   *Hold Tight, Don’t Let Go*
 
 Walker, Karen Thompson    *The Age of Miracles*
 
-Wallach, Tommy * We All Looked Up* and *Thanks for the Trouble*
+Wallach, Tommy  *We All Looked Up* and *Thanks for the Trouble*
 
 Watson, Renee   *Piecing Me Together* and *Watch Us Rise*
 
@@ -1441,7 +1440,7 @@ Weisel, Elie    *Night*
 
 Whaley, John Corey    *Where Things Come Back* and *Noggin*
 
-White, Ellen Emerson  *  A Season of Daring Greatly*
+White, Ellen Emerson   * A Season of Daring Greatly*
 
 White, T.H.    *The Once and Future King* and *The Book of Merlin*
 
