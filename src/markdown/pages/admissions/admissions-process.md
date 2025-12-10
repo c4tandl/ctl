@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2025-12-09T19:03:39.765Z
+date: 2025-12-10T19:54:24.338Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -12,18 +12,13 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.6_hgmmqf.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867863/Home%20page%20photos/school.1080.5_twrpvd.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867861/Home%20page%20photos/school.1080.38_vqfsuj.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554553/unnamed-852_d5mckl.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554537/IMG_1353_lfjyrg.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867862/Home%20page%20photos/school.1080.7_r3fkdb.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-878_izjicl.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553832/unnamed-1206_ztb5n5.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738554551/unnamed-853_blqsmw.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-875_btmis9.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867864/Home%20page%20photos/school.1080.16_lkhcjm.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555497/IMG-1043_t5svxx.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555490/IMG_0935_vn1sb9.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555490/unnamed-928_jofgmx.jpg
-    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-848_jkl4hd.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555494/IMG-1098_xgqcmx.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555490/image-26_tyl73g.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738555490/unnamed-972_lxuda4.jpg
