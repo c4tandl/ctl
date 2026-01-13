@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2026-01-13T15:27:23.200Z
+date: 2026-01-13T15:43:29.059Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -17,11 +17,6 @@ Originally from Copenhagen, Denmark, Pia moved in 1983 to the US and in 2000 to 
 **Joshua Manahan**, Co-President\
 Josh is parent to Kelly, who began his CTL career as a kindergartener in 2016. Josh has lived in Alna with his wife Abby since 2004. Although spending much of his time building and selling painting supports as well as cutting boards for midcoast artists through The nEAT Kitchen, the practice of reading and writing remains an important outlet for him. Josh regularly regrets being too embarrassed to ask for help with math when he was a student. He is honored to be able to share his perspective as CTL strives to honor and learn from its past, while charting an exciting future.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913161/faculty%20and%20staff%20photos/Anne_Merkel_Bio_Photo_qm2jna.jpg)
-
-**Anne Atwell Merkel**, Clerk\
-Anne has been CTL’s teacher of grades 7-8 writing, reading, and history since 2013 and is a member of the Class of 2000. With her mother, Nancie Atwell, she is a co-author of *The Reading Zone, Second Edition: How to Help Kids Become Skilled, Passionate, Habitual, Critical Readers*, based on their work with readers at CTL. One of Anne’s earliest memories is standing with her mom, at sunset, on the land on Cross Point Road that would become home to, so far, thirty years’ worth of writers, readers, mathematicians, historians, scientists, and artists. She has considered it her own second home ever since. 
-
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760826293/IMG_4248-2_icy4em.jpg)
 
 **Peter Branch**, Treasurer\
@@ -34,9 +29,7 @@ Maureen was a middle school teacher whose work was dramatically influenced by Na
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1758202330/Aura_Photo_zrachp.jpg)
 
-
-
-**Aura Doak[](http://c-t-l.org/rob-2/)**\
+**Aura Doak**[](http://c-t-l.org/rob-2/)\
 Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1675443244/faculty%20and%20staff%20photos/katy.papagiannis.2023_dbc0j7.jpg)
