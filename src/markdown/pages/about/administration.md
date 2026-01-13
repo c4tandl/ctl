@@ -1,6 +1,6 @@
 ---
 path: administration
-date: 2025-02-03T05:03:33.836Z
+date: 2026-01-13T15:33:23.173Z
 title: Administration
 sort: 5
 nav: about
@@ -10,6 +10,12 @@ carousel:
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Katy_1_jfpimq.png)
 
 **Katy Inman** (katy@c-t-l.org) joined CTL in the summer of 2019 as Head of School. She earned her Bachelor of Arts degree in English Literature from Haverford College in 1999, and her Master of Arts in Teaching from Brown University in 2002. From 2004 to 2019, she was the Middle School Director and a 7-8 humanities teacher at Touchstone Community School in Grafton, Massachusetts.
+
+
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1768318311/unnamed-2045_ejtoa8.jpg)
+
+
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/louise.staff_spnpef.jpg)
 
