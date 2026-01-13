@@ -1,6 +1,6 @@
 ---
 path: administration
-date: 2026-01-13T15:33:23.173Z
+date: 2026-01-13T15:34:30.991Z
 title: Administration
 sort: 5
 nav: about
@@ -15,7 +15,7 @@ carousel:
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1768318311/unnamed-2045_ejtoa8.jpg)
 
-
+**Anne Atwell Merkel**, Assistant Head of School
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/louise.staff_spnpef.jpg)
 
