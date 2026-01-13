@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2025-10-18T22:30:39.982Z
+date: 2026-01-13T15:27:23.200Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -34,9 +34,10 @@ Maureen was a middle school teacher whose work was dramatically influenced by Na
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1758202330/Aura_Photo_zrachp.jpg)
 
-**Aura Doak**
 
-Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families
+
+**Aura Doak[](http://c-t-l.org/rob-2/)**\
+Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1675443244/faculty%20and%20staff%20photos/katy.papagiannis.2023_dbc0j7.jpg)
 
