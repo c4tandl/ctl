@@ -1,6 +1,6 @@
 ---
 path: administration
-date: 2026-01-13T15:34:30.991Z
+date: 2026-01-13T18:25:23.983Z
 title: Administration
 sort: 5
 nav: about
@@ -11,11 +11,11 @@ carousel:
 
 **Katy Inman** (katy@c-t-l.org) joined CTL in the summer of 2019 as Head of School. She earned her Bachelor of Arts degree in English Literature from Haverford College in 1999, and her Master of Arts in Teaching from Brown University in 2002. From 2004 to 2019, she was the Middle School Director and a 7-8 humanities teacher at Touchstone Community School in Grafton, Massachusetts.
 
-
-
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1768318311/unnamed-2045_ejtoa8.jpg)
 
-**Anne Atwell Merkel**, Assistant Head of School
+
+
+**Anne Atwell Merkel** is CTL's Assistant Head of School and a proud member of the Class of 2000. A graduate of Amherst College, she taught 7-8 Humanities at CTL for nine years before going on to work in nonprofit administration, primarily for Girls on the Run-Maine as Program Manager, where she led programming, outreach, and training and partnered with over 70 schools and communities across the state. She served on the CTL Board of Directors for eleven years, recently leading the committees on Curriculum and Professional Reach, and is co-author, with her mother, Nancie Atwell, of *The Reading Zone, Second Edition: How to Help Kids Become Skilled, Passionate, Habitual, Critical Readers*, based on work with readers at CTL. One of Anne’s earliest memories is standing with her mom, at sunset, on the land on Cross Point Road that would become home to, so far, thirty-five years’ worth of writers, readers, mathematicians, historians, scientists, and artists. She has considered it her own second home ever since. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/louise.staff_spnpef.jpg)
 
