@@ -1,10 +1,103 @@
 ---
 path: kids-recommend
-date: 2025-12-10T19:32:58.575Z
+date: 2026-01-14T18:25:06.780Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
 ---
+<details>
+<summary>
+    Pre-K
+</summary>
+
+Anderson, Airlie  *Neither*
+
+Barner, Bob     *Bears! Bears! Bears!, Bugs! Bugs! Bugs!,* and *Sea Bones*
+
+Berenstain, Stan & Jan     *The Berenstain Bears* series
+
+Black, Birdie     *Warthog a Counting Adventure*
+
+Blumenthal, Nancy     *COUNT-A-SAURUS*
+
+Briggs Martin, Jacqueline     *Snowflake Bently*
+
+Brown, Peter     *Children Make Terrible Pets,, Flight of the Dodo, Fred Gets Dressed, My Teacher Is a Monster! (No, I Am Not.), You Will Be My Friend!,* and *The Wild Robot on the Island*
+
+Cain, Janan     *The Way I Feel*
+
+Cotterill, Samantha     *Can I Play Too?*
+
+Crews, Donald     *Ten Black Dots*
+
+Cronin, Doreen    *Click, Clack, Moo … Cows That Type, Diary of a Worm, Duck for President, Click, Clack, Peep!,* and *Giggle, Giggle, Quack*
+
+Dobbs, Dayle Ann.    *The Shape of Things*
+
+Donaldson, Julia     *Cave Baby, Charlie Cook’s Favourite Book, Paper Dolls, Room on the Broom, Stick Man, The Baddies, The Gruffalo, The Gruffalo’s Child, The Smeds and the Smoos, The Snail and the Whale, The Smartest Giant in Town, Spiderella, A Squash and a Squeeze,* and *Tyrannosaurus Drip*
+
+Elhert, Lois    *Feathers for Lunch, Leaf Man, Mole’s Hill, Nuts to You, Pie in the Sky, Red Leaf, Yellow Leaf, RRRalph, Snowballs, Top Cat, Wag a Tail,* and *Waiting for Wings*
+
+Fenske, Jonathan     *Get Well, Crabby!, Hello, Crabby!, Let’s Play, Crabby!, Party Time, Crabby!,* and *Wake Up, Crabby!* 
+
+Fox, Mem     *Whoever You Are*
+
+Gibbons, Gail     *Apples, Bats, Caves and Caverns, Coral Reefs, From Seed to Plant, Sharks,* and *Surrounded By Sea: Life on a New England Fishing Island* 
+
+Henkes, Kevin     *Chester’s Way, Chrysanthemum, A Good Day, Julius,  Lilly and the Purple Plastic Purse, Lilly’s Big Day, Lilly’s Chocolate Heart, Old Bear, Owen, Sheila Rae, The Brave, A Weekend with Wendell, Waiting,* and *Wemberly Worried*
+
+Higgins, Ryan T.     *Big Move, Big Storm, Hotel Bruce, Mother Bruce, 1 Grumpy Bruce,* and *Spring Stinks*
+
+Himmelman, John     *Chickens to the Rescue* and *Cows to the Rescue*
+
+Hughs, Catherine D.     *Little Kids First Big Book of Dinosaurs*
+
+Ironside, Virginia     *The Huge Bag of Worries*
+
+Jeffers, Oliver     *The Hueys in the New Sweater, How to Catch a Star, Lost and Found, This Moose Belongs to Me, Up and Down,* and *The Way Back Home*
+
+Karst, Patrice  *The Invisible String*
+
+Kirk, David     *Miss Spider’s ABC, Miss Spider’s New Car, Miss Spider’s Tea Party, and Miss Spider’s Wedding*
+
+Lee, Britney Winn     *The Boy With Big Feelings*
+
+Lies, Brian       *Bats at the Beach* and *Bats at the Library*
+
+Lionni, Leo     *A Color of His Own*
+
+Mantchev, Lisa     *Strictly No Elephants*
+
+Miller, Pat     *Be Kind*
+
+Novak, B. J.     *The Book With No Pictures*
+
+Numeroff, Laura Joffe     *If You Give a Mouse a Cookie, If You Give a Pig a Party, If You Give a Dog a Doughnut, If You Give a Cat a Cupcake,* and *If You Give a Pig a Pancake*
+
+Pluckrose, Henry     *Math Counts: Sorting*
+
+Reynolds, Aaron     *Creepy Carrots, Creepy Pair of Underwear*
+
+Reynolds, Peter H.     *The Dot, I’m Here*
+
+Rotner, Shelley     *Every Body and Shades of People*
+
+Tyler, Michael    *The Skin You Live In*
+
+Van Dusen, Chris     *Big Truck Little Island, Circus Ship, Down to the Sea with Mr. Magee, Hattie & Hudson, If I Built a Car, If I Built a House, If I Built a School, If I Built a Car, Learning to Ski with Mr. Magee, President Taft Is Stuck in the Bath,* and *Randy Riley’s Really Big Hit*
+
+Willems, Mo     *Elephant and Piggie* series
+
+Wood, Audrey     *Jubal’s Wish, King Bidgood’s in the Bathtub, The Little Mouse, the Red Ripe Strawberry and the Big Hungry Bear, The Napping House, Piggies, Piggy Pie Po, Quick as a Cricket, Silly Sally,* and *Weird Parents*
+
+Yolen, Jane     *Owl Moon* and *How Do Dinosaurs?* series
+
+Zuill, Andrea     *Sweety*
+
+
+
+</details>
+
 <details>
 <summary>
     Kindergarten
@@ -327,8 +420,6 @@ Gr. 3-4 
 
 </summary>
 
-
-
 Applegate, Katherine  *The One and Only Ivan* series, *Crenshaw, Wishtree*
 
 Avi    *The End of the Beginning, Ereth’s Birthday, The Good Dog,* and the *Poppy* series
@@ -485,8 +576,6 @@ White, E.B.     *Charlotte’s Web*
 
 Wilder, Laura Ingalls The *Little House* series
 
-
-
 </details>
 
 <details>
@@ -638,7 +727,7 @@ Griffin, Paul    *The Orange Houses, Burning Blue,* and *Ten Mile River*
 
 Han, Jenny    *Shug*
 
-Hannigan, Katherine   * Ida B.*
+Hannigan, Katherine    *Ida B.*
 
 Harrington, Karen    *Sure Signs of Crazy*
 
@@ -1334,7 +1423,7 @@ Rubin, Lance  *Denton Little’s Death Date*
 
 Ruebens, Michael    *Son of 613*
 
-Runyon, Brent   * The Burn Journals* and *Surface Tension*
+Runyon, Brent    *The Burn Journals* and *Surface Tension*
 
 Sagan, Carl    *Contact*
 
@@ -1442,7 +1531,7 @@ Weisel, Elie    *Night*
 
 Whaley, John Corey    *Where Things Come Back* and *Noggin*
 
-White, Ellen Emerson   * A Season of Daring Greatly*
+White, Ellen Emerson    *A Season of Daring Greatly*
 
 White, T.H.    *The Once and Future King* and *The Book of Merlin*
 
