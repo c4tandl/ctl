@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2026-01-14T18:25:06.780Z
+date: 2026-01-15T14:44:49.501Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -270,147 +270,107 @@ Yum, Hyewon  *Mom! It’s My 1st Day of Kindergarten*
 Gr. 1-2
 </summary>
 
-Abbott, Tony    *The Secrets of Droon* books
+Agee, Jon     *The Wall In The Middle Of The Book, Lion Lessons, Life On Mars, It’s Only Stanley, Terrific, The Other Side of Town, Mr. Putney’s Quacking Dog, My Rhinoceros, Dmitri The Astronaut,* and *Z Goes Home* 
 
-Applegate, Katherine    *Crenshaw*
+Applegate, Katherine     *Mouse and His Dog, Dogtown*
 
-Bang-Campbell, Monika    *Little Rat Rides, Little Rat Makes Music,* and *Little Rat Sets Sail*
+Barnett, Mac     *Billy Twitters and His Blue Whale Problem, Mustache, Extra Yarn, Leo, A Ghost Story, The First Cat In Space Ate Pizza, Sam and Dave Dig A Hole, Circle, Square, Triangle, The Three Billy Goats Gruff, The Important Thing About Margaret Wise Brown, Telephone, Noisy Night,* and *How This Book Was Made*
 
-Barrows, Annie    The *Ivy and Bean* series
+Drew Beckmeyer     *I Am A Tornado, Stalactite & Stalagmite*
 
-Bentley, Sue The *Magic Kitten* series
+Bunting, Eve      *Night Tree*
 
-Berenstain, Jan and Stan    *The Berenstain Bears* series
+Burgess, Matthew     *Words with Wings and Magic Things* 
 
-Bridwell, Norman The *Clifford* series
+Citro, Asia     *Zoey & Sassafras: Dragons and Marshmallows*
 
-Brown, Peter    *The Curious Garden* and *The Wild Robot*
+Charlip, Remy     *My Very Own Special Particular Private and Personal Cat*
 
-Burton, Virginia    *The Little House* and *Mike Mulligan and His Steam Shovel*
+Collard, Sneed B.     *Border Crossing* and *Waiting for a Warbler* 
 
-Charlip, Remy    *Fortunately*
+Cooney, Barbara     *Miss Rumphius* and *Ox Cart Man* 
 
-Cleary, Beverly    *Ralph S. Mouse, Ramona’s World, Runaway Ralph, Henry Huggins, Henry and Ribsy, Henry and the Paper Route,* and *Henry and the Clubhouse*
+*D’Aulaires’ Book of Norse Myths* 
 
-Dahl, Roald    *Giraffe, Pelly, and Me; The BFG;*
+DiCamillo, Kate     *The Puppets of Spelhorst, Hotel Balzaar, Orris and Timble: Lost and Found*
 
-*Fantastic Mr. Fox;* and *The Enormous Crocodile*
+Eggers, Dave     *The Eyes And The Impossible, Her Left Foot, and What Can A Citizen Do?*
 
-Daywalt, Drew    *The Day the Crayons Quit*
+Fang, X.     *Broken* 
 
-Dean, James   The *Pete the Cat* series
+Flintham, Thomas     *Press Start! Series*
 
-De Paola, Tomie    *The Legend of the Bluebonnet, The Knight and the Dragon, Strega Nona, The Art Lesson,* and *Pancakes for Breakfast*
+Grahame, Kenneth     *The Wind and the Willows*
 
-Doyle, Roddy    *The Meanwhile Adventures and Rover Saves Christmas*
+Griffiths, Andy     *The 13-Story Treehouse Series* 
 
-Dyckman, Ame   *Horrible Bear!*
+Hanlon, Abby     *Dory Fantasmagory Series*
 
-Floca, Brian   *Locomotive*
+Harris, Shawn      *Teeny Weeny Unicorn, Let’s Be Bees,* and *Have You Ever Seen A Flower?*
 
-Gibbons, Gail    *Frogs* and her other nonfiction books
+Hoefler, Kate     *The Couch in the Yard*
 
-Gidwitz, Adam   *Tales of Dark and Grim* series
+Jeffers, Oliver     *Lost And Found, Stuck, Here We Are, The Heart And The Bottle, There’s A Ghost In This House, Up And Down, The Great Paper Caper, This Moose Belongs To Me*, and *The Fate Of Fausto* 
 
-Griffiths, Andy   *The 13-Story Treehouse* (The Treehouse books)
+Klassen, Jon     *This Is Not My Hat, I Want My Hat Back,* and *We Saw A Hat*
 
-Henkes, Kevin *The Penny* series, *A Good Day, Lily’s Purple Plastic Purse, Lily’s Big Dog, Owen, Waiting, Weekend with Wendell,* and *Kitten’s First Full Moon*
+Kunkle, Angela Burke     *World More Beautiful*
 
-Howe, James The *Pinky and Rex* books
+Lin, Natalie     *Bunnybirds*
 
-Hunter, Erin   *Warriors*
+Lionni, Leo     *Swimmy, Frederick, Alexander and the Wind-Up Mouse, Pezzetino,* and *Fish in Fish*
 
-Jeffers, Oliver    *The Great Paper Caper, How to Catch a Star, The Book Eating Boy, Lost and Found, The Heart and the Bottle,* and *The Way Back Home*
+Lobel, Arnold     *Frog and Toad* 
 
-Johnson, Crockett    *Harold and the Purple Crayon*
+Marshall, James     *George And Martha (Series), The Three Little Pigs, Cinderella,* and *Little Red Riding Hood*
 
-Kessler, Ethel   *Is There a Horse in Your House?*
+Martin, Jacqueline Briggs     *Snowflake Bentley*
 
-Kimmel, Eric    *Seven at One Blow*
+McCloskey, Robert     *Time of Wonder*
 
-Kimpton, Diana    *The Pony-Crazed Princess* series
+Miller, Chanel     *Magnolia Wu Unfolds It All*
 
-King-Smith, Dick    *Martin’s Mice, A Mouse Called Wolf,* and *The Mouse Family Robinson*
+Miyakoshi, Akiko      *Little Shrew, The Tea Party in the Woods, The Way Home in the Night,* and *I Dream of a Journey*
 
-The Kingfisher Treasuries: The Kingfisher Treasury of Dragon Stories, the Kingfisher Treasury of Pet Stories, the Kingfisher Treasury of Pirate Stories, the Kingfisher Treasury of Funny Stories, the Kingfisher Treasury of Animal Stories, the Kingfisher Treasury of Spooky Stories, the Kingfisher Treasury of Ghost Stories, the Kingfisher Treasury of Princess Stories, the Kingfisher Treasury of Stories for Seven-Year-Olds, the Kingfisher Treasury of Stories for Eight-Year-Olds, and the Kingfisher Treasury of Ballet Stories
+Muncaster, Harriet     *Isadora Moon Series*
 
-Krauss, Ruth    *The Carrot Seed*
+Potter, Ellen and Felicity Sala      *BigFoot and Little Foot series*
 
-Krulik, Nancy The *Magic Bone* series
+Rex, Adam     *School’s First Day of School* and *Tumblebaby*
 
-Litchfield, David   *The Bear and the Piano*
+Reynolds, Aaron     *Troubling Tonsils*
 
-Lionni, Leo    *The Greentail Mouse, Mr. McMouse, On the Beach There Are Many Pebbles, Flea Story, An Extraordinary Egg, Frederick,* and *It’s Mine!*
+Robinson, Christian     *Another*
 
-Lobel, Arnold    The *Frog and Toad* books, *Mouse Soup, Mouse Tales, Small Pig, Uncle Elephant, Fables*, and *Grasshopper on the Road*
+Rylant, Cynthia     *When I Was Young In The Mountains, The Relatives Came, Mr. Griggs’ Work, An Angel For Solomon Singer, The Old Woman Who Named Things, Gooseberry Park, Scarecrow, The Great Gracie Chase, All In A Day, Poppleton (Series),* and *Mr. Putter & Tabby (Series)*
 
-Marshall, Edward    *Four by the Shore* and *Three by the Sea*
+Rutherford, Geo     *Spooky Lakes*
 
-Marshall, Edward and James    The *Fox* books: *Fox on Stage, Fox All Week, Fox Outfoxed,* and *Fox in Love*
+Sanvoisin, Eric     *City of Ink Drinkers*
 
-Mayer, Mercer   *Little Monster* series
+Sciezka, Jon     *Frank Einstein, The Stinky Cheeseman (and other Fairly Stupid Tales),* and *The True Story of the Three Little Pigs*
 
-McCloskey, Robert    *Blueberries for Sal, Make Way for Ducklings, One Morning in Maine,* and *Time of Wonder*
+Schuler, Darin     *Dog & Hat*
 
-McDonald, Megan    The *Judy Moody and Stink* series
+Smith, Alex T.     *Mr. Penguin and the Lost Treasure*
 
-McMullan, Kate   *Fluffy Goes to School*
+Smith, Lane     *Recess*
 
-Miles, Ellen    The *Puppy Place* series
+Stead, Rebecca and Wendy Mass     *Bob*
 
-Miller, Sara Swan   *Three Stories You Can Read to Your Cat, Three Stories You Can Read to Your Dog,* and *Three Stories You Can Read to Your Teddy Bear*
+Steinke, Aron Nels     *Mr. Wolf’s Class Series*
 
-Numeroff, Laura   *Jelly Bean’s Big Dance*
+Timberlake, Amy     *Skunk and Badger Series*
 
-Osborne, Mary Pope    The *Magic Tree House* books
+Thomas, Kiah      *Lone Wolf Series*
 
-Parish, Peggy    The *Amelia Bedelia* books
+Ungerer, Tomi     *Moon Man, Crictor, The Mellops series, The Three Robbers, Fog Island, Otto,* and *Adelaide*
 
-Portis, Antoinette    *Not a Stick, Not a Box* and *A Penguin Story*
+Wallace, Chelsea     *On Our Way With Mr. Jay*
 
-Provensen, Alice and Martin    *A Book of Seasons, Our Animal Friends at Maple Hill Farm* and *The Year at Maple Hill Farm*
+West, Tracey     *Dragon Masters* Series  
 
-Rey, H.A.   The *Curious George* series
-
-Roy, Ron    *A-Z Mysteries* series
-
-Rylant, Cynthia    *Cat Heaven, Dog Heaven, Gooseberry Park, The Mr. Putter and Tabby* series, the *Henry and Mudge* series, and the *Poppleton* series
-
-Santat, Dan   *Are We There Yet?*
-
-Seeger, Laura Vaccaro   *First the Egg*
-
-Silverman, Erica    *Cowgirl Kate and Cocoa* series
-
-Smiley, Jane   *Twenty Yawns*
-
-Smith, Dick-King   *Sophie’s Lucky, A Mouse Called Wolf,* and *Martin’s Mice*
-
-Spires, Ashley   The *Binky* series (graphic novels)
-
-Steig, William    *Amos and Boris, Sylvester and the Magic Pebble, Dr. DeSoto,* and *Spinky Sulks*
-
-Stevenson, James    *The Castaway, Quick, Turn the Page, Rolling Rose, Brrr!, Don’t Make Me Laugh, Fast Friends,* and *Worse than Willy*
-
-Stilton, Geronimo    The *Geronimo Stilton* series
-
-Strauss, Linda Leopold    *A Fairy Called Hilary*
-
-Taback, Simms   *Joseph Had a Little Overcoat*
-
-The Usborne collection of fairy tales, folk tales, fiction, and nonfiction
-
-Wallace, Bill   *The Flying Flea, Callie, and Me*
-
-Watson, Tom   The *Stick Dog* series
-
-White, E.B.    *Charlotte’s Web, Stuart Little* and *The Trumpet of the Swan*
-
-Wilkinson, Carole   The *Dragon Keeper* series
-
-Willems, Mo    The *Pigeon* books, the *Elephant and Piggie* series, *The Story of Diva and Flea,* and *Goldilocks and the Three Dinosaurs*
-
-Wilson, Karma    *Bear Snores On* and the rest of the Bear books
+Wheeler, Lisa     *Someone Builds The Dream* 
 
 </details>
 
