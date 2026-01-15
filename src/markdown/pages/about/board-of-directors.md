@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2026-01-13T15:43:29.059Z
+date: 2026-01-15T18:12:32.103Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -17,7 +17,7 @@ Originally from Copenhagen, Denmark, Pia moved in 1983 to the US and in 2000 to 
 **Joshua Manahan**, Co-President\
 Josh is parent to Kelly, who began his CTL career as a kindergartener in 2016. Josh has lived in Alna with his wife Abby since 2004. Although spending much of his time building and selling painting supports as well as cutting boards for midcoast artists through The nEAT Kitchen, the practice of reading and writing remains an important outlet for him. Josh regularly regrets being too embarrassed to ask for help with math when he was a student. He is honored to be able to share his perspective as CTL strives to honor and learn from its past, while charting an exciting future.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1760826293/IMG_4248-2_icy4em.jpg)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1768494248/IMG_5587_og7hmd.jpg)
 
 **Peter Branch**, Treasurer\
 Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been coming to Maine every summer of his life to help his family run Linekin Bay Resort which they owned from 1909 until 2015. He and his wife, Paula, now live in Boothbay year round. In his winter life, he was the head of independent pre-k through grade 12 schools for 37 years. These schools included the Dalton School in New York City, Woodmere Academy in Woodmere, Long Island, Holland Hall School in Tulsa, Oklahoma, Georgetown Day School in Washington, D.C., and the Rocky Hill School in East Greenwich, Rhode Island. Peter also did a 2 year stint as Executive Director of The Washington Ballet. During his educational career he spoke at numerous conferences and served on association boards, including the board of the National Association of Episcopal Schools, of which he was president. Peter is honored to become a member of the board of the Center for Teaching and Learning which he has long admired for its leadership in elementary and middle school education.
