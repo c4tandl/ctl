@@ -1,6 +1,6 @@
 ---
 path: kids-recommend
-date: 2026-01-15T14:44:49.501Z
+date: 2026-01-21T15:26:55.541Z
 title: Kids Recommend (K-8)
 sort: 2
 nav: reading-resources
@@ -93,8 +93,6 @@ Wood, Audrey     *Jubal’s Wish, King Bidgood’s in the Bathtub, The Little Mo
 Yolen, Jane     *Owl Moon* and *How Do Dinosaurs?* series
 
 Zuill, Andrea     *Sweety*
-
-
 
 </details>
 
@@ -543,395 +541,485 @@ Wilder, Laura Ingalls The *Little House* series
 Gr. 5-6 
 </summary>
 
-Abel-Fattah, Randa    *Does My Head Look Big In This?*
+Alexander, Kwame * Booked, Crossover,* and *Rebound*
 
-Alexander, Kwame  *Booked, Crossover,* and *Rebound*
+Alston, B.B. 	*Amari and the Night Brothers* (series)
 
-Almond, David    *The Savage*
+Anderson, John *   Posted* and *Sidekicked*
 
-Alphin, Elaine    *The Perfect Shot* [(review)](http://c-t-l.org/bookblog/?p=259)
+Anderson, M.T.  *  Octavian Nothing*
 
-Anderson, John    *Sidekicked*
+Arrango, Andrea B.	   *Iveliz Explains it All*
 
-Anderson, M.T.    *Octavian Nothing*
+Bagieu, Penelope  *  Brazen*
 
-Applegate, Katherine    *Wishtree*
+Baptiste, Tracey	*Boy 2.0*
 
-Armstrong, K.L.  *Loki’s Wolves* and *Odin’s Ravens*
+Bartoletti, Susan *  Typhoid Mary* and *The Boy Who Dared*
 
-Bacigalupi, Paolo    *Ship Breaker*
+Bascomb, Neal  *  The Nazi Hunters*
 
-Bagieu, Penelope    *Brazen*
+Baskin, Nora Raleigh  *  Almost Home, Nine, Ten, and Every Girl Except Me, Anything But Typical,* and *The Summer Before Boys*
 
-Banks, Angelica   *Finding Serendipity*
+Bauer, Joan  *  Almost Home* and *Close to Famous*
 
-Barrows, Annie    *The Magic Half*
+Beasley, Kate *\    Lions and Liars* 
 
-Bartoletti, Susan   *Typhoid Mary* and *The Boy Who Dared*
+Bell, Cece  * El Deafo*
 
-Bascomb, Neal    *The Nazi Hunters*
+Benjamin, Ali  * The Thing About Jellyfish* and *The Next Great Paulie Fink*
 
-Baskin, Nora Raleigh    *Almost Home, Nine, Ten, and Every Girl Except Me, Anything But Typical* and *The Summer Before Boys*
+Bertman, Jennifer  * Book Scavenger* and *The Unbreakable Code*
 
-Bauer, Joan    *Almost Home* and *Close to Famous*
+Bigalow, Lisa Jenn *   Drum Roll, Please*
 
-Bell, Cece   *El Deafo*
+Black, Holly *   Darkest Part of the Forest*
 
-Benjamin, Ali   *The Thing About Jellyfish* and *The Next Great Paulie Fink*
+Blume, Judy	*Are You There, God? It’s Me, Margaret.*
 
-Bertman, Jennifer   *Book Scavenger*
+Booth, Molly	*Saving Hamlet*
 
-Bigalow, Lisa Jenn    *Drum Roll, Please*
+Bow, Erin	*   Simon Sort of Says*
 
-Black, Holly    *Darkest Part of the Forest*
+Bowler, Tim *\    Storm Catchers* 
 
-Bowler, Tim     *Storm Catchers* [(review)](http://c-t-l.org/bookblog/?p=493)
+Bowling, Dusti	*\    Insignificant Events in the Life of a Cactus* and *The Canyon’s Edge*
 
-Bowman, Erin    *Contagion*
+Bowman, Erin *   Contagion*
 
-Boyne, John     *The Boy in the Striped Pajamas* and *The Boy on Top of the Mountain*
+Boyne, John *\    The Boy in the Striped Pajamas* and *The Boy on Top of the Mountain*
 
-Bradbury, Jennifer     *Shift* and *A Moment Comes*
+Bradbury, Jennifer *\    Shift* and *A Moment Comes*
 
-Bradley, Kimberly   *The War that Saved My Life* series
+Bradley, Kimberly *  The War that Saved My Life* series
 
 Brashares, Ann *The Sisterhood of the Traveling Pants* series
 
-Bryant, Jen    *Pieces of Georgia*
+Bryant, Jen  *  Pieces of Georgia*
 
-Burg, Ann E.     *All the Broken Pieces*
+Burg, Ann E.  *   All the Broken Pieces*
 
-Buyea, Rob    *Because of Mr. Terupt* series and the *Perfect Score* series
+Buyea, Rob *   Because of Mr. Terupt* series and the *Perfect Score* series
 
-Carey, Janet Lee    *Dragon’s Keep* and *The Beast of Noor*
+Carey, Janet Lee *   Dragon’s Keep* and *The Beast of Noor*
 
-Carman, Patrick    *Floors*
+Carman, Patrick *   Floors*
 
-Chabon, Michael     *Summerland*
+Chabon, Michael  *   Summerland*
 
-Chainani, Soman    *The School for Good and Evil* series
+Chainani, Soman *   The School for Good and Evil series*
 
-Charbonneau, Joelle    *The Testing* and *Need*
+Charbonneau, Joelle  *  The Testing and Need*
 
-Chima, Cinda Williams    *The Warrior Heir* trilogy
+Chima, Cinda Williams *   The Warrior Heir trilogy*
 
-Choldenko, Gennifer    *If a Tree Falls at Lunch Period*
+Choldenko, Gennifer  *  The Tenth Mistake of Hank Hooperman* and *Al Capone Does My Shirts*
 
-Cody, Matthew    *Powerless, Super,* and *Will in Scarlet*
+Colfer, Chris *   Land of Stories (series)*
 
-Colfer, Chris    *Land of Stories*
+Collins, Suzanne *   Gregor, the Overlander and The Hunger Games series* 
 
-Collins, Suzanne    *The Hunger Games* series [(review of the first book)](http://c-t-l.org/bookblog/?p=502)
+Condie, Ally  *  The Matched (series)*
 
-Condie, Ally    The *Matched* series
+Connor, Leslie *   Waiting for Normal*
 
-Connor, Leslie    *Waiting for Normal*
+Craft, Jerry	*New Kid*
 
-Cuevas, Michelle   *Confessions of an Imaginary Friend*
+Cuevas, Michelle *  Confessions of an Imaginary Friend*
 
-Dashner, James    *The Maze Runner* trilogy and *Eye of Minds*
+Dashner, James *   The Maze Runner trilogy and Eye of Minds*
 
-Dessen, Sarah    *Keeping the Moon, The Truth About Forever, Along for the Ride*
+Dessen, Sarah *   The Rest of the Story, Keeping the Moon, The Truth About Forever, Along for the Ride*
 
-Doctorow, Cory    *Little Brother* and *For the Win*
+Dionne, Erin	*Models Don’t Eat Chocolate Chip Cookies* and *Moxie and the Art of Rulebreaking*
 
-Draper, Sharon    *Copper Sun* and *Out of My Mind*
+Doctorow, Cory *   Little Brother* and *For the Win*
 
-Emerson, Kevin *Last Day on Mars* series
+Draper, Sharon *   Copper Sun, Out of My Mind, Out of My Heart, and Out of My Dreams*
 
-Engle, Margarita    *Hurricane Dancers* and *The Surrender Tree*
+DuPrau, Jean	*	City of Ember*
 
-Erskine, Kathryn    *Mockingbird*
+Emerson, Kevin *\    Last Day on Mars (series)*
 
-Evans, Richard Paul The *Michael Vey* series
+Engle, Margarita *   Hurricane Dancers* and *The Surrender Tree*
 
-Farmer, Nancy    *House of the Scorpion* [(review)](http://c-t-l.org/bookblog/?p=418)
+Englefried, Sally	*Learning to Fall*
 
-Fisher, Catherine    The *Incarceron* series
+Erskine, Kathryn *   Mockingbird*
 
-Fitzpatrick, Becca    *Crescendo* and *Hush, Hush*
+Evans, Richard Paul The Michael Vey series
 
-Flood, Nancy Bo    *Warriors in the Crossfire* and *No-Name Baby*
+Fagan, Deva	*A Game of Noctis*
 
-Forman, Mark    *Slathbog’s Gold*
+Farmer, Nancy  *  House of the Scorpion* 
 
-Friend, Natasha    *Bounce* and *Perfect*
+Fipps, Lisa	*Starfish*
 
-Fukuda, Andrew Xia    *Crossing and the Hunt* series
+Firestone, Carrie	*Dress Coded*
 
-Fukui, Isamu    The *Truancy* books
+Fisher, CatherineThe *Incarceron* series
 
-Gaiman, Neil    *The Graveyard Book*, *Coraline*, and *Neverwhere*
+Fitzpatrick, Becca  *  Crescendo* and *Hush, Hush*
 
-Gemeinhart, Dan    *The Honest Truth*, and *The Remarkable Journey of Coyote Sunrise*
+Flood, Nancy Bo *   Warriors in the Crossfire* and *No-Name Baby*
 
-Gino, Alex   *George*
+Forman, Mark *   Slathbog’s Gold*
 
-Gleitzman, Morris    The *Once* series
+Freeman, Megan E.	*   Alone* and *Away*
 
-Golden, Christopher    *Last Breath* and *Body Bags*
+Friend, Natasha *   Bounce* and *Perfect*
 
-Gonzalez, Julie    *Imaginary Enemy*
+Fukuda, Andrew Xia *   Crossing* and the *Hunt* series
 
-Grabenstein, Chris    *Escape from Mr. Lemoncello’s Library* and *The Island of Dr. Libris*
+Fukui, Isamu The *Truancy* books
 
-Graff, Lisa    *Far Away*, *Lost in the Sun*, *The Thing About Georgie*, *A Tangle of Knots*, and *Double Dog Dare*
+Gaiman, Neil  *  The Graveyard Book, Coraline,* and *Neverwhere*
 
-Grant, Michael    The *Gone* series
+Gemeinhart, Dan  *  Busted, The Honest Truth, and The Remarkable Journey of Coyote Sunrise,* and *Coyote Lost and Found*
 
-Gratz, Allan    *Prisoner B-3087, Grenade, Ban This Book, Project-1065, Refugee, Samurai Shortstop, Brooklyn Nine,* and *Code of Honor*
+Gino, Alex *  Melissa, Green,* and *Rick*
 
-Greitens, Eric  *The Warrior’s Heart*
+Gleitzman, Morris  *  The Once series*
 
-Griffin, Paul    *The Orange Houses, Burning Blue,* and *Ten Mile River*
+Golden, Christopher  *  Last Breath* and *Body Bags*
 
-Han, Jenny    *Shug*
+Gonzalez, Julie  *  Imaginary Enemy*
 
-Hannigan, Katherine    *Ida B.*
+Grabenstein, Chris *   Escape from Mr. Lemoncello’s Library* and *The Island of Dr. Libris*
 
-Harrington, Karen    *Sure Signs of Crazy*
+Graff, Lisa *   Far Away, Lost in the Sun, The Thing About Georgie, A Tangle of Knots,* and *Double Dog Dare*
 
-Hautman, Pete    *Blank Confession, Rash, Invisible,* and *Godless*
+Grant, Michael  *  The Gone series*
 
-Haworth, Danette    *A Whole Lot of Lucky*
+Gratz, Allan  *  Two Degrees, Allies, Prisoner B-3087, Grenade, Ban This Book, Project-1065, Refugee, Samurai Shortstop, Brooklyn Nine,* and *Code of Honor*
 
-Herlong, M.H.    *The Great Wide Sea*
+Greitens, Eric * The Warrior’s Heart*
 
-Hiassen, Carl    *Flush* and *Hoot*
+Revis, Beth *	Across the Universe*
 
-Hicks, Faith Erin    *Friends with Boys*
+Griffin, Paul  *  The Orange Houses, Burning Blue,* and *Ten Mile River*
 
-Higson, Charlie    *Silverfin,* *The Dead*, and *The Enemy* series
+Han, Jenny  *  Shug*
 
-Hillenbrand, Laura   *Unbroken*
+Hannigan, Katherine  * \* Ida B.\**
 
-Holm, Jennifer   *Sunny Side Up* and *The Fourteenth Goldfish*
+Harrell, Rob	*Popcorn*
 
-Holzier, Tracy   *Secret Hum of a Daisy*
+Harrington, Karen  *  Sure Signs of Crazy*
 
-Horowitz, Anthony    The Alex Rider series: *Stormbreaker, Point Blank,* etc.
+Hautman, Pete *   Blank Confession, Rash, Invisible,* and *Godless*
 
-Howe, James    *The Misfits, Totally Joe, 13: Thirteen Stories*, and *Addie on the Inside*
+Haworth, Danette  *  A Whole Lot of Lucky*
 
-Hunt, Linda Mullaly    *Fish in a Tree, One for the Murphys,* and *Shouting at the Rain*
+Henning, Sarah	*Running Back to You*
 
-Jinks, Catherine    *Evil Genius* and *How to Catch a Bogle*
+Herlong, M.H. *   The Great Wide Sea*
 
-Johnson, Varian  *The Parker Inheritance*
+Hiassen, Carl *   Flush and Hoot*
 
-Kamkwamba, William and Mealer, Bryan    *The Boy Who Harnessed the Wind*
+Hicks, Faith Erin *   Friends with Boys*
 
-Kent, Rose    *Kimchi and Calamari* and *Rocky Road*
+Higson, Charlie  *  Silverfin, The Dead,* and *The Enemy series*
 
-Kessler, Liz    *The Tail of Emily Windsnap*
+Hillenbrand, Laura  * Unbroken*
 
-Klages, Ellen    *The Green Glass Sea, Out of Left Field,* and *Wicked Wonders*
+Holm, Jennifer  * Sunny Side Up* and *The Fourteenth Goldfish*
 
-Kluger, Steve   *My Most Excellent Year*
+Holt, K.A. 	*This is Not a Drill*
 
-Korman, Gordon    *Born to Rock, Schooled, Pop, Swindle, Whatshisface, Ungifted, Slacker, Restart, Unteachable, Son of the Mob,* and the *Mastermind* series
+Holzier, Tracy *  Secret Hum of a Daisy*
 
-LaFleur, Suzanne    *Love, Aubrey,* and *Eight Keys*
+Horowitz, Anthony *   The Alex Rider series: Stormbreaker, Point Blank, etc.*
 
-Lai, Thanhha    *Inside Out* and *Back Again*
+Houck, Colleen	*Tiger’s Curse (series)*
 
-Lake, Nick    *Hostage Three*
+Howe, James *   The Misfits, Totally Joe, 13: Thirteen Stories,* and *Addie on the Inside*
 
-Larbalestier, Justine    *How to Ditch Your Fairy*
+Hunt, Linda Mullaly *   Fish in a Tree, One for the Murphys,* and *Shouting at the Rain*
 
-Levine, Kristin    *The Lions of Little Rock* and *Jigsaw Jungle*
+Iftin, Abdi Nor	*  Call Me American (for Young Readers)*
 
-Lin, Grace    *Where the Mountain Meets the Moon*
+Jackson, Tiffany D.	*   Blood in the Water*
 
-Lloyd, Natalie    *Snicker of Magic*
+Jamieson, Victoria	*Roller Girl*
 
-Lockhart, E.    *The Disreputable History of Frankie Landau Banks*
+Jinks, Catherine *   Evil Genius and How to Catch a Bogle*
 
-Lord, Cynthia    *Handful of Stars, Half a Chance, Rules* and *Touch Blue*
+Johnson, Varian * The Parker Inheritance*
 
-Lore, Pittacus    The *I Am Number Four* series
+Kamkwamba, William and Mealer, Bryan *   The Boy Who Harnessed the Wind*
 
-Lorentz, Dayna    *No Safety in Numbers*
+Kaufman, Sashi	*Sardines*
 
-Lowry, Lois    *The Giver, Gathering Blue, Messenger, Number the Stars* and *The Silent Boy*
+Kelkar, Supriya	*Strong as Fire, Fierce as Flame*
 
-Lu, Marie    The *Legend* series and the *Warcross* series
+Kent, Rose *   Kimchi and Calamari and Rocky Road*
 
-Lubar, David    *Sleeping Freshmen Never Lie*
+Kessler, Liz  *  The Tail of Emily Windsnap*
 
-MacHale, D.J. The *Sylo* series
+Klages, Ellen  *  The Green Glass Sea, Out of Left Field,* and *Wicked Wonders*
 
-Magnim, Joyce    *Jellybean Summer*
+Kluger, Steve *  My Most Excellent Year*
 
-Magoon, Kekla    *Shadows of Sherwood* and *The Rock and the River* [(review)](http://c-t-l.org/bookblog/?p=532)
+Korman, Gordon *   Slugfest, Unplugged, Born to Rock, Schooled, Pop, Swindle, Whatshisface, Ungifted, Supergifted, Slacker, Restart, Unteachables, Son of the Mob,* and the Mastermind series
 
-Mass, Wendy    *Jeremy Fink and the Meaning of Life, A Mango-Shaped Space* [(review)](http://c-t-l.org/bookblog/?p=337), *Finally, 11 Birthdays, Candymaker, Leap Day, Heaven’s A Lot Like the Mall, The Lost Present,* and *13 Gifts*
+Krajewski, Thomas	*  Primer*
 
-Mayo, *Simon The Itch* series
+LaFleur, Suzanne *   Love, Aubrey* and *Eight Keys*
 
-McCormick, Patricia    *Never Fall Down*
+Lai, Thanhha *   Inside Out and Back Again*
 
-McNaulty, Stacy    *Miscalculations of Lightning Girl*
+Lake, Nick *   Hostage Three*
 
-McNeil, Gretchen    *Ten*
+Larbalestier, Justine *   How to Ditch Your Fairy*
 
-Messenger, Shannon    *The Keeper of the Lost Cities* series
+Levine, Kristin *   The Lions of Little Rock* and *Jigsaw Jungle*
 
-Messner, Kate    *Breakout, All the Answers, Capture the Flag, Hide and Seek, Seventh Wish,* and *Manhunt*
+Levithan, David	*Answers in the Pages*
 
-Meyer, Marissa    *Cinder* and the rest of the *Lunar Chronicles*, the *Renegades* series
+Light, Alex	*The Upside of Falling*
 
-Morpurgo, Michael    *War Horse*
+Lin, Grace *   Where the Mountain Meets the Moon*
 
-Mosier, Paul    *Train I Ride*
+Lloyd, Natalie *   Snicker of Magic*
 
-Muchamore, Robert    The *Cherub* series
+Lockhart, E.   * The Disreputable History of Frankie Landau Banks*
 
-Mull, Brandon    The *Fablehaven* series and the *Beyonders* series
+Lord, Cynthia  *  Handful of Stars, Half a Chance, Rules,* and *Touch Blue*
 
-Mulligan, Andy    *Trash*
+Lore, Pittacus    The *I Am Number Four* series
 
-Myers, Walter Dean    *Autobiography of My Dead Brother, Fallen Angels, Hoops, Game, Monster, Sunrise Over Falluja, Dope Sick,* and *Shooter*
+Lorentz, Dayna *   No Safety in Numbers*
 
-Myracle, Lauren    *Ten, Eleven, Twelve,* and *Thirteen*
+Lowry, Lois *   The Giver, Gathering Blue, Messenger, Number the Stars* and *The Silent Boy*
 
-Ness, Patrick    *The Chaos Walking series, Birthmarked, More Than This*, and *Monster Calls*
+Lu, MarieThe Legend series and the Warcross series
 
-Nicholls, Sally  *Ways to Live Forever*
+Lubar, David *   Sleeping Freshmen Never Lie*
 
-Nielson, Jennifer  *A Night Divided, Resistance, False Prince*, and *Mark of the Thief*
+Lukoff, Kyle	*Different Kinds of Fruit*
 
-Nolan, Han    *Crazy*
+Lupica, Mike	*Heat, Million Dollar Throw*
 
-Oppel, Kenneth  *Half Brother*
+MacHale, D.J. *  The Sylo series*
 
-Padian, Maria    *Brett McCarthy: Work in Progress*
+Magnim, Joyce  *  Jellybean Summer*
 
-Palacio, R.J.    *Wonder* and *Auggie and Me*
+Magoon, Kekla  *  The Secret Library, Shadows of Sherwood and The Rock and the River*
 
-Park, Linda Sue    *A Long Walk to Water*
+Martin, Pedro	*	Mexikid*
 
-Patterson, James    *Maximum Ride: The Angel Experiment, Maximum Ride: School’s Out Forever, and Maximum Ride: Saving the World and Other Extreme Sports, Crazy House,* and *The Treasure Hunters* series
+Mass, Wendy  *  Jeremy Fink and the Meaning of Life, A Mango-Shaped Space (review), Finally, 11 Birthdays, Candymaker, Leap Day, Heaven’s A Lot Like the Mall, The Lost Present,* and *13 Gifts*
 
-Patterson, Katherine    *Bread and Roses Too*
+Mayo, Simon *The Itch series*
 
-Paulson, Gary The *Hatchet* series, *Lawn Boy,* and *Wood’s Runner*
+McCormick, Patricia *   Never Fall Down*
 
-Paver, Michelle    *Wolf Brother, Spirit Walker,* and the rest of the *Chronicles of Ancient Darkness* series
+McNaulty, Stacy *   Miscalculations of Lightning Girl, Millionaires for the Month,* and *The World Ends in April*
 
-Peet, Mal    *Keeper* and *Tamar*
+McNeil, Gretchen  *  Ten*
 
-Pfeffer, Susan    *Life as We Knew It*
+Messenger, Shannon  *The Keeper of the Lost Cities series*
 
-Preus, Margi    *Heart of a Samurai, West of the Moon,* and *Shadow of the Mountain*
+Messner, Kate *   Breakout, All the Answers, Capture the Flag, Hide and Seek, Seventh Wish,* and *Manhunt*
 
-Price, Lissa    *Starters*
+Meyer, Marissa *   Cinder* and the rest of the *Lunar Chronicles,* the *Renegades* series
 
-Pullman, Philip    *His Dark Materials* trilogy
+Milford, Kate	*	Greenglass House* and *Ghosts of Greenglass House*
 
-Pyron, Bobbie  *Lucky Strike*
+Mohamed, Omar	*When Stars are Scattered*
 
-Quick, Matthew    *Boy 21*
+Mosier, Paul  *  Train I Ride*
 
-Reintgen, Scott    *Nyxia*
+Muchamore, Robert The Cherub series
 
-Resau, Laura    *Red Glass* and *The Queen of Water*
+Mull, Brandon The Fablehaven series and the Beyonders series
 
-Rex, Adam    *The True Meaning of Smekday* [(review)](http://c-t-l.org/bookblog/?p=173)  
+Mulligan, Andy  *  Trash*
 
-Reynolds, Jason  The *Ghost* series, *As Brave As You*, and *Miles Morales*
+Myers, Walter Dean  *  Autobiography of My Dead Brother, Fallen Angels, Hoops, Game, Monster, Sunrise Over Falluja, Dope Sick,* and *Shooter*
 
-Riordan, Rick    *The Lightning Thief, Sea of Monsters, Titan’s Curse, The Lost Hero, The Son of Neptune, The Mark of Athena, The Kane Chronicles, Magnus Chase,* and the *Percy Jackson* series
+Myracle, Lauren  *  Ten, Eleven, Twelve,* and *Thirteen*
 
-Rocklin, Joanne    *One Day and One Amazing Morning on Orange Street*
+Ness, Patrick  *  The Chaos Walking series, Birthmarked, More Than This,* and *Monster Calls*
 
-Rosoff, Meg    *Picture Me Gone* and *There Is No Dog*
+Nicholls, Sally  *Ways to Live Forever*
 
-Roth, Veronica   The *Divergent* series
+Nielson, Jennifer  *Words on Fire, Uprising, Lines of Courage, A Night Divided, Resistance, False Prince,* and *Mark of the Thief*
 
-Rowling, J.K.    *Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban,* etc.
+Nolan, Han  *  Crazy*
 
-Rupp, Rebecca    *After Eli*
+O’Brien, Anne Sibley	*	In the Shadow of the Sun*
 
-Rutkoski, Marie    *Cabinet of Wonders*
+O’Shaughnessy, Kate	*Wrong Way Home*
 
-Sachar, Louis   *Fuzzy Mud* and *Holes*
+Oppel, Kenneth * Half Brother*
 
-Schmatz, Pat    *Bluefish*
+Ortega, Claribel A.	*Witchlings (series), and Frizzy*
 
-Schmidt, Gary    *The Wednesday Wars, Orbiting Jupiter, OK for Now, Trouble,* and *Pay Attention Carter Jones*
+Ostertag, Kelly	*Girl from the Sea*
 
-Schrefer, Eliot    *Endangered*
+Ott, Alexandra	*   The Wish Ring Cipher*
 
-Scott, Michael    *The Secrets of the Immortal Nicholas Flamel* series
+Padian, Maria  *  Brett McCarthy: Work in Progress*
 
-Selznick, Brian    T*he Invention of Hugo Cabret, The Marvels,* and *Wonderstruck*
+Palacio, R.J.  *  Wonder* and *Auggie and Me*
 
-Sepetys, Ruta    *Between Shades of Gray*
+Park, Linda Sue *   A Long Walk to Water*
 
-Shull, Meagan  *The Swap*
+Patterson, James *   Maximum Ride: The Angel Experiment, Maximum Ride: School’s Out Forever, and Maximum Ride: Saving the World and Other Extreme Sports, Crazy House,* and *The Treasure Hunters series*
 
-Shusterman, Neal    *The Schwaa was Here, Antsy Does Time, Unwind, Full Tilt, Everlost*
+Patterson, Katherine *   Bread and Roses Too*
 
-Sloan, Holly Goldberg    *Counting by 7s*
+Paulson, Gary *The Hatchet series, Lawn Boy,* and *Wood’s Runner*
 
-Smiley, Jane    *A Good Horse*
+Peet, Mal  *  Keeper* and *Tamar*
 
-Snyder, Laurel   *Orphan Island*
+Pfeffer, Susan *   Life as We Knew It*
 
-Sonnenblick, Jordan    *Drums, Girls, and Dangerous Pie, Notes from the Midnight Driver, Zen and the Art of Faking It,* and *After Ever After*
+Preto, Nikki Pau	*The Last Hope School for Magical Delinquints*
 
-Spinelli, Jerry    *Crash, Milkweed, Stargirl, Smiles to Go, Wringer, Maniac, Jake and Lilly,* and *Milkweed*
+Preus, Margi  *  Heart of a Samurai, West of the Moon,* and *Shadow of the Mountain*
 
-Standiford, Natalie    *Secret Tree* and *The Only Girl in School*
+Price, Lissa *   Starters*
 
-Starmer, Aaron   *The Riverman* and *The Whisper*
+Pullman, Philip *   His Dark Materials* trilogy
 
-Stead, Rebecca   *Goodbye Stranger, Bob, Liar and Spy,* and *When You Reach Me*
+Pyron, Bobbie * Lucky Strike*
 
-Tanner, Lian    The *Icebreaker* series
+Quick, Matthew  *  Boy 21*
 
-Tarshis, Lauren    *Emma-Jean Lazarus Fell Out of a Tree*
+Reintgen, Scott  *  The Last Dragon on Mars (series)* and *Nyxia*
 
-Telgemeier, Raina    *Smile* and *Drama*
+Resau, Laura  *  Red Glass* and *The Queen of Water*
 
-Tolkein, J.R.R.   *The Lord of the Rings* series
+Rex, Adam *   The True Meaning of Smekday (review)*
 
-Vail, Rachel    *Ever After* and *Well That Was Awkward*
+Reynolds, Jason *\    The Ghost series, As Brave As You, All American Boys, Look Both Ways, and Miles Morales*
 
-Van Draanen, Wendelin    *Flipped* and *The Running Dream*
+Rhodes, Jewell Parker	*Ghost Boys*
 
-Velde, Vivian Vande    *Stolen*
+Riordan, Rick  *  The Lightning Thief, Sea of Monsters, Titan’s Curse, The Lost Hero, The Son of Neptune, The Mark of Athena, The Kane Chronicles, Magnus Chase,* and *the Percy Jackson series*
 
-Vrabel, Beth  *Pack of Dorks*
+Ritter, William	*Jackaby*
+
+Roberts, Barbara Carrol	*Nikki on the Line*
+
+Rocklin, Joanne *   One Day* and *One Amazing Morning on Orange Street*
+
+Rosoff, Meg *   Picture Me Gone* and *There Is No Dog*
+
+Roth, Veronica *The Divergent series*
+
+Rowling, J.K.  *  Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, etc.*
+
+Rupp, Rebecca *   After Eli*
+
+Rutkoski, Marie *   Cabinet of Wonders*
+
+Sachar, Louis  * Fuzzy Mud* and *Holes*
+
+Schmatz, Pat *   Bluefish*
+
+Schmidt, Gary *   The Wednesday Wars, Orbiting Jupiter, OK for Now, Trouble,* and *Pay Attention Carter Jones*
+
+Scieszka, Jon	*	Knucklehead*
+
+Schu, John	*Louder Than Hunger*
+
+Schrefer, Eliot  *  Endangered*
+
+Scott, Michael  *  The Secrets of the Immortal Nicholas Flamel series*
+
+Sepetys, Ruta *   The Bletchley Riddle, Between Shades of Gray,* and *I Must Betray You*
+
+Shull, Meagan * The Swap*
+
+Shusterman, Neal  *  Scythe (series), The Schwaa was Here, Antsy Does Time, Unwind, Full Tilt, Everlost (series)*
+
+Sloan, Holly Goldberg *   Counting by 7s*
+
+Smiley, Jane  *  A Good Horse*
+
+Smith, Heather 	*Tig*
+
+Smith, Roland  	*Switch*
+
+Snyder, Laurel  *Orphan Island*
+
+Sonnenblick, Jordan  *  Drums, Girls, and Dangerous Pie, Notes from the Midnight Driver, Zen and the Art of Faking It,* and *After Ever After*
+
+Spinelli, Jerry *   Crash, Milkweed, Stargirl, Smiles to Go, Wringer, Maniac Magee, Jake and Lilly,* and *Milkweed*
+
+Starmer, Aaron *  The Riverman* and *The Whisper*
+
+Stead, Rebecca  * Goodbye Stranger, Bob, Liar and Spy,* and *When You Reach Me*
+
+Sumner, Jamie	*Roll With It*
+
+Swinarski, Claire	*The Kate in Between, What Happened to Rachel Riley?* and *Take it From the Top*
+
+Tanner, Lian *   The Icebreaker series*
+
+Tarshis, Lauren *   Emma-Jean Lazarus Fell Out of a Tree*
+
+Tavaris, Matt	*	Hoops*
+
+Telgemeier, Raina *   Smile* and *Drama*
+
+Thomas, Aiden	*Cemetery Boys*
+
+Tolkein, J.R.R. *  The Lord of the Rings series*
+
+Tougias, Michael J.  and Casey Sherman	*The Finest Hours*
+
+Vail, Rachel  *  Ever After, Well That Was Awkward,* and *Bad Best Friend*
+
+Van Draanen, Wendelin *   Flipped* and *The Running Dream*
+
+Velde, Vivian Vande *   Stolen*
+
+Venable, Colleen A.	*\    Katie the Catsitter* (series)
+
+Vrabel, Beth  *Pack of Dorks*
 
 Walters, Eric *The Rule of Three*
 
-Wein, Elizabeth    *Code Name Verity*
+Wang, Jen	*The Prince and the Dressmaker*
 
-Wells, Robison    *Variant* and *Feedback*
+Warga, Jasmine	*A Rover’s Story* and *Other Words for Home*
 
-Wenxuan, Coa    *Bronze and Sunflower*
+Wein, Elizabeth *   Code Name Verity*
 
-Westerfeld, Scott    *Leviathan* [(review)](http://c-t-l.org/bookblog/?p=482), *Behemoth*, and *Goliath*
+Wells, Robison  *  Variant and Feedback*
 
-Woodson, Jacqueline   *Feathers* and *Brown Girl Dreaming*
+Wenxuan, Cao *   Bronze and Sunflower*
 
-Wright, Bil    *Putting Makeup on the Fat Boy*
+Westerfeld, Scott  *  Leviathan (review), Behemoth,* and *Goliath*
 
-Yancey, Rick    *The Extraordinary Adventures of Alfred Kropp* and *The Monstrumologist*
+Williams, Alicia	*Mid-Air*
 
-Yang, Gene    *American-Born Chinese* and *Level Up*
+Wolk, Lauren	*	Candle Island, Beyond the Bright Sea, Wolf Hollow*
 
-Yoon, Nicola  *Everything, Everything*
+Woodson, Jacqueline  * Before the Ever After, Feathers* and *Brown Girl Dreaming*
 
-Yousafzai, Malala    *I Am Malala*
+Wright, Bil  *  Putting Makeup on the Fat Boy*
 
-Zeigler, Jennifer  *How Not to Be Popular*
+Yancey, Rick *   The Extraordinary Adventures of Alfred Kropp* and *The Monstrumologist*
 
-Zevin, Gabrielle    *Elsewhere*
+Yang, Gene  *  American-Born Chinese* and *Level Up*
 
-Zusak, Markus    *The Book Thief*
+Yang, Kelly	*Front Desk (series)*
+
+Yoon, Nicola *\    Everything, Everything*
+
+Yousafzai, Malala  *  I Am Malala*
+
+Zeigler, Jennifer * How Not to Be Popular*
+
+Zevin, Gabrielle *   Elsewhere*
+
+Zusak, Markus *   The Book Thief*
 
 </details>
 
