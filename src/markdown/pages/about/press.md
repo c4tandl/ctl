@@ -1,10 +1,14 @@
 ---
 path: press
-date: 2026-01-22T16:18:48.268Z
+date: 2026-01-22T16:31:06.770Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
+5/12/25 - [CTL hosts artist Kim Bernard](https://www.boothbayregister.com/article/ctl-hosts-artist-kim-bernard/257852)
+
+4/14/25 - [CTL presents 'Twelfth Night' and 'The Tempest'](https://www.boothbayregister.com/article/ctl-presents-twelfth-night-and-tempest/256830)
+
 3/17/25 - [CTL students win regional Scholastic Writing awards ](https://www.boothbayregister.com/article/ctl-students-win-regional-scholastic-writing-awards/255913)
 
 2/7/25 - [CTL MathCounts team wins first place at Regionals ](https://www.boothbayregister.com/article/ctl-mathcounts-team-wins-first-place-regional/254770)
