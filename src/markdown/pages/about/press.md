@@ -1,13 +1,21 @@
 ---
 path: press
-date: 2026-01-22T16:04:15.162Z
+date: 2026-01-22T16:18:48.268Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
+3/17/25 - [CTL students win regional Scholastic Writing awards ](https://www.boothbayregister.com/article/ctl-students-win-regional-scholastic-writing-awards/255913)
+
+2/7/25 - [CTL MathCounts team wins first place at Regionals ](https://www.boothbayregister.com/article/ctl-mathcounts-team-wins-first-place-regional/254770)
+
+2/3/25 - [CTL student is The Telling Room's Lincoln County winner ](https://www.boothbayregister.com/article/ctl-student-telling-room-s-lincoln-county-winner/254628)
+
+1/27/25 - [Chewonki 'Fins and Flippers' at CTL](https://www.boothbayregister.com/article/chewonki-fins-and-flippers-ctl/254456)
+
 12/9/24 - [Maine poet laureate leads workshop, judges poetry contest during Midcoast visit (The Times Record)](https://www.pressherald.com/2024/12/09/maine-poet-laureate-leads-school-workshop-judges-poetry-contest-during-midcoast-visit/)
 
-[12/9/24 - ](https://www.pressherald.com/2024/12/09/maine-poet-laureate-leads-school-workshop-judges-poetry-contest-during-midcoast-visit/)[Vs. A Poetry Competition held at Skidompha Library](https://www.boothbayregister.com/article/vs-poetry-competition-held-skidompha-library/253215)
+12/9/24 - [](https://www.pressherald.com/2024/12/09/maine-poet-laureate-leads-school-workshop-judges-poetry-contest-during-midcoast-visit/)[Vs. A Poetry Competition held at Skidompha Library](https://www.boothbayregister.com/article/vs-poetry-competition-held-skidompha-library/253215)
 
 11/8/24 - [CTL welcomes Buffalo State interns](https://www.boothbayregister.com/article/ctl-welcomes-buffalo-state-interns/252343)
 
