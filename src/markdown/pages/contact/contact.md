@@ -1,5 +1,5 @@
 ---
-date: 2026-01-22T15:52:05.328Z
+date: 2026-01-22T15:58:04.020Z
 title: Contact
 contactpage: true
 carousel:
@@ -30,23 +30,3 @@ Fax: 207-882-6413
 <br/>
 
 Email CTL's Head of School Katy Inman ([katy@c-t-l.org)](mailto:katy@c-t-l.org) directly, or submit an inquiry below:
-
-
-
-
-
-
-
-
-
-DIRECT DATA COLLECTION
-
-Personal data is only stored when voluntarily given by you for a determined purpose e.g. in context of a registration, a survey, a contest, or in performance of a contract. Your individual, identifiable, personal data will not be disclosed to third parties, without your consent.
-
-PHONE NUMBERS
-
-Any phone numbers collected through our site, whether through webform or other means, will be used exclusively to communicate with you regarding our services and will never be shared or sold to third parties for promotional or marketing purposes.
-
-TELEPHONE COMMUNICATIONS WITH YOU
-
-You agree that our company and its agents may call or text you at any phone number (landline or wireless) that you provide to us, using an automated dialing system and/or a prerecorded message, for marketing services and/or account-related purposes, such as appointment confirmations, service alerts, billing and collection issues or account recovery concerns. You can manage your contact preferences by emailing us, calling us, or replying to text messages with “HELP” for assistance or “STOP” to unsubscribe. Reply “START” to resubscribe. Message and data rates may apply.
