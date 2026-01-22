@@ -1,10 +1,22 @@
 ---
 path: press
-date: 2026-01-22T16:31:06.770Z
+date: 2026-01-22T16:35:49.702Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
+1/12/26 - [CTL teacher nominated for MCELA Teacher of Excellence Award](https://www.boothbayregister.com/article/ctl-teacher-nominated-mcela-teacher-excellence-award/266218)
+
+1/5/26 - [CTL teacher Corbin Lichtinger to publish a children's book anthology](https://www.boothbayregister.com/article/ctl-teacher-corbin-lichtinger-publish-children-s-book-anthology/266011)
+
+12/15/25 - [Fall professional development at CTL](https://www.boothbayregister.com/article/fall-professional-development-ctl/265506)
+
+11/25/25 - [CTL poets Recognized by Inkblot Writing Contest](https://www.boothbayregister.com/article/ctl-poets-recognized-inkblot-writing-contest/264856)
+
+11/17/25 - [CTL welcomes Maine Secretary of State Shenna Bellows](https://www.boothbayregister.com/article/ctl-welcomes-maine-secretary-state-shenna-bellows/264662)
+
+10/27/25 - [CTL welcomes fall interns](https://www.boothbayregister.com/article/ctl-welcomes-fall-interns/263951)
+
 5/12/25 - [CTL hosts artist Kim Bernard](https://www.boothbayregister.com/article/ctl-hosts-artist-kim-bernard/257852)
 
 4/14/25 - [CTL presents 'Twelfth Night' and 'The Tempest'](https://www.boothbayregister.com/article/ctl-presents-twelfth-night-and-tempest/256830)
