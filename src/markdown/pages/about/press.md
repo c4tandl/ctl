@@ -1,6 +1,6 @@
 ---
 path: press
-date: 2025-01-08T18:20:15.035Z
+date: 2026-01-22T16:04:15.162Z
 title: CTL in the News
 sort: 9
 nav: about
@@ -60,3 +60,21 @@ nav: about
 [](https://www.boothbayregister.com/article/ctl-students-explore-collections-bostons-museum-fine-arts/179841)[](<>)9﻿/18/23 - [CTL students selected as finalists in Sarah Mook poetry contest](<>)
 
 [](<>)8﻿/8/23 - [CTL  receives continued accreditation status](https://www.boothbayregister.com/article/center-teaching-and-learning-receives-continued-accreditation-status/177129)[](https://www.boothbayregister.com/article/ctl-students-selected-finalists-sarah-mook-poetry-contest/178567)[](https://www.boothbayregister.com/article/children-s-authorillustrator-peter-brown-visits-ctl/181113)[](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)
+
+[](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)
+
+Delay & Closing Notifications
+
+*CTL will contact families via text to notify them of weather related school delays and closings. We are required to include the following language in order to text you via a texting service.* 
+
+[](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)DIRECT DATA COLLECTION
+
+Personal data is only stored when voluntarily given by you for a determined purpose e.g. in context of a registration, a survey, a contest, or in performance of a contract. Your individual, identifiable, personal data will not be disclosed to third parties, without your consent.
+
+PHONE NUMBERS
+
+Any phone numbers collected through our site, whether through webform or other means, will be used exclusively to communicate with you regarding our services and will never be shared or sold to third parties for promotional or marketing purposes.
+
+TELEPHONE COMMUNICATIONS WITH YOU
+
+You agree that our company and its agents may call or text you at any phone number (landline or wireless) that you provide to us, using an automated dialing system and/or a prerecorded message, for marketing services and/or account-related purposes, such as appointment confirmations, service alerts, billing and collection issues or account recovery concerns. You can manage your contact preferences by emailing us, calling us, or replying to text messages with “HELP” for assistance or “STOP” to unsubscribe. Reply “START” to resubscribe. Message and data rates may apply.
