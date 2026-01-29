@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2026-01-15T18:49:32.589Z
+date: 2026-01-29T20:57:05.439Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -25,7 +25,7 @@ Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been com
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913219/faculty%20and%20staff%20photos/Maureen_Barbieri_Bio_Photo_incf2b.jpg)
 
 **Maureen Barbieri**\
-Maureen was a middle school teacher whose work was dramatically influenced by Nancie Atwell’s first book *In the Middle* and by Nancie’s subsequent articles, books, and presentations. Nancie invited her to CTL in its early days, and many times over the years, so she developed a deep appreciation for the pedagogy, school culture, and commitment to excellence the whole school community embodies. A faculty member at NYU and UNH for many years, she is now at Stenhouse Publishers, editing books by and for teachers. She lives in Kittery, ME and is grateful to be a part of the CTL family.
+Maureen was a middle school teacher whose work was dramatically influenced by Nancie Atwell’s first book *In the Middle* and by Nancie’s subsequent articles, books, and presentations. Nancie invited her to CTL in its early days, and many times over the years, so she developed a deep appreciation for the pedagogy, school culture, and commitment to excellence the whole school community embodies. A faculty member at NYU and UNH for many years, she also worked for Stenhouse Publishers, editing books by and for teachers. She lives in Kittery, ME and is grateful to be a part of the CTL family.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1758202330/Aura_Photo_zrachp.jpg)
 
