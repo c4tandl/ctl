@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2025-05-21T18:12:59.933Z
+date: 2026-02-03T19:19:48.414Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -30,6 +30,18 @@ Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_i
 **Stock Gifts**
 
 Please contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org if you would like to donate stock.  
+
+**CTL's Acorns Store**
+
+Check out our Acorns store to purchase CTL gear! There are many options: hats and scarves, long- and short-sleeved T-shirts, hoodies and crewneck sweatshirts, shorts and joggers, water bottles and tumblers, and even outerwear and bags--all available in more colors than ever before for fun customization.
+
+[Shop here and get it shipped directly to your home.](https://teamlocker.squadlocker.com/stores/the-center-for-teaching-learning-school-store-2815974?fbclid=IwY2xjawPvKNpleHRuA2FlbQIxMABicmlkETE0NXI4QTlZaGh4Q2tuRjJSc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi3Y8gF3IuREbcVsFaN8BAq6kHkmyRtEfymNa1WOX2hpBSnH6NA-BdBpi0qf_aem_2HffsIWKKfwLptNc4EfPdA#/lockers/the-center-for-teaching-learning-school-store-2815974)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1770146346/616541222_1484477453677952_2178134226097927459_n_tlzrqi.jpg)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1770146359/617562980_1484477437011287_4794992270506439068_n_llnpsj.jpg)
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1770146359/616554145_1484477517011279_9221835208717558695_n_n5zxwd.jpg)
 
 **CLYNK**
 
