@@ -1,10 +1,12 @@
 ---
 path: press
-date: 2026-01-22T16:37:19.304Z
+date: 2026-02-03T19:03:02.476Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
+1/29/26 - [CTL welcomes guest educator from Maine Mineral & Gem Museum] (https://www.boothbayregister.com/article/ctl-welcomes-guest-educator-maine-mineral-gem-museum/266760)
+
 1/12/26 - [CTL teacher nominated for MCELA Teacher of Excellence Award](https://www.boothbayregister.com/article/ctl-teacher-nominated-mcela-teacher-excellence-award/266218)
 
 1/5/26 - [CTL teacher Corbin Lichtinger to publish a children's book anthology](https://www.boothbayregister.com/article/ctl-teacher-corbin-lichtinger-publish-children-s-book-anthology/266011)
@@ -37,7 +39,6 @@ nav: about
 
 10/28/24 - [CTL students visit Farnsworth Art Museum](https://www.boothbayregister.com/article/ctl-students-visit-farnsworth-art-museum/251915)
 
-10/7/24 - [Penny Kittle and Linda Rief visit CTL](https://www.boothbayregister.com/article/penny-kittle-and-linda-rief-visit-ctl/251230)
 
 9/4/24 - [Nature meets education at Edgecomb private school (The Times Record)](https://www.pressherald.com/2024/09/04/nature-meets-education-at-edgecomb-private-school/?fbclid=IwZXh0bgNhZW0CMTEAAR2W0YOkvdoVIeyewqhizD7nIJj67YXRoSQL2cVcgagxd0yV5yEJvJatfbY_aem_v3EEeMXF5z_z-Rs8Ji1psQ)
 
@@ -49,11 +50,7 @@ nav: about
 
 6/18/24 - [CTL student wins national award for writing](https://www.boothbayregister.com/article/ctl-student-wins-national-award-writing/187890)
 
-5/28/24 - [CTL students place in poetry contest](https://www.boothbayregister.com/article/ctl-students-place-poetry-contest/186965)
 
-5/13/24 - [CTL students selected as poetry contest finalists](https://www.boothbayregister.com/article/ctl-students-selected-poetry-contest-finalists/186338)
-
-4/29/24 - [CTL students win Scholastic Writing Contest regional awards](https://www.boothbayregister.com/article/ctl-students-win-scholastic-writing-contest-regional-awards/185803)[](<>)
 
 [](<>)[](https://www.boothbayregister.com/article/center-teaching-and-learning-receives-continued-accreditation-status/177129)[](https://www.boothbayregister.com/article/ctl-students-selected-finalists-sarah-mook-poetry-contest/178567)[](https://www.boothbayregister.com/article/children-s-authorillustrator-peter-brown-visits-ctl/181113)[](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)[](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)
 
