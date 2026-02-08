@@ -304,6 +304,10 @@ init({
         create: false,
         fields: [
           {
+            name: "path",
+            widget: "hidden",
+          },
+          {
             name: "title",
             label: "Title",
           },
