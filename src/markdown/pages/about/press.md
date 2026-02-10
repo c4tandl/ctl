@@ -1,11 +1,13 @@
 ---
 path: press
-date: 2026-02-03T19:03:02.476Z
+date: 2026-02-10T16:43:11.691Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
-1/29/26 - [CTL welcomes guest educator from Maine Mineral & Gem Museum] (https://www.boothbayregister.com/article/ctl-welcomes-guest-educator-maine-mineral-gem-museum/266760)
+2/5/26 - [CTL MathCounts Team Places at Regional Competition](https://www.boothbayregister.com/article/ctl-mathcounts-team-places-regional-competition/267026)
+
+1/29/26 - [CTL welcomes guest educator from Maine Mineral & Gem Museum](https://www.boothbayregister.com/article/ctl-welcomes-guest-educator-maine-mineral-gem-museum/266760)
 
 1/12/26 - [CTL teacher nominated for MCELA Teacher of Excellence Award](https://www.boothbayregister.com/article/ctl-teacher-nominated-mcela-teacher-excellence-award/266218)
 
@@ -39,7 +41,6 @@ nav: about
 
 10/28/24 - [CTL students visit Farnsworth Art Museum](https://www.boothbayregister.com/article/ctl-students-visit-farnsworth-art-museum/251915)
 
-
 9/4/24 - [Nature meets education at Edgecomb private school (The Times Record)](https://www.pressherald.com/2024/09/04/nature-meets-education-at-edgecomb-private-school/?fbclid=IwZXh0bgNhZW0CMTEAAR2W0YOkvdoVIeyewqhizD7nIJj67YXRoSQL2cVcgagxd0yV5yEJvJatfbY_aem_v3EEeMXF5z_z-Rs8Ji1psQ)
 
 8/12/24 - [CTL wins Best of Maine in Down East Magazine](https://www.boothbayregister.com/article/ctl-wins-best-maine-down-east-magazine/189969)
@@ -49,8 +50,6 @@ nav: about
 7/1/24 - [CTL students research Maine nonprofits](https://www.boothbayregister.com/article/ctl-students-research-maine-nonprofits/188368)
 
 6/18/24 - [CTL student wins national award for writing](https://www.boothbayregister.com/article/ctl-student-wins-national-award-writing/187890)
-
-
 
 [](<>)[](https://www.boothbayregister.com/article/center-teaching-and-learning-receives-continued-accreditation-status/177129)[](https://www.boothbayregister.com/article/ctl-students-selected-finalists-sarah-mook-poetry-contest/178567)[](https://www.boothbayregister.com/article/children-s-authorillustrator-peter-brown-visits-ctl/181113)[](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)[](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)
 
