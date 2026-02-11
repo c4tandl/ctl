@@ -1,11 +1,17 @@
 ---
 path: testimonials
-date: 2021-10-06T12:35:38.975Z
+date: 2026-02-11T18:34:48.660Z
 title: Testimonials
 sort: 7
 nav: how-we-teach-and-learn
+carousel:
+  images:
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1770834781/2_pekale.jpg
+    - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1770834781/1_res7dc.jpg
 ---
 ## Why CTL?
+
+
 
 “It’s like a cozy fabric, almost like a hammock, that, when we’re in it as a family, it just holds us. That’s how I feel about this school.” – CTL parent
 
