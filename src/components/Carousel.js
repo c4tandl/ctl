@@ -51,10 +51,10 @@ const Button = styled.div`
     opacity: 0;
   }
   &.arrow-button.left {
-    left: 0;
+    left: 1rem;
   }
   &.arrow-button.right {
-    right: 0;
+    right: 1rem;
   }
   &.bottom {
     opacity: 0;

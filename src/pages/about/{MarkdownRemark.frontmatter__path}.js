@@ -98,7 +98,7 @@ const SunDiv = styled.div`
 `;
 
 const BodyArea = styled.div`
-  background-color: #ffffff00;
+  background-color: #fff;
   width: 900px;
   padding: 0 20px;
   margin-top: ${(props) => (props.coverSlideshow ? "0" : "250px")};
