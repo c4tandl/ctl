@@ -123,6 +123,12 @@ const Carousel = (props) => {
     const calcBaseOffset = () => {
       if (!fullRowRef.current) return;
       const containerWidth = fullRowRef.current.offsetWidth;
+
+      // On mobile, scrolling shows/hides the address bar which fires resize
+      // events without actually changing the container width. Skip the reset
+      // in that case to avoid snapping the carousel back to the start.
+      if (containerWidth === containerWidthRef.current) return;
+
       containerWidthRef.current = containerWidth;
       const N = Math.ceil(containerWidth / slideWidth);
       const offset = containerWidth - N * slideWidth;
