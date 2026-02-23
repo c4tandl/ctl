@@ -27,7 +27,7 @@ init({
         api_key: process.env.GATSBY_CLOUDINARY_API_KEY,
         default_transformations: {
           fetch_format: "auto",
-          quality: "auto"
+          quality: "auto",
         }
       },
     },
