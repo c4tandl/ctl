@@ -67,7 +67,7 @@ const optimizeCloudinaryUrl = (url) => {
   if (!url || !url.includes("res.cloudinary.com")) return url;
   return url.replace(
     "/image/upload/",
-    "/image/upload/c_fill,h_460,w_460/f_auto/q_auto/"
+    "/image/upload/t_carousel/"
   );
 };
 
