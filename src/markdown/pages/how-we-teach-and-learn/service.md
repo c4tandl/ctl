@@ -1,6 +1,6 @@
 ---
 path: service
-date: 2024-03-14T04:07:25.029Z
+date: 2026-02-24T15:11:28.555Z
 title: Service
 sort: 8
 nav: how-we-teach-and-learn
@@ -28,4 +28,6 @@ Children’s service to others is one of the hallmarks of CTL. Since 1990, stud
 * collected and donated food to the Boothbay Community Fridge
 * collected pajamas for the Scholastic Pajama Drive
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382669/image_50732033_wwewek.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382669/image_50732033_wwewek.jpg"/>
+</div>
