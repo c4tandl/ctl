@@ -286,7 +286,7 @@ const Carousel = (props) => {
   useEffect(() => {
     intervalRef.current = window.setInterval(() => {
       handleGoAhead();
-    }, 4000);
+    }, 2000);
     return () => {
       if (intervalRef.current) window.clearInterval(intervalRef.current);
     };
