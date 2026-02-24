@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2025-10-18T22:15:50.928Z
+date: 2026-02-24T14:52:20.600Z
 title: Faculty
 sort: 4
 nav: about
@@ -24,10 +24,6 @@ nav: about
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/angela.faculty_ikpbgv.jpg)
 
 **Angela Lathem-Ballard** is CTL’s teacher of 5-6 Humanities and the school’s Arts Specialist, teaching Pre-K--8 Visual Art and 5-8 Drama. Angela has taught kindergarten and every grade from 3 through 8 in her 18 years of experience in the classroom, but she loves 5-6 the best. She attended the University of Illinois for her BFA in Theater and she holds a Masters of Arts in Education, Curriculum, and Instruction from Bradley University, also in Illinois, her home state. Before becoming a teacher, she spent several years working in outreach education and as a Y.E.S. facilitator at Walt Disney World. She has studied at The Globe Theatre in London, and been a Fellow with the San Diego Area Writing Project. People here at CTL first met Angela in 2012, when she traveled to Maine to take part in our intern program, learning from Nancie and Glenn. Angela loves teaching Shakespeare through performance. She has taught at La Jolla Country Day, San Diego Cooperative Charter, and The Children’s Primary School prior to CTL. In addition, Angela has served as a social-services volunteer in Ghana, Peru, Russia, and China. 
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1758204205/unnamed-2_dfuzu4.png)
-
-**Ian Collins** is thrilled to join the Center for Teaching and Learning community. His professional background and interest in education closely mirrors the values and approaches to learning CTL embodies and he is excited to return to teaching after having supported educator professional development for the past few years. Most recently, Ian served as the Principal Investigator and Computer Science Team Lead at the Maine Math and Science Alliance (MMSA), where he lead the Workforce Ready 2030 initiative, a multi-year research-practice partnership focused on expanding access to computational thinking and workforce-aligned learning across rural and underserved communities through computer science integration across the curriculum. Prior to joining MMSA, Ian taught middle school science at the Edna Drinkwater School in Northport. With over a decade of experience spanning classroom teaching, curriculum development, environmental and outdoor learning, and program management, Ian has designed and implemented experiential and place-based education, professional development for educators, and community-engaged STEM programs. He recently completed a Master of Science degree in Data Science and Engineering at the University of Maine and holds an undergraduate degree in Anthropology from the University of California, Irvine, where he graduated with honors for research on scientific models and ethics in biomedical science. A published co-author and frequent collaborator on participatory design in education, Ian brings a unique interdisciplinary perspective to advancing science and mathematical education. Ian grew up in Claremont, CA and now resides in Lincolnville, ME with his family.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/stacy.faculty_nctjda.jpg)
 
