@@ -86,6 +86,15 @@ const Slide = styled.img`
   object-fit: cover;
 `;
 
+// Inject Cloudinary transforms to serve carousel images at display size (230px, 2x for retina)
+const optimizeCloudinaryUrl = (url) => {
+  if (!url || !url.includes("res.cloudinary.com")) return url;
+  return url.replace(
+    "/image/upload/",
+    "/image/upload/c_fill,w_460,h_460,f_auto,q_auto/",
+  );
+};
+
 const Carousel = (props) => {
   const { images, handleToggle, coverSlideshow } = props;
 
@@ -95,7 +104,7 @@ const Carousel = (props) => {
 
   // Filter out broken images
   useEffect(() => {
-    const filtered = images.filter(img => !brokenImages.has(img));
+    const filtered = images.filter((img) => !brokenImages.has(img));
     if (filtered.length > 0) {
       setValidImages(filtered);
     }
@@ -145,14 +154,17 @@ const Carousel = (props) => {
   }, [slideWidth]);
 
   // Generate 22 slides for smooth infinite scrolling (11 visible + 11 buffer)
-  const generateSlides = useCallback((start) => {
-    const slides = [];
-    for (let i = 0; i < 22; i++) {
-      const index = (start + i) % validImages.length;
-      slides.push(validImages[index]);
-    }
-    return slides;
-  }, [validImages]);
+  const generateSlides = useCallback(
+    (start) => {
+      const slides = [];
+      for (let i = 0; i < 22; i++) {
+        const index = (start + i) % validImages.length;
+        slides.push(validImages[index]);
+      }
+      return slides;
+    },
+    [validImages],
+  );
 
   const [currentSlides, setCurrentSlides] = useState(() => {
     const slides = [];
@@ -205,7 +217,7 @@ const Carousel = (props) => {
   }, [currentSlides]);
 
   const handleImageError = (imgSrc) => {
-    setBrokenImages(prev => new Set([...prev, imgSrc]));
+    setBrokenImages((prev) => new Set([...prev, imgSrc]));
   };
 
   const handleGoBack = useCallback(() => {
@@ -226,7 +238,8 @@ const Carousel = (props) => {
       if (newOffset >= baseOffsetRef.current + slideWidth) {
         // Reset seamlessly: disable transition, update slides, reset transform
         setDisableTransition(true);
-        const newStartIndex = (startIndex - 1 + validImages.length) % validImages.length;
+        const newStartIndex =
+          (startIndex - 1 + validImages.length) % validImages.length;
         setStartIndex(newStartIndex);
         setCurrentSlides(generateSlides(newStartIndex));
         setTransformOffset(newOffset - slideWidth);
@@ -299,7 +312,7 @@ const Carousel = (props) => {
         {currentSlides.map((slide, index) => (
           <Slide
             key={`${slide}-${index}`}
-            src={slide}
+            src={optimizeCloudinaryUrl(slide)}
             onError={() => handleImageError(slide)}
           />
         ))}
@@ -313,7 +326,11 @@ const Carousel = (props) => {
           {coverSlideshow ? <ChevronDown /> : <ChevronUp />}
         </Button>
       ) : null}
-      <Button title="Advance slides" className="arrow-button right" onClick={handleGoAhead}>
+      <Button
+        title="Advance slides"
+        className="arrow-button right"
+        onClick={handleGoAhead}
+      >
         <ArrowRight />
       </Button>
     </FullRow>
