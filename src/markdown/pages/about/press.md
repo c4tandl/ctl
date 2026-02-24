@@ -1,10 +1,12 @@
 ---
 path: press
-date: 2026-02-10T16:43:11.691Z
+date: 2026-02-24T17:00:22.942Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
+2/13/26 - [CTL Student Is the Telling Room's Lincoln County Winner in Writing](https://www.boothbayregister.com/article/ctl-student-telling-room-s-lincoln-county-winner-writing/267240)
+
 2/5/26 - [CTL MathCounts Team Places at Regional Competition](https://www.boothbayregister.com/article/ctl-mathcounts-team-places-regional-competition/267026)
 
 1/29/26 - [CTL welcomes guest educator from Maine Mineral & Gem Museum](https://www.boothbayregister.com/article/ctl-welcomes-guest-educator-maine-mineral-gem-museum/266760)

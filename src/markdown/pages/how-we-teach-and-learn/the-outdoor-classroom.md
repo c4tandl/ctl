@@ -1,6 +1,6 @@
 ---
 path: the-outdoor-classroom
-date: 2025-12-10T19:58:10.230Z
+date: 2026-02-24T15:07:50.698Z
 title: The Outdoor Classroom
 sort: 4
 nav: how-we-teach-and-learn
@@ -28,16 +28,26 @@ CTL has developed and implemented a hands-on field science curriculum for grades
 
 Students in grade 3-8 access the Outdoor Classroom as appropriate to their curricular projects, traveling down the hill to do research on Maine mammals, weather, and water, and sometimes even to write nature-inspired poetry.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382114/unnamed-190_w32dza.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710382114/unnamed-190_w32dza.jpg"/>
+</div>
 
 ## The Development of the Outdoor Classroom
 
 In 2017, using grant funds from the Davis Family Foundation and Jane’s Trust, a donation by Roger Gies in honor of Barbara Balmos Gies, and other funds, CTL built a timber frame classroom at the bottom of the school’s hilly eight acre campus. The effort was a deep collaboration. Current parents, alumni, alumni parents and previous school interns donated to an Annual Appeal in 2017. Westport resident and alumni parent Lydia Kitfield donated the funds to get the project started and connected the school to Edgecomb timber framer Travis Chapman. Current parent and Boothbay carpenter Ross Branch filled in the frame and gave the building the warm and welcoming feel it has today. Jane’s Trust and the Davis Family Foundation provided CTL with grants to fund curriculum, instruction for students, the structure itself, and also the creation of educational fieldwork resource kits, which are available for Maine teachers to borrow and use in their own classrooms.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553829/unnamed-1192_gbre38.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553829/unnamed-1192_gbre38.jpg"/>
+</div>
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553832/unnamed-1206_ztb5n5.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553832/unnamed-1206_ztb5n5.jpg"/>
+</div>
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-876_kfvwir.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553590/unnamed-876_kfvwir.jpg"/>
+</div>
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-848_jkl4hd.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738553589/unnamed-848_jkl4hd.jpg"/>
+</div>
