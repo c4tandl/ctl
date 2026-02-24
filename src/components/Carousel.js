@@ -89,10 +89,7 @@ const Slide = styled.img`
 // Inject Cloudinary transforms to serve carousel images at display size (230px, 2x for retina)
 const optimizeCloudinaryUrl = (url) => {
   if (!url || !url.includes("res.cloudinary.com")) return url;
-  return url.replace(
-    "/image/upload/",
-    "/image/upload/c_fill,w_460,h_460,f_auto,q_auto/",
-  );
+  return url.replace("/image/upload/", "/image/upload/t_carousel/");
 };
 
 const Carousel = (props) => {

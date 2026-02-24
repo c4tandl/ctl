@@ -5,7 +5,7 @@ const optimizeCloudinaryBodyHtml = (html) => {
   if (!html) return html;
   return html.replace(
     /res\.cloudinary\.com\/center-for-teaching-learning\/image\/upload\//g,
-    "res.cloudinary.com/center-for-teaching-learning/image/upload/f_auto,q_auto/"
+    "res.cloudinary.com/center-for-teaching-learning/image/upload/t_body_images/"
   );
 };
 
