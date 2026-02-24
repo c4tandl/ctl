@@ -1,11 +1,20 @@
 import React from "react";
 import styled from "styled-components";
 
+const optimizeCloudinaryBodyHtml = (html) => {
+  if (!html) return html;
+  return html.replace(
+    /res\.cloudinary\.com\/center-for-teaching-learning\/image\/upload\//g,
+    "res.cloudinary.com/center-for-teaching-learning/image/upload/f_auto,q_auto/"
+  );
+};
+
 const enwrapImgTagsInAnotherDivWithClass = (htmlToEnwrap, className) => {
   const parser = new DOMParser();
   const document = parser.parseFromString(htmlToEnwrap, "text/html");
   const imgs = document.querySelectorAll("img");
   imgs.forEach((img) => {
+    img.setAttribute("loading", "lazy");
     const div = document.createElement("div");
     div.classList.add(className);
     img.parentNode.insertBefore(div, img);
@@ -58,10 +67,11 @@ const BodyDiv = styled.div`
 `;
 
 const Body = (props) => {
+  const optimizedBody = optimizeCloudinaryBodyHtml(props.body);
   const newBody =
     typeof window !== `undefined`
-      ? enwrapImgTagsInAnotherDivWithClass(props.body, "body-img")
-      : props.body;
+      ? enwrapImgTagsInAnotherDivWithClass(optimizedBody, "body-img")
+      : optimizedBody;
   return <BodyDiv dangerouslySetInnerHTML={{ __html: newBody }} />;
 };
 

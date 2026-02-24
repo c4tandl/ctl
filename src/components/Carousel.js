@@ -62,6 +62,15 @@ const Slide = styled.img`
   }
 `;
 
+// Inject Cloudinary transforms to serve carousel images at display size (230px, 2x for retina)
+const optimizeCloudinaryUrl = (url) => {
+  if (!url || !url.includes("res.cloudinary.com")) return url;
+  return url.replace(
+    "/image/upload/",
+    "/image/upload/c_fill,w_460,h_460,f_auto,q_auto/"
+  );
+};
+
 const Carousel = (props) => {
   const { images, handleToggle, coverSlideshow } = props;
   // start with first but there can always be more
@@ -171,17 +180,17 @@ const Carousel = (props) => {
         <ArrowLeft />
       </Button>
       <SlideTrack ref={slideTrackRef}>
-        <Slide src={currentSlides[0]} />
-        <Slide src={currentSlides[1]} />
-        <Slide src={currentSlides[2]} />
-        <Slide src={currentSlides[3]} />
-        <Slide src={currentSlides[4]} />
-        <Slide src={currentSlides[5]} />
-        <Slide src={currentSlides[6]} />
-        <Slide src={currentSlides[7]} />
-        <Slide src={currentSlides[8]} />
-        <Slide src={currentSlides[9]} />
-        <Slide src={currentSlides[10]} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[0])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[1])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[2])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[3])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[4])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[5])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[6])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[7])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[8])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[9])} />
+        <Slide src={optimizeCloudinaryUrl(currentSlides[10])} />
       </SlideTrack>
       {handleToggle ? (
         <Button
