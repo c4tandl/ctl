@@ -1,6 +1,6 @@
 ---
 path: a-day-at-ctl
-date: 2026-02-24T14:55:54.945Z
+date: 2026-02-24T14:56:31.986Z
 title: A Day at CTL/Morning Meeting
 sort: 3
 nav: how-we-teach-and-learn
@@ -55,6 +55,9 @@ You and your child are cordially invited to visit a morning meeting and join us 
 
 Afterward, Katy Inman, our Head of School, is available to give you a tour of the school and an opportunity to glimpse our award-winning program in action. To arrange to visit a CTL morning meeting, please call her at 882-9706. Typically visits are scheduled on Thursdays and Fridays.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560411/unnamed-1027_prung5.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738560411/unnamed-1027_prung5.jpg"/></div>
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.27_epcg68.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867858/Home%20page%20photos/school.1080.27_epcg68.jpg"/>
+</div>
