@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2026-02-03T19:25:55.530Z
+date: 2026-02-24T15:18:25.823Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -37,7 +37,9 @@ Check out our Acorns store to purchase CTL gear! There are many options: hats an
 
 [Shop here and get it shipped directly to your home.](https://teamlocker.squadlocker.com/stores/the-center-for-teaching-learning-school-store-2815974?fbclid=IwY2xjawPvKNpleHRuA2FlbQIxMABicmlkETE0NXI4QTlZaGh4Q2tuRjJSc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi3Y8gF3IuREbcVsFaN8BAq6kHkmyRtEfymNa1WOX2hpBSnH6NA-BdBpi0qf_aem_2HffsIWKKfwLptNc4EfPdA#/lockers/the-center-for-teaching-learning-school-store-2815974)
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/c_crop,ar_1:1/v1770146346/616541222_1484477453677952_2178134226097927459_n_tlzrqi.jpg)
+<div style="display: grid; place-items:center;">
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/c_crop,ar_1:1/v1770146346/616541222_1484477453677952_2178134226097927459_n_tlzrqi.jpg"/>
+</div>
 
 **CLYNK**
 
