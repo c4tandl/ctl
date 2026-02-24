@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2026-02-24T14:52:20.600Z
+date: 2026-02-24T14:53:16.317Z
 title: Faculty
 sort: 4
 nav: about
@@ -45,6 +45,4 @@ nav: about
 
 **Kaity Newell** is CTL’s music teacher for grades Pre-K--4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for over 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently.
 
-**Misha Barker** has been with Hearty Roots since 2017, when she joined the team as a seasonal program facilitator supporting outdoor youth programs. In 2024, Misha stepped into a year-round role as Youth Program Manager, where she now leads school partnerships and seasonal camps. Over the years, she has loved expanding Hearty Roots’ programming to reach more schools and communities in a variety of settings, while continuing to spend as much time as possible outdoors with youth. In addition to her youth development work at Hearty Roots, Misha is a professional photographer, and can often be found traveling with her camera in hand. 
-
-**Molly Thibault** received her degree in Adventure-Based Environmental Education from Unity College, where she also worked as a Trip Leader facilitating multi-day outdoor experiences for incoming students. Since 2019, Molly has led a variety of activities that connect and empower youth in the outdoors, building skills in leadership, community, and risk management. She has been a long-time seasonal Adventure Mentor with Hearty Roots, leading day camps and camping expeditions, and in 2025, she stepped into a year-round role. Molly brings her passion for outdoor education and wilderness exploration to every program.
+**Misha Barker** has been with Hearty Roots since 2017, when she joined the team as a seasonal program facilitator supporting outdoor youth programs. In 2024, Misha stepped into a year-round role as Youth Program Manager, where she now leads school partnerships and seasonal camps. Over the years, she has loved expanding Hearty Roots’ programming to reach more schools and communities in a variety of settings, while continuing to spend as much time as possible outdoors with youth. In addition to her youth development work at Hearty Roots, Misha is a professional photographer, and can often be found traveling with her camera in hand.
