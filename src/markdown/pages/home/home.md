@@ -1,5 +1,5 @@
 ---
-date: 2025-12-10T19:51:11.210Z
+date: 2026-02-24T14:48:07.853Z
 title: Home
 homepage: true
 carousel:
@@ -53,4 +53,6 @@ The Center for Teaching and Learning is a Pre-K--8 demonstration school dedicate
 
 We seek to teach and influence both a cross-section of children of mid-coastal Maine and, through our intern program, speeches, and publications, classroom teachers throughout the U.S.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1723484033/1723483858190-660a506a-20ad-4a10-bf74-d796a8b86687_2_z70g0c.jpg)
+<div style="display: grid; place-items:center;">
+<img src=https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1723484033/1723483858190-660a506a-20ad-4a10-bf74-d796a8b86687_2_z70g0c.jpg/>
+</div>
