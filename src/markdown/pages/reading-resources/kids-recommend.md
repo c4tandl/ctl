@@ -1,98 +1,99 @@
 ---
 path: kids-recommend
 date: 2026-01-29T20:13:12.670Z
-title: Kids Recommend (K-8)
+title: Kids Recommend (Pre-K—8)
 sort: 2
 nav: reading-resources
 ---
+
 <details>
 <summary>
     Pre-K
 </summary>
 
-Anderson, Airlie  *Neither*
+Anderson, Airlie _Neither_
 
-Barner, Bob     *Bears! Bears! Bears!, Bugs! Bugs! Bugs!,* and *Sea Bones*
+Barner, Bob _Bears! Bears! Bears!, Bugs! Bugs! Bugs!,_ and _Sea Bones_
 
-Berenstain, Stan & Jan     *The Berenstain Bears* series
+Berenstain, Stan & Jan _The Berenstain Bears_ series
 
-Black, Birdie     *Warthog a Counting Adventure*
+Black, Birdie _Warthog a Counting Adventure_
 
-Blumenthal, Nancy     *COUNT-A-SAURUS*
+Blumenthal, Nancy _COUNT-A-SAURUS_
 
-Briggs Martin, Jacqueline     *Snowflake Bently*
+Briggs Martin, Jacqueline _Snowflake Bently_
 
-Brown, Peter     *Children Make Terrible Pets,, Flight of the Dodo, Fred Gets Dressed, My Teacher Is a Monster! (No, I Am Not.), You Will Be My Friend!,* and *The Wild Robot on the Island*
+Brown, Peter _Children Make Terrible Pets,, Flight of the Dodo, Fred Gets Dressed, My Teacher Is a Monster! (No, I Am Not.), You Will Be My Friend!,_ and _The Wild Robot on the Island_
 
-Cain, Janan     *The Way I Feel*
+Cain, Janan _The Way I Feel_
 
-Cotterill, Samantha     *Can I Play Too?*
+Cotterill, Samantha _Can I Play Too?_
 
-Crews, Donald     *Ten Black Dots*
+Crews, Donald _Ten Black Dots_
 
-Cronin, Doreen    *Click, Clack, Moo … Cows That Type, Diary of a Worm, Duck for President, Click, Clack, Peep!,* and *Giggle, Giggle, Quack*
+Cronin, Doreen _Click, Clack, Moo … Cows That Type, Diary of a Worm, Duck for President, Click, Clack, Peep!,_ and _Giggle, Giggle, Quack_
 
-Dobbs, Dayle Ann.    *The Shape of Things*
+Dobbs, Dayle Ann. _The Shape of Things_
 
-Donaldson, Julia     *Cave Baby, Charlie Cook’s Favourite Book, Paper Dolls, Room on the Broom, Stick Man, The Baddies, The Gruffalo, The Gruffalo’s Child, The Smeds and the Smoos, The Snail and the Whale, The Smartest Giant in Town, Spiderella, A Squash and a Squeeze,* and *Tyrannosaurus Drip*
+Donaldson, Julia _Cave Baby, Charlie Cook’s Favourite Book, Paper Dolls, Room on the Broom, Stick Man, The Baddies, The Gruffalo, The Gruffalo’s Child, The Smeds and the Smoos, The Snail and the Whale, The Smartest Giant in Town, Spiderella, A Squash and a Squeeze,_ and _Tyrannosaurus Drip_
 
-Elhert, Lois    *Feathers for Lunch, Leaf Man, Mole’s Hill, Nuts to You, Pie in the Sky, Red Leaf, Yellow Leaf, RRRalph, Snowballs, Top Cat, Wag a Tail,* and *Waiting for Wings*
+Elhert, Lois _Feathers for Lunch, Leaf Man, Mole’s Hill, Nuts to You, Pie in the Sky, Red Leaf, Yellow Leaf, RRRalph, Snowballs, Top Cat, Wag a Tail,_ and _Waiting for Wings_
 
-Fenske, Jonathan     *Get Well, Crabby!, Hello, Crabby!, Let’s Play, Crabby!, Party Time, Crabby!,* and *Wake Up, Crabby!* 
+Fenske, Jonathan _Get Well, Crabby!, Hello, Crabby!, Let’s Play, Crabby!, Party Time, Crabby!,_ and _Wake Up, Crabby!_
 
-Fox, Mem     *Whoever You Are*
+Fox, Mem _Whoever You Are_
 
-Gibbons, Gail     *Apples, Bats, Caves and Caverns, Coral Reefs, From Seed to Plant, Sharks,* and *Surrounded By Sea: Life on a New England Fishing Island* 
+Gibbons, Gail _Apples, Bats, Caves and Caverns, Coral Reefs, From Seed to Plant, Sharks,_ and _Surrounded By Sea: Life on a New England Fishing Island_
 
-Henkes, Kevin     *Chester’s Way, Chrysanthemum, A Good Day, Julius,  Lilly and the Purple Plastic Purse, Lilly’s Big Day, Lilly’s Chocolate Heart, Old Bear, Owen, Sheila Rae, The Brave, A Weekend with Wendell, Waiting,* and *Wemberly Worried*
+Henkes, Kevin _Chester’s Way, Chrysanthemum, A Good Day, Julius, Lilly and the Purple Plastic Purse, Lilly’s Big Day, Lilly’s Chocolate Heart, Old Bear, Owen, Sheila Rae, The Brave, A Weekend with Wendell, Waiting,_ and _Wemberly Worried_
 
-Higgins, Ryan T.     *Big Move, Big Storm, Hotel Bruce, Mother Bruce, 1 Grumpy Bruce,* and *Spring Stinks*
+Higgins, Ryan T. _Big Move, Big Storm, Hotel Bruce, Mother Bruce, 1 Grumpy Bruce,_ and _Spring Stinks_
 
-Himmelman, John     *Chickens to the Rescue* and *Cows to the Rescue*
+Himmelman, John _Chickens to the Rescue_ and _Cows to the Rescue_
 
-Hughs, Catherine D.     *Little Kids First Big Book of Dinosaurs*
+Hughs, Catherine D. _Little Kids First Big Book of Dinosaurs_
 
-Ironside, Virginia     *The Huge Bag of Worries*
+Ironside, Virginia _The Huge Bag of Worries_
 
-Jeffers, Oliver     *The Hueys in the New Sweater, How to Catch a Star, Lost and Found, This Moose Belongs to Me, Up and Down,* and *The Way Back Home*
+Jeffers, Oliver _The Hueys in the New Sweater, How to Catch a Star, Lost and Found, This Moose Belongs to Me, Up and Down,_ and _The Way Back Home_
 
-Karst, Patrice  *The Invisible String*
+Karst, Patrice _The Invisible String_
 
-Kirk, David     *Miss Spider’s ABC, Miss Spider’s New Car, Miss Spider’s Tea Party, and Miss Spider’s Wedding*
+Kirk, David _Miss Spider’s ABC, Miss Spider’s New Car, Miss Spider’s Tea Party, and Miss Spider’s Wedding_
 
-Lee, Britney Winn     *The Boy With Big Feelings*
+Lee, Britney Winn _The Boy With Big Feelings_
 
-Lies, Brian       *Bats at the Beach* and *Bats at the Library*
+Lies, Brian _Bats at the Beach_ and _Bats at the Library_
 
-Lionni, Leo     *A Color of His Own*
+Lionni, Leo _A Color of His Own_
 
-Mantchev, Lisa     *Strictly No Elephants*
+Mantchev, Lisa _Strictly No Elephants_
 
-Miller, Pat     *Be Kind*
+Miller, Pat _Be Kind_
 
-Novak, B. J.     *The Book With No Pictures*
+Novak, B. J. _The Book With No Pictures_
 
-Numeroff, Laura Joffe     *If You Give a Mouse a Cookie, If You Give a Pig a Party, If You Give a Dog a Doughnut, If You Give a Cat a Cupcake,* and *If You Give a Pig a Pancake*
+Numeroff, Laura Joffe _If You Give a Mouse a Cookie, If You Give a Pig a Party, If You Give a Dog a Doughnut, If You Give a Cat a Cupcake,_ and _If You Give a Pig a Pancake_
 
-Pluckrose, Henry     *Math Counts: Sorting*
+Pluckrose, Henry _Math Counts: Sorting_
 
-Reynolds, Aaron     *Creepy Carrots, Creepy Pair of Underwear*
+Reynolds, Aaron _Creepy Carrots, Creepy Pair of Underwear_
 
-Reynolds, Peter H.     *The Dot, I’m Here*
+Reynolds, Peter H. _The Dot, I’m Here_
 
-Rotner, Shelley     *Every Body and Shades of People*
+Rotner, Shelley _Every Body and Shades of People_
 
-Tyler, Michael    *The Skin You Live In*
+Tyler, Michael _The Skin You Live In_
 
-Van Dusen, Chris     *Big Truck Little Island, Circus Ship, Down to the Sea with Mr. Magee, Hattie & Hudson, If I Built a Car, If I Built a House, If I Built a School, If I Built a Car, Learning to Ski with Mr. Magee, President Taft Is Stuck in the Bath,* and *Randy Riley’s Really Big Hit*
+Van Dusen, Chris _Big Truck Little Island, Circus Ship, Down to the Sea with Mr. Magee, Hattie & Hudson, If I Built a Car, If I Built a House, If I Built a School, If I Built a Car, Learning to Ski with Mr. Magee, President Taft Is Stuck in the Bath,_ and _Randy Riley’s Really Big Hit_
 
-Willems, Mo     *Elephant and Piggie* series
+Willems, Mo _Elephant and Piggie_ series
 
-Wood, Audrey     *Jubal’s Wish, King Bidgood’s in the Bathtub, The Little Mouse, the Red Ripe Strawberry and the Big Hungry Bear, The Napping House, Piggies, Piggy Pie Po, Quick as a Cricket, Silly Sally,* and *Weird Parents*
+Wood, Audrey _Jubal’s Wish, King Bidgood’s in the Bathtub, The Little Mouse, the Red Ripe Strawberry and the Big Hungry Bear, The Napping House, Piggies, Piggy Pie Po, Quick as a Cricket, Silly Sally,_ and _Weird Parents_
 
-Yolen, Jane     *Owl Moon* and *How Do Dinosaurs?* series
+Yolen, Jane _Owl Moon_ and _How Do Dinosaurs?_ series
 
-Zuill, Andrea     *Sweety*
+Zuill, Andrea _Sweety_
 
 </details>
 
@@ -101,165 +102,165 @@ Zuill, Andrea     *Sweety*
     Kindergarten
 </summary>
 
-Ahlberg, Allan  *Each Peach, Pear, Plum*
+Ahlberg, Allan  _Each Peach, Pear, Plum_
 
-Anthony, Steve   *Please, Mr. Panda*
+Anthony, Steve   _Please, Mr. Panda_
 
-Bang, Molly    *When Sophie Gets Angry*
+Bang, Molly    _When Sophie Gets Angry_
 
-Barrett, Judi    *Cloudy with a Chance of Meatballs*
+Barrett, Judi    _Cloudy with a Chance of Meatballs_
 
 Bedard, Michael   *Sitting Ducks*
 
-Brett, Jan    *Annie and the Wild Animals, Mossy,*
+Brett, Jan    _Annie and the Wild Animals, Mossy,_
 
-*The Three Snow Bears, Hedgie’s Surprise, The Hat,*
+_The Three Snow Bears, Hedgie’s Surprise, The Hat,_
 
-*The Mitten, Fritz and the Beautiful Horses,* and *Honey, Honey, Lion*
+_The Mitten, Fritz and the Beautiful Horses,_ and _Honey, Honey, Lion_
 
-Brown, Margaret Wise   *Big Red Barn, The Moon Shines Down, The Sailor Dog, The Fish with Deep Sea Smile, The Bad Little Good Little Pig*, and *The Noon Balloon*
+Brown, Margaret Wise   _Big Red Barn, The Moon Shines Down, The Sailor Dog, The Fish with Deep Sea Smile, The Bad Little Good Little Pig_, and _The Noon Balloon_
 
-Carle, Eric    *The Mixed-Up Chameleon, The Secret Birthday Message, The Tiny Seed, The Very Hungry Caterpillar, The Very Busy Spider, The Greedy Python, Pancakes, Pancakes, The Very Quiet Cricket,* and *A House for Hermit Crab*
+Carle, Eric    _The Mixed-Up Chameleon, The Secret Birthday Message, The Tiny Seed, The Very Hungry Caterpillar, The Very Busy Spider, The Greedy Python, Pancakes, Pancakes, The Very Quiet Cricket,_ and _A House for Hermit Crab_
 
-Carlson, Nancy  *A Visit to Grandma’s*
+Carlson, Nancy  _A Visit to Grandma’s_
 
-Crews, Donald    *School Bus, Ten Black Dots, Truck*, and any of his other titles
+Crews, Donald    _School Bus, Ten Black Dots, Truck_, and any of his other titles
 
-Cronin, Doreen    *Click, Clack, Moo … Cows That Type*, *Dooby Dooby Moo*, *Click, Clack, Peep!*, *Smick!,* and *Giggle, Giggle, Quack*
+Cronin, Doreen    _Click, Clack, Moo … Cows That Type_, _Dooby Dooby Moo_, _Click, Clack, Peep!_, _Smick!,_ and _Giggle, Giggle, Quack_
 
-Davis, Jacky and David Soman  *Ladybug Girl, Ladybug Girl and Bumblebee Boy*, and *Ladybug Girl Makes Friends*
+Davis, Jacky and David Soman  _Ladybug Girl, Ladybug Girl and Bumblebee Boy_, and _Ladybug Girl Makes Friends_
 
-De Beer, Hans    *Little Polar Bear*
+De Beer, Hans    _Little Polar Bear_
 
-Dewdney, Anna   *Llama Llama Red Pajama*
+Dewdney, Anna   _Llama Llama Red Pajama_
 
-Eastman, P.D.   *Go, Dog, Go!*
+Eastman, P.D.   _Go, Dog, Go!_
 
-Elhert, Lois    *Feathers for Lunch, Nuts to You, Pie in the Sky, Snowballs,* *Top Cat, Wag a Tail*, and *Waiting for Wings*
+Elhert, Lois    _Feathers for Lunch, Nuts to You, Pie in the Sky, Snowballs,_ _Top Cat, Wag a Tail_, and _Waiting for Wings_
 
-Emberley, Ed    *Go Away, Big Green Monster!*
+Emberley, Ed    _Go Away, Big Green Monster!_
 
-Falconer, Ian    *Olivia*
+Falconer, Ian    _Olivia_
 
-Ferry, Beth and Tom Lichtenheld   *Stick and Stone*
+Ferry, Beth and Tom Lichtenheld   _Stick and Stone_
 
-Fleming, Denise    *Time to Sleep*
+Fleming, Denise    _Time to Sleep_
 
-Fox, Mem    *Boo to a Goose, Feathers and Fools, Harriet, You Drive Me Wild,* *Hattie and the Fox, Koala Lou, The Magic Hat, Night Noises, Shoes from Grandpa, Time for Bed, Tough Boris, Guess Who, Waiting,* and *Wilfrid Gordon McDonald Partridge*
+Fox, Mem    _Boo to a Goose, Feathers and Fools, Harriet, You Drive Me Wild,_ _Hattie and the Fox, Koala Lou, The Magic Hat, Night Noises, Shoes from Grandpa, Time for Bed, Tough Boris, Guess Who, Waiting,_ and _Wilfrid Gordon McDonald Partridge_
 
-Gassman, Julie    *Do Not Bring Your Dragon to the Library*
+Gassman, Julie    _Do Not Bring Your Dragon to the Library_
 
-Geist, Ken   *The Three Little Fish and the Big Bad Shark*
+Geist, Ken   _The Three Little Fish and the Big Bad Shark_
 
-Gordon, David    *The Three Little Rigs*
+Gordon, David    _The Three Little Rigs_
 
-Gormley, Greg    *Pick Me!*
+Gormley, Greg    _Pick Me!_
 
-Gustafson, Scott  *Alphabet Soup* and *A Feast of Letters*
+Gustafson, Scott  _Alphabet Soup_ and _A Feast of Letters_
 
-Henkes, Kevin    *Chester’s Way, Chrysanthemum, Julius, the Baby of the World, Lilly and the Purple Plastic Purse, Lilly’s Big Day, Lilly’s Chocolate Heart, Owen, Sheila Rae’s Peppermint Stick, A Weekend with Wendell, Waiting, Penny and Her Marble*, and *Wemberly Worried*
+Henkes, Kevin    _Chester’s Way, Chrysanthemum, Julius, the Baby of the World, Lilly and the Purple Plastic Purse, Lilly’s Big Day, Lilly’s Chocolate Heart, Owen, Sheila Rae’s Peppermint Stick, A Weekend with Wendell, Waiting, Penny and Her Marble_, and _Wemberly Worried_
 
-Hughes, Shirley    *Alfie Gets In First, Alfie Wins a Prize, Angel Mae, Dogger, Alfie and the Big Boys, Alfie’s Weather, Alfie and the Birthday Surprise, Annie Rose is My Little Sister, Olly and Me,* and *Sally’s Secret*
+Hughes, Shirley    _Alfie Gets In First, Alfie Wins a Prize, Angel Mae, Dogger, Alfie and the Big Boys, Alfie’s Weather, Alfie and the Birthday Surprise, Annie Rose is My Little Sister, Olly and Me,_ and _Sally’s Secret_
 
-Hutchins, Pat     *Good Night Owl*
+Hutchins, Pat     _Good Night Owl_
 
-Johnson, Crockett    *Harold and the Purple Crayon*
+Johnson, Crockett    _Harold and the Purple Crayon_
 
-Joyce, William     *George Shrinks*
+Joyce, William     _George Shrinks_
 
-Kline, Suzy    *Oops!*
+Kline, Suzy    _Oops!_
 
-Knudsen, Michelle    *Library Lion*
+Knudsen, Michelle    _Library Lion_
 
-Lester, Helen   *A Porcupine Named Fluffy*
+Lester, Helen   _A Porcupine Named Fluffy_
 
-Lies, Brian    *Bats at the Beach and Bats at the Library*
+Lies, Brian    _Bats at the Beach and Bats at the Library_
 
-Lionni, Leo    *Alexander and the Wind-Up Mouse, The Alphabet Tree, An Extraordinary Egg, Fish Is Fish, Inch by Inch, It’s Mine, Little Blue and Little Yellow, Six Crows, Tico and the Golden Wings, Geraldine and the Music Mouse,* and *Tillie and the Wall*
+Lionni, Leo    _Alexander and the Wind-Up Mouse, The Alphabet Tree, An Extraordinary Egg, Fish Is Fish, Inch by Inch, It’s Mine, Little Blue and Little Yellow, Six Crows, Tico and the Golden Wings, Geraldine and the Music Mouse,_ and _Tillie and the Wall_
 
-Lobel, Arnold    *The Frog and Toad* books, *Mouse Soup,* and *Mouse Tales*
+Lobel, Arnold    _The Frog and Toad_ books, _Mouse Soup,_ and _Mouse Tales_
 
-Long, Melinda    *How I Became a Pirate*
+Long, Melinda    _How I Became a Pirate_
 
-Marshall, Janet    *Look Once, Look Twice*
+Marshall, Janet    _Look Once, Look Twice_
 
-Martin, Bill, Jr.    *Chicka-Chicka Boom-Boom*
+Martin, Bill, Jr.    _Chicka-Chicka Boom-Boom_
 
-McAllister, Angela    *The Tortoise and the Hare*
+McAllister, Angela    _The Tortoise and the Hare_
 
-McGuirk, Leslie  *if rocks could sing, a discovered alphabet*
+McGuirk, Leslie  _if rocks could sing, a discovered alphabet_
 
-McPhail, David    *Edward and the Pirates*
+McPhail, David    _Edward and the Pirates_
 
-Meyer, Mercer    *I’m a Little Sick*
+Meyer, Mercer    _I’m a Little Sick_
 
-Miller, Pat Zietlow    *Sophie’s Squash and Sophie’s Squash Goes to School*
+Miller, Pat Zietlow    _Sophie’s Squash and Sophie’s Squash Goes to School_
 
-Moret, Brigette Frey   *The Bear’s Christmas*
+Moret, Brigette Frey   _The Bear’s Christmas_
 
-Moseley, Keith    *Where’s the Dinosaur?*
+Moseley, Keith    _Where’s the Dinosaur?_
 
-Muntean, Michaela    *Do Not Open This Book*
+Muntean, Michaela    _Do Not Open This Book_
 
-Myller, Rolf    *How Big Is a Foot?*
+Myller, Rolf    _How Big Is a Foot?_
 
-Numeroff, Laura Joffe  *If You Give a Mouse a Cookie, If You Give a Pig a Party, If You Give a Dog a Doughnut, If You Give a Cat a Cupcake,* and *If You Give a Pig a Pancake*
+Numeroff, Laura Joffe  _If You Give a Mouse a Cookie, If You Give a Pig a Party, If You Give a Dog a Doughnut, If You Give a Cat a Cupcake,_ and _If You Give a Pig a Pancake_
 
-O’Connor, Jane   *Fancy Nancy at the Museum*
+O’Connor, Jane   _Fancy Nancy at the Museum_
 
-Oliver, Carmen   *Bears Make the Best Reading Buddies*
+Oliver, Carmen   _Bears Make the Best Reading Buddies_
 
-Olson, Mary W.   *Nice Try, Tooth Fairy*
+Olson, Mary W.   _Nice Try, Tooth Fairy_
 
-Parsley, Elise  *If You Ever Want to Bring an Alligator to School, Don’t!*
+Parsley, Elise  _If You Ever Want to Bring an Alligator to School, Don’t!_
 
-Pelham, David    *A Is for Animals*
+Pelham, David    _A Is for Animals_
 
-Penn, Audrey    *The Kissing Hand*
+Penn, Audrey    _The Kissing Hand_
 
-Pinkney, Jerry    *The Lion and the Mouse*
+Pinkney, Jerry    _The Lion and the Mouse_
 
-Plourde, Lynn   *Moose, of Course!, Dino Pets, Dino Pets Go to School,* and *The Dump Man’s Treasures*
+Plourde, Lynn   _Moose, of Course!, Dino Pets, Dino Pets Go to School,_ and _The Dump Man’s Treasures_
 
-Portis, Antoinette    *Kindergarten Diary*
+Portis, Antoinette    _Kindergarten Diary_
 
-Rawlinson, Julia   *Fletcher and the Falling Leaves*
+Rawlinson, Julia   _Fletcher and the Falling Leaves_
 
-Rubin, Adam   *Dragons Love Tacos*
+Rubin, Adam   _Dragons Love Tacos_
 
-Saltzberg, Barney  *Beautiful Oops!*
+Saltzberg, Barney  _Beautiful Oops!_
 
-Sarcone-Roach, Julia  *The Bear Ate Your Sandwich*
+Sarcone-Roach, Julia  _The Bear Ate Your Sandwich_
 
-Sendak, Maurice   *Where the Wild Things Are*
+Sendak, Maurice   _Where the Wild Things Are_
 
-Shannon, David   *Alice the Fairy, David Gets in Trouble, No, David,* and *Too Many Toys*
+Shannon, David   _Alice the Fairy, David Gets in Trouble, No, David,_ and _Too Many Toys_
 
-Sis, Peter  *Ice Cream Summer*
+Sis, Peter  _Ice Cream Summer_
 
-Slate, Joseph    *Miss Bindergarten Gets Ready for Kindergarten*
+Slate, Joseph    _Miss Bindergarten Gets Ready for Kindergarten_
 
-Spires, Ashley  *The Most Magnificent Thing*
+Spires, Ashley  _The Most Magnificent Thing_
 
-Stevens, Janet    *Tops and Bottoms*
+Stevens, Janet    _Tops and Bottoms_
 
 Tullet, Herve   *Press Here*
 
-Van Dusen, Chris    *If I Built a House, The Circus Ship,* and *A Camping Spree with Mr. Magee*
+Van Dusen, Chris    _If I Built a House, The Circus Ship,_ and _A Camping Spree with Mr. Magee_
 
-Van Laan, Nancy   *When Winter Comes*
+Van Laan, Nancy   _When Winter Comes_
 
-Wells, Rosemary    *Max’s Chocolate Chicken, Max’s Dragon Shirt, Bunny Cakes, Fritz and the Mess Fairy, Yoko, Bunny Money, McDuff Goes to School,* and *Rachel Field’s Hitty, Her First Hundred Years*
+Wells, Rosemary    _Max’s Chocolate Chicken, Max’s Dragon Shirt, Bunny Cakes, Fritz and the Mess Fairy, Yoko, Bunny Money, McDuff Goes to School,_ and _Rachel Field’s Hitty, Her First Hundred Years_
 
-Willems, Mo    *Don’t Let the Pigeon Drive the Bus, Don’t Let the Pigeon Stay Up Late, The Pigeon Finds a Hot Dog, The Pigeon Wants a Puppy, Today I Will Fly,  I’m a Frog, I Broke My Trunk, My Friend Is Sad, Watch Me Throw the Ball, A Big Guy Took My Ball, Let’s Go for a Drive, Waiting Is Not Easy, The Thank You Book,* and *My New Friend Is So Fun*
+Willems, Mo    _Don’t Let the Pigeon Drive the Bus, Don’t Let the Pigeon Stay Up Late, The Pigeon Finds a Hot Dog, The Pigeon Wants a Puppy, Today I Will Fly,  I’m a Frog, I Broke My Trunk, My Friend Is Sad, Watch Me Throw the Ball, A Big Guy Took My Ball, Let’s Go for a Drive, Waiting Is Not Easy, The Thank You Book,_ and _My New Friend Is So Fun_
 
-Wood, Audrey    *Alphabet Mystery, King Bidgood’s in the Bathtub, Elbert’s Bad Word, The Little Mouse, the Red, Ripe Strawberry, and the Big, Hungry Bear, The Napping House, Jubal’s Wish, Heckedey Peg, The Scaredy Cats, Silly Sally, Weird Parents, Alphabet Adventure, Sweet Dream Pie, Twenty-Four Robbers* and *Tooth Fairy*
+Wood, Audrey    _Alphabet Mystery, King Bidgood’s in the Bathtub, Elbert’s Bad Word, The Little Mouse, the Red, Ripe Strawberry, and the Big, Hungry Bear, The Napping House, Jubal’s Wish, Heckedey Peg, The Scaredy Cats, Silly Sally, Weird Parents, Alphabet Adventure, Sweet Dream Pie, Twenty-Four Robbers_ and _Tooth Fairy_
 
-Yamada, Kobi  *What Do You Do with an Idea?*
+Yamada, Kobi  _What Do You Do with an Idea?_
 
-Yolen, Jane  *Owl Moon and How Do Dinosaurs Go to School?*
+Yolen, Jane  _Owl Moon and How Do Dinosaurs Go to School?_
 
-Yum, Hyewon  *Mom! It’s My 1st Day of Kindergarten*
+Yum, Hyewon  _Mom! It’s My 1st Day of Kindergarten_
 
 </details>
 
@@ -268,107 +269,107 @@ Yum, Hyewon  *Mom! It’s My 1st Day of Kindergarten*
 Gr. 1-2
 </summary>
 
-Agee, Jon     *The Wall In The Middle Of The Book, Lion Lessons, Life On Mars, It’s Only Stanley, Terrific, The Other Side of Town, Mr. Putney’s Quacking Dog, My Rhinoceros, Dmitri The Astronaut,* and *Z Goes Home* 
+Agee, Jon _The Wall In The Middle Of The Book, Lion Lessons, Life On Mars, It’s Only Stanley, Terrific, The Other Side of Town, Mr. Putney’s Quacking Dog, My Rhinoceros, Dmitri The Astronaut,_ and _Z Goes Home_
 
-Applegate, Katherine     *Mouse and His Dog, Dogtown*
+Applegate, Katherine _Mouse and His Dog, Dogtown_
 
-Barnett, Mac     *Billy Twitters and His Blue Whale Problem, Mustache, Extra Yarn, Leo, A Ghost Story, The First Cat In Space Ate Pizza, Sam and Dave Dig A Hole, Circle, Square, Triangle, The Three Billy Goats Gruff, The Important Thing About Margaret Wise Brown, Telephone, Noisy Night,* and *How This Book Was Made*
+Barnett, Mac _Billy Twitters and His Blue Whale Problem, Mustache, Extra Yarn, Leo, A Ghost Story, The First Cat In Space Ate Pizza, Sam and Dave Dig A Hole, Circle, Square, Triangle, The Three Billy Goats Gruff, The Important Thing About Margaret Wise Brown, Telephone, Noisy Night,_ and _How This Book Was Made_
 
-Drew Beckmeyer     *I Am A Tornado, Stalactite & Stalagmite*
+Drew Beckmeyer _I Am A Tornado, Stalactite & Stalagmite_
 
-Bunting, Eve      *Night Tree*
+Bunting, Eve _Night Tree_
 
-Burgess, Matthew     *Words with Wings and Magic Things* 
+Burgess, Matthew _Words with Wings and Magic Things_
 
-Citro, Asia     *Zoey & Sassafras: Dragons and Marshmallows*
+Citro, Asia _Zoey & Sassafras: Dragons and Marshmallows_
 
-Charlip, Remy     *My Very Own Special Particular Private and Personal Cat*
+Charlip, Remy _My Very Own Special Particular Private and Personal Cat_
 
-Collard, Sneed B.     *Border Crossing* and *Waiting for a Warbler* 
+Collard, Sneed B. _Border Crossing_ and _Waiting for a Warbler_
 
-Cooney, Barbara     *Miss Rumphius* and *Ox Cart Man* 
+Cooney, Barbara _Miss Rumphius_ and _Ox Cart Man_
 
-*D’Aulaires’ Book of Norse Myths* 
+_D’Aulaires’ Book of Norse Myths_
 
-DiCamillo, Kate     *The Puppets of Spelhorst, Hotel Balzaar, Orris and Timble: Lost and Found*
+DiCamillo, Kate _The Puppets of Spelhorst, Hotel Balzaar, Orris and Timble: Lost and Found_
 
-Eggers, Dave     *The Eyes And The Impossible, Her Left Foot, and What Can A Citizen Do?*
+Eggers, Dave _The Eyes And The Impossible, Her Left Foot, and What Can A Citizen Do?_
 
-Fang, X.     *Broken* 
+Fang, X. _Broken_
 
-Flintham, Thomas     *Press Start! Series*
+Flintham, Thomas _Press Start! Series_
 
-Grahame, Kenneth     *The Wind and the Willows*
+Grahame, Kenneth _The Wind and the Willows_
 
-Griffiths, Andy     *The 13-Story Treehouse Series* 
+Griffiths, Andy _The 13-Story Treehouse Series_
 
-Hanlon, Abby     *Dory Fantasmagory Series*
+Hanlon, Abby _Dory Fantasmagory Series_
 
-Harris, Shawn      *Teeny Weeny Unicorn, Let’s Be Bees,* and *Have You Ever Seen A Flower?*
+Harris, Shawn _Teeny Weeny Unicorn, Let’s Be Bees,_ and _Have You Ever Seen A Flower?_
 
-Hoefler, Kate     *The Couch in the Yard*
+Hoefler, Kate _The Couch in the Yard_
 
-Jeffers, Oliver     *Lost And Found, Stuck, Here We Are, The Heart And The Bottle, There’s A Ghost In This House, Up And Down, The Great Paper Caper, This Moose Belongs To Me*, and *The Fate Of Fausto* 
+Jeffers, Oliver _Lost And Found, Stuck, Here We Are, The Heart And The Bottle, There’s A Ghost In This House, Up And Down, The Great Paper Caper, This Moose Belongs To Me_, and _The Fate Of Fausto_
 
-Klassen, Jon     *This Is Not My Hat, I Want My Hat Back,* and *We Saw A Hat*
+Klassen, Jon _This Is Not My Hat, I Want My Hat Back,_ and _We Saw A Hat_
 
-Kunkle, Angela Burke     *World More Beautiful*
+Kunkle, Angela Burke _World More Beautiful_
 
-Lin, Natalie     *Bunnybirds*
+Lin, Natalie _Bunnybirds_
 
-Lionni, Leo     *Swimmy, Frederick, Alexander and the Wind-Up Mouse, Pezzetino,* and *Fish in Fish*
+Lionni, Leo _Swimmy, Frederick, Alexander and the Wind-Up Mouse, Pezzetino,_ and _Fish in Fish_
 
-Lobel, Arnold     *Frog and Toad* 
+Lobel, Arnold _Frog and Toad_
 
-Marshall, James     *George And Martha (Series), The Three Little Pigs, Cinderella,* and *Little Red Riding Hood*
+Marshall, James _George And Martha (Series), The Three Little Pigs, Cinderella,_ and _Little Red Riding Hood_
 
-Martin, Jacqueline Briggs     *Snowflake Bentley*
+Martin, Jacqueline Briggs _Snowflake Bentley_
 
-McCloskey, Robert     *Time of Wonder*
+McCloskey, Robert _Time of Wonder_
 
-Miller, Chanel     *Magnolia Wu Unfolds It All*
+Miller, Chanel _Magnolia Wu Unfolds It All_
 
-Miyakoshi, Akiko      *Little Shrew, The Tea Party in the Woods, The Way Home in the Night,* and *I Dream of a Journey*
+Miyakoshi, Akiko _Little Shrew, The Tea Party in the Woods, The Way Home in the Night,_ and _I Dream of a Journey_
 
-Muncaster, Harriet     *Isadora Moon Series*
+Muncaster, Harriet _Isadora Moon Series_
 
-Potter, Ellen and Felicity Sala      *BigFoot and Little Foot series*
+Potter, Ellen and Felicity Sala _BigFoot and Little Foot series_
 
-Rex, Adam     *School’s First Day of School* and *Tumblebaby*
+Rex, Adam _School’s First Day of School_ and _Tumblebaby_
 
-Reynolds, Aaron     *Troubling Tonsils*
+Reynolds, Aaron _Troubling Tonsils_
 
-Robinson, Christian     *Another*
+Robinson, Christian _Another_
 
-Rylant, Cynthia     *When I Was Young In The Mountains, The Relatives Came, Mr. Griggs’ Work, An Angel For Solomon Singer, The Old Woman Who Named Things, Gooseberry Park, Scarecrow, The Great Gracie Chase, All In A Day, Poppleton (Series),* and *Mr. Putter & Tabby (Series)*
+Rylant, Cynthia _When I Was Young In The Mountains, The Relatives Came, Mr. Griggs’ Work, An Angel For Solomon Singer, The Old Woman Who Named Things, Gooseberry Park, Scarecrow, The Great Gracie Chase, All In A Day, Poppleton (Series),_ and _Mr. Putter & Tabby (Series)_
 
-Rutherford, Geo     *Spooky Lakes*
+Rutherford, Geo _Spooky Lakes_
 
-Sanvoisin, Eric     *City of Ink Drinkers*
+Sanvoisin, Eric _City of Ink Drinkers_
 
-Sciezka, Jon     *Frank Einstein, The Stinky Cheeseman (and other Fairly Stupid Tales),* and *The True Story of the Three Little Pigs*
+Sciezka, Jon _Frank Einstein, The Stinky Cheeseman (and other Fairly Stupid Tales),_ and _The True Story of the Three Little Pigs_
 
-Schuler, Darin     *Dog & Hat*
+Schuler, Darin _Dog & Hat_
 
-Smith, Alex T.     *Mr. Penguin and the Lost Treasure*
+Smith, Alex T. _Mr. Penguin and the Lost Treasure_
 
-Smith, Lane     *Recess*
+Smith, Lane _Recess_
 
-Stead, Rebecca and Wendy Mass     *Bob*
+Stead, Rebecca and Wendy Mass _Bob_
 
-Steinke, Aron Nels     *Mr. Wolf’s Class Series*
+Steinke, Aron Nels _Mr. Wolf’s Class Series_
 
-Timberlake, Amy     *Skunk and Badger Series*
+Timberlake, Amy _Skunk and Badger Series_
 
-Thomas, Kiah      *Lone Wolf Series*
+Thomas, Kiah _Lone Wolf Series_
 
-Ungerer, Tomi     *Moon Man, Crictor, The Mellops series, The Three Robbers, Fog Island, Otto,* and *Adelaide*
+Ungerer, Tomi _Moon Man, Crictor, The Mellops series, The Three Robbers, Fog Island, Otto,_ and _Adelaide_
 
-Wallace, Chelsea     *On Our Way With Mr. Jay*
+Wallace, Chelsea _On Our Way With Mr. Jay_
 
-West, Tracey     *Dragon Masters* Series  
+West, Tracey _Dragon Masters_ Series
 
-Wheeler, Lisa     *Someone Builds The Dream* 
+Wheeler, Lisa _Someone Builds The Dream_
 
 </details>
 
@@ -378,161 +379,161 @@ Gr. 3-4 
 
 </summary>
 
-Applegate, Katherine  *The One and Only Ivan* series, *Crenshaw, Wishtree*
+Applegate, Katherine _The One and Only Ivan_ series, _Crenshaw, Wishtree_
 
-Avi    *The End of the Beginning, Ereth’s Birthday, The Good Dog,* and the *Poppy* series
+Avi _The End of the Beginning, Ereth’s Birthday, The Good Dog,_ and the _Poppy_ series
 
-Banerjee, Anjali     *Seaglass Summer*
+Banerjee, Anjali _Seaglass Summer_
 
-Barrows, Annie    *The Magic Half, Magic in the Mix*
+Barrows, Annie _The Magic Half, Magic in the Mix_
 
-Blume, Judy    *Tales of a Fourth Grade Nothing, Otherwise Known as Sheila the Great, Superfudge, Fudge-a-mania*, and *Double Fudge*
+Blume, Judy _Tales of a Fourth Grade Nothing, Otherwise Known as Sheila the Great, Superfudge, Fudge-a-mania_, and _Double Fudge_
 
-Bode, N.E.    *The Anybodies* series
+Bode, N.E. _The Anybodies_ series
 
-Bosch, Pseudonymous  *The Secret* series 
+Bosch, Pseudonymous _The Secret_ series
 
-Buckley, Michael    *The Sisters Grimm* series
+Buckley, Michael _The Sisters Grimm_ series
 
-Byars, Betsy    *My Dog, My Hero*
+Byars, Betsy _My Dog, My Hero_
 
-Cameron, Bruce    *A Dog’s Purpose Puppy Tales: Molly’s Story, Ellie’s Story, Max’s Story*, etc.
+Cameron, Bruce _A Dog’s Purpose Puppy Tales: Molly’s Story, Ellie’s Story, Max’s Story_, etc.
 
-Cleary, Beverly     *Ramona* series, *Henry Huggins* series, *Ribsy, Socks*
+Cleary, Beverly _Ramona_ series, _Henry Huggins_ series, _Ribsy, Socks_
 
-Clements, Andrew     *School Stories* series
+Clements, Andrew _School Stories_ series
 
-Colfer, Chris    *The Land of Stories*
+Colfer, Chris _The Land of Stories_
 
-Creech, Sharon    *Hate That Cat, Love That Dog,* and *Pleasing the Ghost*
+Creech, Sharon _Hate That Cat, Love That Dog,_ and _Pleasing the Ghost_
 
-Dahl, Roald    *George’s Marvelous Medicine, The Witches, The Twits, Esio Trot,* and *Charlie and the Chocolate Factory*
+Dahl, Roald _George’s Marvelous Medicine, The Witches, The Twits, Esio Trot,_ and _Charlie and the Chocolate Factory_
 
-Di Camillo, Kate    *Because of Winn-Dixie, The Miraculous Journey of Edward Tulane,* and *The Tale of Despereaux*
+Di Camillo, Kate _Because of Winn-Dixie, The Miraculous Journey of Edward Tulane,_ and _The Tale of Despereaux_
 
-Doyle, Roddy    *The Giggler Treatment* and *The Meanwhile Adventures*
+Doyle, Roddy _The Giggler Treatment_ and _The Meanwhile Adventures_
 
-Dunmore, Helen    *Ingo*
+Dunmore, Helen _Ingo_
 
-Durst, Sarah    *The Girl Who Could Not Dream*
+Durst, Sarah _The Girl Who Could Not Dream_
 
-Epstein, Adam Jay    *The Familiars* series
+Epstein, Adam Jay _The Familiars_ series
 
-George, Jean Craighead    *My Side of the Mountain, Frightful’s Mountain, On the Far Side of the Mountain,* and *There’s an Owl in the Shower*
+George, Jean Craighead _My Side of the Mountain, Frightful’s Mountain, On the Far Side of the Mountain,_ and _There’s an Owl in the Shower_
 
-Grabenstein, Chris   *Escape from Mr. Lemoncello’s Library, Mr. Lemoncello’s Library Olympics,* and *The Island of Dr. Libris*
+Grabenstein, Chris _Escape from Mr. Lemoncello’s Library, Mr. Lemoncello’s Library Olympics,_ and _The Island of Dr. Libris_
 
-Griffiths, Andy    *The Treehouse* series
+Griffiths, Andy _The Treehouse_ series
 
-Guterson, Ben     *Winterhouse* series
+Guterson, Ben _Winterhouse_ series
 
-Gutman, Dan    *The Genius Files* series
+Gutman, Dan _The Genius Files_ series
 
-Hale, Shannon     *Princess Academy*
+Hale, Shannon _Princess Academy_
 
-Hanlon, Abby     *Dory Fantasmagory* series
+Hanlon, Abby _Dory Fantasmagory_ series
 
-Herlong, M.H.    *Buddy*
+Herlong, M.H. _Buddy_
 
-Hiaasen, Carl    *Flush, Hoot, Scat, Chomp, Squirm,* and *Wrecker*
+Hiaasen, Carl _Flush, Hoot, Scat, Chomp, Squirm,_ and _Wrecker_
 
-Howe, James    The *Bunnicula* series
+Howe, James The _Bunnicula_ series
 
-Jacobson, Jennifer Richard    *Truly Winnie*
+Jacobson, Jennifer Richard _Truly Winnie_
 
-Jameson, *Victoria Roller Girl*
+Jameson, _Victoria Roller Girl_
 
-Jennings, Patrick     The *Guinea Dog* series
+Jennings, Patrick The _Guinea Dog_ series
 
-Kelly, Erin Entrada     *The Land of Forgotten Girls*
+Kelly, Erin Entrada _The Land of Forgotten Girls_
 
-Kessler, Liz    *The Tail of Emily Windsnap* series
+Kessler, Liz _The Tail of Emily Windsnap_ series
 
-Kibuishi, Kazu      *Amulet* series
+Kibuishi, Kazu _Amulet_ series
 
-Kinney, Jeff    *The Diary of a Wimpy Kid* series
+Kinney, Jeff _The Diary of a Wimpy Kid_ series
 
-Korman, Gordon     *Swindle, Zoobreak,* and *Framed*
+Korman, Gordon _Swindle, Zoobreak,_ and _Framed_
 
-Lasky, Kathryn     *Guardians of Ga’hoole* series
+Lasky, Kathryn _Guardians of Ga’hoole_ series
 
-Law, Ingrid    *Savvy, Scumble,* and *Switch*
+Law, Ingrid _Savvy, Scumble,_ and _Switch_
 
-Lin, Grace    *Where the Mountain Meets the Moon, Year of the Dog, Year of the Rat, Starry River of the Sky,* and *Dumpling Days*
+Lin, Grace _Where the Mountain Meets the Moon, Year of the Dog, Year of the Rat, Starry River of the Sky,_ and _Dumpling Days_
 
-Lloyd, Natalie     *A Snicker of Magic*
+Lloyd, Natalie _A Snicker of Magic_
 
-Lord, Cynthia    *Rules, A Handful of Stars, Touchblue,* and *Half a Chance*
+Lord, Cynthia _Rules, A Handful of Stars, Touchblue,_ and _Half a Chance_
 
-Maguire, Gregory    *Leaping Beauty*
+Maguire, Gregory _Leaping Beauty_
 
-Marks, Janae     *A Split Second*
+Marks, Janae _A Split Second_
 
-Martin, Ann M.    *The Baby-Sitters Club* graphic novels
+Martin, Ann M. _The Baby-Sitters Club_ graphic novels
 
-Mass, Wendy    *The Candymakers* and *Eleven Birthdays*
+Mass, Wendy _The Candymakers_ and _Eleven Birthdays_
 
-Matson, Morgan     *The Firefly Summer*
+Matson, Morgan _The Firefly Summer_
 
-McDonald, Megan    *The Sisters Club, Rule of Three,* and *Cloudy with a Chance of Boys*
+McDonald, Megan _The Sisters Club, Rule of Three,_ and _Cloudy with a Chance of Boys_
 
-Messenger, Shannon     *Keeper of the Lost Cities*
+Messenger, Shannon _Keeper of the Lost Cities_
 
-Myracle, Lauren    *Ten* and *Eleven*
+Myracle, Lauren _Ten_ and _Eleven_
 
-O’Connor, Barbara    *Wish*
+O’Connor, Barbara _Wish_
 
-Orr, Wendy     *Nimm’s Island*
+Orr, Wendy _Nimm’s Island_
 
-Palacio, R.J.   *Wonder* and *Auggie and Me*
+Palacio, R.J. _Wonder_ and _Auggie and Me_
 
-Parr, Maria   *Adventures with Waffles*
+Parr, Maria _Adventures with Waffles_
 
-Patterson, James        *The Treasure Hunters* series
+Patterson, James _The Treasure Hunters_ series
 
-Paulsen, Bree     *Garlic and the Witch* and *Garlic and the Vampire*
+Paulsen, Bree _Garlic and the Witch_ and _Garlic and the Vampire_
 
-Paulsen, Gary    *Hatchet, The River, Dogsong,* and *Hatchet Winter*
+Paulsen, Gary _Hatchet, The River, Dogsong,_ and _Hatchet Winter_
 
-Plays, Stacy     *The Wild Rescuers* series
+Plays, Stacy _The Wild Rescuers_ series
 
-Rhodes, Jewel Parker   *Sugar*
+Rhodes, Jewel Parker _Sugar_
 
-Riordan, Rick     The *Percy Jackson* series, the *Kane Chronicles* series, the *Heroes of Olympus* series, and the *Magnus Chase* series
+Riordan, Rick The _Percy Jackson_ series, the _Kane Chronicles_ series, the _Heroes of Olympus_ series, and the _Magnus Chase_ series
 
-Rodriguez, Cindy L.     *Lola Reyes Is So Not Worried*
+Rodriguez, Cindy L. _Lola Reyes Is So Not Worried_
 
-Rowling, J.K. The *Harry Potter* series
+Rowling, J.K. The _Harry Potter_ series
 
-Sachar, Louis    *Holes*
+Sachar, Louis _Holes_
 
-Sage, Angie    *Flyte, Magyk,* and *Physik*
+Sage, Angie _Flyte, Magyk,_ and _Physik_
 
-Selznick, Brian    *The Invention of Hugo Cabret*
+Selznick, Brian _The Invention of Hugo Cabret_
 
-Snicket, Lemony     *A Series of Unfortunate Events* series
+Snicket, Lemony _A Series of Unfortunate Events_ series
 
-Soup, Dr. Cuthbert    *A Whole Nother Story, Another Whole Nother Story,* and *No Other Story*
+Soup, Dr. Cuthbert _A Whole Nother Story, Another Whole Nother Story,_ and _No Other Story_
 
-Stewart, Trenton Lee    *The Mysterious Benedict Society* series
+Stewart, Trenton Lee _The Mysterious Benedict Society_ series
 
-Sutherland, Tui T.   *Wings of Fire* series
+Sutherland, Tui T. _Wings of Fire_ series
 
-Telgemeier, Raina    *Smile, Sisters, Ghosts,* and *Baby-sitters Club*
+Telgemeier, Raina _Smile, Sisters, Ghosts,_ and _Baby-sitters Club_
 
-Voigt, Cynthia    *Angus* and *Sadie*
+Voigt, Cynthia _Angus_ and _Sadie_
 
-Wallace, Bill    *Snot Stew* and *Furball, Puppy, and Me*
+Wallace, Bill _Snot Stew_ and _Furball, Puppy, and Me_
 
-Walliams, David     *World’s Worse* series
+Walliams, David _World’s Worse_ series
 
-Watson, Renee     *Ways to Make Sunshine*
+Watson, Renee _Ways to Make Sunshine_
 
-West, Jacqueline    *The Books of Elsewhere* series
+West, Jacqueline _The Books of Elsewhere_ series
 
-White, E.B.     *Charlotte’s Web*
+White, E.B. _Charlotte’s Web_
 
-Wilder, Laura Ingalls The *Little House* series
+Wilder, Laura Ingalls The _Little House_ series
 
 </details>
 
@@ -541,485 +542,485 @@ Wilder, Laura Ingalls The *Little House* series
 Gr. 5-6 
 </summary>
 
-Alexander, Kwame  *Booked, Crossover,* and *Rebound*
+Alexander, Kwame _Booked, Crossover,_ and _Rebound_
 
-Alston, B.B. 	*Amari and the Night Brothers* (series)
+Alston, B.B. _Amari and the Night Brothers_ (series)
 
-Anderson, John  *  Posted* and *Sidekicked*
+Anderson, John _ Posted_ and _Sidekicked_
 
-Anderson, M.T.   * Octavian Nothing*
+Anderson, M.T. _ Octavian Nothing_
 
-Arrango, Andrea B.	   *Iveliz Explains it All*
+Arrango, Andrea B. _Iveliz Explains it All_
 
-Bagieu, Penelope   * Brazen*
+Bagieu, Penelope _ Brazen_
 
-Baptiste, Tracey	*Boy 2.0*
+Baptiste, Tracey _Boy 2.0_
 
-Bartoletti, Susan  * Typhoid Mary* and *The Boy Who Dared*
+Bartoletti, Susan _ Typhoid Mary_ and _The Boy Who Dared_
 
-Bascomb, Neal   * The Nazi Hunters*
+Bascomb, Neal _ The Nazi Hunters_
 
-Baskin, Nora Raleigh   * Almost Home, Nine, Ten, and Every Girl Except Me, Anything But Typical,* and *The Summer Before Boys*
+Baskin, Nora Raleigh _ Almost Home, Nine, Ten, and Every Girl Except Me, Anything But Typical,_ and _The Summer Before Boys_
 
-Bauer, Joan   * Almost Home* and *Close to Famous*
+Bauer, Joan _ Almost Home_ and _Close to Famous_
 
-Beasley, Kate *\    Lions and Liars* 
+Beasley, Kate _\ Lions and Liars_
 
-Bell, Cece   *El Deafo*
+Bell, Cece _El Deafo_
 
-Benjamin, Ali   *The Thing About Jellyfish* and *The Next Great Paulie Fink*
+Benjamin, Ali _The Thing About Jellyfish_ and _The Next Great Paulie Fink_
 
-Bertman, Jennifer   *Book Scavenger* and *The Unbreakable Code*
+Bertman, Jennifer _Book Scavenger_ and _The Unbreakable Code_
 
-Bigalow, Lisa Jenn  *  Drum Roll, Please*
+Bigalow, Lisa Jenn _ Drum Roll, Please_
 
-Black, Holly  *  Darkest Part of the Forest*
+Black, Holly _ Darkest Part of the Forest_
 
-Blume, Judy	*Are You There, God? It’s Me, Margaret.*
+Blume, Judy _Are You There, God? It’s Me, Margaret._
 
-Booth, Molly	*Saving Hamlet*
+Booth, Molly _Saving Hamlet_
 
-Bow, Erin	 *  Simon Sort of Says*
+Bow, Erin _ Simon Sort of Says_
 
-Bowler, Tim *\    Storm Catchers* 
+Bowler, Tim _\ Storm Catchers_
 
-Bowling, Dusti	*\    Insignificant Events in the Life of a Cactus* and *The Canyon’s Edge*
+Bowling, Dusti _\ Insignificant Events in the Life of a Cactus_ and _The Canyon’s Edge_
 
-Bowman, Erin  *  Contagion*
+Bowman, Erin _ Contagion_
 
-Boyne, John *\    The Boy in the Striped Pajamas* and *The Boy on Top of the Mountain*
+Boyne, John _\ The Boy in the Striped Pajamas_ and _The Boy on Top of the Mountain_
 
-Bradbury, Jennifer *\    Shift* and *A Moment Comes*
+Bradbury, Jennifer _\ Shift_ and _A Moment Comes_
 
-Bradley, Kimberly  * The War that Saved My Life* series
+Bradley, Kimberly _ The War that Saved My Life_ series
 
-Brashares, Ann *The Sisterhood of the Traveling Pants* series
+Brashares, Ann _The Sisterhood of the Traveling Pants_ series
 
-Bryant, Jen   * Pieces of Georgia*
+Bryant, Jen _ Pieces of Georgia_
 
-Burg, Ann E.   *  All the Broken Pieces*
+Burg, Ann E. _ All the Broken Pieces_
 
-Buyea, Rob  *  Because of Mr. Terupt* series and the *Perfect Score* series
+Buyea, Rob _ Because of Mr. Terupt_ series and the _Perfect Score_ series
 
-Carey, Janet Lee  *  Dragon’s Keep* and *The Beast of Noor*
+Carey, Janet Lee _ Dragon’s Keep_ and _The Beast of Noor_
 
-Carman, Patrick  *  Floors*
+Carman, Patrick _ Floors_
 
-Chabon, Michael   *  Summerland*
+Chabon, Michael _ Summerland_
 
-Chainani, Soman  *  The School for Good and Evil series*
+Chainani, Soman _ The School for Good and Evil series_
 
-Charbonneau, Joelle   * The Testing and Need*
+Charbonneau, Joelle _ The Testing and Need_
 
-Chima, Cinda Williams  *  The Warrior Heir trilogy*
+Chima, Cinda Williams _ The Warrior Heir trilogy_
 
-Choldenko, Gennifer   * The Tenth Mistake of Hank Hooperman* and *Al Capone Does My Shirts*
+Choldenko, Gennifer _ The Tenth Mistake of Hank Hooperman_ and _Al Capone Does My Shirts_
 
-Colfer, Chris  *  Land of Stories (series)*
+Colfer, Chris _ Land of Stories (series)_
 
-Collins, Suzanne  *  Gregor, the Overlander and The Hunger Games series* 
+Collins, Suzanne _ Gregor, the Overlander and The Hunger Games series_
 
-Condie, Ally   * The Matched (series)*
+Condie, Ally _ The Matched (series)_
 
-Connor, Leslie  *  Waiting for Normal*
+Connor, Leslie _ Waiting for Normal_
 
-Craft, Jerry	*New Kid*
+Craft, Jerry _New Kid_
 
-Cuevas, Michelle  * Confessions of an Imaginary Friend*
+Cuevas, Michelle _ Confessions of an Imaginary Friend_
 
-Dashner, James  *  The Maze Runner trilogy and Eye of Minds*
+Dashner, James _ The Maze Runner trilogy and Eye of Minds_
 
-Dessen, Sarah  *  The Rest of the Story, Keeping the Moon, The Truth About Forever, Along for the Ride*
+Dessen, Sarah _ The Rest of the Story, Keeping the Moon, The Truth About Forever, Along for the Ride_
 
-Dionne, Erin	*Models Don’t Eat Chocolate Chip Cookies* and *Moxie and the Art of Rulebreaking*
+Dionne, Erin _Models Don’t Eat Chocolate Chip Cookies_ and _Moxie and the Art of Rulebreaking_
 
-Doctorow, Cory  *  Little Brother* and *For the Win*
+Doctorow, Cory _ Little Brother_ and _For the Win_
 
-Draper, Sharon  *  Copper Sun, Out of My Mind, Out of My Heart, and Out of My Dreams*
+Draper, Sharon _ Copper Sun, Out of My Mind, Out of My Heart, and Out of My Dreams_
 
-DuPrau, Jean		*City of Ember*
+DuPrau, Jean _City of Ember_
 
-Emerson, Kevin *\    Last Day on Mars (series)*
+Emerson, Kevin _\ Last Day on Mars (series)_
 
-Engle, Margarita  *  Hurricane Dancers* and *The Surrender Tree*
+Engle, Margarita _ Hurricane Dancers_ and _The Surrender Tree_
 
-Englefried, Sally	*Learning to Fall*
+Englefried, Sally _Learning to Fall_
 
-Erskine, Kathryn  *  Mockingbird*
+Erskine, Kathryn _ Mockingbird_
 
 Evans, Richard Paul The Michael Vey series
 
-Fagan, Deva	*A Game of Noctis*
+Fagan, Deva _A Game of Noctis_
 
-Farmer, Nancy   * House of the Scorpion* 
+Farmer, Nancy _ House of the Scorpion_
 
-Fipps, Lisa	*Starfish*
+Fipps, Lisa _Starfish_
 
-Firestone, Carrie	*Dress Coded*
+Firestone, Carrie _Dress Coded_
 
-Fisher, CatherineThe *Incarceron* series
+Fisher, CatherineThe _Incarceron_ series
 
-Fitzpatrick, Becca   * Crescendo* and *Hush, Hush*
+Fitzpatrick, Becca _ Crescendo_ and _Hush, Hush_
 
-Flood, Nancy Bo  *  Warriors in the Crossfire* and *No-Name Baby*
+Flood, Nancy Bo _ Warriors in the Crossfire_ and _No-Name Baby_
 
-Forman, Mark  *  Slathbog’s Gold*
+Forman, Mark _ Slathbog’s Gold_
 
-Freeman, Megan E.	 *  Alone* and *Away*
+Freeman, Megan E. _ Alone_ and _Away_
 
-Friend, Natasha  *  Bounce* and *Perfect*
+Friend, Natasha _ Bounce_ and _Perfect_
 
-Fukuda, Andrew Xia  *  Crossing* and the *Hunt* series
+Fukuda, Andrew Xia _ Crossing_ and the _Hunt_ series
 
-Fukui, Isamu The *Truancy* books
+Fukui, Isamu The _Truancy_ books
 
-Gaiman, Neil   * The Graveyard Book, Coraline,* and *Neverwhere*
+Gaiman, Neil _ The Graveyard Book, Coraline,_ and _Neverwhere_
 
-Gemeinhart, Dan   * Busted, The Honest Truth, and The Remarkable Journey of Coyote Sunrise,* and *Coyote Lost and Found*
+Gemeinhart, Dan _ Busted, The Honest Truth, and The Remarkable Journey of Coyote Sunrise,_ and _Coyote Lost and Found_
 
-Gino, Alex  * Melissa, Green,* and *Rick*
+Gino, Alex _ Melissa, Green,_ and _Rick_
 
-Gleitzman, Morris   * The Once series*
+Gleitzman, Morris _ The Once series_
 
-Golden, Christopher   * Last Breath* and *Body Bags*
+Golden, Christopher _ Last Breath_ and _Body Bags_
 
-Gonzalez, Julie   * Imaginary Enemy*
+Gonzalez, Julie _ Imaginary Enemy_
 
-Grabenstein, Chris  *  Escape from Mr. Lemoncello’s Library* and *The Island of Dr. Libris*
+Grabenstein, Chris _ Escape from Mr. Lemoncello’s Library_ and _The Island of Dr. Libris_
 
-Graff, Lisa  *  Far Away, Lost in the Sun, The Thing About Georgie, A Tangle of Knots,* and *Double Dog Dare*
+Graff, Lisa _ Far Away, Lost in the Sun, The Thing About Georgie, A Tangle of Knots,_ and _Double Dog Dare_
 
-Grant, Michael   * The Gone series*
+Grant, Michael _ The Gone series_
 
-Gratz, Allan   * Two Degrees, Allies, Prisoner B-3087, Grenade, Ban This Book, Project-1065, Refugee, Samurai Shortstop, Brooklyn Nine,* and *Code of Honor*
+Gratz, Allan _ Two Degrees, Allies, Prisoner B-3087, Grenade, Ban This Book, Project-1065, Refugee, Samurai Shortstop, Brooklyn Nine,_ and _Code of Honor_
 
-Greitens, Eric  *The Warrior’s Heart*
+Greitens, Eric _The Warrior’s Heart_
 
-Revis, Beth 	*Across the Universe*
+Revis, Beth _Across the Universe_
 
-Griffin, Paul   * The Orange Houses, Burning Blue,* and *Ten Mile River*
+Griffin, Paul _ The Orange Houses, Burning Blue,_ and _Ten Mile River_
 
-Han, Jenny   * Shug*
+Han, Jenny _ Shug_
 
-Hannigan, Katherine  \* \* Ida B.\*\*
+Hannigan, Katherine \* \* Ida B.\*\*
 
-Harrell, Rob	*Popcorn*
+Harrell, Rob _Popcorn_
 
-Harrington, Karen   * Sure Signs of Crazy*
+Harrington, Karen _ Sure Signs of Crazy_
 
-Hautman, Pete  *  Blank Confession, Rash, Invisible,* and *Godless*
+Hautman, Pete _ Blank Confession, Rash, Invisible,_ and _Godless_
 
-Haworth, Danette   * A Whole Lot of Lucky*
+Haworth, Danette _ A Whole Lot of Lucky_
 
-Henning, Sarah	*Running Back to You*
+Henning, Sarah _Running Back to You_
 
-Herlong, M.H.  *  The Great Wide Sea*
+Herlong, M.H. _ The Great Wide Sea_
 
-Hiassen, Carl  *  Flush and Hoot*
+Hiassen, Carl _ Flush and Hoot_
 
-Hicks, Faith Erin  *  Friends with Boys*
+Hicks, Faith Erin _ Friends with Boys_
 
-Higson, Charlie   * Silverfin, The Dead,* and *The Enemy series*
+Higson, Charlie _ Silverfin, The Dead,_ and _The Enemy series_
 
-Hillenbrand, Laura   *Unbroken*
+Hillenbrand, Laura _Unbroken_
 
-Holm, Jennifer   *Sunny Side Up* and *The Fourteenth Goldfish*
+Holm, Jennifer _Sunny Side Up_ and _The Fourteenth Goldfish_
 
-Holt, K.A. 	*This is Not a Drill*
+Holt, K.A. _This is Not a Drill_
 
-Holzier, Tracy  * Secret Hum of a Daisy*
+Holzier, Tracy _ Secret Hum of a Daisy_
 
-Horowitz, Anthony  *  The Alex Rider series: Stormbreaker, Point Blank, etc.*
+Horowitz, Anthony _ The Alex Rider series: Stormbreaker, Point Blank, etc._
 
-Houck, Colleen	*Tiger’s Curse (series)*
+Houck, Colleen _Tiger’s Curse (series)_
 
-Howe, James  *  The Misfits, Totally Joe, 13: Thirteen Stories,* and *Addie on the Inside*
+Howe, James _ The Misfits, Totally Joe, 13: Thirteen Stories,_ and _Addie on the Inside_
 
-Hunt, Linda Mullaly  *  Fish in a Tree, One for the Murphys,* and *Shouting at the Rain*
+Hunt, Linda Mullaly _ Fish in a Tree, One for the Murphys,_ and _Shouting at the Rain_
 
-Iftin, Abdi Nor	 * Call Me American (for Young Readers)*
+Iftin, Abdi Nor _ Call Me American (for Young Readers)_
 
-Jackson, Tiffany D.	 *  Blood in the Water*
+Jackson, Tiffany D. _ Blood in the Water_
 
-Jamieson, Victoria	*Roller Girl*
+Jamieson, Victoria _Roller Girl_
 
-Jinks, Catherine  *  Evil Genius and How to Catch a Bogle*
+Jinks, Catherine _ Evil Genius and How to Catch a Bogle_
 
-Johnson, Varian  *The Parker Inheritance*
+Johnson, Varian _The Parker Inheritance_
 
-Kamkwamba, William and Mealer, Bryan  *  The Boy Who Harnessed the Wind*
+Kamkwamba, William and Mealer, Bryan _ The Boy Who Harnessed the Wind_
 
-Kaufman, Sashi	*Sardines*
+Kaufman, Sashi _Sardines_
 
-Kelkar, Supriya	*Strong as Fire, Fierce as Flame*
+Kelkar, Supriya _Strong as Fire, Fierce as Flame_
 
-Kent, Rose  *  Kimchi and Calamari and Rocky Road*
+Kent, Rose _ Kimchi and Calamari and Rocky Road_
 
-Kessler, Liz   * The Tail of Emily Windsnap*
+Kessler, Liz _ The Tail of Emily Windsnap_
 
-Klages, Ellen   * The Green Glass Sea, Out of Left Field,* and *Wicked Wonders*
+Klages, Ellen _ The Green Glass Sea, Out of Left Field,_ and _Wicked Wonders_
 
-Kluger, Steve  * My Most Excellent Year*
+Kluger, Steve _ My Most Excellent Year_
 
-Korman, Gordon  *  Slugfest, Unplugged, Born to Rock, Schooled, Pop, Swindle, Whatshisface, Ungifted, Supergifted, Slacker, Restart, Unteachables, Son of the Mob,* and the Mastermind series
+Korman, Gordon _ Slugfest, Unplugged, Born to Rock, Schooled, Pop, Swindle, Whatshisface, Ungifted, Supergifted, Slacker, Restart, Unteachables, Son of the Mob,_ and the Mastermind series
 
-Krajewski, Thomas	 * Primer*
+Krajewski, Thomas _ Primer_
 
-LaFleur, Suzanne  *  Love, Aubrey* and *Eight Keys*
+LaFleur, Suzanne _ Love, Aubrey_ and _Eight Keys_
 
-Lai, Thanhha  *  Inside Out and Back Again*
+Lai, Thanhha _ Inside Out and Back Again_
 
-Lake, Nick  *  Hostage Three*
+Lake, Nick _ Hostage Three_
 
-Larbalestier, Justine  *  How to Ditch Your Fairy*
+Larbalestier, Justine _ How to Ditch Your Fairy_
 
-Levine, Kristin  *  The Lions of Little Rock* and *Jigsaw Jungle*
+Levine, Kristin _ The Lions of Little Rock_ and _Jigsaw Jungle_
 
-Levithan, David	*Answers in the Pages*
+Levithan, David _Answers in the Pages_
 
-Light, Alex	*The Upside of Falling*
+Light, Alex _The Upside of Falling_
 
-Lin, Grace  *  Where the Mountain Meets the Moon*
+Lin, Grace _ Where the Mountain Meets the Moon_
 
-Lloyd, Natalie  *  Snicker of Magic*
+Lloyd, Natalie _ Snicker of Magic_
 
-Lockhart, E.    *The Disreputable History of Frankie Landau Banks*
+Lockhart, E. _The Disreputable History of Frankie Landau Banks_
 
-Lord, Cynthia   * Handful of Stars, Half a Chance, Rules,* and *Touch Blue*
+Lord, Cynthia _ Handful of Stars, Half a Chance, Rules,_ and _Touch Blue_
 
-Lore, Pittacus    The *I Am Number Four* series
+Lore, Pittacus The _I Am Number Four_ series
 
-Lorentz, Dayna  *  No Safety in Numbers*
+Lorentz, Dayna _ No Safety in Numbers_
 
-Lowry, Lois  *  The Giver, Gathering Blue, Messenger, Number the Stars* and *The Silent Boy*
+Lowry, Lois _ The Giver, Gathering Blue, Messenger, Number the Stars_ and _The Silent Boy_
 
 Lu, MarieThe Legend series and the Warcross series
 
-Lubar, David  *  Sleeping Freshmen Never Lie*
+Lubar, David _ Sleeping Freshmen Never Lie_
 
-Lukoff, Kyle	*Different Kinds of Fruit*
+Lukoff, Kyle _Different Kinds of Fruit_
 
-Lupica, Mike	*Heat, Million Dollar Throw*
+Lupica, Mike _Heat, Million Dollar Throw_
 
-MacHale, D.J.  * The Sylo series*
+MacHale, D.J. _ The Sylo series_
 
-Magnim, Joyce   * Jellybean Summer*
+Magnim, Joyce _ Jellybean Summer_
 
-Magoon, Kekla   * The Secret Library, Shadows of Sherwood and The Rock and the River*
+Magoon, Kekla _ The Secret Library, Shadows of Sherwood and The Rock and the River_
 
-Martin, Pedro		*Mexikid*
+Martin, Pedro _Mexikid_
 
-Mass, Wendy   * Jeremy Fink and the Meaning of Life, A Mango-Shaped Space (review), Finally, 11 Birthdays, Candymaker, Leap Day, Heaven’s A Lot Like the Mall, The Lost Present,* and *13 Gifts*
+Mass, Wendy _ Jeremy Fink and the Meaning of Life, A Mango-Shaped Space (review), Finally, 11 Birthdays, Candymaker, Leap Day, Heaven’s A Lot Like the Mall, The Lost Present,_ and _13 Gifts_
 
-Mayo, Simon *The Itch series*
+Mayo, Simon _The Itch series_
 
-McCormick, Patricia  *  Never Fall Down*
+McCormick, Patricia _ Never Fall Down_
 
-McNaulty, Stacy  *  Miscalculations of Lightning Girl, Millionaires for the Month,* and *The World Ends in April*
+McNaulty, Stacy _ Miscalculations of Lightning Girl, Millionaires for the Month,_ and _The World Ends in April_
 
-McNeil, Gretchen   * Ten*
+McNeil, Gretchen _ Ten_
 
-Messenger, Shannon  *The Keeper of the Lost Cities series*
+Messenger, Shannon _The Keeper of the Lost Cities series_
 
-Messner, Kate  *  Breakout, All the Answers, Capture the Flag, Hide and Seek, Seventh Wish,* and *Manhunt*
+Messner, Kate _ Breakout, All the Answers, Capture the Flag, Hide and Seek, Seventh Wish,_ and _Manhunt_
 
-Meyer, Marissa  *  Cinder* and the rest of the *Lunar Chronicles,* the *Renegades* series
+Meyer, Marissa _ Cinder_ and the rest of the _Lunar Chronicles,_ the _Renegades_ series
 
-Milford, Kate		*Greenglass House* and *Ghosts of Greenglass House*
+Milford, Kate _Greenglass House_ and _Ghosts of Greenglass House_
 
-Mohamed, Omar	*When Stars are Scattered*
+Mohamed, Omar _When Stars are Scattered_
 
-Mosier, Paul   * Train I Ride*
+Mosier, Paul _ Train I Ride_
 
 Muchamore, Robert The Cherub series
 
 Mull, Brandon The Fablehaven series and the Beyonders series
 
-Mulligan, Andy   * Trash*
+Mulligan, Andy _ Trash_
 
-Myers, Walter Dean   * Autobiography of My Dead Brother, Fallen Angels, Hoops, Game, Monster, Sunrise Over Falluja, Dope Sick,* and *Shooter*
+Myers, Walter Dean _ Autobiography of My Dead Brother, Fallen Angels, Hoops, Game, Monster, Sunrise Over Falluja, Dope Sick,_ and _Shooter_
 
-Myracle, Lauren   * Ten, Eleven, Twelve,* and *Thirteen*
+Myracle, Lauren _ Ten, Eleven, Twelve,_ and _Thirteen_
 
-Ness, Patrick   * The Chaos Walking series, Birthmarked, More Than This,* and *Monster Calls*
+Ness, Patrick _ The Chaos Walking series, Birthmarked, More Than This,_ and _Monster Calls_
 
-Nicholls, Sally  *Ways to Live Forever*
+Nicholls, Sally _Ways to Live Forever_
 
-Nielson, Jennifer  *Words on Fire, Uprising, Lines of Courage, A Night Divided, Resistance, False Prince,* and *Mark of the Thief*
+Nielson, Jennifer _Words on Fire, Uprising, Lines of Courage, A Night Divided, Resistance, False Prince,_ and _Mark of the Thief_
 
-Nolan, Han   * Crazy*
+Nolan, Han _ Crazy_
 
-O’Brien, Anne Sibley		*In the Shadow of the Sun*
+O’Brien, Anne Sibley _In the Shadow of the Sun_
 
-O’Shaughnessy, Kate	*Wrong Way Home*
+O’Shaughnessy, Kate _Wrong Way Home_
 
-Oppel, Kenneth  *Half Brother*
+Oppel, Kenneth _Half Brother_
 
-Ortega, Claribel A.	*Witchlings (series), and Frizzy*
+Ortega, Claribel A. _Witchlings (series), and Frizzy_
 
-Ostertag, Kelly	*Girl from the Sea*
+Ostertag, Kelly _Girl from the Sea_
 
-Ott, Alexandra	 *  The Wish Ring Cipher*
+Ott, Alexandra _ The Wish Ring Cipher_
 
-Padian, Maria   * Brett McCarthy: Work in Progress*
+Padian, Maria _ Brett McCarthy: Work in Progress_
 
-Palacio, R.J.   * Wonder* and *Auggie and Me*
+Palacio, R.J. _ Wonder_ and _Auggie and Me_
 
-Park, Linda Sue  *  A Long Walk to Water*
+Park, Linda Sue _ A Long Walk to Water_
 
-Patterson, James  *  Maximum Ride: The Angel Experiment, Maximum Ride: School’s Out Forever, and Maximum Ride: Saving the World and Other Extreme Sports, Crazy House,* and *The Treasure Hunters series*
+Patterson, James _ Maximum Ride: The Angel Experiment, Maximum Ride: School’s Out Forever, and Maximum Ride: Saving the World and Other Extreme Sports, Crazy House,_ and _The Treasure Hunters series_
 
-Patterson, Katherine  *  Bread and Roses Too*
+Patterson, Katherine _ Bread and Roses Too_
 
-Paulson, Gary *The Hatchet series, Lawn Boy,* and *Wood’s Runner*
+Paulson, Gary _The Hatchet series, Lawn Boy,_ and _Wood’s Runner_
 
-Peet, Mal   * Keeper* and *Tamar*
+Peet, Mal _ Keeper_ and _Tamar_
 
-Pfeffer, Susan  *  Life as We Knew It*
+Pfeffer, Susan _ Life as We Knew It_
 
-Preto, Nikki Pau	*The Last Hope School for Magical Delinquints*
+Preto, Nikki Pau _The Last Hope School for Magical Delinquints_
 
-Preus, Margi   * Heart of a Samurai, West of the Moon,* and *Shadow of the Mountain*
+Preus, Margi _ Heart of a Samurai, West of the Moon,_ and _Shadow of the Mountain_
 
-Price, Lissa  *  Starters*
+Price, Lissa _ Starters_
 
-Pullman, Philip  *  His Dark Materials* trilogy
+Pullman, Philip _ His Dark Materials_ trilogy
 
-Pyron, Bobbie  *Lucky Strike*
+Pyron, Bobbie _Lucky Strike_
 
-Quick, Matthew   * Boy 21*
+Quick, Matthew _ Boy 21_
 
-Reintgen, Scott   * The Last Dragon on Mars (series)* and *Nyxia*
+Reintgen, Scott _ The Last Dragon on Mars (series)_ and _Nyxia_
 
-Resau, Laura   * Red Glass* and *The Queen of Water*
+Resau, Laura _ Red Glass_ and _The Queen of Water_
 
-Rex, Adam  *  The True Meaning of Smekday (review)*
+Rex, Adam _ The True Meaning of Smekday (review)_
 
-Reynolds, Jason *\    The Ghost series, As Brave As You, All American Boys, Look Both Ways, and Miles Morales*
+Reynolds, Jason _\ The Ghost series, As Brave As You, All American Boys, Look Both Ways, and Miles Morales_
 
-Rhodes, Jewell Parker	*Ghost Boys*
+Rhodes, Jewell Parker _Ghost Boys_
 
-Riordan, Rick   * The Lightning Thief, Sea of Monsters, Titan’s Curse, The Lost Hero, The Son of Neptune, The Mark of Athena, The Kane Chronicles, Magnus Chase,* and *the Percy Jackson series*
+Riordan, Rick _ The Lightning Thief, Sea of Monsters, Titan’s Curse, The Lost Hero, The Son of Neptune, The Mark of Athena, The Kane Chronicles, Magnus Chase,_ and _the Percy Jackson series_
 
-Ritter, William	*Jackaby*
+Ritter, William _Jackaby_
 
-Roberts, Barbara Carrol	*Nikki on the Line*
+Roberts, Barbara Carrol _Nikki on the Line_
 
-Rocklin, Joanne  *  One Day* and *One Amazing Morning on Orange Street*
+Rocklin, Joanne _ One Day_ and _One Amazing Morning on Orange Street_
 
-Rosoff, Meg  *  Picture Me Gone* and *There Is No Dog*
+Rosoff, Meg _ Picture Me Gone_ and _There Is No Dog_
 
-Roth, Veronica *The Divergent series*
+Roth, Veronica _The Divergent series_
 
-Rowling, J.K.   * Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, etc.*
+Rowling, J.K. _ Harry Potter and the Sorcerer’s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, etc._
 
-Rupp, Rebecca  *  After Eli*
+Rupp, Rebecca _ After Eli_
 
-Rutkoski, Marie  *  Cabinet of Wonders*
+Rutkoski, Marie _ Cabinet of Wonders_
 
-Sachar, Louis   *Fuzzy Mud* and *Holes*
+Sachar, Louis _Fuzzy Mud_ and _Holes_
 
-Schmatz, Pat  *  Bluefish*
+Schmatz, Pat _ Bluefish_
 
-Schmidt, Gary  *  The Wednesday Wars, Orbiting Jupiter, OK for Now, Trouble,* and *Pay Attention Carter Jones*
+Schmidt, Gary _ The Wednesday Wars, Orbiting Jupiter, OK for Now, Trouble,_ and _Pay Attention Carter Jones_
 
-Scieszka, Jon		*Knucklehead*
+Scieszka, Jon _Knucklehead_
 
-Schu, John	*Louder Than Hunger*
+Schu, John _Louder Than Hunger_
 
-Schrefer, Eliot   * Endangered*
+Schrefer, Eliot _ Endangered_
 
-Scott, Michael   * The Secrets of the Immortal Nicholas Flamel series*
+Scott, Michael _ The Secrets of the Immortal Nicholas Flamel series_
 
-Sepetys, Ruta  *  The Bletchley Riddle, Between Shades of Gray,* and *I Must Betray You*
+Sepetys, Ruta _ The Bletchley Riddle, Between Shades of Gray,_ and _I Must Betray You_
 
-Shull, Meagan  *The Swap*
+Shull, Meagan _The Swap_
 
-Shusterman, Neal   * Scythe (series), The Schwaa was Here, Antsy Does Time, Unwind, Full Tilt, Everlost (series)*
+Shusterman, Neal _ Scythe (series), The Schwaa was Here, Antsy Does Time, Unwind, Full Tilt, Everlost (series)_
 
-Sloan, Holly Goldberg  *  Counting by 7s*
+Sloan, Holly Goldberg _ Counting by 7s_
 
-Smiley, Jane   * A Good Horse*
+Smiley, Jane _ A Good Horse_
 
-Smith, Heather 	*Tig*
+Smith, Heather _Tig_
 
-Smith, Roland  	*Switch*
+Smith, Roland _Switch_
 
-Snyder, Laurel  *Orphan Island*
+Snyder, Laurel _Orphan Island_
 
-Sonnenblick, Jordan   * Drums, Girls, and Dangerous Pie, Notes from the Midnight Driver, Zen and the Art of Faking It,* and *After Ever After*
+Sonnenblick, Jordan _ Drums, Girls, and Dangerous Pie, Notes from the Midnight Driver, Zen and the Art of Faking It,_ and _After Ever After_
 
-Spinelli, Jerry  *  Crash, Milkweed, Stargirl, Smiles to Go, Wringer, Maniac Magee, Jake and Lilly,* and *Milkweed*
+Spinelli, Jerry _ Crash, Milkweed, Stargirl, Smiles to Go, Wringer, Maniac Magee, Jake and Lilly,_ and _Milkweed_
 
-Starmer, Aaron  * The Riverman* and *The Whisper*
+Starmer, Aaron _ The Riverman_ and _The Whisper_
 
-Stead, Rebecca   *Goodbye Stranger, Bob, Liar and Spy,* and *When You Reach Me*
+Stead, Rebecca _Goodbye Stranger, Bob, Liar and Spy,_ and _When You Reach Me_
 
-Sumner, Jamie	*Roll With It*
+Sumner, Jamie _Roll With It_
 
-Swinarski, Claire	*The Kate in Between, What Happened to Rachel Riley?* and *Take it From the Top*
+Swinarski, Claire _The Kate in Between, What Happened to Rachel Riley?_ and _Take it From the Top_
 
-Tanner, Lian  *  The Icebreaker series*
+Tanner, Lian _ The Icebreaker series_
 
-Tarshis, Lauren  *  Emma-Jean Lazarus Fell Out of a Tree*
+Tarshis, Lauren _ Emma-Jean Lazarus Fell Out of a Tree_
 
-Tavaris, Matt		*Hoops*
+Tavaris, Matt _Hoops_
 
-Telgemeier, Raina  *  Smile* and *Drama*
+Telgemeier, Raina _ Smile_ and _Drama_
 
-Thomas, Aiden	*Cemetery Boys*
+Thomas, Aiden _Cemetery Boys_
 
-Tolkein, J.R.R.  * The Lord of the Rings series*
+Tolkein, J.R.R. _ The Lord of the Rings series_
 
-Tougias, Michael J.  and Casey Sherman	*The Finest Hours*
+Tougias, Michael J. and Casey Sherman _The Finest Hours_
 
-Vail, Rachel   * Ever After, Well That Was Awkward,* and *Bad Best Friend*
+Vail, Rachel _ Ever After, Well That Was Awkward,_ and _Bad Best Friend_
 
-Van Draanen, Wendelin  *  Flipped* and *The Running Dream*
+Van Draanen, Wendelin _ Flipped_ and _The Running Dream_
 
-Velde, Vivian Vande  *  Stolen*
+Velde, Vivian Vande _ Stolen_
 
-Venable, Colleen A.	*\    Katie the Catsitter* (series)
+Venable, Colleen A. _\ Katie the Catsitter_ (series)
 
-Vrabel, Beth  *Pack of Dorks*
+Vrabel, Beth _Pack of Dorks_
 
-Walters, Eric *The Rule of Three*
+Walters, Eric _The Rule of Three_
 
-Wang, Jen	*The Prince and the Dressmaker*
+Wang, Jen _The Prince and the Dressmaker_
 
-Warga, Jasmine	*A Rover’s Story* and *Other Words for Home*
+Warga, Jasmine _A Rover’s Story_ and _Other Words for Home_
 
-Wein, Elizabeth  *  Code Name Verity*
+Wein, Elizabeth _ Code Name Verity_
 
-Wells, Robison   * Variant and Feedback*
+Wells, Robison _ Variant and Feedback_
 
-Wenxuan, Cao  *  Bronze and Sunflower*
+Wenxuan, Cao _ Bronze and Sunflower_
 
-Westerfeld, Scott   * Leviathan (review), Behemoth,* and *Goliath*
+Westerfeld, Scott _ Leviathan (review), Behemoth,_ and _Goliath_
 
-Williams, Alicia	*Mid-Air*
+Williams, Alicia _Mid-Air_
 
-Wolk, Lauren		*Candle Island, Beyond the Bright Sea, Wolf Hollow*
+Wolk, Lauren _Candle Island, Beyond the Bright Sea, Wolf Hollow_
 
-Woodson, Jacqueline   *Before the Ever After, Feathers* and *Brown Girl Dreaming*
+Woodson, Jacqueline _Before the Ever After, Feathers_ and _Brown Girl Dreaming_
 
-Wright, Bil   * Putting Makeup on the Fat Boy*
+Wright, Bil _ Putting Makeup on the Fat Boy_
 
-Yancey, Rick  *  The Extraordinary Adventures of Alfred Kropp* and *The Monstrumologist*
+Yancey, Rick _ The Extraordinary Adventures of Alfred Kropp_ and _The Monstrumologist_
 
-Yang, Gene   * American-Born Chinese* and *Level Up*
+Yang, Gene _ American-Born Chinese_ and _Level Up_
 
-Yang, Kelly	*Front Desk (series)*
+Yang, Kelly _Front Desk (series)_
 
-Yoon, Nicola *\    Everything, Everything*
+Yoon, Nicola _\ Everything, Everything_
 
-Yousafzai, Malala   * I Am Malala*
+Yousafzai, Malala _ I Am Malala_
 
-Zeigler, Jennifer  *How Not to Be Popular*
+Zeigler, Jennifer _How Not to Be Popular_
 
-Zevin, Gabrielle  *  Elsewhere*
+Zevin, Gabrielle _ Elsewhere_
 
-Zusak, Markus  *  The Book Thief*
+Zusak, Markus _ The Book Thief_
 
 </details>
 
@@ -1029,493 +1030,493 @@ Zusak, Markus  *  The Book Thief*
 Gr. 7-8 
 </summary>
 
-Acevedo, Elizabeth    *The Poet X, Clap When You Land,* and *With the Fire on High*
+Acevedo, Elizabeth _The Poet X, Clap When You Land,_ and _With the Fire on High_
 
-Aciman, Andre     *Call Me By Your Name*
+Aciman, Andre _Call Me By Your Name_
 
-Adams, Douglas    The Hitchhiker’s Guide to the Galaxy series
+Adams, Douglas The Hitchhiker’s Guide to the Galaxy series
 
-Adieh, Renee    *The Wrath and the Dawn* and *The Rose and the Dagger*
+Adieh, Renee _The Wrath and the Dawn_ and _The Rose and the Dagger_
 
-Adiga, Aravind    *The White Tiger* 
+Adiga, Aravind _The White Tiger_
 
-Albert, Melissa   *The Hazel Wood*
+Albert, Melissa _The Hazel Wood_
 
-Albertalli, Becky    *Simon vs. the Homo Sapien Agenda, Leah on the Offbeat, Kate in Waiting*
+Albertalli, Becky _Simon vs. the Homo Sapien Agenda, Leah on the Offbeat, Kate in Waiting_
 
-Albertalli, Becky and Adam Silvera    *What If It’s Us*
+Albertalli, Becky and Adam Silvera _What If It’s Us_
 
-Alexander, Kwame   *Crossover, Booked, Swing,* and *Rebound*
+Alexander, Kwame _Crossover, Booked, Swing,_ and _Rebound_
 
-Alifirenka, Caitlin and Martin Ganda   *I Will Always Write Back*
+Alifirenka, Caitlin and Martin Ganda _I Will Always Write Back_
 
-Anderson, Jodi Lynn     *Tigerlily*
+Anderson, Jodi Lynn _Tigerlily_
 
-Anderson, Laurie Halse   *Speak, Prom,* and *The Impossible Knife of Memory*
+Anderson, Laurie Halse _Speak, Prom,_ and _The Impossible Knife of Memory_
 
-Atkinson, Kate    *Life After Life* and *Behind the Scenes at the Museum*
+Atkinson, Kate _Life After Life_ and _Behind the Scenes at the Museum_
 
-Atwood, Margaret    *The Handmaid’s Tale*
+Atwood, Margaret _The Handmaid’s Tale_
 
-Austen, Jane    *Emma* and *Pride and Prejudice*
+Austen, Jane _Emma_ and _Pride and Prejudice_
 
-Aveyard, Victoria   *Red Queen* and *Glass Sword*
+Aveyard, Victoria _Red Queen_ and _Glass Sword_
 
-Bardugo, Leigh     Shadow and Bone trilogy
+Bardugo, Leigh Shadow and Bone trilogy
 
-Bauby, Jean-Dominique    *The Diving Bell and the Butterfly*
+Bauby, Jean-Dominique _The Diving Bell and the Butterfly_
 
-Beah, Ishmael    *A Long Way Gone*
+Beah, Ishmael _A Long Way Gone_
 
-Benioff, David    *City of Thieves*
+Benioff, David _City of Thieves_
 
-Bissinger, H.G.    *Friday Night Lights*
+Bissinger, H.G. _Friday Night Lights_
 
-Black, Holly     *Cruel Prince*
+Black, Holly _Cruel Prince_
 
-Bowden, Mark    *Black Hawk Down*
+Bowden, Mark _Black Hawk Down_
 
-Bradbury, Ray    *Fahrenheit 451*
+Bradbury, Ray _Fahrenheit 451_
 
-Bradley, Alex     *24 Girls in 7 Days*
+Bradley, Alex _24 Girls in 7 Days_
 
-Bray, Libba    *Beauty Queens, Going Bovine,* and *The Diviners*
+Bray, Libba _Beauty Queens, Going Bovine,_ and _The Diviners_
 
-Brontë, Charlotte    *Jane Eyre*
+Brontë, Charlotte _Jane Eyre_
 
-Brown, Dan    *The Da Vinci Code* and *Angels and Demons*
+Brown, Dan _The Da Vinci Code_ and _Angels and Demons_
 
-Bryant, Jen    *Pieces of Georgia*
+Bryant, Jen _Pieces of Georgia_
 
-Bryson, Bill    *A Walk in the Woods*
+Bryson, Bill _A Walk in the Woods_
 
-Burgess, Anthony    *A Clockwork Orange*
+Burgess, Anthony _A Clockwork Orange_
 
-Burton, Jessie     *Medusa*
+Burton, Jessie _Medusa_
 
-Butler, Octavia E.     Blood Child and Other Stories
+Butler, Octavia E. Blood Child and Other Stories
 
-Buxbaum, Julie     *Tell Me Three Things*
+Buxbaum, Julie _Tell Me Three Things_
 
-Cabot, Meg    *All-American Girl, Avalon High* and The Princess Diaries series
+Cabot, Meg _All-American Girl, Avalon High_ and The Princess Diaries series
 
-Card, Orson Scott    The Ender series and *Pathfinder*
+Card, Orson Scott The Ender series and _Pathfinder_
 
-Cass, Kiera   *The Selection* series and *The Siren*
+Cass, Kiera _The Selection_ series and _The Siren_
 
-Chabon, Michael    *The Adventures of Kavalier and Clay* and *The Yiddish Policemen’s Union*
+Chabon, Michael _The Adventures of Kavalier and Clay_ and _The Yiddish Policemen’s Union_
 
-Chbosky, Stephen    *The Perks of Being a Wallflower*
+Chbosky, Stephen _The Perks of Being a Wallflower_
 
-Christie, Agatha    *And Then There Were None, Murder on the Orient Express*
+Christie, Agatha _And Then There Were None, Murder on the Orient Express_
 
-Cisneros, Sandra    *The House on Mango Street*
+Cisneros, Sandra _The House on Mango Street_
 
-Cline, Eric    *Ready Player One*
+Cline, Eric _Ready Player One_
 
-Coates, Darcy     *Parasite*
+Coates, Darcy _Parasite_
 
-Cohn, Rachel and David Levithan    *Dash and Lily’s Book of Dares* and *Nick and Norah’s Infinite Playlist*
+Cohn, Rachel and David Levithan _Dash and Lily’s Book of Dares_ and _Nick and Norah’s Infinite Playlist_
 
-Collins, Suzanne    *The Hunger Games, Catching Fire, Mockingjay, Sunrise on the Reaping,* and *The Ballad of Songbird and Snakes*
+Collins, Suzanne _The Hunger Games, Catching Fire, Mockingjay, Sunrise on the Reaping,_ and _The Ballad of Songbird and Snakes_
 
-Condie, Ally    *Matched* and *Crossed*
+Condie, Ally _Matched_ and _Crossed_
 
-Coy, John    *Crackback* 
+Coy, John _Crackback_
 
-Creech, Sharon   *Love That Dog* and *Hate That Cat*
+Creech, Sharon _Love That Dog_ and _Hate That Cat_
 
-Crichton, Michael    *Sphere, Congo, Next, Jurassic Park, The Lost World, Airframe,* and *The Andromeda Strain*
+Crichton, Michael _Sphere, Congo, Next, Jurassic Park, The Lost World, Airframe,_ and _The Andromeda Strain_
 
-Cosby, S. A.      *Razorblade Tears*
+Cosby, S. A. _Razorblade Tears_
 
-Cutter, Nick     *The Troop*
+Cutter, Nick _The Troop_
 
-Dashner, James    *The Maze Runner, The Scorch Trials, The Death Cure,* and *The Kill Order*
+Dashner, James _The Maze Runner, The Scorch Trials, The Death Cure,_ and _The Kill Order_
 
-Deaver, Julie Reece    *The Night I Disappeared* and *Say Goodnight, Gracie* 
+Deaver, Julie Reece _The Night I Disappeared_ and _Say Goodnight, Gracie_
 
-DePrince, Michaela  *Taking Flight*
+DePrince, Michaela _Taking Flight_
 
-Dessen, Sarah    *Dreamland, Just Listen, Keeping the Moon, Someone Like You, This Lullaby, Lock and Key, The Truth about Forever, What Happened to Goodbye,* and *The Moon and More*
+Dessen, Sarah _Dreamland, Just Listen, Keeping the Moon, Someone Like You, This Lullaby, Lock and Key, The Truth about Forever, What Happened to Goodbye,_ and _The Moon and More_
 
-Deuker, Carl    *Heart of a Champion, Night Hoops, Painting the Black, Gym Candy,* and *High Heat*
+Deuker, Carl _Heart of a Champion, Night Hoops, Painting the Black, Gym Candy,_ and _High Heat_
 
-Diaz, Junot    *The Brief, Wondrous Life of Oscar Wao*
+Diaz, Junot _The Brief, Wondrous Life of Oscar Wao_
 
-Doctorow, Cory    *Little Brother* and *Homeland*
+Doctorow, Cory _Little Brother_ and _Homeland_
 
-Doerr, Anthony    *All the Light We Cannot See*
+Doerr, Anthony _All the Light We Cannot See_
 
-Donnelly, Jennifer    *A Northern Light, Revolution,* and *These Shallow Graves*
+Donnelly, Jennifer _A Northern Light, Revolution,_ and _These Shallow Graves_
 
-Douglass, Ryan     *The Taking of Jake Livingston*
+Douglass, Ryan _The Taking of Jake Livingston_
 
-Draper, Sharon    *The Battle of Jericho, Fire from the Rock, Copper Sun, Just Another Hero, Out of My Mind, November Blues,* and *Stella by Starlight*
+Draper, Sharon _The Battle of Jericho, Fire from the Rock, Copper Sun, Just Another Hero, Out of My Mind, November Blues,_ and _Stella by Starlight_
 
-Ducie, Joe   *The Rig* and *Crystal Force*
+Ducie, Joe _The Rig_ and _Crystal Force_
 
-DuMaurier, Daphne    *Rebecca*
+DuMaurier, Daphne _Rebecca_
 
-Eddings, David    The Belgariad series and the Mallorean series
+Eddings, David The Belgariad series and the Mallorean series
 
-Eggers, Dave    *A Heartbreaking Work of Staggering Genius, Zeitoun, What Is the What,* and *The Circle*
+Eggers, Dave _A Heartbreaking Work of Staggering Genius, Zeitoun, What Is the What,_ and _The Circle_
 
-Erdrich, Louise    *The Round House*
+Erdrich, Louise _The Round House_
 
-Evans, Desiree S. (editor)     *The Black Girl Survives in this One*
+Evans, Desiree S. (editor) _The Black Girl Survives in this One_
 
-Farmer, Nancy    *The House of the Scorpion* and *The Sea of Trolls*
+Farmer, Nancy _The House of the Scorpion_ and _The Sea of Trolls_
 
-Finkel, Michael    *The Stranger in the Woods*
+Finkel, Michael _The Stranger in the Woods_
 
-Fiore, Kelly     *Taste Test*
+Fiore, Kelly _Taste Test_
 
-Fisher, Catherine    *Incarceron* and *Sapphique*
+Fisher, Catherine _Incarceron_ and _Sapphique_
 
-Fitzgerald, F. Scott   *The Great Gatsby*
+Fitzgerald, F. Scott _The Great Gatsby_
 
-Flack, Sophie    *Bunheads*
+Flack, Sophie _Bunheads_
 
-Foer, Jonathan Safran    *Extremely Loud and Incredibly Close*
+Foer, Jonathan Safran _Extremely Loud and Incredibly Close_
 
-Forman, Gayle    *If I Stay, I Was Here, Just One Day,* and *Where She Went*
+Forman, Gayle _If I Stay, I Was Here, Just One Day,_ and _Where She Went_
 
-Frasier, Charles    *Cold Mountain*
+Frasier, Charles _Cold Mountain_
 
-Frost, Robert     *The Poetry of Robert Frost*
+Frost, Robert _The Poetry of Robert Frost_
 
-Garber, Stephanie     *Once Upon a Broken Heart* and *Caraval* series
+Garber, Stephanie _Once Upon a Broken Heart_ and _Caraval_ series
 
-Giles, Gail    *Playing in Traffic, Right Behind You, Shattering Glass,* and *Dead Girls Don’t Write Letters*
+Giles, Gail _Playing in Traffic, Right Behind You, Shattering Glass,_ and _Dead Girls Don’t Write Letters_
 
-Golding, William    *Lord of the Flies* 
+Golding, William _Lord of the Flies_
 
-Goldman, William    *The Princess Bride*
+Goldman, William _The Princess Bride_
 
-Grant, Michael    *Gone, Lies, Hunger, Plague,* and *Fear*
+Grant, Michael _Gone, Lies, Hunger, Plague,_ and _Fear_
 
-Gratz, Alan    *Refugee, Ground Zero,* and *Projekt 1065*
+Gratz, Alan _Refugee, Ground Zero,_ and _Projekt 1065_
 
-Green, John    *An Abundance of Katherines, Looking for Alaska, Paper Towns, Turtles All the Way Down,* and *The Fault in Our Stars* 
+Green, John _An Abundance of Katherines, Looking for Alaska, Paper Towns, Turtles All the Way Down,_ and _The Fault in Our Stars_
 
-Haddon, Mark    *The Curious Incident of the Dog in the Night-time*
+Haddon, Mark _The Curious Incident of the Dog in the Night-time_
 
-Haig, Matt    *The Dead Father’s Club* 
+Haig, Matt _The Dead Father’s Club_
 
-Han, Jenny    *To All the Boys I’ve Loved Before, Shug, We’ll Always Have Summer, It’s Not Summer Without You, PS I Still Love You, Always and Forever, Lara Jean,* and *The Summer I Turned Pretty*
+Han, Jenny _To All the Boys I’ve Loved Before, Shug, We’ll Always Have Summer, It’s Not Summer Without You, PS I Still Love You, Always and Forever, Lara Jean,_ and _The Summer I Turned Pretty_
 
-Hand, Cynthia   *The Last Time We Say Goodbye*
+Hand, Cynthia _The Last Time We Say Goodbye_
 
-Hand, Cynthia, Brodi Ashton, and Jodi Meadows   *My Lady Jane* and *My Plain Jane*
+Hand, Cynthia, Brodi Ashton, and Jodi Meadows _My Lady Jane_ and _My Plain Jane_
 
-Hautman, Pete    *All In, Godless, Hole in the Sky, The Big Crunch, Invisible, No Limit, Rash,* and *What Boys Really Want*
+Hautman, Pete _All In, Godless, Hole in the Sky, The Big Crunch, Invisible, No Limit, Rash,_ and _What Boys Really Want_
 
-Heller, Joseph    *Catch-22*
+Heller, Joseph _Catch-22_
 
-Hemingway, Ernest    *The Old Man and the Sea, The Sun Also Rises,* and *For Whom the Bell Tolls*
+Hemingway, Ernest _The Old Man and the Sea, The Sun Also Rises,_ and _For Whom the Bell Tolls_
 
-Hickham, Jr., Homer    *October Sky*
+Hickham, Jr., Homer _October Sky_
 
-Hijuelos, Oscar    *Dark Dude*
+Hijuelos, Oscar _Dark Dude_
 
-Hillenbrand, Laura    *Unbroken*
+Hillenbrand, Laura _Unbroken_
 
-Hinton, S.E.    *The Outsiders*
+Hinton, S.E. _The Outsiders_
 
-Homer     *The Iliad* and *The Odyssey*
+Homer _The Iliad_ and _The Odyssey_
 
-Hoose, Phillip   *The Boys Who Challenged Hitler*
+Hoose, Phillip _The Boys Who Challenged Hitler_
 
-Hornby, Nick    *High Fidelity, About a Boy,* and *Slam*
+Hornby, Nick _High Fidelity, About a Boy,_ and _Slam_
 
-Hosseini, Khaled    *The Kite Runner, A Thousand Splendid Suns,* and *And the Mountains Echoed*
+Hosseini, Khaled _The Kite Runner, A Thousand Splendid Suns,_ and _And the Mountains Echoed_
 
-Huxley, Aldous    *Brave New World*
+Huxley, Aldous _Brave New World_
 
-Ibanez, Isabel    *What the River Knows* and sequel
+Ibanez, Isabel _What the River Knows_ and sequel
 
-Iftin, Abdi Nor     *Call Me American*
+Iftin, Abdi Nor _Call Me American_
 
-Ishiguro, Kazuo    *Never Let Me Go*
+Ishiguro, Kazuo _Never Let Me Go_
 
-Jackson, Tiffany D.     *The Weight of Blood*
+Jackson, Tiffany D. _The Weight of Blood_
 
-Jinks, Catherine    *Evil Genius* and *Genius Squad*
+Jinks, Catherine _Evil Genius_ and _Genius Squad_
 
-Johnson, Maureen    *The Name of the Star, The Madness Underneath,* and *The Shadow Cabinet*
+Johnson, Maureen _The Name of the Star, The Madness Underneath,_ and _The Shadow Cabinet_
 
-Jones, Stephen Graham     *Night of the Mannequins*
+Jones, Stephen Graham _Night of the Mannequins_
 
-Kaling, Mindy    *Is Everyone Hanging Out Without Me?* and *Why Not Me?*
+Kaling, Mindy _Is Everyone Hanging Out Without Me?_ and _Why Not Me?_
 
-Keplinger, Kody   *The Duff*
+Keplinger, Kody _The Duff_
 
-Kesey, Ken    *One Flew Over the Cuckoo’s Nest* 
+Kesey, Ken _One Flew Over the Cuckoo’s Nest_
 
-Keyes, Daniel     *Flowers for Algernon*
+Keyes, Daniel _Flowers for Algernon_
 
-Kiely, Brandon and Jason Reynolds   *All American Boys*
+Kiely, Brandon and Jason Reynolds _All American Boys_
 
-King, Stephen    *11/22/63, Carrie, Pet Semetary, The Shining, Under the Dome, Christine, The Long Walk, The Girl Who Loved Tom Gordon,* and *The Stand*
+King, Stephen _11/22/63, Carrie, Pet Semetary, The Shining, Under the Dome, Christine, The Long Walk, The Girl Who Loved Tom Gordon,_ and _The Stand_
 
-Kingsolver, Barbara    *The Bean Trees* and *The Poisonwood Bible*
+Kingsolver, Barbara _The Bean Trees_ and _The Poisonwood Bible_
 
-Klein, Lisa M.      *Ophelia*
+Klein, Lisa M. _Ophelia_
 
-Korman, Gordon    *Born to Rock, No More Dead Dogs, Schooled, Son of the Mob, Son of the Mob: Hollywood Hustle,* and *Jake, Reinvented*
+Korman, Gordon _Born to Rock, No More Dead Dogs, Schooled, Son of the Mob, Son of the Mob: Hollywood Hustle,_ and _Jake, Reinvented_
 
-Krakauer, Jon    *Into Thin Air* and *Into the Wild*
+Krakauer, Jon _Into Thin Air_ and _Into the Wild_
 
-Kretch, Bob    *Rebound* 
+Kretch, Bob _Rebound_
 
-LaRocca, Rajani     *Red, White, and Whole*
+LaRocca, Rajani _Red, White, and Whole_
 
-Latham, Jennifer   *Dreamland Burning*
+Latham, Jennifer _Dreamland Burning_
 
-Laure, Estelle   *This Raging Light*
+Laure, Estelle _This Raging Light_
 
-Laybourne, Emmy    *Monument 14*, *Monument 14: Sky on Fire*, *Monument 14: Savage Drift,* and *Sweet*
+Laybourne, Emmy _Monument 14_, _Monument 14: Sky on Fire_, _Monument 14: Savage Drift,_ and _Sweet_
 
-Lee, Harper    *To Kill a Mockingbird*
+Lee, Harper _To Kill a Mockingbird_
 
-Levithan, David    *Every Day* and *Another Day*
+Levithan, David _Every Day_ and _Another Day_
 
-Lewis, John & Andrew Aydin  *March (1, 2, and 3)*
+Lewis, John & Andrew Aydin _March (1, 2, and 3)_
 
-Lieb, Josh    *I Am a Genius of Unspeakable Evil and I Want To Be Your Class President* 
+Lieb, Josh _I Am a Genius of Unspeakable Evil and I Want To Be Your Class President_
 
-Lipsyte, Robert    *Center Field* and *Raiders’ Night* 
+Lipsyte, Robert _Center Field_ and _Raiders’ Night_
 
-Lockhart, E.    *The Disreputable History of Frankie Landau-Banks, The Boyfriend List, We Were Liars*
+Lockhart, E. _The Disreputable History of Frankie Landau-Banks, The Boyfriend List, We Were Liars_
 
-Lu, Marie    *Legend, Prodigy, Champion, Warcross, Wildcard, Skyhunter*
+Lu, Marie _Legend, Prodigy, Champion, Warcross, Wildcard, Skyhunter_
 
-Lubar, David    *Dunk, Hidden Talents, True Talents, and Sleeping Freshmen Never Lie*
+Lubar, David _Dunk, Hidden Talents, True Talents, and Sleeping Freshmen Never Lie_
 
-Ludlum, Robert    *The Bourne Identity* and *The Bourne Supremacy*
+Ludlum, Robert _The Bourne Identity_ and _The Bourne Supremacy_
 
-Lyga, Barry    *I Hunt Killers, Game, Blood of My Blood,* and *Bang*
+Lyga, Barry _I Hunt Killers, Game, Blood of My Blood,_ and _Bang_
 
-Maas, Sarah J.     *Throne of Glass*
+Maas, Sarah J. _Throne of Glass_
 
-Marciuliano, Francesco     *I Could Pee on This (and Other Poems by Cats)*
+Marciuliano, Francesco _I Could Pee on This (and Other Poems by Cats)_
 
-Marino, Peter    *Magic and Misery* 
+Marino, Peter _Magic and Misery_
 
-Marsden, John    The Tomorrow series
+Marsden, John The Tomorrow series
 
-Martel, Yann    *Life of Pi*
+Martel, Yann _Life of Pi_
 
-Martin, George R.R.    *A Song of Ice and Fire* series
+Martin, George R.R. _A Song of Ice and Fire_ series
 
-Mass, Wendy    *Heaven Looks a Lot Like the Mall, Jeremy Fink and the Meaning of Life, A Mango-Shaped Space, Leap Day*
+Mass, Wendy _Heaven Looks a Lot Like the Mall, Jeremy Fink and the Meaning of Life, A Mango-Shaped Space, Leap Day_
 
-Matson, Morgan    *Since You’ve Been Gone*
+Matson, Morgan _Since You’ve Been Gone_
 
-McCammon, Robert    *Boy’s Life*
+McCammon, Robert _Boy’s Life_
 
-McCarthy, Cormac    *Blood Meridian, No Country for Old Men, The Road,* and *All the Pretty Horses*
+McCarthy, Cormac _Blood Meridian, No Country for Old Men, The Road,_ and _All the Pretty Horses_
 
-McManus, Karen    *One of Us Is Lying* and *Two Can Keep a Secret*
+McManus, Karen _One of Us Is Lying_ and _Two Can Keep a Secret_
 
-McNab, Andy    *Traitor* and *Payback*
+McNab, Andy _Traitor_ and _Payback_
 
-McNeil, Gretchen    *Ten*
+McNeil, Gretchen _Ten_
 
-Melville, Herman    *Moby Dick*
+Melville, Herman _Moby Dick_
 
-Meyer, Marissa    *Cinder, Scarlet, Cress, Winter, Fairest, Gilded,* and *Cursed*
+Meyer, Marissa _Cinder, Scarlet, Cress, Winter, Fairest, Gilded,_ and _Cursed_
 
-Mezrich, Ben    *Bringing Down the House* and *The Accidental Billionaires*
+Mezrich, Ben _Bringing Down the House_ and _The Accidental Billionaires_
 
-Miller, Madeline     *Son of Achilles*
+Miller, Madeline _Son of Achilles_
 
-Monroe, Randall  *What If?: Serious Scientific Answers to Absurd Hypothetical Questions*
+Monroe, Randall _What If?: Serious Scientific Answers to Absurd Hypothetical Questions_
 
-Moore, Liz     *God of the Woods*
+Moore, Liz _God of the Woods_
 
-Morganstern, Erin    *The Night Circus*
+Morganstern, Erin _The Night Circus_
 
-Moriarty, Jaclyn    *Feeling Sorry for Celia, The Murder of Bindy Mackenzie, The Spell Book of Listen Taylor, The Year of Secret Assignments,* and *The Ghosts of Ashbury High*
+Moriarty, Jaclyn _Feeling Sorry for Celia, The Murder of Bindy Mackenzie, The Spell Book of Listen Taylor, The Year of Secret Assignments,_ and _The Ghosts of Ashbury High_
 
-Mosley, Walter    *47*
+Mosley, Walter _47_
 
-Moyes, Jojo   *Me Before You*
+Moyes, Jojo _Me Before You_
 
-Mullin, Mike    *Ashfall* and *Ashen Winter*
+Mullin, Mike _Ashfall_ and _Ashen Winter_
 
-Murray, Liz    *Breaking Night*
+Murray, Liz _Breaking Night_
 
-Myers, Walter Dean    *Autobiography of My Dead Brother, Bad Boy, Fallen Angels, Hoops, Monster, The Outside Shot, Shooter, Slam,* and *Game*
+Myers, Walter Dean _Autobiography of My Dead Brother, Bad Boy, Fallen Angels, Hoops, Monster, The Outside Shot, Shooter, Slam,_ and _Game_
 
-Myracle, Lauren     *Peace, Love, and Baby Ducks*
+Myracle, Lauren _Peace, Love, and Baby Ducks_
 
-Neruda, Pablo   *Odes to Common Things*
+Neruda, Pablo _Odes to Common Things_
 
-Ness, Patrick    *The Ask and the Answer, Monsters of Men, The Knife of Never Letting Go,* and *More Than This*
+Ness, Patrick _The Ask and the Answer, Monsters of Men, The Knife of Never Letting Go,_ and _More Than This_
 
-Nicholls, Stan    *Orcs* 
+Nicholls, Stan _Orcs_
 
-Nijkamp, Marieke   *This Is Where It Ends*
+Nijkamp, Marieke _This Is Where It Ends_
 
-Noah, Trevor    *Born a Crime*
+Noah, Trevor _Born a Crime_
 
-Nolan, Han    *Pregnant Pause, If I Should Die Before I Wake,* and *A Summer of Kings*
+Nolan, Han _Pregnant Pause, If I Should Die Before I Wake,_ and _A Summer of Kings_
 
-Nowlin, Laura     *If He Had Been with Me*
+Nowlin, Laura _If He Had Been with Me_
 
-O’Brien, Tim    *The Things They Carried*
+O’Brien, Tim _The Things They Carried_
 
-Obama, Barack    *Dreams from My Father*
+Obama, Barack _Dreams from My Father_
 
-Obama, Michelle    *Becoming*
+Obama, Michelle _Becoming_
 
-Ockler, Sarah    *Twenty Boy Summer* and *Fixing Delilah*
+Ockler, Sarah _Twenty Boy Summer_ and _Fixing Delilah_
 
-Oliver, Lauren    *Before I Fall, Delirium, Pandemonium,* and *Requiem*
+Oliver, Lauren _Before I Fall, Delirium, Pandemonium,_ and _Requiem_
 
-Orwell, George    *Animal Farm* and *1984*
+Orwell, George _Animal Farm_ and _1984_
 
-Oseman, Alice     *Heartstopper* series, *Solitaire*, and *Loveless*
+Oseman, Alice _Heartstopper_ series, _Solitaire_, and _Loveless_
 
-Paolini, Christopher     *Eragon/Inheritance Cycle* series
+Paolini, Christopher _Eragon/Inheritance Cycle_ series
 
-Patchett, Anne    *Bel Canto*
+Patchett, Anne _Bel Canto_
 
-Peterson, Margaret Haddix     *Uprising*
+Peterson, Margaret Haddix _Uprising_
 
-Pfeffer, Susan Beth    *Life as We Knew It*
+Pfeffer, Susan Beth _Life as We Knew It_
 
-Poe, Edgar Allen    *Tales of Mystery and Terror*
+Poe, Edgar Allen _Tales of Mystery and Terror_
 
-Preston, Douglas and Child, Lincoln    *Relic, The Book of the Dead, Brimstone,* and *Dance of Death*
+Preston, Douglas and Child, Lincoln _Relic, The Book of the Dead, Brimstone,_ and _Dance of Death_
 
-Pullman, Phillip    The Dark Materials trilogy
+Pullman, Phillip The Dark Materials trilogy
 
-Reed, Mackenzie     *The Rosewood Hunt*
+Reed, Mackenzie _The Rosewood Hunt_
 
-Reichl, Ruth    *Tender at the Bone*
+Reichl, Ruth _Tender at the Bone_
 
-Reynolds, Jason    *Long Way Down, Look Both Ways, Ghost* series
+Reynolds, Jason _Long Way Down, Look Both Ways, Ghost_ series
 
-Rich, Simon    *Ant Farm* and *Free-Range Chickens*
+Rich, Simon _Ant Farm_ and _Free-Range Chickens_
 
-Roth, Veronica    *Divergent, Insurgent,* and *Allegiant*
+Roth, Veronica _Divergent, Insurgent,_ and _Allegiant_
 
-Rowell, Rainbow    *Carry On, Pumpkinheads, Landline, Eleanor and Park,* and *Fangirl*
+Rowell, Rainbow _Carry On, Pumpkinheads, Landline, Eleanor and Park,_ and _Fangirl_
 
-Rowling, J.K.    The Harry Potter series
+Rowling, J.K. The Harry Potter series
 
-Sagan, Carl    *Contact*
+Sagan, Carl _Contact_
 
-Sain, Ginny Myers     *When the Bones Sing*
+Sain, Ginny Myers _When the Bones Sing_
 
-Salinger, J.D.    *The Catcher in the Rye* and *Franny and Zooey*
+Salinger, J.D. _The Catcher in the Rye_ and _Franny and Zooey_
 
-Satrapi, Marjane    *Persepolis* and *Persepolis 2*
+Satrapi, Marjane _Persepolis_ and _Persepolis 2_
 
-Scheinkin, Steve  *Bomb*
+Scheinkin, Steve _Bomb_
 
-Schlosser, Eric  *Fast Food Nation*
+Schlosser, Eric _Fast Food Nation_
 
-Sedaris, David    *Me Talk Pretty One Day, The Santaland Diaries,* and *Naked*
+Sedaris, David _Me Talk Pretty One Day, The Santaland Diaries,_ and _Naked_
 
-Sedgwick, Marcus    *Revolver*
+Sedgwick, Marcus _Revolver_
 
-Sepetys, Ruta    *Between Shades of Gray, The Fountains of Silence,* and *Salt to the Sea*
+Sepetys, Ruta _Between Shades of Gray, The Fountains of Silence,_ and _Salt to the Sea_
 
-Shabazz, Ilyasah & Kekla Magoon  *X: A Novel*
+Shabazz, Ilyasah & Kekla Magoon _X: A Novel_
 
-Sheff, David    *Beautiful Boy*
+Sheff, David _Beautiful Boy_
 
-Shusterman, Neal    *Everlost, Everwild, The Shadow Club, the Unwind series, the Scythe series*
+Shusterman, Neal _Everlost, Everwild, The Shadow Club, the Unwind series, the Scythe series_
 
-Silverstein, Ken    *The Radioactive Boy Scout*
+Silverstein, Ken _The Radioactive Boy Scout_
 
-Sittenfeld, Curtis    *Prep*
+Sittenfeld, Curtis _Prep_
 
-Smith, Andrew    *Winger, Standoff,* and *The Marbury Lens*
+Smith, Andrew _Winger, Standoff,_ and _The Marbury Lens_
 
-Smith, Betty    *A Tree Grows in Brooklyn*
+Smith, Betty _A Tree Grows in Brooklyn_
 
-Smith, Dodie    *I Capture the Castle* 
+Smith, Dodie _I Capture the Castle_
 
-Smith, Jennifer    *The Statistical Probability of Love at First Sight, This Is What Happy Looks Like,* and *Windfall*
+Smith, Jennifer _The Statistical Probability of Love at First Sight, This Is What Happy Looks Like,_ and _Windfall_
 
-Smith, Kirsten    *The Geography of Girlhood*
+Smith, Kirsten _The Geography of Girlhood_
 
-Smith, Roland    *Peak* and *The Edge*
+Smith, Roland _Peak_ and _The Edge_
 
-Solomon, Lynn     *Today, Tonight, Tomorrow*
+Solomon, Lynn _Today, Tonight, Tomorrow_
 
-Sones, Sonya    *One of Those Hideous Books Where the Mother Dies, Stop Pretending, What My Mother Doesn’t Know, What My Girlfriend Doesn’t Know,* and *What Happened When My Big Sister Went Crazy*
+Sones, Sonya _One of Those Hideous Books Where the Mother Dies, Stop Pretending, What My Mother Doesn’t Know, What My Girlfriend Doesn’t Know,_ and _What Happened When My Big Sister Went Crazy_
 
-Sonneblick, Jordan    *Notes from the Midnight Driver, Zen and the Art of Faking It, After Ever After,* and *Drums, Girls, and Dangerous Pie*
+Sonneblick, Jordan _Notes from the Midnight Driver, Zen and the Art of Faking It, After Ever After,_ and _Drums, Girls, and Dangerous Pie_
 
-Spiegelman, Art    *Maus I* and *Maus II*
+Spiegelman, Art _Maus I_ and _Maus II_
 
-Stafford, William     *Passwords*
+Stafford, William _Passwords_
 
-Steinbeck, John    *The Grapes of Wrath*
+Steinbeck, John _The Grapes of Wrath_
 
-Stockett, Kathryn    *The Help*
+Stockett, Kathryn _The Help_
 
-Strasser, Todd    *Bootcamp, Can’t Get There from Here, Give a Boy a Gun,* and *The Wave*
+Strasser, Todd _Bootcamp, Can’t Get There from Here, Give a Boy a Gun,_ and _The Wave_
 
-Sullivan, Tara    *The Bitter Side of Sweet*
+Sullivan, Tara _The Bitter Side of Sweet_
 
-Thomas, Angie    *The Hate U Give, Concrete Rose,* and *On the Come Up*
+Thomas, Angie _The Hate U Give, Concrete Rose,_ and _On the Come Up_
 
-Tinti, Hannah    *The Good Thief* 
+Tinti, Hannah _The Good Thief_
 
-Tolkien, J.R.R.    *The Hobbit* and *The Lord of the Rings* trilogy
+Tolkien, J.R.R. _The Hobbit_ and _The Lord of the Rings_ trilogy
 
-Twain, Mark    *The Adventures of Huckleberry Finn*
+Twain, Mark _The Adventures of Huckleberry Finn_
 
-Vivian, Siobhan    *Not That Kind of Girl* and *The List*
+Vivian, Siobhan _Not That Kind of Girl_ and _The List_
 
-Vizzini, Ned    *Be More Chill* and *It’s Kind of a Funny Story*
+Vizzini, Ned _Be More Chill_ and _It’s Kind of a Funny Story_
 
-Vonnegut, Kurt    *Man Without a Country, Slaughterhouse-Five, Cat’s Cradle, Slapstick, Galapagos, Mother Night,* and *Armageddon in Retrospect*
+Vonnegut, Kurt _Man Without a Country, Slaughterhouse-Five, Cat’s Cradle, Slapstick, Galapagos, Mother Night,_ and _Armageddon in Retrospect_
 
-Volpini, Paul     *Final Four*
+Volpini, Paul _Final Four_
 
-Wagner, Laura Rose   *Hold Tight, Don’t Let Go*
+Wagner, Laura Rose _Hold Tight, Don’t Let Go_
 
-Walls, Jeanette    *The Glass Castle* 
+Walls, Jeanette _The Glass Castle_
 
-Walsh, Chloe     *Binding 13*
+Walsh, Chloe _Binding 13_
 
-Weeks, Sarah    *So B. It*
+Weeks, Sarah _So B. It_
 
-Wein, Elizabeth   *Code Name Verity, Black Dove, White Raven, The Pearl Thief,* and *A Thousand Sisters*
+Wein, Elizabeth _Code Name Verity, Black Dove, White Raven, The Pearl Thief,_ and _A Thousand Sisters_
 
-Weir, Andy  *The Martian, Project Hail Mary*
+Weir, Andy _The Martian, Project Hail Mary_
 
-Weisel, Elie    *Night*
+Weisel, Elie _Night_
 
-Welch, Jenna Evans     *Love and Gelato*
+Welch, Jenna Evans _Love and Gelato_
 
-White, Andrew Joseph     *Hell Followed with Us, The Spirit Bares Its Teeth*
+White, Andrew Joseph _Hell Followed with Us, The Spirit Bares Its Teeth_
 
-Woodson, Jacqueline   *Brown Girl Dreaming* and *Harbor Me*
+Woodson, Jacqueline _Brown Girl Dreaming_ and _Harbor Me_
 
-Woolf, Tobias    *This Boy’s Life*
+Woolf, Tobias _This Boy’s Life_
 
-Yancey, Rick  *The Fifth Wave, The Infinite Sea, The Last Star,* and the Monstrumologist series
+Yancey, Rick _The Fifth Wave, The Infinite Sea, The Last Star,_ and the Monstrumologist series
 
-Yoon, David       *Super Fake Love Song* and *Frankly in Love*
+Yoon, David _Super Fake Love Song_ and _Frankly in Love_
 
-Yoon, Nicola  *Everything, Everything* and *The Sun Is Also a Star*
+Yoon, Nicola _Everything, Everything_ and _The Sun Is Also a Star_
 
-Yousafzai, Malala   *I Am Malala* and *We Are Displaced*
+Yousafzai, Malala _I Am Malala_ and _We Are Displaced_
 
-Zevin, Gabrielle    *Memoirs of a Teenage Amnesiac, All These Things I’ve Done,* and *Because It Is My Blood*
+Zevin, Gabrielle _Memoirs of a Teenage Amnesiac, All These Things I’ve Done,_ and _Because It Is My Blood_
 
-Zoboi, Ibi    *American Street* and *Pride*
+Zoboi, Ibi _American Street_ and _Pride_
 
-Zusak, Markus    *The Book Thief* and *I Am the Messenger*
+Zusak, Markus _The Book Thief_ and _I Am the Messenger_
 
 [](/middle-school-book-blog/i-am-the-messenger-by-markus-zusak)
 

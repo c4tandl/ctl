@@ -9,6 +9,7 @@ import AdmissionsMenu from "./menus/AdmissionsMenu";
 import ReadingResourcesMenu from "./menus/ReadingResourcesMenu";
 import InternshipsMenu from "./menus/InternshipsMenu";
 import DonateMenu from "./menus/DonateMenu";
+import ContactMenu from "./menus/ContactMenu";
 
 const NavRail = styled.div`
   display: flex;
@@ -69,6 +70,7 @@ export const MenuOption = styled.li`
     display: block;
     width: 100%;
     height: 100%;
+    white-space: nowrap;
   }
   &:hover {
     a {
@@ -141,9 +143,7 @@ const Navigation = () => {
         <MenuHeader>
           <Link to="/calendar">Calendar</Link>
         </MenuHeader>
-        <MenuHeader>
-          <Link to="/contact">Contact Us</Link>
-        </MenuHeader>
+        <ContactMenu />
       </Nav>
     </NavRail>
   );

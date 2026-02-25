@@ -2,6 +2,9 @@
 date: 2026-01-22T15:58:04.020Z
 title: Contact
 contactpage: true
+path: contact-us
+nav: contact
+sort: 1
 carousel:
   images:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1710387030/IMG_6131_dev1mj.jpg
