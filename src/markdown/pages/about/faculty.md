@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2026-02-24T14:53:16.317Z
+date: 2026-02-25T13:32:33.984Z
 title: Faculty
 sort: 4
 nav: about
@@ -13,7 +13,7 @@ nav: about
 
 **Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jennifer stepped into a new role as the  Grade 1-2 teacher. In 2023, she transitioned to leading CTL's kindergarten, and in 2024, Jennifer helped launch the school's inaugural Pre-K--K class. Jennifer has always enjoyed teaching the reading and writing programs in grades Pre-K--4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/c_scale,h_1800/v1732132917/11252-CTL_240925_rjxk96.jpg)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/t_body_images/v1732132917/11252-CTL_240925_rjxk96.jpg)
 
 **Corbin Lichtinger** and his family recently moved to Wiscasset from Portland, Oregon, where he taught first grade or a 1-2 class for seven years. Corbin joined CTL in 2023 as our Grade 1-2 teacher. Corbin has a BA in Political Science and Environmental Studies from Allegheny College and his Master of Arts in Teaching from Lewis and Clark College. His interests include gardening and healthy food in schools. 
 
