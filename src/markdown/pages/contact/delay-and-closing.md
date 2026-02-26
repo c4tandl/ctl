@@ -1,6 +1,6 @@
 ---
 path: delay-and-closing
-date: 2026-02-26T16:48:15.609Z
+date: 2026-02-26T17:04:15.325Z
 title: Delay & Closing Notification
 sort: 2
 nav: contact
@@ -13,7 +13,9 @@ carousel:
 
 **Delay & Closing Notifications**
 
-*CTL will contact families via text to notify them of weather related school delays and closings. We are required to include the following language in order to text you via a texting service.* 
+*CTL will contact families via text by 7:00 a.m. to notify them of weather related school delays and closings. We are required to include the following language in order to text you via a texting service.* 
+
+*CTL also posts school delays and closings via WCSH, WGME, and WMTW on their local channels and website.*  
 
 [](https://www.boothbayregister.com/article/ctl-students-embrace-winter-sports/181368)DIRECT DATA COLLECTION
 
