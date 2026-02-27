@@ -5,6 +5,7 @@ import ArrowLeft from "../assets/svgs/icons/arrow-left.svg";
 import ArrowRight from "../assets/svgs/icons/arrow-right.svg";
 import ChevronDown from "../assets/svgs/icons/chevron-down.svg";
 import ChevronUp from "../assets/svgs/icons/chevron-up.svg";
+import { proxyCloudinaryUrl } from "../utils/cloudinaryProxy";
 
 const FullRow = styled.div`
   position: absolute;
@@ -89,7 +90,8 @@ const Slide = styled.img`
 // Inject Cloudinary transforms to serve carousel images at display size (230px, 2x for retina)
 const optimizeCloudinaryUrl = (url) => {
   if (!url || !url.includes("res.cloudinary.com")) return url;
-  return url.replace("/image/upload/", "/image/upload/t_carousel/");
+  const transformed = url.replace("/image/upload/", "/image/upload/t_carousel/");
+  return proxyCloudinaryUrl(transformed);
 };
 
 const Carousel = (props) => {
