@@ -9,3 +9,7 @@
 # Service worker - always fresh
 /sw.js
   Cache-Control: public, max-age=0, must-revalidate
+
+# Proxied Cloudinary images - cache 30 days (URLs contain version numbers so content is immutable)
+/cloudinary/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=86400

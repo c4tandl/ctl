@@ -1,12 +1,14 @@
 import React from "react";
 import styled from "styled-components";
+import { proxyCloudinaryHtml } from "../utils/cloudinaryProxy";
 
 const optimizeCloudinaryBodyHtml = (html) => {
   if (!html) return html;
-  return html.replace(
-    /res\.cloudinary\.com\/center-for-teaching-learning\/image\/upload\//g,
+  const transformed = html.replaceAll(
+    "res.cloudinary.com/center-for-teaching-learning/image/upload/",
     "res.cloudinary.com/center-for-teaching-learning/image/upload/t_body_images/"
   );
+  return proxyCloudinaryHtml(transformed);
 };
 
 const enwrapImgTagsInAnotherDivWithClass = (htmlToEnwrap, className) => {
