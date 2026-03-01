@@ -15,3 +15,18 @@ export const proxyCloudinaryHtml = (html) => {
   if (!IS_PRODUCTION || !html) return html;
   return html.replaceAll(CLOUDINARY_BASE, "/cloudinary/");
 };
+
+export const optimizeCloudinaryImageUrl = (url) => {
+  if (!url || !url.includes("res.cloudinary.com")) return url;
+  const transformed = url.replace("/image/upload/", "/image/upload/t_body_images/");
+  return proxyCloudinaryUrl(transformed);
+};
+
+export const optimizeCloudinaryBodyHtml = (html) => {
+  if (!html) return html;
+  const transformed = html.replaceAll(
+    CLOUDINARY_BASE,
+    `${CLOUDINARY_BASE}t_body_images/`
+  );
+  return proxyCloudinaryHtml(transformed);
+};

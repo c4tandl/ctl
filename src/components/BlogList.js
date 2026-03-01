@@ -11,6 +11,7 @@ import styled from "styled-components";
 
 import SearchIcon from "../assets/svgs/icons/search.svg";
 import { authorsMap, categoriesMap } from "../assets/blogmaps";
+import { optimizeCloudinaryImageUrl, optimizeCloudinaryBodyHtml } from "../utils/cloudinaryProxy";
 
 const Title = styled.div`
   color: #777777;
@@ -115,7 +116,7 @@ const BlogImage = styled.img`
 const AboutTheBlog = ({ post }) => (
   <AboutSection>
     <h1>{post.frontmatter.title}</h1>
-    <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
+    <div dangerouslySetInnerHTML={{ __html: optimizeCloudinaryBodyHtml(post.html) }}></div>
   </AboutSection>
 );
 
@@ -131,12 +132,12 @@ const Post = ({ post }) => (
             return (
               <BlogImage
                 key={Array.from(image).reverse().join()}
-                src={image}
+                src={optimizeCloudinaryImageUrl(image)}
               ></BlogImage>
             );
           })
         : null}
-      <BlogPost dangerouslySetInnerHTML={{ __html: post.html }} />
+      <BlogPost dangerouslySetInnerHTML={{ __html: optimizeCloudinaryBodyHtml(post.html) }} />
     </div>
   </BlogFrame>
 );
