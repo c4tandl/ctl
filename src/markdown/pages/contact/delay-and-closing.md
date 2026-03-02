@@ -1,6 +1,6 @@
 ---
 path: delay-and-closing
-date: 2026-02-26T17:04:15.325Z
+date: 2026-03-02T17:02:04.981Z
 title: Delay & Closing Notification
 sort: 2
 nav: contact
@@ -8,10 +8,12 @@ carousel:
   images: []
 ---
 <div style="display: grid; place-items:center;">
-<img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738559138/unnamed-801_ydmgzp.jpg" alt="Student performance in a classroom"/>
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1772124098/unnamed-2179_d7qhgm.jpg)
+
 </div>
 
-**Delay & Closing Notifications**
+**Delay & Closing Notifications -- Privacy Policy Language**
 
 *CTL will contact families via text by 7:00 a.m. to notify them of weather related school delays and closings. We are required to include the following language in order to text you via a texting service.* 
 
