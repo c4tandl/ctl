@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2026-02-03T18:56:59.144Z
+date: 2026-03-03T19:07:18.564Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -39,7 +39,7 @@ B. **Applying**: Once you know you would like to apply, do so by:
 3. Schedule and have the applicant attend a student visit day.
 4. Complete application process. 
 
-Families will be notified of admissions decisions on or before March 10.
+Families will be notified of admissions decisions on or before March 10. Applications received after March 10 are reviewed on a rolling basis. 
 
 If you are ready to move forward with an application and join CTL’s waitlist, please apply using the [TADS enrollment system](https://mytads.com/a/ctl). Contact the office with any questions.
 
