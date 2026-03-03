@@ -1,6 +1,6 @@
 ---
 path: tuition-assistance
-date: 2024-03-06T17:07:37.609Z
+date: 2026-03-03T19:07:34.718Z
 title: Tuition Assistance
 sort: 2
 nav: admissions
@@ -9,9 +9,7 @@ CTL offers tuition assistance for families who qualify. When applying for admiss
 
 Applications must be completed by February 15 to be considered for the first round of tuition assistance but applications will be accepted year round. Families will be notified of their assistance qualification as part of the admissions package. 
 
-Tuition assistance at CTL is generously supported by Nancie Atwell’s donation of the Varkey Foundation’s Global Teacher Prize. Nancie was the inaugural recipient of this honor, a significant and lasting acknowledgement of her work’s impact on teaching and learning around the globe.
-
-Students from the town of Westport can use town tuition to fund their CTL education from kindergarten to eighth grade. Alna students can utilize town tuition for grades 1-8. West Bath students can access town tuition for grades 6-8. Students from the towns of Edgecomb, Southport and Georgetown can use town tuition for grades 7 and 8. During your admissions conversation with Katy Inman, ask for more information if you live in one of these towns.
+Students from the town of Westport can use town tuition to fund their CTL education from kindergarten to eighth grade. Alna students can utilize town tuition for grades 4-8. West Bath students can access town tuition for grades 6-8. Students from the towns of Edgecomb, Southport and Georgetown can use town tuition for grades 7 and 8. During your admissions conversation with Katy Inman, ask for more information if you live in one of these towns.
 
 Process:
 
