@@ -1,6 +1,6 @@
 ---
 path: tuition-assistance
-date: 2026-03-03T19:36:23.414Z
+date: 2026-03-04T18:21:14.178Z
 title: Tuition Assistance
 sort: 2
 nav: admissions
