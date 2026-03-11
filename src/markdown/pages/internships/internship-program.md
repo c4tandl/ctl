@@ -1,6 +1,6 @@
 ---
 path: internship-program
-date: 2025-08-21T17:38:16.185Z
+date: 2026-03-11T21:16:21.241Z
 title: Internship Program
 sort: 1
 nav: internships
@@ -15,7 +15,7 @@ carousel:
 ---
 # Internships
 
-Interested educators: We are still accepting applications for our 2025-26 intern weeks: Sept. 29-Oct.2, 2025 (Grades 5-8); and April 6-9, 2026 (Grades 5-8). Apply today using CTL's [internship application](https://docs.google.com/forms/d/e/1FAIpQLSfSEIKkLwdElNJWhdWsSUrnZaRsrpuwDcZ9yKZope0xYdWUqg/viewform?usp=sf_link). 
+Interested educators: We are accepting applications for our 2026-27 intern weeks: Sept. 28-Oct. 1, 2026 (Grades 5-8); Oct. 26-29, 2026 (Grades K-4); March 29-April 1, 2027 (Grades 5-8); and April 5-8, 2027 (Grades K-4). Apply today using CTL's [internship application](https://docs.google.com/forms/d/e/1FAIpQLSfSEIKkLwdElNJWhdWsSUrnZaRsrpuwDcZ9yKZope0xYdWUqg/viewform?usp=sf_link). 
 
 Please contact internship@c-t-l.org with any questions or to request a PDF of the application. 
 
