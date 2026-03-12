@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2026-02-24T15:18:25.823Z
+date: 2026-03-12T17:38:29.994Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -13,7 +13,9 @@ Please see below for some ways you can give to CTL.
 
 *The Center for Teaching and Learning is a 501(c)(3) nonprofit organization and your contribution is tax deductible. CTL's EIN is 01-0448173.*
 
-**By Mail/In Person**
+
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/1_boh9d9.png)
 
 Donations to the Center for Teaching and Learning can be mailed to 119 Cross Point Road, Edgecomb, ME 04556. 
 
