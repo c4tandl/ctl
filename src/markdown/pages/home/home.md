@@ -45,6 +45,7 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738636993/image-33_lthc5v.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738637025/unnamed-870_takcgp.jpg
 ---
+
 # Our Mission
 
 </br>
@@ -53,12 +54,10 @@ The Center for Teaching and Learning is a Pre-K--8 demonstration school dedicate
 
 We seek to teach and influence both a cross-section of children of mid-coastal Maine and, through our intern program, speeches, and publications, classroom teachers throughout the U.S.
 
-
-
 <div style="display: grid; place-items:center;">
 <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1772423897/unnamed-3_breagb.png"/>
 </div>
 
 <div style="display: grid; place-items:center;">
-<img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1772424439/Untitled_6_x_4\_in\_-2_gpwqkh.png"/>
+<img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1772424439/Untitled_6_x_4_in_-2_gpwqkh.png"/>
 </div>
