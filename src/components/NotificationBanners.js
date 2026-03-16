@@ -23,6 +23,14 @@ const illustrationMap = {
   "acorn-cloud": AcornCloudSVG,
 };
 
+const colorMap = {
+  grey: "#00000014",
+  green: "#22814a26",
+  blue: "#1c75bc22",
+  gold: "#fbb04030",
+  red: "#ef413622",
+};
+
 const STORAGE_PREFIX = "ctl-banner-dismissed-";
 
 function hashString(str) {
@@ -36,7 +44,7 @@ function hashString(str) {
 }
 
 function getDismissKey(banner) {
-  return STORAGE_PREFIX + hashString(banner.title + banner.message);
+  return STORAGE_PREFIX + hashString(banner.title + (banner.html || ""));
 }
 
 function isDismissed(banner) {
@@ -66,7 +74,7 @@ const BannerWrapper = styled.div`
 `;
 
 const BannerItem = styled.div`
-  background-color: #00000014;
+  background-color: ${(props) => props.bgColor || "#00000014"};
   display: flex;
   align-items: center;
   padding: 12px 16px;
@@ -96,17 +104,37 @@ const IllustrationHolder = styled.div`
   }
 `;
 
-const BannerMessage = styled.p`
+const BannerBody = styled.div`
   flex: 1;
-  margin: 0;
   font-family: "URWDIN-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 10pt;
   color: #333;
   line-height: 1.4;
+  p {
+    margin: 4px 0;
+  }
+  p:first-child {
+    margin-top: 0;
+  }
+  p:last-child {
+    margin-bottom: 0;
+  }
+  a {
+    color: forestgreen;
+    text-decoration: underline;
+  }
+  strong {
+    font-family: "URWDIN-Medium", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 `;
 
 const DismissButton = styled.button`
   flex-shrink: 0;
+  align-self: flex-start;
   background: none;
   border: none;
   cursor: pointer;
@@ -138,10 +166,11 @@ export default function NotificationBanners({ currentPage = "home" }) {
       ) {
         edges {
           node {
+            html
             frontmatter {
               title
-              message
               illustration
+              color
               enabled
               pages
             }
@@ -152,9 +181,12 @@ export default function NotificationBanners({ currentPage = "home" }) {
   `);
 
   const allBanners = data.allMarkdownRemark.edges
-    .map(({ node }) => node.frontmatter)
+    .map(({ node }) => ({
+      ...node.frontmatter,
+      html: node.html,
+    }))
     .filter((b) => {
-      if (!b.enabled || !b.message) return false;
+      if (!b.enabled || !b.html) return false;
       const pages = b.pages || ["all"];
       return pages.includes("all") || pages.includes(currentPage);
     });
@@ -187,14 +219,15 @@ export default function NotificationBanners({ currentPage = "home" }) {
         const IllustrationSVG = banner.illustration
           ? illustrationMap[banner.illustration]
           : null;
+        const bgColor = colorMap[banner.color] || colorMap.grey;
         return (
-          <BannerItem key={getDismissKey(banner)}>
+          <BannerItem key={getDismissKey(banner)} bgColor={bgColor}>
             {IllustrationSVG && (
               <IllustrationHolder>
                 <IllustrationSVG />
               </IllustrationHolder>
             )}
-            <BannerMessage>{banner.message}</BannerMessage>
+            <BannerBody dangerouslySetInnerHTML={{ __html: banner.html }} />
             <DismissButton
               onClick={() => handleDismiss(banner)}
               aria-label="Dismiss notification"

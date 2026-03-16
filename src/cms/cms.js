@@ -29,8 +29,9 @@ init({
     },
     collections: [
       {
-        name: "Notification Banners",
-        label: "Notification Banners",
+        name: "Banners",
+        label: "Banners",
+        label_singular: "Banner",
         folder: "src/markdown/banners",
         create: true,
         fields: [
@@ -38,12 +39,6 @@ init({
             name: "title",
             label: "Title",
             hint: "Internal name for this banner (not shown on site)",
-          },
-          {
-            name: "message",
-            label: "Message",
-            widget: "string",
-            hint: "The text displayed in the banner",
           },
           {
             name: "illustration",
@@ -61,6 +56,19 @@ init({
               { label: "Happy Acorn", value: "happy-acorn" },
               { label: "Acorn with Parachute", value: "acorn-parachute" },
               { label: "Acorn on Cloud", value: "acorn-cloud" },
+            ],
+          },
+          {
+            name: "color",
+            label: "Background Color",
+            widget: "select",
+            default: "grey",
+            options: [
+              { label: "Grey", value: "grey" },
+              { label: "Green", value: "green" },
+              { label: "Blue", value: "blue" },
+              { label: "Gold", value: "gold" },
+              { label: "Red", value: "red" },
             ],
           },
           {
@@ -89,6 +97,12 @@ init({
               { label: "Donate", value: "donate" },
               { label: "Contact", value: "contact" },
             ],
+          },
+          {
+            widget: "markdown",
+            label: "Body",
+            name: "body",
+            editor_components: ["image"],
           },
         ],
       },

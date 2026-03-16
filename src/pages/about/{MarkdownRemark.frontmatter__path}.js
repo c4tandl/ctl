@@ -8,6 +8,7 @@ import styled from "styled-components";
 import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
+import NotificationBanners from "../../components/NotificationBanners";
 
 import { Sun } from "../../assets/svgs/drawings";
 import LinkIcon from "../../assets/svgs/icons/navigate-to.svg";
@@ -218,6 +219,7 @@ export default function Template({
           <Sun />
         </SunDiv>
         <BodyArea coverSlideshow={coverSlideshow}>
+          <NotificationBanners currentPage="about" />
           {edges &&
             edges.map(({ node: { frontmatter, html } }, i) => {
               const images = getSVGs("about", frontmatter.path);
