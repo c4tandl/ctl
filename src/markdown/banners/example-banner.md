@@ -4,8 +4,8 @@ illustration: flying-bird
 color: blue
 enabled: true
 pages:
-  - all
-date: 2026-03-16T01:02:15.253Z
+  - how-we-teach-and-learn
+date: 2026-03-16T01:03:06.822Z
 ---
 Welcome to CTL! Check out our upcoming **open house events**.
 
