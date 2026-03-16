@@ -7,8 +7,8 @@ import styled from "styled-components";
 
 import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
-
 import OpenAllButton from "../../components/OpenAllButton";
+import NotificationBanners from "../../components/NotificationBanners";
 
 const Page = styled.div`
   display: flex;
@@ -146,6 +146,7 @@ export default function Template({
       <FullPage>
         <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
         <BodyArea coverSlideshow={images.length ? coverSlideshow : true}>
+          <NotificationBanners currentPage="admissions" />
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <FoldingBody

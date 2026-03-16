@@ -6,6 +6,7 @@ import styled from "styled-components";
 
 import Carousel from "../components/Carousel";
 import Body from "../components/Body";
+import NotificationBanners from "../components/NotificationBanners";
 
 const Page = styled.div`
   display: flex;
@@ -162,6 +163,7 @@ export default function Template({
       <Carousel images={images}></Carousel>
       <FullPage>
         <BodyHolder>
+          <NotificationBanners currentPage="contact" />
           <Body body={html} />
           <Form id="inquiry-form">
             <form
