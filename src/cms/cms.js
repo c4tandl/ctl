@@ -17,7 +17,7 @@ init({
     backend: {
       name: "github",
       repo: "c4tandl/ctl",
-      branch: "main",
+      branch: "popup-dismissable-notification-banner",
     },
     load_config_file: false,
     media_library: {
@@ -80,7 +80,10 @@ init({
               { label: "Home", value: "home" },
               { label: "About", value: "about" },
               { label: "Admissions", value: "admissions" },
-              { label: "How We Teach & Learn", value: "how-we-teach-and-learn" },
+              {
+                label: "How We Teach & Learn",
+                value: "how-we-teach-and-learn",
+              },
               { label: "Reading Resources", value: "reading-resources" },
               { label: "Internships", value: "internships" },
               { label: "Donate", value: "donate" },
