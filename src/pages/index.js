@@ -6,6 +6,7 @@ import styled from "styled-components";
 
 import Carousel from "../components/Carousel";
 import Body from "../components/Body";
+import NotificationBanners from "../components/NotificationBanners";
 
 // svgs
 import {
@@ -106,6 +107,7 @@ export default function Template({
       <Carousel images={images}></Carousel>
       <FullPage>
         <BodyHolder>
+          <NotificationBanners currentPage="home" />
           <Body body={html} />
         </BodyHolder>
         <HideOnSmallscreen>
