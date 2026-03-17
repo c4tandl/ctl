@@ -4,8 +4,8 @@ illustration: happy-acorn
 color: green
 enabled: true
 pages:
-  - all
-date: 2026-03-17T00:00:00.000Z
+  - about
+date: 2026-03-17T22:41:14.122Z
 ---
 
 **Welcome to CTL!**
