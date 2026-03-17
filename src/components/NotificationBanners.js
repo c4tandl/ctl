@@ -94,6 +94,7 @@ const BannerItem = styled.div`
   }
 `;
 
+// SVG color fills — mirrors src/assets/svgs/drawings/index.js
 const IllustrationHolder = styled.div`
   flex-shrink: 0;
   width: 40px;
@@ -102,6 +103,23 @@ const IllustrationHolder = styled.div`
     width: 40px;
     height: 40px;
   }
+
+  /* bird */
+  svg.bird { .st0 { fill: #27aae1; } .st1 { fill: #1c75bc; } .st2 { fill: #ffffff; } }
+  /* sun */
+  svg.sun { .st0 { fill: #fbb040; } .st1 { fill: #ffffff; } }
+  /* ctl-acorn */
+  svg.ctl-acorn { .st0 { fill: #ffffff; } .st1 { fill: #8dc63f; } .st2 { fill: #603913; } .st3 { fill: #8b5e3c; } .st4 { fill: #754c29; } .st5 { fill: #3c2415; } }
+  /* worm-acorn */
+  svg.worm-acorn { .st0 { fill: #ef4136; } .st1 { fill: #1c75bc; } .st2 { fill: #ec008c; } .st3 { fill: #00a79d; } .st4 { fill: #92278f; } .st5 { fill: #2b3990; } .st6 { fill: #f7941d; } .st7 { fill: #009444; } .st8 { fill: #f9ed32; } .st9 { fill: #8dc63f; } .st10 { fill: #ffffff; } .st11 { fill: #39b54a; } }
+  /* happy-acorn */
+  svg.happy-acorn { .st0 { fill: #ffffff; } .st1 { fill: #d7df23; } .st2 { fill: #754c29; } .st3 { fill: #a97c50; } }
+  /* flying-bird */
+  svg.flying-bird { .cls-1 { fill: #fff; } .cls-2 { fill: #2b3990; } .cls-3 { fill: #1c75bc; } .cls-4 { fill: #fbb040; } .cls-5 { fill: #662d91; } }
+  /* acorn-parachute */
+  svg.acorn-parachute { .st0 { fill: #f15a29; } .st1 { fill: #8dc63f; } .st2 { fill: #ffffff; } }
+  /* acorn-cloud */
+  svg.acorn-cloud { .cls-1 { fill: #fff; } .cls-2 { fill: #d6e2f4; } .cls-3 { fill: #603913; } .cls-4 { fill: #a97c50; } }
 `;
 
 const BannerBody = styled.div`
@@ -224,7 +242,7 @@ export default function NotificationBanners({ currentPage = "home" }) {
           <BannerItem key={getDismissKey(banner)} bgColor={bgColor}>
             {IllustrationSVG && (
               <IllustrationHolder>
-                <IllustrationSVG />
+                <IllustrationSVG className={banner.illustration} />
               </IllustrationHolder>
             )}
             <BannerBody dangerouslySetInnerHTML={{ __html: banner.html }} />

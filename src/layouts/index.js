@@ -2,6 +2,7 @@ import * as React from "react";
 import Navigation from "../components/Navigation";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import NotificationModal from "../components/NotificationModal";
 import "./layout.css";
 import styled from "styled-components";
 
@@ -75,6 +76,7 @@ const Layout = ({ children }) => {
         {showNav ? <Navigation /> : null}
       </HeaderLand>
       <BodyStyles headerHeight={headerHeight}>{children}</BodyStyles>
+      <NotificationModal />
       <Footpad>
         <Footer></Footer>
       </Footpad>
