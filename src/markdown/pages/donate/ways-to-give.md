@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2026-03-12T17:53:40.530Z
+date: 2026-03-18T14:27:32.326Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -13,19 +13,13 @@ Please see below for some ways you can give to CTL.
 
 *The Center for Teaching and Learning is a 501(c)(3) nonprofit organization and your contribution is tax deductible. CTL's EIN is 01-0448173.*
 
-
-
 ![By Mail or In Person](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/1_boh9d9.png "By Mail or In Person")
 
 Donations to the Center for Teaching and Learning can be mailed to 119 Cross Point Road, Edgecomb, ME 04556. 
 
-
-
-
-
 ![Online](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/2_hdvy9n.png "Online")
 
-Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=WNBVUWQLJ5G5N&source=url&ssrt=1700588523861) to make a donation online through PayPal. 
+Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=WNBVUWQLJ5G5N&source=url&ssrt=1700588523861) to make a donation online through PayPal. Consider making your donation recurring by clicking the box "Make this a monthly donation."
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="NTKRQX53KUM2S" />
@@ -36,8 +30,6 @@ Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_i
 ![Stock Gifts](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/3_bqawmp.png "Stock Gifts")
 
 Please contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org if you would like to donate stock.  
-
-
 
 ![CTL's Acorns Store](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/4_gp1y3u.png "CTL's Acorns Store")
 
@@ -56,10 +48,6 @@ CTL participates in the bottle and can recycling program CLYNK.
 Pick up CLYNK bags and bag tags at CTL to recycle your bottles and cans at home. Drop off your full and tagged bags at any Hannaford location in the CYLNK bottle room.
 
 You may also donate to CTL through your [online CLYNK account](https://www.clynk.com/login/). From the "Donate" tab of your account, you can direct part or all of your balance to CTL. Search "Center for Teaching and Learning" in the search bar, select our profile, and determine the amount you would like to donate. 
-
-
-
-
 
 ![Boxtops for Education](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/6_vdje3a.png "Boxtops for Education")
 
