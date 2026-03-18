@@ -420,7 +420,7 @@ const ReopenButton = styled.button`
   }
 `;
 
-export default function NotificationModal() {
+export default function NotificationModal({ pathname }) {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
@@ -450,12 +450,11 @@ export default function NotificationModal() {
     [node],
   );
 
+  const currentPage = getPageFromPath(pathname);
   const [dismissed, setDismissed] = useState(true); // default hidden until mount
-  const [currentPage, setCurrentPage] = useState(null);
   const bodyRef = useRef(null);
 
   useEffect(() => {
-    setCurrentPage(getPageFromPath(window.location.pathname));
     if (modal) {
       setDismissed(isDismissed(modal));
     }
@@ -488,8 +487,7 @@ export default function NotificationModal() {
     return () => el.removeEventListener("click", handleClick);
   });
 
-  // Don't render during SSR or before we know the current page
-  if (currentPage === null || !modal || !modal.enabled || !modal.html) {
+  if (!modal || !modal.enabled || !modal.html) {
     return null;
   }
 

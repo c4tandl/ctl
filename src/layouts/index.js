@@ -40,7 +40,7 @@ const HeaderLand = styled.div`
   }
 `;
 
-const Layout = ({ children }) => {
+const Layout = ({ children, location }) => {
   const [headerHeight, setHeaderHeight] = React.useState(0);
   const [showNav, setShowNav] = React.useState(true);
   const headerRef = React.useRef(null);
@@ -76,7 +76,7 @@ const Layout = ({ children }) => {
         {showNav ? <Navigation /> : null}
       </HeaderLand>
       <BodyStyles headerHeight={headerHeight}>{children}</BodyStyles>
-      <NotificationModal />
+      <NotificationModal pathname={location.pathname} />
       <Footpad>
         <Footer></Footer>
       </Footpad>
