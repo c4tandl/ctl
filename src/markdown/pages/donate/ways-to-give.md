@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2026-03-18T14:27:32.326Z
+date: 2026-03-18T14:28:44.472Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -15,7 +15,7 @@ Please see below for some ways you can give to CTL.
 
 ![By Mail or In Person](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/1_boh9d9.png "By Mail or In Person")
 
-Donations to the Center for Teaching and Learning can be mailed to 119 Cross Point Road, Edgecomb, ME 04556. 
+Make a donation to the Center for Teaching and Learning by mail to 119 Cross Point Road, Edgecomb, ME 04556. 
 
 ![Online](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/2_hdvy9n.png "Online")
 
