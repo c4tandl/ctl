@@ -1,6 +1,6 @@
 ---
 path: ways-to-give
-date: 2026-03-18T14:28:44.472Z
+date: 2026-03-18T14:33:58.155Z
 title: Ways to Give
 sort: 1
 nav: donate
@@ -19,7 +19,7 @@ Make a donation to the Center for Teaching and Learning by mail to 119 Cross Poi
 
 ![Online](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/2_hdvy9n.png "Online")
 
-Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=WNBVUWQLJ5G5N&source=url&ssrt=1700588523861) to make a donation online through PayPal. Consider making your donation recurring by clicking the box "Make this a monthly donation."
+Make a donation online through PayPal by [clicking here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=WNBVUWQLJ5G5N&source=url&ssrt=1700588523861). Consider making your donation recurring by clicking the box "Make this a monthly donation."
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="NTKRQX53KUM2S" />
@@ -29,7 +29,7 @@ Please [click here](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_i
 
 ![Stock Gifts](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/3_bqawmp.png "Stock Gifts")
 
-Please contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org if you would like to donate stock.  
+Contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org to make a donation of stock.
 
 ![CTL's Acorns Store](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/4_gp1y3u.png "CTL's Acorns Store")
 
