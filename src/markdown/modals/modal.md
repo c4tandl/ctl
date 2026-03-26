@@ -5,7 +5,8 @@ color: gold
 enabled: true
 pages:
   - about
-date: 2026-03-19T12:54:32.212Z
+  - home
+date: 2026-03-26T13:08:44.278Z
 ---
 **Welcome to CTL!**
 
