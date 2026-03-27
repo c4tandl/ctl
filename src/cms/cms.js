@@ -17,7 +17,7 @@ init({
     backend: {
       name: "github",
       repo: "c4tandl/ctl",
-      branch: "popup-dismissable-notification-banner",
+      branch: "main",
     },
     load_config_file: false,
     media_library: {
