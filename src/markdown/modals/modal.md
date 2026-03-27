@@ -1,11 +1,11 @@
 ---
 title: Modal
-illustration: happy-acorn
+illustration: acorn-cloud
 color: green
 enabled: true
 pages:
   - home
-date: 2026-03-27T18:53:43.783Z
+date: 2026-03-27T18:55:15.064Z
 ---
 The Center for Teaching and Learning will hold its spring Open House on Sunday, April 12, from 3:30-5:00. 
 
