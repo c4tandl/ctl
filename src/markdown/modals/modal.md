@@ -1,15 +1,10 @@
 ---
-title: Example Modal
-illustration: happy-acorn
+title: Modal
+illustration: null
 color: green
-enabled: true
+enabled: false
 pages:
-  - about
   - home
-date: 2026-03-26T13:13:36.343Z
+date: 2026-03-27T03:49:12.626Z
 ---
-**Welcome to CTL!**
-
-Allow us to share some important updates with you. Check out our upcoming open house events and learn more about what makes CTL special.
-
-[Learn more about admissions &rarr;](/admissions-process)
+[](/admissions-process)
