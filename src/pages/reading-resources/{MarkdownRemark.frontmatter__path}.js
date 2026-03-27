@@ -8,6 +8,7 @@ import styled from "styled-components";
 import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
+import NotificationBanners from "../../components/NotificationBanners";
 
 import LinkIcon from "../../assets/svgs/icons/navigate-to.svg";
 
@@ -169,6 +170,7 @@ export default function Template({
       <FullPage>
         <OpenAllButton open={anyOpen} onClick={openOrCloseAll} />
         <BodyArea coverSlideshow={coverSlideshow}>
+          <NotificationBanners currentPage="reading-resources" />
           {edges &&
             edges.map(({ node: { frontmatter, html } }) => (
               <>

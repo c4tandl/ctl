@@ -5,6 +5,7 @@ import styled from "styled-components";
 
 import Carousel from "../../components/Carousel";
 import Body from "../../components/Body";
+import NotificationBanners from "../../components/NotificationBanners";
 
 const Page = styled.div`
   display: flex;
@@ -68,6 +69,7 @@ export default function Template({ data }) {
       {images.length ? <Carousel images={images} /> : null}
       <FullPage>
         <BodyHolder coverSlideshow={!images.length}>
+          <NotificationBanners currentPage="contact" />
           <Body body={html} />
         </BodyHolder>
       </FullPage>

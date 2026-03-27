@@ -2,6 +2,7 @@ import * as React from "react";
 import Navigation from "../components/Navigation";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import NotificationModal from "../components/NotificationModal";
 import "./layout.css";
 import styled from "styled-components";
 
@@ -39,7 +40,7 @@ const HeaderLand = styled.div`
   }
 `;
 
-const Layout = ({ children }) => {
+const Layout = ({ children, location }) => {
   const [headerHeight, setHeaderHeight] = React.useState(0);
   const [showNav, setShowNav] = React.useState(true);
   const headerRef = React.useRef(null);
@@ -75,6 +76,7 @@ const Layout = ({ children }) => {
         {showNav ? <Navigation /> : null}
       </HeaderLand>
       <BodyStyles headerHeight={headerHeight}>{children}</BodyStyles>
+      <NotificationModal pathname={location.pathname} />
       <Footpad>
         <Footer></Footer>
       </Footpad>
