@@ -5,7 +5,7 @@ color: green
 enabled: true
 pages:
   - home
-date: 2026-03-27T19:03:31.142Z
+date: 2026-03-27T20:52:58.402Z
 ---
 The Center for Teaching and Learning will hold its spring Open House on Sunday, April 12, from 3:30-5:00. 
 
