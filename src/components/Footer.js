@@ -4,6 +4,7 @@ import styled from "styled-components";
 import Grass from "../assets/svgs/drawings/grass.svg";
 import Facebook from "../assets/svgs/icons/facebook.svg";
 import Instagram from "../assets/svgs/icons/instagram.svg";
+import Linkedin from "../assets/svgs/icons/linkedin.svg";
 import { CTLAcorn, WormAcorn } from "../assets/svgs/drawings";
 
 const Foot = styled.div`
@@ -33,12 +34,14 @@ const Underground = styled.div`
 const Text = styled.div`
   color: darkgrey;
   @media screen and (max-width: 558px) {
+    width: 80vw;
     display: flex;
     flex-direction: column;
     align-items: center;
   }
   /* Make the font narrower */
   transform: scaleX(0.87);
+  font-size: 18px;
   transform-origin: right;
   margin-left: -55px;
   margin-right: 5px;
@@ -51,11 +54,19 @@ const Phone = styled.span`
 
 const Social = styled.span`
   color: darkgrey;
+  gap: 2px;
+  padding-bottom: 2px;
   svg {
     cursor: pointer;
     &:hover {
       color: #3f3f3f;
     }
+  }
+`;
+
+const Divide = styled.span`
+  @media screen and (max-width: 558px) {
+    visibility: hidden;
   }
 `;
 
@@ -97,24 +108,35 @@ const Footer = () => {
       <Underground>
         <Text>
           <span>
-            119 Cross Point Road | Edgecomb, ME 04556 |
-            <Phone>(207) 882-9706 |</Phone>
+            119 Cross Point Road<Divide> |</Divide>
           </span>
+          <span>
+            Edgecomb, ME 04556<Divide> |</Divide>
+          </span>
+          <Phone>(207) 882-9706</Phone>
+          <Divide> |</Divide>
         </Text>
         <Social>
+          <Linkedin
+            onClick={() => {
+              visitLink("https://www.linkedin.com/school/ctlmekto8");
+            }}
+            height="20px"
+            width="20px"
+          />{" "}
           <Instagram
             onClick={() => {
               visitLink("https://www.instagram.com/ctlkto8/");
             }}
-            height="16px"
-            width="16px"
-          />{" "}
+            height="20px"
+            width="20px"
+          />
           <Facebook
             onClick={() => {
               visitLink("https://www.facebook.com/CTLKto8");
             }}
-            height="16px"
-            width="16px"
+            height="20px"
+            width="20px"
           />
         </Social>
       </Underground>
