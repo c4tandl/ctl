@@ -1,5 +1,5 @@
 ---
-date: 2026-04-13T17:14:27.439Z
+date: 2026-04-13T17:15:37.316Z
 title: Home
 homepage: true
 carousel:
@@ -57,6 +57,6 @@ We seek to teach and influence both a cross-section of children of mid-coastal M
 
 ![]()
 
-<div style="display: grid; place-items:center;"> <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/c_thumb,w_200,g_face/v1772423897/unnamed-3_breagb.png"/> </div>
+
 
 <div style="display: grid; place-items:center;"> <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1772424439/Untitled_6_x_4\_in\_-2_gpwqkh.png"/> </div>
