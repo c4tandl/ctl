@@ -1,11 +1,11 @@
 ---
 path: ways-to-give
-date: 2026-04-15T14:14:22.570Z
+date: 2026-04-15T14:21:15.402Z
 title: Ways to Give
 sort: 1
 nav: donate
 ---
-[](https://drive.google.com/file/d/1wEbXv-guKJzlQ7NdDrEnLqUwHe9Ojoow/view?usp=sharing)Thank you for considering making a donation to the Center for Teaching and Learning. Donations made to CTL are not extra; these donations are budgeted as about 5% of the school's operating budget. The generosity of CTL's friends and supporters is crucial to the school's financial health. 
+[](https://drive.google.com/file/d/1wEbXv-guKJzlQ7NdDrEnLqUwHe9Ojoow/view?usp=sharing)Thank you for considering making a **[donation](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=WNBVUWQLJ5G5N&source=url&ssrt=1700588523861)** to the Center for Teaching and Learning. Donations made to CTL are not extra; these donations are budgeted as about 5% of the school's operating budget. The generosity of CTL's friends and supporters is crucial to the school's financial health. 
 
 Please see below for some ways you can give to CTL. 
 
