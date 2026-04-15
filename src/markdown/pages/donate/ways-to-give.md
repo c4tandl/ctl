@@ -1,13 +1,11 @@
 ---
 path: ways-to-give
-date: 2026-03-18T14:33:58.155Z
+date: 2026-04-15T13:51:39.166Z
 title: Ways to Give
 sort: 1
 nav: donate
 ---
-[A Note From Nancie Atwell About Fundraising](https://drive.google.com/file/d/1wEbXv-guKJzlQ7NdDrEnLqUwHe9Ojoow/view?usp=sharing)
-
-Thank you for considering making a donation to the Center for Teaching and Learning. Donations made to CTL are not extra; these donations are budgeted as about 5% of the school's operating budget. The generosity of CTL's friends and supporters is crucial to the school's financial health. 
+[](https://drive.google.com/file/d/1wEbXv-guKJzlQ7NdDrEnLqUwHe9Ojoow/view?usp=sharing)Thank you for considering making a donation to the Center for Teaching and Learning. Donations made to CTL are not extra; these donations are budgeted as about 5% of the school's operating budget. The generosity of CTL's friends and supporters is crucial to the school's financial health. 
 
 Please see below for some ways you can give to CTL. 
 
@@ -52,5 +50,7 @@ You may also donate to CTL through your [online CLYNK account](https://www.clynk
 ![Boxtops for Education](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1773337022/6_vdje3a.png "Boxtops for Education")
 
 For over 25 years, Box Tops for Education has given families an easy way to earn cash for schools. Box Tops is now a digital program. Download the [Box Tops app](https://www.boxtops4education.com/s/get-the-app) to scan your receipt (either paper or digital) and earn for CTL with every Box Tops product you buy.
+
+[A Note From Nancie Atwell About Fundraising](https://drive.google.com/file/d/1wEbXv-guKJzlQ7NdDrEnLqUwHe9Ojoow/view?usp=sharing)
 
 *Please contact Louise Monroe, CTL's Finance and Development Director, at louise@c-t-l.org with any questions or to learn more about ways to give to CTL.*
