@@ -11,6 +11,7 @@ export default async (request) => {
   const cloudinaryResponse = await fetch(cloudinaryUrl.toString(), {
     headers: {
       Referer: "https://c-t-l.org/",
+      "User-Agent": "ctl-cloudinary-proxy",
     },
   });
 
