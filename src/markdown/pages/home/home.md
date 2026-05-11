@@ -1,5 +1,5 @@
 ---
-date: 2026-04-26T03:20:42.897Z
+date: 2026-05-11T18:14:42.984Z
 title: Home
 homepage: true
 carousel:
@@ -45,6 +45,16 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738636993/image-33_lthc5v.jpg
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738637025/unnamed-870_takcgp.jpg
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18149022399"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-18149022399');
+</script>
+
 ![]()
 
 # Our Mission
