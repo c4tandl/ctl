@@ -1,6 +1,6 @@
 ---
 path: enrichment
-date: 2026-02-24T15:12:50.643Z
+date: 2026-05-12T14:45:44.228Z
 title: Enrichment
 sort: 5
 nav: how-we-teach-and-learn
@@ -48,7 +48,7 @@ carousel:
 * a commitment to community service
 
 <div style="display: grid; place-items:center;">
-    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738561254/unnamed-1028_l3yqk6.jpg"/>
+    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1778597109/IMG_4993_lfbr0k.jpg"/>
 </div>
 
 * kid-friendly traditions and rituals that create a love of school and a sense of belonging
