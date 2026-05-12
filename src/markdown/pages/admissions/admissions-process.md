@@ -1,6 +1,6 @@
 ---
 path: admissions-process
-date: 2026-03-03T19:07:18.564Z
+date: 2026-05-12T14:53:55.812Z
 title: Admissions Process
 sort: 1
 nav: admissions
@@ -30,7 +30,7 @@ carousel:
 ---
 CTL’s Admissions Process:
 
-A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open House or Open Tour. CTL's Spring Open House will be held on Sunday, April 12, from 3:30-5:00. Tours are held from 8:15-10:00. Please RSVP to sarah@c-t-l.org or call the office at 207-882-9706. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school.
+A. **Deciding if CTL is a good fit**: Learn about the school by attending an Open House or Open Tour. Contact Head of School Katy Inman (katy@c-t-l.org) to schedule a tour. Ask a specific question by using our [inquiry form](/contact/#inquiry-form) or calling the school. 
 
 B. **Applying**: Once you know you would like to apply, do so by:
 
@@ -41,8 +41,8 @@ B. **Applying**: Once you know you would like to apply, do so by:
 
 Families will be notified of admissions decisions on or before March 10. Applications received after March 10 are reviewed on a rolling basis. 
 
-If you are ready to move forward with an application and join CTL’s waitlist, please apply using the [TADS enrollment system](https://mytads.com/a/ctl). Contact the office with any questions.
+If you are ready to move forward with an application, please apply using the [TADS enrollment system](https://mytads.com/a/ctl). Contact the office with any questions.
 
-**Tuition — $13,900 in 2026-27, grades Pre-K through grade 8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance. Awards are based on family income from  the previous year. Payment plans are available, with single pay, two payment, and ten payment options.
+**Tuition — $13,900 in 2026-27, grades Pre-K through grade 8**. We are committed to making a CTL education affordable for as many students as possible. The tuition fee, which is kept as low as possible, is much less than that of comparable Maine independent schools. In addition, families can apply for tuition assistance. Awards are based on family income from the previous year. Payment plans are available, with single pay, two payment, and ten payment options.
 
 Each year, CTL holds open houses in October and April. Please RSVP before attending when possible. Once families have completed an admissions application, they can schedule a tour and visit to Morning Meeting and speak with Katy afterward.
