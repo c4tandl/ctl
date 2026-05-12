@@ -1,6 +1,6 @@
 ---
 path: enrichment
-date: 2026-05-12T14:45:44.228Z
+date: 2026-05-12T14:46:43.851Z
 title: Enrichment
 sort: 5
 nav: how-we-teach-and-learn
@@ -56,10 +56,6 @@ carousel:
 
 <div style="display: grid; place-items:center;">
     <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738561378/IMG-0786_n6gjv6.jpg"/>
-</div>
-
-<div style="display: grid; place-items:center;">
-    <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738561432/IMG_0085_rtdzo7.jpg"/>
 </div>
 
 <div style="display: grid; place-items:center;">
