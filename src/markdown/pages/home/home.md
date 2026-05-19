@@ -1,5 +1,5 @@
 ---
-date: 2026-05-11T18:14:42.984Z
+date: 2026-05-19T17:38:07.507Z
 title: Home
 homepage: true
 carousel:
@@ -46,7 +46,9 @@ carousel:
     - https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1738637025/unnamed-870_takcgp.jpg
 ---
 <!-- Google tag (gtag.js) -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18149022399"></script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -63,8 +65,8 @@ carousel:
 
 The Center for Teaching and Learning is a Pre-K--8 demonstration school dedicated to the development and dissemination of authentic, joyful methods for teaching across the curriculum.
 
-We seek to teach and influence both a cross-section of children of mid-coastal Maine and, through our intern program, speeches, and publications, classroom teachers throughout the U.S.
+We seek to teach and influence both a cross-section of children of midcoast Maine and, through our intern program, speeches, and publications, classroom teachers throughout the U.S.
 
 <div style="display: grid; place-items:center;"> <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1776184407/Your_paragraph_text_300_x_100_px_aashhd.png"/> </div>
 
-<div style="display: grid; place-items:center;"> <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1772424439/Untitled_6_x_4_in_-2_gpwqkh.png"/> </div>
+<div style="display: grid; place-items:center;"> <img src="https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1772424439/Untitled_6_x_4\_in\_-2_gpwqkh.png"/> </div>
