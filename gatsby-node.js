@@ -45,6 +45,14 @@ exports.onCreatePage = ({ page, actions, getNodesByType }) => {
 
   const nav = node.frontmatter.nav;
 
+  // The contact form lives at /contact (served by pages/contact.js using the
+  // contactpage:true markdown). The {path} template also generates a duplicate
+  // at /contact/<path> for the same markdown — drop it.
+  if (node.frontmatter.contactpage) {
+    deletePage(page);
+    return;
+  }
+
   if (section === null) {
     // Top-level /<slug> — every section page already lives at /<nav>/<slug>; drop the dup.
     if (nav) deletePage(page);
