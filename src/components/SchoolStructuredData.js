@@ -24,6 +24,11 @@ const schema = {
     postalCode: "04556",
     addressCountry: "US",
   },
+  geo: {
+    type: "GeoCoordinates",
+    latitude: 43.979503,
+    longitude: -69.649212,
+  },
   areaServed: [
     { "@type": "AdministrativeArea", name: "Lincoln County, Maine" },
     { "@type": "AdministrativeArea", name: "Midcoast Maine" },
