@@ -199,6 +199,13 @@ init({
             label: "Title",
           },
           {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
+          },
+          {
             widget: "object",
             type: "carousel",
             name: "carousel",
@@ -236,6 +243,13 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
           },
           {
             widget: "object",
@@ -277,6 +291,13 @@ init({
             label: "Title",
           },
           {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
+          },
+          {
             widget: "object",
             type: "carousel",
             name: "carousel",
@@ -314,6 +335,13 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
           },
           {
             widget: "object",
@@ -355,6 +383,13 @@ init({
             label: "Title",
           },
           {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
+          },
+          {
             widget: "object",
             type: "carousel",
             name: "carousel",
@@ -392,6 +427,13 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
           },
           {
             widget: "object",
@@ -433,6 +475,13 @@ init({
             label: "Title",
           },
           {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
+          },
+          {
             widget: "object",
             type: "carousel",
             name: "carousel",
@@ -470,6 +519,13 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
           },
           {
             widget: "object",
@@ -519,6 +575,13 @@ init({
             label: "Title",
           },
           {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
+          },
+          {
             widget: "markdown",
             label: "Body",
             name: "body",
@@ -547,6 +610,13 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
           },
           {
             name: "categories",
@@ -595,6 +665,13 @@ init({
             label: "Title",
           },
           {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
+          },
+          {
             widget: "markdown",
             label: "Body",
             name: "body",
@@ -610,6 +687,13 @@ init({
           {
             name: "title",
             label: "Title",
+          },
+          {
+            name: "description",
+            label: "SEO Description",
+            widget: "text",
+            required: false,
+            hint: "1–2 sentences shown in Google search results and social shares. ~155 characters max.",
           },
           {
             widget: "markdown",

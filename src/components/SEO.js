@@ -1,24 +1,52 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 
-export const SEO = ({ title, description, image, pathname }) => {
+const SITE_URL = "https://c-t-l.org";
+const SITE_NAME = "Center for Teaching & Learning";
+const LOCATION = "Edgecomb, Maine";
+const DEFAULT_DESCRIPTION =
+  "Center for Teaching & Learning is a Pre-K–8 independent demonstration school in Edgecomb, Maine, dedicated to joyful, authentic methods of teaching.";
+const DEFAULT_IMAGE = `${SITE_URL}/icons/icon-512x512.png`;
+
+const formatTitle = (title, isHomePage) => {
+  if (isHomePage) {
+    return `${SITE_NAME} — Independent School in ${LOCATION}`;
+  }
+  if (!title) return `${SITE_NAME} — ${LOCATION}`;
+  return `${title} | ${SITE_NAME} — ${LOCATION}`;
+};
+
+export const SEO = ({
+  title,
+  description,
+  image,
+  pathname = "/",
+  isHomePage = false,
+}) => {
+  const fullTitle = formatTitle(title, isHomePage);
+  const metaDescription = description || DEFAULT_DESCRIPTION;
+  const metaImage = image || DEFAULT_IMAGE;
+  const canonical = `${SITE_URL}${pathname.startsWith("/") ? pathname : `/${pathname}`}`;
+
   return (
     <Helmet htmlAttributes={{ lang: "en" }}>
-      <title>{title}</title>
-      <meta name={description} />
-      <meta property="og:title" content={title} />
-      <meta property="og:description" content={description} />
-      <meta property="og:image" content={image} />
-      <meta property="og:url" content={`https://c-t-l.org/${pathname}`} />
+      <title>{fullTitle}</title>
+      <meta name="description" content={metaDescription} />
+      <link rel="canonical" href={canonical} />
+
+      <meta property="og:title" content={fullTitle} />
+      <meta property="og:description" content={metaDescription} />
+      <meta property="og:image" content={metaImage} />
+      <meta property="og:url" content={canonical} />
       <meta property="og:type" content="website" />
-      <meta
-        name="twitter:card"
-        content="Center for Teaching & Learning - Edgecomb, ME"
-      />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={description} />
-      <meta name="twitter:image" content={image} />
-      <link rel="canonical" />
+      <meta property="og:site_name" content={SITE_NAME} />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={fullTitle} />
+      <meta name="twitter:description" content={metaDescription} />
+      <meta name="twitter:image" content={metaImage} />
     </Helmet>
   );
 };
+
+export default SEO;

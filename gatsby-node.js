@@ -6,6 +6,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       color: String
       enabled: Boolean
       pages: [String]
+      description: String
     }
   `);
 };

@@ -1,9 +1,9 @@
 import React, { useRef } from "react";
 import { graphql } from "gatsby";
 
-import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
+import SEO from "../components/SEO";
 import Carousel from "../components/Carousel";
 import Body from "../components/Body";
 import NotificationBanners from "../components/NotificationBanners";
@@ -124,6 +124,7 @@ export default function Template({
   const {
     title,
     date,
+    description,
     carousel: { images },
   } = frontmatter;
   const messageRef = useRef(null);
@@ -157,9 +158,7 @@ export default function Template({
 
   return (
     <Page>
-      <Helmet>
-        <title>CTL{title}</title>
-      </Helmet>
+      <SEO title={title} description={description} pathname="/contact" />
       <Carousel images={images}></Carousel>
       <FullPage>
         <BodyHolder>
@@ -281,6 +280,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        description
         carousel {
           images
         }
