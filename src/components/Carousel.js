@@ -312,6 +312,7 @@ const Carousel = (props) => {
           <Slide
             key={`${slide}-${index}`}
             src={optimizeCloudinaryUrl(slide)}
+            alt="Center for Teaching & Learning, Edgecomb Maine — student life photo"
             onError={() => handleImageError(slide)}
           />
         ))}
