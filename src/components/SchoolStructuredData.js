@@ -25,7 +25,7 @@ const schema = {
     addressCountry: "US",
   },
   geo: {
-    type: "GeoCoordinates",
+    "@type": "GeoCoordinates",
     latitude: 43.979503,
     longitude: -69.649212,
   },
