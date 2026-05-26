@@ -1,5 +1,5 @@
 ---
-date: 2026-05-19T17:38:07.507Z
+date: 2026-05-26T01:08:19.511Z
 title: Home
 homepage: true
 carousel:
@@ -56,10 +56,6 @@ carousel:
 
   gtag('config', 'AW-18149022399');
 </script>
-
-![]()
-
-The Center for Teaching and Learning (CTL) is an independent Pre-K–8 demonstration school in Edgecomb, Maine, serving families in Lincoln County and the midcoast region.
 
 # Our Mission
 
