@@ -1,13 +1,19 @@
 import React from "react";
 import { graphql } from "gatsby";
 import BlogList from "../components/BlogList";
+import SEO from "../components/SEO";
 
 const MiddleSchoolBookBlog = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  return <BlogList allowSearch={true} posts={edges} />;
+  return (
+    <>
+      <SEO title="Middle School Book Blog" pathname="/middle-school-book-blog" />
+      <BlogList allowSearch={true} posts={edges} />
+    </>
+  );
 };
 
 export const middleSchoolBookBlogQuery = graphql`

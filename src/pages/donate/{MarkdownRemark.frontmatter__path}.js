@@ -2,9 +2,9 @@ import React, { useState, useEffect, useMemo } from "react";
 import { graphql } from "gatsby";
 
 import { useLocation } from "@reach/router";
-import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
+import SEO from "../../components/SEO";
 import Carousel from "../../components/Carousel";
 import FoldingBody from "../../components/FoldingBody";
 import OpenAllButton from "../../components/OpenAllButton";
@@ -87,6 +87,10 @@ export default function Template({
   const path = useLocation();
   const { allMarkdownRemark } = data; // data.markdownRemark holds your post data
   const { edges } = allMarkdownRemark;
+  const currentSection = path.pathname.split("/")[2];
+  const currentEdge = edges.find(
+    ({ node }) => node.frontmatter.path === currentSection
+  );
   let latestDate = 0;
   const images = edges.reduce((acc, curr) => {
     const { frontmatter } = curr.node;
@@ -133,9 +137,11 @@ export default function Template({
   }, [sectionMap]);
   return (
     <Page>
-      <Helmet>
-        <title>CTL - Donate</title>
-      </Helmet>
+      <SEO
+        title={currentEdge?.node.frontmatter.title || "Donate"}
+        description={currentEdge?.node.frontmatter.description}
+        pathname={path.pathname}
+      />
       {images.length ? (
         <Carousel
           handleToggle={handleToggleShowSlideshow}
@@ -177,6 +183,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             path
             title
+            description
             carousel {
               images
             }

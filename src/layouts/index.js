@@ -3,6 +3,7 @@ import Navigation from "../components/Navigation";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import NotificationModal from "../components/NotificationModal";
+import SchoolStructuredData from "../components/SchoolStructuredData";
 import "./layout.css";
 import styled from "styled-components";
 
@@ -71,6 +72,7 @@ const Layout = ({ children, location }) => {
 
   return (
     <PageStyles>
+      <SchoolStructuredData />
       <HeaderLand ref={headerRef}>
         <Header showNav={showNav} setShowNav={setShowNav} />
         {showNav ? <Navigation /> : null}

@@ -2,6 +2,7 @@ import React from "react";
 import { graphql, Link } from "gatsby";
 import { authorsMap, categoriesMap } from "../assets/blogmaps";
 import styled from "styled-components";
+import SEO from "../components/SEO";
 
 const MainContainer = styled.div`
   margin: 0 5vw;
@@ -25,6 +26,11 @@ export default function Template({
   const { frontmatter, html } = markdownRemark;
   return (
     <MainContainer>
+      <SEO
+        title={frontmatter.title}
+        description={frontmatter.description}
+        pathname={frontmatter.slug}
+      />
       <div>
         <Link to={`/${frontmatter.blog}`}>All Posts</Link>
       </div>
@@ -60,6 +66,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        description
         blog
         categories
         authors

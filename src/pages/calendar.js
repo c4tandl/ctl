@@ -1,5 +1,6 @@
 import * as React from "react";
 import styled from "styled-components";
+import SEO from "../components/SEO";
 
 const CalendarContainer = styled.div`
   --scrollbar-width: calc(100vw - 100%);
@@ -15,6 +16,7 @@ const Calendar = () => {
   const calRef = React.useRef(null);
   return (
     <CalendarContainer ref={calRef}>
+      <SEO title="Calendar" pathname="/calendar" />
       <iframe
         src="https://calendar.google.com/calendar/embed?src=ctlkto8%40gmail.com&ctz=America%2FNew_York"
         style={{ border: "none" }}

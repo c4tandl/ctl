@@ -1,13 +1,19 @@
 import React from "react";
 import { graphql } from "gatsby";
 import BlogListSimple from "../components/BlogListSimple";
+import SEO from "../components/SEO";
 
 const HeadOfSchoolBlog = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  return <BlogListSimple posts={edges} allowSearch />;
+  return (
+    <>
+      <SEO title="Head of School Blog" pathname="/head-of-school-blog" />
+      <BlogListSimple posts={edges} allowSearch />
+    </>
+  );
 };
 
 export const headOfSchoolBlogQuery = graphql`
