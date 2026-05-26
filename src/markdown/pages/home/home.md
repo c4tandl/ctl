@@ -1,5 +1,5 @@
 ---
-date: 2026-05-19T17:38:07.507Z
+date: 2026-05-26T01:06:48.175Z
 title: Home
 homepage: true
 carousel:
@@ -56,8 +56,6 @@ carousel:
 
   gtag('config', 'AW-18149022399');
 </script>
-
-![]()
 
 # Our Mission
 
