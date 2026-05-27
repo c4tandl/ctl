@@ -7,6 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 This is the Center for Teaching & Learning (CTL) website, a Gatsby-based static site with Decap CMS (formerly Netlify CMS) for content management and Cloudinary for media assets.
 
 **Tech Stack:**
+
 - Gatsby 5 (SSR/SSG framework)
 - React 18 with styled-components
 - Decap CMS (git-based CMS)
@@ -38,6 +39,7 @@ npm clean
 ### Content Management Flow
 
 The site uses **Decap CMS with manual initialization** (`src/cms/cms.js`):
+
 - CMS config is defined in JavaScript, not `config.yml`
 - Backend: GitHub (repo: `c4tandl/ctl`, branch: `main`)
 - Content is stored as markdown files in `src/markdown/`
@@ -61,6 +63,7 @@ Gatsby uses **file-system routing** with dynamic templates:
 **Special Case - Contact Section:**
 
 The Contact section uses a **two-tier routing architecture** that differs from other sections:
+
 - **`/contact`** - Special page with contact form (`src/pages/contact.js`)
   - Uses custom query with `contactpage: true` flag
   - Preserves legacy form functionality
@@ -91,12 +94,14 @@ src/markdown/
 ```
 
 **Important:** When creating new blog posts via CMS:
+
 - Head of School Blog: slug must start with `/head-of-school-blog/`
 - Middle School Book Blog: slug must start with `/middle-school-book-blog/`
 
 ### Layout System
 
 The site uses **`gatsby-plugin-layout`** with a persistent layout (`src/layouts/index.js`):
+
 - Fixed header with navigation (on desktop, relative on mobile)
 - Header dynamically calculates height and adjusts body margin
 - Responsive breakpoint at 900px - nav collapses to mobile menu below this
@@ -105,11 +110,13 @@ The site uses **`gatsby-plugin-layout`** with a persistent layout (`src/layouts/
 ### Menu Components
 
 Each main section has its own menu component in `src/components/menus/`:
+
 - `AboutMenu.js`, `HwtalMenu.js`, `AdmissionsMenu.js`, `ContactMenu.js`, etc.
 - Menus export a `<Menu>` wrapper with nested `<MenuOption>` items
 - Current section is highlighted in green (`forestgreen` color)
 
 **Menu Component Pattern:**
+
 - Use `<Menu title="Section Name" link="/section-path">` as the wrapper
 - First menu item can be hardcoded (useful for special pages like contact forms)
 - Additional items loaded via StaticQuery filtering on `frontmatter.nav` field
@@ -119,11 +126,13 @@ Each main section has its own menu component in `src/components/menus/`:
 ### CMS Collections
 
 The Decap CMS configuration defines 11 collections:
+
 - 8 page collections (Home, About, Admissions, Contact, etc.) - `create: false` (edit only)
 - 2 blog collections (Head of School, Book Blog) - `create: true` (can add new posts)
 - 2 "About" collections for blog introductory pages
 
 All collections support:
+
 - Carousels (list of images)
 - Markdown body with image support
 - Cloudinary media library integration
@@ -134,6 +143,7 @@ Multi-page collections (About, Admissions, Donate, Contact, etc.) use a hidden `
 ### Component Architecture
 
 **Key Components:**
+
 - `Carousel.js` - Infinite-scrolling image slideshow for page headers (see details below)
 - `Body.js` / `FoldingBody.js` - Markdown content rendering (FoldingBody has collapsible sections)
 - `BlogList.js` / `BlogListSimple.js` - Blog post listing components
@@ -165,6 +175,7 @@ The carousel is a custom infinite-scrolling image slideshow with non-trivial ali
 ### GraphQL Queries
 
 Pages use GraphQL to query markdown content:
+
 - `markdownRemark` node with `id` parameter
 - Frontmatter fields: `path`, `slug`, `title`, `date`, `carousel`, `blog`, `categories`, `authors`
 - HTML is rendered from markdown body
@@ -180,6 +191,7 @@ Pages use GraphQL to query markdown content:
 ## Python Scripts
 
 The `scripts/` directory contains utilities for blog data management:
+
 - `import_blog.py` - Import blog posts from external sources
 - `fix_blog.py` - Fix blog post formatting issues
 - `make_maps.py` - Generate blog author and category maps
@@ -188,13 +200,22 @@ The `scripts/` directory contains utilities for blog data management:
 ## Deployment
 
 The site is configured for deployment on platforms that support Gatsby:
+
 - Build command: `gatsby build`
 - Publish directory: `public`
 - Requires environment variable: `GATSBY_CLOUDINARY_API_KEY`
 
+**Two-deploy setup (Netlify):** The repo deploys to two Netlify sites simultaneously:
+
+- **Canonical:** `c-t-l.org` — hosted on the admin's Netlify account, owns the DNS.
+- **Secondary:** `c-t-l.netlify.app` — a separate Netlify site (different account) that builds the same repo. Its build command is overridden **in the Netlify UI** (not in `netlify.toml`) to write a `_redirects` file that 301s all traffic to `c-t-l.org`. This keeps the redirect scoped to that one deploy without committing it to the repo. If you ever need to verify or modify this, it lives in the secondary site's Build & deploy settings, not anywhere in the codebase.
+
+**CMS auth (Decap → GitHub OAuth via Netlify proxy):** Each Netlify site has its own GitHub OAuth App credentials installed under Access & security → OAuth. The OAuth callback for all Netlify-proxied auth is `https://api.netlify.com/auth/done`. Access to the CMS is gated by **write access to the `c4tandl/ctl` GitHub repo** — Decap authenticates the user as themselves, then uses their personal token to read/write the repo. Add/remove CMS editors by managing repo access on GitHub; there is no separate user list in Decap.
+
 ## Working with CMS Content
 
 When editing CMS content:
+
 1. All markdown files have frontmatter with required fields (varies by collection)
 2. The CMS automatically adds/updates the `date` field on save
 3. Image paths use Cloudinary URLs (configured in CMS media library)
@@ -204,12 +225,14 @@ When editing CMS content:
 ## Common Patterns
 
 **Adding a new page section:**
+
 1. Create markdown file in appropriate `src/markdown/pages/` subdirectory
 2. Add `path` to frontmatter (e.g., `/about/new-section`)
 3. Optionally add to navigation menu component
 4. Update CMS collection in `src/cms/cms.js` if needed
 
 **Adding a new menu:**
+
 1. Create new menu component in `src/components/menus/`
 2. Define GraphQL query filtering on `frontmatter.nav` field
 3. Use `<Menu>` wrapper with `<MenuOption>` items
@@ -217,6 +240,7 @@ When editing CMS content:
 5. Ensure markdown files have matching `nav` field in frontmatter
 
 **Converting a simple link to a dropdown menu:**
+
 1. Update existing markdown file(s) to include `nav`, `path`, and `sort` fields
 2. Add hidden `path` field to CMS collection configuration in `src/cms/cms.js`
 3. Create menu component following the pattern in existing menu files
