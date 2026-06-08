@@ -1,10 +1,26 @@
 ---
 path: press
-date: 2026-03-10T18:21:32.402Z
+date: 2026-06-08T16:21:19.884Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
+6/2/2026 - [CTL Students Win Poetry Awards in Annual Contest](https://www.boothbayregister.com/article/ctl-students-win-poetry-awards-annual-contest/270808)
+
+5/22/2026 - [CTL Students Wrap Up Swim Partnership with Boothbay Y](https://www.boothbayregister.com/article/ctl-students-wrap-swim-partnership-boothbay-y/270465)
+
+5/18/2026 -[](https://www.boothbayregister.com/article/ctl-students-wrap-swim-partnership-boothbay-y/270465) [](https://www.boothbayregister.com/article/ctl-students-wrap-swim-partnership-boothbay-y/270465)[Center for Teaching and Learning Celebrates 35 Years](https://www.boothbayregister.com/article/center-teaching-and-learning-celebrates-35-years/270284)
+
+5/11/2026 - [CTL Educators Speak at New England Conference](https://www.boothbayregister.com/article/ctl-educators-speak-new-england-conference/270030) 
+
+5/1/2026 - [](https://www.boothbayregister.com/article/ctl-educators-speak-new-england-conference/270030)[CTL Students Perform *Puffs*](https://www.boothbayregister.com/article/ctl-students-perform-puffs/269621)
+
+4/17/26 - [CTL Hosts Weeklong Professional Development Sessions](https://www.boothbayregister.com/article/ctl-hosts-weeklong-professional-development-sessions/269023)
+
+3/23/26 - [CTL MathCounts Team Participates in State Competition](https://www.wiscassetnewspaper.com/article/ctl-mathcounts-team-participates-state-competition/268323)
+
+3/17/26 - [CTL Students Wrap Up Cross Country Skiing with Hearty Roots](https://www.boothbayregister.com/article/ctl-students-wrap-cross-country-skiing-hearty-roots/268131)
+
 3/2/26 - [CTL Student Honored by Scholastic Writing Awards](https://www.boothbayregister.com/article/ctl-student-honored-scholastic-writing-awards/267689)
 
 2/13/26 - [CTL Student Is the Telling Room's Lincoln County Winner in Writing](https://www.boothbayregister.com/article/ctl-student-telling-room-s-lincoln-county-winner-writing/267240)
