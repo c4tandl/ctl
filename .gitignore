@@ -5,3 +5,6 @@ public/
 .env
 CLAUDE.md
 .claude
+
+# Local Search Console / analytics exports
+seo-data/

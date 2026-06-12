@@ -10,3 +10,16 @@
 /sw.js
   Cache-Control: public, max-age=0, must-revalidate
 
+# Security headers — applied to every response.
+# NOTE: Content-Security-Policy is intentionally omitted. styled-components injects
+# inline styles and Decap CMS at /admin loads from a CDN and talks to GitHub +
+# Cloudinary, so a strict CSP breaks things if added blind. Add it later via
+# Content-Security-Policy-Report-Only first, tune the allowlist against both the
+# site and /admin, then promote it to the enforcing header.
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=63072000; includeSubDomains
+
