@@ -11,15 +11,21 @@
   Cache-Control: public, max-age=0, must-revalidate
 
 # Security headers — applied to every response.
+# NOTE: X-Frame-Options (DENY) and Referrer-Policy (same-origin) are ALSO set by a
+# rule in the Netlify dashboard (Site config → Headers), which overrides this file
+# for those two names. The values below are kept in sync with that rule so the repo
+# reflects what's actually served. If the dashboard rule is removed, this file
+# becomes the sole source of truth.
+#
 # NOTE: Content-Security-Policy is intentionally omitted. styled-components injects
 # inline styles and Decap CMS at /admin loads from a CDN and talks to GitHub +
 # Cloudinary, so a strict CSP breaks things if added blind. Add it later via
 # Content-Security-Policy-Report-Only first, tune the allowlist against both the
 # site and /admin, then promote it to the enforcing header.
 /*
-  X-Frame-Options: SAMEORIGIN
+  X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
+  Referrer-Policy: same-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Strict-Transport-Security: max-age=63072000; includeSubDomains
 
