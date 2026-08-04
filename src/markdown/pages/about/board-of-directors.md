@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2026-01-29T20:57:05.439Z
+date: 2026-08-04T15:11:24.622Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -12,25 +12,24 @@ The Center for Teaching and Learning is a non-profit, independent school governe
 **Pia Neilson**, Co-President\
 Originally from Copenhagen, Denmark, Pia moved in 1983 to the US and in 2000 to Arrowsic, Maine, where she lives with her husband Will. She is a retired entrepreneur and also a Commissioner of the Bath Housing Authority. Her youngest, Amelia, graduated from CTL in 2009 after nine wonderful years. Coming back to CTL after a decade away, Pia is impressed and gratified to see the same joyful engagement on the part of today’s students, faculty, and parents that she experienced twenty years prior, and she is delighted to help sustain that experience for generations of children and parents to come. 
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913161/faculty%20and%20staff%20photos/Josh_Manahan_Bio_Photo_xu8jad.jpg)
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1785856250/Aura_Photo_zrachp_eyc6yz.jpg)
 
-**Joshua Manahan**, Co-President\
-Josh is parent to Kelly, who began his CTL career as a kindergartener in 2016. Josh has lived in Alna with his wife Abby since 2004. Although spending much of his time building and selling painting supports as well as cutting boards for midcoast artists through The nEAT Kitchen, the practice of reading and writing remains an important outlet for him. Josh regularly regrets being too embarrassed to ask for help with math when he was a student. He is honored to be able to share his perspective as CTL strives to honor and learn from its past, while charting an exciting future.
+
+
+**Aura Doak**, Co-President[](http://c-t-l.org/rob-2/)\
+Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1768494248/IMG_5587_og7hmd.jpg)
 
 **Peter Branch**, Treasurer\
 Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been coming to Maine every summer of his life to help his family run Linekin Bay Resort which they owned from 1909 until 2015. He and his wife, Paula, now live in Boothbay year round. In his winter life, he was the head of independent pre-k through grade 12 schools for 37 years. These schools included the Dalton School in New York City, Woodmere Academy in Woodmere, Long Island, Holland Hall School in Tulsa, Oklahoma, Georgetown Day School in Washington, D.C., and the Rocky Hill School in East Greenwich, Rhode Island. Peter also did a 2 year stint as Executive Director of The Washington Ballet. During his educational career he spoke at numerous conferences and served on association boards, including the board of the National Association of Episcopal Schools, of which he was president. Peter is honored to have been a member of the board of the Center for Teaching and Learning since 2022. He has long admired CTL for the school's leadership in elementary and middle school education.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913219/faculty%20and%20staff%20photos/Maureen_Barbieri_Bio_Photo_incf2b.jpg)
+![]()
 
-**Maureen Barbieri**\
-Maureen was a middle school teacher whose work was dramatically influenced by Nancie Atwell’s first book *In the Middle* and by Nancie’s subsequent articles, books, and presentations. Nancie invited her to CTL in its early days, and many times over the years, so she developed a deep appreciation for the pedagogy, school culture, and commitment to excellence the whole school community embodies. A faculty member at NYU and UNH for many years, she also worked for Stenhouse Publishers, editing books by and for teachers. She lives in Kittery, ME and is grateful to be a part of the CTL family.
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913161/faculty%20and%20staff%20photos/Josh_Manahan_Bio_Photo_xu8jad.jpg)
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1758202330/Aura_Photo_zrachp.jpg)
-
-**Aura Doak**[](http://c-t-l.org/rob-2/)\
-Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families.
+**Joshua Manahan**\
+Josh is parent to Kelly, who began his CTL career as a kindergartener in 2016. Josh has lived in Alna with his wife Abby since 2004. Although spending much of his time building and selling painting supports as well as cutting boards for midcoast artists through The nEAT Kitchen, the practice of reading and writing remains an important outlet for him. Josh regularly regrets being too embarrassed to ask for help with math when he was a student. He is honored to be able to share his perspective as CTL strives to honor and learn from its past, while charting an exciting future.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1675443244/faculty%20and%20staff%20photos/katy.papagiannis.2023_dbc0j7.jpg)
 
