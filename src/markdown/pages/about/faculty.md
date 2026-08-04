@@ -1,6 +1,6 @@
 ---
 path: faculty
-date: 2026-02-25T13:35:38.401Z
+date: 2026-08-04T15:17:06.956Z
 title: Faculty
 sort: 4
 nav: about
@@ -15,7 +15,7 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732132917/11252-CTL_240925_rjxk96.jpg)
 
-**Corbin Lichtinger** and his family recently moved to Wiscasset from Portland, Oregon, where he taught first grade or a 1-2 class for seven years. Corbin joined CTL in 2023 as our Grade 1-2 teacher. Corbin has a BA in Political Science and Environmental Studies from Allegheny College and his Master of Arts in Teaching from Lewis and Clark College. His interests include gardening and healthy food in schools. 
+**Corbin Lichtinger** and his family moved to Wiscasset from Portland, Oregon, where he taught first grade or a 1-2 class for seven years. Corbin joined CTL in 2023 as our Grade 1-2 teacher. Corbin has a BA in Political Science and Environmental Studies from Allegheny College and his Master of Arts in Teaching from Lewis and Clark College. His interests include gardening and healthy food in schools. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665868364/faculty%20and%20staff%20photos/Jill.faculty_elq3dt.jpg)
 
@@ -23,19 +23,21 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/angela.faculty_ikpbgv.jpg)
 
-**Angela Lathem-Ballard** is CTL’s teacher of 5-6 Humanities and the school’s Arts Specialist, teaching Pre-K--8 Visual Art and 5-8 Drama. Angela has taught kindergarten and every grade from 3 through 8 in her 18 years of experience in the classroom, but she loves 5-6 the best. She attended the University of Illinois for her BFA in Theater and she holds a Masters of Arts in Education, Curriculum, and Instruction from Bradley University, also in Illinois, her home state. Before becoming a teacher, she spent several years working in outreach education and as a Y.E.S. facilitator at Walt Disney World. She has studied at The Globe Theatre in London, and been a Fellow with the San Diego Area Writing Project. People here at CTL first met Angela in 2012, when she traveled to Maine to take part in our intern program, learning from Nancie and Glenn. Angela loves teaching Shakespeare through performance. She has taught at La Jolla Country Day, San Diego Cooperative Charter, and The Children’s Primary School prior to CTL. In addition, Angela has served as a social-services volunteer in Ghana, Peru, Russia, and China. 
+**Angela Lathem-Ballard** is CTL’s teacher of 5-6 Humanities and the school’s Arts Specialist since 2022, teaching Pre-K–8 Visual Art and 5-8 Drama. Angela has taught kindergarten and every grade from 3 through 8 in her 18 years of experience in the classroom, but she loves 5-6 the best. She attended the University of Illinois for her BFA in Theater and she holds a Masters of Arts in Education, Curriculum, and Instruction from Bradley University, also in Illinois, her home state. Before becoming a teacher, she spent several years working in outreach education and as a Y.E.S. facilitator at Walt Disney World. She has studied at The Globe Theatre in London, and been a Fellow with the San Diego Area Writing Project. People here at CTL first met Angela in 2012, when she traveled to Maine to take part in our intern program, learning from Nancie and Glenn. Angela loves teaching Shakespeare through performance. She has taught at La Jolla Country Day, San Diego Cooperative Charter, and The Children’s Primary School prior to CTL. In addition, Angela has served as a social-services volunteer in Ghana, Peru, Russia, and China. 
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1785856518/unnamed_42_b3cjcg.jpg)
+
+**Rob Edson** is CTL's teacher of 5-8 Math and Science. Rob joins CTL in September of 2026 after three years teaching sixth grade math in Florida. Rob has spent the bulk of his career as a math teacher (grades 6-9) and administrator in New Hampshire. Rob is a runner and loves sports and coaching. He and his wife live in Windsor with their dog and have two adult children. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/stacy.faculty_nctjda.jpg)
 
-**Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 14 years of experience in the classroom. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. At CTL, she works as a part-time administrator in addition to her classroom roles. 
+**Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 15 years of experience in the classroom and has been at CTL since 2022. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/kate.faculty_t2lbyj.jpg)
 
 **Cate Molloy** enjoys being a helping teacher at CTL and working as the Aftercare Program Director. Cate is a graduate of the University of Vermont with a degree in elementary education. She spent many years teaching kindergarten and first grade and most recently working in a library. Her enthusiasm for being a part of the CTL community is based in the lovely way that what she has loved about both worlds combine at CTL. She lives in Hallowell and, when not trying to see every sturgeon that might swim by on the Kennebec, can be found swimming laps, taking walks, hitting up her local library for books, and trying to return them on time.
 
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732156675/10755-CTL_240925_llemax.jpg)
-
-**Kennedy Hathaway** joined CTL as a helping teacher in 2024. She is a graduate of Husson University with a degree in elementary education and a focus in science. During college, Kennedy interned at the Challenger Learning Center where she worked alongside NASA scientists, engineers, astronauts, and teachers. In her free time she likes to spend time with her family, chase her tortoises around, read, write, garden, bake, craft, and explore. This is Kennedy’s first year teaching, and she is excited to jump in and learn!
+![]()
 
 **Erika Mathieson** came to CTL as an assistant art teacher and helping teacher in January of 2025. She graduated in 2024 from Wheaton College with a degree in visual arts and psychology. She hails from Round Pond and spends her summers at their sailing camp, the Granite Hall Store, and Round Pond Coffee. Erika’s passion is ceramics and she brings her love of all things art-related to CTL’s students each day. 
 
@@ -43,6 +45,6 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Kate_3_s0o62m.png)
 
-**Kaity Newell** is CTL’s music teacher for grades Pre-K--4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for over 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently.
+**Kaity Newell** is CTL’s music teacher for grades Pre-K–4. She earned a B.A. in English Literature from the University of Wales, Swansea, where she also pursued informal studies in folk music of the British Isles, travelling to Ireland, Shetland, and Brittany. She moved to Maine in 1979 and has been CTL’s music teacher for over 27 years. Kaity is cofounder of Maine Fiddle Camp, Maine Country Dance Fiddle Workshop, The Ladybugs folk music group with Sharon Pyne, and Seacoast Community Orchestra, and is on the faculty of New England Suzuki Institute. She founded the strings program at Great Salt Bay Community School in Damariscotta, and teaches there currently.
 
 **Misha Barker** has been with Hearty Roots since 2017, when she joined the team as a seasonal program facilitator supporting outdoor youth programs. In 2024, Misha stepped into a year-round role as Youth Program Manager, where she now leads school partnerships and seasonal camps. Over the years, she has loved expanding Hearty Roots’ programming to reach more schools and communities in a variety of settings, while continuing to spend as much time as possible outdoors with youth. In addition to her youth development work at Hearty Roots, Misha is a professional photographer, and can often be found traveling with her camera in hand.
