@@ -1,10 +1,12 @@
 ---
 path: press
-date: 2026-06-11T14:33:18.356Z
+date: 2026-08-04T15:18:46.255Z
 title: CTL in the News
 sort: 9
 nav: about
 ---
+8/4/2026 - [CTL Students Win Poetry Awards in Annual Nationwide Contest](https://www.boothbayregister.com/article/ctl-students-win-poetry-awards-annual-nationwide-contest/272988)
+
 6/10/2026 - [CTL Students Are Honored at Eighth-Grade Graduation Ceremony](https://www.boothbayregister.com/article/ctl-students-are-honored-eighth-grade-graduation-ceremony/271143)
 
 6/2/2026 - [](https://www.boothbayregister.com/article/ctl-students-are-honored-eighth-grade-graduation-ceremony/271143)[](https://www.boothbayregister.com/article/ctl-students-are-honored-eighth-grade-graduation-ceremony/271143)[CTL Students Win Poetry Awards in Annual Contest](https://www.boothbayregister.com/article/ctl-students-win-poetry-awards-annual-contest/270808)
