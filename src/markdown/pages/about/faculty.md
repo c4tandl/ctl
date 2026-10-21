@@ -1,17 +1,17 @@
 ---
 path: faculty
-date: 2026-08-04T15:17:06.956Z
+date: 2026-10-21T18:27:18.032Z
 title: Faculty
 sort: 4
 nav: about
 ---
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669912457/faculty%20and%20staff%20photos/Haley_2021_ipw4lr.jpg)
 
-**Haley Barnes** joined CTL in 2021 as a helping teacher. In 2024, Haley helped launch the school's inaugural Pre-K--K class as the assistant teacher. She has spent over ten years working with children in different roles. She spent time as a preschool teacher, Behavioral Health Professional (BHP), and many years as a nanny. She graduated from nearby Morse High School, and moved on to Suffolk University in Boston. She returned to Maine, became a mother, and finished her degree. She graduated from Walden University, Summa Cum Laude, with a Bachelor of Science degree in Health Studies with a focus in Child Development. Haley believes that each domain of health must be nurtured in children. Social-emotional development in addition to cognitive development are foci that she enjoys supporting for CTL's students.
+**Haley Barnes** joined CTL in 2021 as a helping teacher. In 2024, Haley helped launch the school's inaugural pre-kindergarten program. She has spent over fifteen years working with children in different roles. She spent time as a preschool teacher, Behavioral Health Professional (BHP), and many years as a nanny. She graduated from nearby Morse High School, and moved on to Suffolk University in Boston. She returned to Maine, became a mother, and finished her degree. She graduated from Walden University, Summa Cum Laude, with a Bachelor of Science degree in Health Studies with a focus in Child Development. Haley believes that each domain of health must be nurtured in children. Social-emotional development in addition to cognitive development are foci that she enjoys supporting for CTL's students.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1663681672/Jenn_3_sdbm31.png)
 
-**Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jennifer stepped into a new role as the  Grade 1-2 teacher. In 2023, she transitioned to leading CTL's kindergarten, and in 2024, Jennifer helped launch the school's inaugural Pre-K--K class. Jennifer has always enjoyed teaching the reading and writing programs in grades Pre-K--4, along with instruction in cooking and math. She is a skilled chef and runs Kneaded Provisions in South Bristol in the summer.
+**Jennifer Keegan** has been with CTL since 2006, when her four children joined the school and she started as a helping teacher. In 2020, Jennifer stepped into a new role as the  Grade 1-2 teacher. In 2023, she transitioned to leading CTL's kindergarten, and in 2024, Jennifer helped launch the school's inaugural Pre-K--K class. Jennifer has always enjoyed teaching the reading and writing programs in grades Pre-K--4, along with instruction in cooking and math. She is a skilled chef and bakes for Island Grocery in South Bristol in the summer.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1732132917/11252-CTL_240925_rjxk96.jpg)
 
@@ -23,7 +23,7 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/angela.faculty_ikpbgv.jpg)
 
-**Angela Lathem-Ballard** is CTL’s teacher of 5-6 Humanities and the school’s Arts Specialist since 2022, teaching Pre-K–8 Visual Art and 5-8 Drama. Angela has taught kindergarten and every grade from 3 through 8 in her 18 years of experience in the classroom, but she loves 5-6 the best. She attended the University of Illinois for her BFA in Theater and she holds a Masters of Arts in Education, Curriculum, and Instruction from Bradley University, also in Illinois, her home state. Before becoming a teacher, she spent several years working in outreach education and as a Y.E.S. facilitator at Walt Disney World. She has studied at The Globe Theatre in London, and been a Fellow with the San Diego Area Writing Project. People here at CTL first met Angela in 2012, when she traveled to Maine to take part in our intern program, learning from Nancie and Glenn. Angela loves teaching Shakespeare through performance. She has taught at La Jolla Country Day, San Diego Cooperative Charter, and The Children’s Primary School prior to CTL. In addition, Angela has served as a social-services volunteer in Ghana, Peru, Russia, and China. 
+**Angela Lathem-Ballard** is CTL’s teacher of 5-6 Humanities and the school’s Arts Specialist since 2022, teaching 3–8 Visual Art and 5-8 Drama. Angela has taught kindergarten and every grade from 3 through 8 in her 20-plus years of experience in education, but she loves 5-6 the best. She attended the University of Illinois for her BFA in Theater and she holds a Masters of Arts in Education, Curriculum, and Instruction from Bradley University, also in Illinois, her home state. Before becoming a teacher, she spent several years working in outreach education and as a Y.E.S. facilitator at Walt Disney World. She has studied at The Globe Theatre in London, and been a Fellow with the San Diego Area Writing Project. People here at CTL first met Angela in 2012, when she traveled to Maine to take part in our intern program, learning from Nancie and Glenn. Angela loves teaching Shakespeare through performance. She has taught at La Jolla Country Day, San Diego Cooperative Charter, and The Child’s Primary School prior to CTL. In addition, Angela has served as a social-services volunteer in Ghana, Peru, Russia, and China. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1785856518/unnamed_42_b3cjcg.jpg)
 
@@ -31,7 +31,7 @@ nav: about
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867927/faculty%20and%20staff%20photos/stacy.faculty_nctjda.jpg)
 
-**Stacey Adams** specializes in writing, reading and social studies instruction and has taught students in grades 5-8; she has 15 years of experience in the classroom and has been at CTL since 2022. She attended Berkeley for her undergraduate degrees in philosophy and French and then went on to Columbia, earning her masters from Teachers College in 2008. Before leading CTL’s 7-8 class in humanities, Stacey held a variety of roles at KIPP: Summit Academy in Oakland, CA. She was named Teacher of the Year there in 2017. She served as Assistant Principal and Interim Principal in addition to teaching. 
+**Stacey Adams,** an educator with over 15 years experience, joined CTL's faculty in 2022. As CTL's 7th/8th grade humanities teacher, Stacey specializes in reading, writing, and history instruction, but she has worked outside the classroom as an administrator and an instructional coach at various times during her career. She attended UC Berkeley for her undergraduate degrees in philosophy and French language and literature and Columbia University's Teachers College for her master's degree. Stacey also completed a fellowship in history education through the UC Berkeley Graduate School for Education. Stacey was awarded Teacher of the Year at her previous school in 2017. When she is not teaching, Stacey enjoys reading and writing, making pottery, maintaining a daily yoga practice, and spending time with loved ones.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1665867926/faculty%20and%20staff%20photos/kate.faculty_t2lbyj.jpg)
 
@@ -39,7 +39,7 @@ nav: about
 
 ![]()
 
-**Erika Mathieson** came to CTL as an assistant art teacher and helping teacher in January of 2025. She graduated in 2024 from Wheaton College with a degree in visual arts and psychology. She hails from Round Pond and spends her summers at their sailing camp, the Granite Hall Store, and Round Pond Coffee. Erika’s passion is ceramics and she brings her love of all things art-related to CTL’s students each day. 
+**Erika Mathieson** is CTL's teacher of pre-k through grade 2 art and is also a helping teacher in grades 1-4. She graduated in 2024 from Wheaton College with a degree in visual arts and psychology. She hails from Round Pond and spends her summers at their sailing camp, the Granite Hall Store, and Round Pond Coffee. Erika’s passion is ceramics and she brings her love of all things art-related to CTL’s students each day. 
 
 **Kariska Puchalski** is a CTL helping teacher, and has been a member of the CTL community for a number of years. She spent six years working at Juniper Hill School, a place-based, outdoor school. She brings her life experience of living on an island and a houseboat community, working in the natural foods industry, and as a designer/maker of jewelry and needle felting pieces. 
 
