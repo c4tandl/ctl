@@ -5,8 +5,8 @@ color: green
 enabled: true
 pages:
   - home
-date: 2026-07-06T15:26:25.855Z
+date: 2026-10-26T14:33:00.426Z
 ---
-CTL currently has openings for the 2026-27 school year in kindergarten, second grade, third grade, and fifth grade.
+CTL's fall open house is on Sunday, November 8, from 3:30-5:00. 
 
 Please visit the [Admissions](https://c-t-l.netlify.app/admissions/admissions-process/?all=true) page for more information or to apply, or reach out to Head of School Katy Inman (katy@c-t-l.org) to schedule a tour.
