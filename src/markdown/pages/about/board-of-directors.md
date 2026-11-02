@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2026-08-04T15:11:24.622Z
+date: 2026-11-02T19:43:24.379Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -14,8 +14,6 @@ Originally from Copenhagen, Denmark, Pia moved in 1983 to the US and in 2000 to 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1785856250/Aura_Photo_zrachp_eyc6yz.jpg)
 
-
-
 **Aura Doak**, Co-President[](http://c-t-l.org/rob-2/)\
 Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families.
 
@@ -23,8 +21,6 @@ Aura was born and raised in Boston, Massachusetts and attended college at Wentwo
 
 **Peter Branch**, Treasurer\
 Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been coming to Maine every summer of his life to help his family run Linekin Bay Resort which they owned from 1909 until 2015. He and his wife, Paula, now live in Boothbay year round. In his winter life, he was the head of independent pre-k through grade 12 schools for 37 years. These schools included the Dalton School in New York City, Woodmere Academy in Woodmere, Long Island, Holland Hall School in Tulsa, Oklahoma, Georgetown Day School in Washington, D.C., and the Rocky Hill School in East Greenwich, Rhode Island. Peter also did a 2 year stint as Executive Director of The Washington Ballet. During his educational career he spoke at numerous conferences and served on association boards, including the board of the National Association of Episcopal Schools, of which he was president. Peter is honored to have been a member of the board of the Center for Teaching and Learning since 2022. He has long admired CTL for the school's leadership in elementary and middle school education.
-
-![]()
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913161/faculty%20and%20staff%20photos/Josh_Manahan_Bio_Photo_xu8jad.jpg)
 
