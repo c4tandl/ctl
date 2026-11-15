@@ -1,6 +1,6 @@
 ---
 path: board-of-directors
-date: 2026-11-02T19:43:24.379Z
+date: 2026-11-15T22:07:15.477Z
 title: Board of Directors
 sort: 6
 nav: about
@@ -9,18 +9,23 @@ The Center for Teaching and Learning is a non-profit, independent school governe
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913161/faculty%20and%20staff%20photos/Pia_Neilson_Bio_Photo_yte07p.jpg)
 
-**Pia Neilson**, Co-President\
+**Pia Neilson**, President\
 Originally from Copenhagen, Denmark, Pia moved in 1983 to the US and in 2000 to Arrowsic, Maine, where she lives with her husband Will. She is a retired entrepreneur and also a Commissioner of the Bath Housing Authority. Her youngest, Amelia, graduated from CTL in 2009 after nine wonderful years. Coming back to CTL after a decade away, Pia is impressed and gratified to see the same joyful engagement on the part of today’s students, faculty, and parents that she experienced twenty years prior, and she is delighted to help sustain that experience for generations of children and parents to come. 
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1785856250/Aura_Photo_zrachp_eyc6yz.jpg)
 
-**Aura Doak**, Co-President[](http://c-t-l.org/rob-2/)\
+**Aura Doak**, Vice President[](http://c-t-l.org/rob-2/)\
 Aura was born and raised in Boston, Massachusetts and attended college at Wentworth Institute of Technology in Boston where she received her Architecture degree. Upon graduating from college, Aura continued to live and work in Boston before moving to Maine in 2014. Aura continues to practice architecture in Bath where she lives with her husband, Nathanael, and her sons Oliver and Damien, who attend CTL. Aura loves seeing how CTL nourishes its students, enriches their confidence and growth, and shares with them the toolbox needed to learn. As a member of the Board, Aura looks to support and listen to the CTL teachers, staff, and families.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1768494248/IMG_5587_og7hmd.jpg)
 
 **Peter Branch**, Treasurer\
 Peter is the proud grandfather of Jackie Branch, Class of 2026. He has been coming to Maine every summer of his life to help his family run Linekin Bay Resort which they owned from 1909 until 2015. He and his wife, Paula, now live in Boothbay year round. In his winter life, he was the head of independent pre-k through grade 12 schools for 37 years. These schools included the Dalton School in New York City, Woodmere Academy in Woodmere, Long Island, Holland Hall School in Tulsa, Oklahoma, Georgetown Day School in Washington, D.C., and the Rocky Hill School in East Greenwich, Rhode Island. Peter also did a 2 year stint as Executive Director of The Washington Ballet. During his educational career he spoke at numerous conferences and served on association boards, including the board of the National Association of Episcopal Schools, of which he was president. Peter is honored to have been a member of the board of the Center for Teaching and Learning since 2022. He has long admired CTL for the school's leadership in elementary and middle school education.
+
+![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1695839147/JHT_hecqao.jpg)
+
+**Jessica Tindal**, Clerk\
+Jessica Tindal was raised in Georgia and studied in Tennessee before finding her forever home in Maine in 2011. She has since lived in Boothbay with her husband Jonathan and their two girls, Olivia and Cora. Olivia joined CTL’s kindergarten class in 2020, and Cora followed in the fall of 2023. Jessica has been awed by the genuine warmth of the CTL community and the way her daughters have developed such a fast and deep love of learning. She is grateful for the opportunity to transform that sense of community and dedication into meaningful action for the school.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1669913161/faculty%20and%20staff%20photos/Josh_Manahan_Bio_Photo_xu8jad.jpg)
 
@@ -31,11 +36,6 @@ Josh is parent to Kelly, who began his CTL career as a kindergartener in 2016. J
 
 [](http://c-t-l.org/rob-2/)**Katy Papagiannis**\
 Katy’s children, Madoka, class of 2023, and Ryo, class of 2026, have attended CTL since kindergarten and she feels grateful every day for the opportunity to share the joy that both children have found at CTL: Madoka’s dedication to reading, writing, art, and math and Ryo’s adventures with all his school subjects and recess. Katy is a graphic designer at the American Institute for Research, working remotely from Maine since 2008. As a Board member since 2021, she has brought her experience with visual and marketing communications to help share CTL's mission with the local and broader community.
-
-![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1695839147/JHT_hecqao.jpg)
-
-**Jessica Tindal**\
-Jessica Tindal was raised in Georgia and studied in Tennessee before finding her forever home in Maine in 2011. She has since lived in Boothbay with her husband Jonathan and their two girls, Olivia and Cora. Olivia joined CTL’s kindergarten class in 2020, and Cora followed in the fall of 2023. Jessica has been awed by the genuine warmth of the CTL community and the way her daughters have developed such a fast and deep love of learning. She is grateful for the opportunity to transform that sense of community and dedication into meaningful action for the school.
 
 ![](https://res.cloudinary.com/center-for-teaching-learning/image/upload/v1692289297/cid_4E0E0EAF-E0B8-450C-8D92-8D472EBF1E9C_hr60t6.jpg)
 
